@@ -1,0 +1,28 @@
+{
+  "id": 4355,
+  "title": "Bandgap engineering of germanene for gas sensing applications",
+  "Abstract": "Gas sensors are used to detect gas components in human breath to diagnose diseases, such as cancers. However, choosing suitable two-dimensional materials for gas sensors is a challenge. Germanene can be a good candidate because of its outstanding electronic and structural properties. Based on the density functional theory calculations with various schemes, such as PBE + vdW-DF2, HSE06 + PBE, and HSE06 + vdW-DF2, we elucidated the structural and electronic properties of germanene substrates (perfect, vacancy-1, and vacancy-2) while adsorbing hepatocellular carcinoma-related volatile organic compounds (VOCs), i.e., acetone, 1,4-pentadiene, methylene chloride, phenol, and allyl methyl sulfide. These gases have been selected for investigation because of their most frequent occurence in diagnosing the disease. We found that vacancy substrates enhanced the adsorption strength of the VOCs compared to the perfect one, where the phenol adsorbed most strongly and exhibited the most profound influence on the structural deformation of the substrates over the other VOCs. Besides, the adsorbed VOCs significantly modified the energy bandgap of the considered germanene substrates. In particular, the gases, except allyl methyl sulfide, vanished the bandgap of the vacancy-1 germanene and converted this substrate from a semiconductor to a metal, while they widened the bandgap of the vacancy-2 structure compared to the isolated case. Therefore, the perfect and vacancy-2 germanene sheets could maintain their semiconducting state upon gas adsorption, implying that these substrates may be suitable candidates for gas sensing applications. The nature of the interaction between the VOCs and the germanene substrates is a physical adsorption with a weak charge exchange, which mainly comes from the contribution of the pz orbital of the VOCs and the pz orbital of Ge.",
+  "Disease_List": [
+    "hepatocellular carcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'hepatocellular carcinoma-related volatile organic compounds (VOCs)' indicating a specific disease name, hepatocellular carcinoma, which is a type of liver cancer. Although the abstract also mentions 'cancers' in general, the specific disease named is hepatocellular carcinoma.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

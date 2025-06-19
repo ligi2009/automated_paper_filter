@@ -1,0 +1,204 @@
+{
+  "id": 5956,
+  "title": "Graphene-Doped Tin Oxide Nanofibers and Nanoribbons as Gas Sensors to Detect Biomarkers of Different Diseases through the Breath",
+  "Abstract": "This work presents the development of tin oxide nanofibers (NFs) and nanoribbons (NRs) sensors with graphene as a dopant for the detection of volatile organic compounds (VOCs) corresponding to different chronic diseases (asthma, chronic obstructive pulmonary disease, cystic fibrosis or diabetes). This research aims to determine the ability of these sensors to differentiate between gas samples corresponding to healthy people and patients with a disease. The nanostructures were grown by electrospinning and deposited on silicon substrates with micro-heaters integrated. The morphology of NFs and NRs was characterized by Scanning Electron Microscopy (SEM). A gas line was assembled and programmed to measure a wide range of gases (ethanol, acetone, NO and CO) at different concentrations simulating human breath conditions. Measurements were made in the presence and absence of humidity to evaluate its effect. The sensors were able to differentiate between the concentrations corresponding to a healthy person and a patient with one of the selected diseases. These were sensitive to biomarkers such as acetone and ethanol at low operating temperatures (with responses above 35%). Furthermore, CO and NO response was at high temperatures (above 5%). The sensors had a rapid response, with times of 50 s and recovery periods of about 10 min.",
+  "Disease_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease",
+    "cystic fibrosis",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names: asthma, chronic obstructive pulmonary disease, cystic fibrosis, and diabetes. These are clearly identified as chronic diseases related to the detection of volatile organic compounds using the developed sensors.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease",
+    "cystic fibrosis",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "cystic fibrosis": [
+      {
+        "ui": "C0010674",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010674",
+        "name": "Cystic Fibrosis",
+        "mesh_id": "D003550"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "tin oxide",
+    "graphene",
+    "ethanol",
+    "acetone",
+    "NO",
+    "CO"
+  ],
+  "compound_CID": [
+    {
+      "tin oxide": "None",
+      "graphene": 5462310,
+      "ethanol": 702,
+      "acetone": 180,
+      "NO": 24822,
+      "CO": 104730
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "tin oxide_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of tin oxide nanofiber and nanoribbon sensors doped with graphene for detecting volatile organic compounds related to various chronic diseases, including asthma. However, the relationship is based on the use of tin oxide as a sensor material to detect biomarkers in breath samples, not a direct causal or pathological relationship between tin oxide and asthma. There is no evidence in the abstract that tin oxide causes, exacerbates, or is otherwise directly related to asthma as a disease. The compound is used as a tool for detection rather than being implicated in the disease itself."
+      },
+      "tin oxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of tin oxide nanofibers and nanoribbons as sensors doped with graphene to detect volatile organic compounds related to chronic diseases, including chronic obstructive pulmonary disease (COPD). However, the tin oxide compound itself is used as a sensor material rather than being implicated as a cause or direct factor in COPD. The study focuses on detecting biomarkers in breath samples to differentiate between healthy individuals and patients with diseases such as COPD, but does not provide evidence of a pathological or causal relationship between tin oxide exposure and COPD."
+      },
+      "tin oxide_cystic_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of tin oxide nanofiber and nanoribbon sensors doped with graphene for detecting volatile organic compounds related to various chronic diseases, including cystic fibrosis. However, the relationship is based on the use of tin oxide as a sensor material to detect biomarkers in breath samples, not a direct chemical or pathological relationship between tin oxide and cystic fibrosis. There is no evidence in the abstract that tin oxide causes, treats, or is otherwise biologically related to cystic fibrosis; rather, it is used as a component in diagnostic sensor technology."
+      },
+      "tin oxide_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of tin oxide nanofiber and nanoribbon sensors doped with graphene to detect volatile organic compounds (VOCs) related to various chronic diseases, including diabetes. However, the relationship is based on the sensor's ability to detect biomarkers (such as acetone and ethanol) in breath samples that may indicate the presence of diabetes, rather than a direct chemical or pathological relationship between tin oxide and diabetes. Tin oxide serves as a material for the sensor platform, not as a causative or therapeutic agent related to diabetes. Therefore, there is no clear direct relationship between tin oxide itself and diabetes, only its application in detecting disease-related biomarkers."
+      }
+    },
+    {
+      "graphene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of graphene as a dopant in tin oxide nanofiber and nanoribbon sensors designed to detect volatile organic compounds (VOCs) related to various chronic diseases, including asthma. However, the relationship is in the context of graphene being part of a sensor system to detect biomarkers associated with asthma, not a direct chemical or pathological relationship between graphene and asthma itself. There is no evidence in the abstract that graphene causes, treats, or otherwise directly relates to asthma as a disease. The role of graphene is limited to enhancing sensor performance for detecting disease-related biomarkers."
+      },
+      "graphene_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of graphene as a dopant in tin oxide nanofiber and nanoribbon sensors designed to detect volatile organic compounds (VOCs) related to various chronic diseases, including chronic obstructive pulmonary disease (COPD). However, the relationship is in the context of graphene being part of a sensor material for detecting biomarkers associated with COPD, not as a causative or directly related compound to the disease itself. There is no evidence in the abstract that graphene causes, exacerbates, or is otherwise biologically linked to COPD. The graphene is used solely to enhance sensor performance for disease detection."
+      },
+      "graphene_cystic_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of sensors made from tin oxide nanofibers and nanoribbons doped with graphene to detect volatile organic compounds (VOCs) in breath samples. These VOCs correspond to various chronic diseases, including cystic fibrosis. The sensors, enhanced by graphene doping, were able to differentiate gas samples from healthy individuals and patients with cystic fibrosis, indicating a functional relationship between graphene-containing sensors and the disease. Although graphene is used as a dopant in the sensor material rather than a direct treatment or cause of cystic fibrosis, the abstract provides evidence that graphene plays a role in detecting biomarkers associated with cystic fibrosis."
+      },
+      "graphene_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of graphene as a dopant in tin oxide nanofiber and nanoribbon sensors designed to detect volatile organic compounds (VOCs) in human breath that correspond to various chronic diseases, including diabetes. However, the relationship is related to the use of graphene in sensor technology for detecting biomarkers associated with diabetes, not a direct biological or pathological relationship between graphene and diabetes itself. There is no evidence in the abstract that graphene causes, treats, or directly interacts with diabetes as a disease."
+      }
+    },
+    {
+      "ethanol_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors using tin oxide nanofibers and nanoribbons doped with graphene to detect volatile organic compounds, including ethanol, in breath samples to differentiate between healthy individuals and patients with diseases such as asthma. However, the abstract does not provide any direct evidence or discussion of a causal or pathological relationship between ethanol and asthma. Instead, ethanol is mentioned as one of the biomarkers detected by the sensors, not as a compound related to the cause, exacerbation, or treatment of asthma."
+      },
+      "ethanol_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors to detect volatile organic compounds, including ethanol, in breath samples to differentiate between healthy individuals and patients with various chronic diseases, including chronic obstructive pulmonary disease (COPD). However, it does not provide evidence of a direct relationship between ethanol and COPD. Instead, ethanol is mentioned as a biomarker detected by the sensors, but no causal or associative link between ethanol exposure or levels and COPD is discussed."
+      },
+      "ethanol_cystic_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors to detect volatile organic compounds, including ethanol, in breath samples to differentiate between healthy individuals and patients with various chronic diseases, including cystic fibrosis. However, it does not provide evidence of a direct relationship between ethanol and cystic fibrosis as a causative or associated factor. Instead, ethanol is mentioned as one of the biomarkers detected by the sensors to distinguish disease states, but no specific link or role of ethanol in cystic fibrosis pathology or diagnosis is established."
+      },
+      "ethanol_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors that detect volatile organic compounds, including ethanol, to differentiate between healthy individuals and patients with certain chronic diseases such as diabetes. However, it does not provide evidence of a direct relationship between ethanol and diabetes as a disease. Instead, ethanol is mentioned as a biomarker detected by the sensors, but no causal or associative link between ethanol exposure or levels and diabetes is discussed."
+      }
+    },
+    {
+      "acetone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including acetone, in human breath samples to differentiate between healthy individuals and patients with chronic diseases such as asthma. The sensors showed sensitivity to acetone at low operating temperatures and could distinguish gas concentrations corresponding to disease states. This indicates that acetone is considered a biomarker related to asthma in the context of breath analysis, demonstrating a relationship between acetone levels and the disease."
+      },
+      "acetone_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including acetone, in breath samples to differentiate between healthy individuals and patients with chronic diseases such as chronic obstructive pulmonary disease (COPD). The sensors showed sensitivity to acetone at low operating temperatures and could distinguish gas concentrations corresponding to patients with COPD. This indicates an association between acetone levels in breath and COPD, supporting a relationship between the compound acetone and the disease chronic obstructive pulmonary disease."
+      },
+      "acetone_cystic_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including acetone, in human breath to differentiate between healthy individuals and patients with chronic diseases such as cystic fibrosis. The sensors showed sensitivity to acetone at concentrations corresponding to disease states, indicating that acetone is a biomarker related to cystic fibrosis in this context."
+      },
+      "acetone_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including acetone, which serve as biomarkers for various chronic diseases such as diabetes. The sensors differentiate gas samples from healthy individuals and patients with diseases, indicating that acetone levels in breath are associated with diabetes. Therefore, there is evidence of a relationship between acetone and diabetes as acetone is used as a biomarker to detect the disease."
+      }
+    },
+    {
+      "NO_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds, including NO, to differentiate between healthy individuals and patients with diseases such as asthma. However, it does not provide direct evidence or specific findings linking NO levels to asthma pathophysiology or diagnosis. The mention of NO is in the context of sensor response at high temperatures, without establishing a clear relationship between NO and asthma."
+      },
+      "NO_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds, including NO, to differentiate between healthy individuals and patients with chronic diseases such as chronic obstructive pulmonary disease (COPD). However, it does not provide direct evidence or specific findings linking NO levels to COPD or indicating a causal or diagnostic relationship. The mention of NO is in the context of sensor response at high temperatures, but no explicit relationship between NO and COPD is established in the abstract."
+      },
+      "NO_cystic_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including NO, in breath samples from patients with various chronic diseases, including cystic fibrosis. The sensors could differentiate gas concentrations between healthy individuals and patients with cystic fibrosis, indicating that NO levels are relevant biomarkers associated with this disease. Therefore, there is evidence of a relationship between NO and cystic fibrosis based on the sensor's ability to detect NO variations corresponding to the disease."
+      },
+      "NO_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds (VOCs), including NO, to differentiate between healthy individuals and patients with diseases such as diabetes. However, it does not provide direct evidence or specific findings linking NO levels to diabetes. The mention of NO is in the context of sensor response at high temperatures, but no explicit relationship between NO and diabetes is established in the abstract."
+      }
+    },
+    {
+      "CO_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds, including CO, to differentiate between healthy individuals and patients with diseases such as asthma. However, it does not provide direct evidence of a relationship between CO and asthma itself. Instead, CO is mentioned as one of the gases measured by the sensors at high temperatures, but no specific link or causal relationship between CO levels and asthma is established in the abstract."
+      },
+      "CO_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds, including CO, to differentiate between healthy individuals and patients with chronic diseases such as chronic obstructive pulmonary disease (COPD). However, it does not provide direct evidence or specific findings linking CO levels to COPD or indicating a causal or diagnostic relationship. The mention of CO is in the context of sensor response at high temperatures, but no explicit relationship between CO and COPD is established in the abstract."
+      },
+      "CO_cystic_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of sensors capable of detecting volatile organic compounds, including CO, in breath samples to differentiate between healthy individuals and patients with chronic diseases such as cystic fibrosis. The sensors showed measurable responses to CO concentrations that correspond to disease states, indicating that CO levels in breath can be associated with cystic fibrosis. Therefore, there is evidence of a relationship between CO and cystic fibrosis in the context of disease biomarker detection."
+      },
+      "CO_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of sensors detecting various volatile organic compounds (VOCs) including CO, to differentiate between healthy individuals and patients with chronic diseases such as diabetes. However, it does not provide specific evidence linking CO levels directly to diabetes. The sensors respond to CO at high temperatures, but the abstract emphasizes acetone and ethanol as biomarkers relevant to disease detection, without establishing a clear relationship between CO and diabetes."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds used or detected in the study, including tin oxide as the nanofiber material, graphene as a dopant, and gases such as ethanol, acetone, nitric oxide (NO), and carbon monoxide (CO) as target analytes for sensor detection."
+}

@@ -1,0 +1,56 @@
+{
+  "id": 5178,
+  "title": "Therapeutic Potential of Volatile Terpenes and Terpenoids from Forests for Inflammatory Diseases",
+  "Abstract": "Forest trees are a major source of biogenic volatile organic compounds (BVOCs). Terpenes and terpenoids are known as the main BVOCs of forest aerosols. These compounds have been shown to display a broad range of biological activities in various human disease models, thus implying that forest aerosols containing these compounds may be related to beneficial effects of forest bathing. In this review, we surveyed studies analyzing BVOCs and selected the most abundant 23 terpenes and terpenoids emitted in forested areas of the Northern Hemisphere, which were reported to display anti-inflammatory activities. We categorized anti-inflammatory processes related to the functions of these compounds into six groups and summarized their molecular mechanisms of action. Finally, among the major 23 compounds, we examined the therapeutic potentials of 12 compounds known to be effective against respiratory inflammation, atopic dermatitis, arthritis, and neuroinflammation among various inflammatory diseases. In conclusion, the updated studies support the beneficial effects of forest aerosols and propose their potential use as chemopreventive and therapeutic agents for treating various inflammatory diseases.",
+  "Disease_List": [
+    "respiratory inflammation",
+    "atopic dermatitis",
+    "arthritis",
+    "neuroinflammation"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as respiratory inflammation, atopic dermatitis, arthritis, and neuroinflammation when discussing the therapeutic potentials of certain compounds. These are specific disease conditions rather than general terms like 'disease' or 'illness', so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "atopic dermatitis",
+    "arthritis",
+    "neuroinflammation"
+  ],
+  "UMLS_search_results": {
+    "respiratory inflammation": [],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "arthritis": [
+      {
+        "ui": "C0003864",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003864",
+        "name": "Arthritis",
+        "mesh_id": "D001168"
+      }
+    ],
+    "neuroinflammation": [
+      {
+        "ui": "C5394393",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5394393",
+        "name": "Neuroinflammation",
+        "mesh_id": "D000090862"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general classes of compounds such as 'terpenes' and 'terpenoids' but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,108 @@
+{
+  "id": 3500,
+  "title": "Breathomics for Gastric Cancer Classification Using Back-propagation Neural Network",
+  "Abstract": "Breathomics is the metabolomics study of exhaled air. It is a powerful emerging metabolomics research field that mainly focuses on health-related volatile organic compounds (VOCs). Since the quantity of these compounds varies with health status, breathomics assures to deliver noninvasive diagnostic tools. Thus, the main aim of breathomics is to discover patterns of VOCs related to abnormal metabolic processes occurring in the human body. Classification systems, however, are not designed for cost-sensitive classification domains. Therefore, they do not work on the gastric carcinoma (GC) domain where the benefit of correct classification of early stages is more than that of later stages, and also the cost of wrong classification is different for all pairs of predicted and actual classes. The aim of this work is to demonstrate the basic principles for the breathomics to classify the GC, for that the determination of VOCs such as acetone, carbon disulfide, 2-propanol, ethyl alcohol, and ethyl acetate in exhaled air and stomach tissue emission for the detection of GC has been analyzed. The breath of 49 GC and 30 gastric ulcer patients were collected for the study to distinguish the normal, suspected, and positive cases using back-propagation neural network (BPN) and produced the accuracy of 93%, sensitivity of 94.38%, and specificity of 89.93%. This study carries out the comparative study of the result obtained by the single- and multi-layer cascade-forward and feed-forward BPN with different activation functions. From this study, the multilayer cascade-forward outperforms the classification of GC from normal and benign cases.",
+  "Disease_List": [
+    "gastric carcinoma",
+    "gastric ulcer"
+  ],
+  "Reason": "The abstract explicitly mentions 'gastric carcinoma (GC)' and 'gastric ulcer' as specific diseases being studied. These are specific disease names rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "gastric carcinoma",
+    "gastric ulcer"
+  ],
+  "UMLS_search_results": {
+    "gastric carcinoma": [
+      {
+        "ui": "C0699791",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699791",
+        "name": "Stomach Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "gastric ulcer": [
+      {
+        "ui": "C0038358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038358",
+        "name": "Gastric ulcer",
+        "mesh_id": "D013276"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "carbon disulfide",
+    "2-propanol",
+    "ethyl alcohol",
+    "ethyl acetate"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "carbon disulfide": 6348,
+      "2-propanol": 3776,
+      "ethyl alcohol": 702,
+      "ethyl acetate": 8857
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_gastric_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study in which volatile organic compounds (VOCs), including acetone, were measured in the exhaled air and stomach tissue emissions of patients with gastric carcinoma (GC) and gastric ulcer. The study aimed to classify GC cases based on these VOCs using neural network models, achieving high accuracy, sensitivity, and specificity. This indicates that acetone levels are related to the presence of gastric carcinoma and can be used as a biomarker for its detection, demonstrating a clear relationship between acetone and gastric carcinoma."
+      },
+      "acetone_gastric_ulcer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) including acetone in breathomics to classify gastric carcinoma (GC) and mentions that breath samples from both GC and gastric ulcer patients were collected. However, the focus is on distinguishing gastric carcinoma from normal and benign cases, and there is no specific evidence or mention of a direct relationship between acetone and gastric ulcer. The study does not provide data or conclusions linking acetone levels specifically to gastric ulcer disease."
+      }
+    },
+    {
+      "carbon disulfide_gastric_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds (VOCs) in exhaled air and stomach tissue emissions. Carbon disulfide is specifically mentioned as one of the VOCs determined in the breath samples of patients with GC. The study uses these VOCs, including carbon disulfide, to classify GC cases with high accuracy, sensitivity, and specificity. This indicates that carbon disulfide is related to gastric carcinoma in the context of being a biomarker or indicator used for detection and classification of the disease."
+      },
+      "carbon disulfide_gastric_ulcer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds (VOCs) including carbon disulfide in exhaled air and stomach tissue emissions. While the study includes breath samples from both gastric carcinoma and gastric ulcer patients, the focus is on classifying gastric carcinoma cases. There is no specific evidence or discussion in the abstract indicating a direct relationship between carbon disulfide and gastric ulcer disease. The compound is mentioned as part of the VOC profile analyzed for GC detection, but no clear link to gastric ulcer is established."
+      }
+    },
+    {
+      "2-propanol_gastric_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study analyzing volatile organic compounds (VOCs), including 2-propanol, in exhaled air and stomach tissue emissions for the detection of gastric carcinoma (GC). The presence and measurement of 2-propanol were part of the VOC profile used to distinguish GC patients from normal and benign cases with high accuracy, sensitivity, and specificity. This indicates that 2-propanol is related to gastric carcinoma in the context of breathomics as a biomarker for disease detection."
+      },
+      "2-propanol_gastric_ulcer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds (VOCs) including 2-propanol in exhaled air and stomach tissue emissions. While the study includes breath samples from both gastric carcinoma and gastric ulcer patients, the focus is on classifying gastric carcinoma from normal and benign cases. There is no specific evidence or mention of a direct relationship between 2-propanol and gastric ulcer in the abstract. The compound 2-propanol is analyzed in the context of detecting gastric carcinoma, not gastric ulcer."
+      }
+    },
+    {
+      "ethyl alcohol_gastric_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds (VOCs) in exhaled air, including ethyl alcohol. It specifically mentions the determination of ethyl alcohol among other VOCs in the breath and stomach tissue emissions of patients with GC. The study demonstrates that these VOCs, including ethyl alcohol, can be used to classify GC cases with high accuracy, sensitivity, and specificity. This indicates a relationship between ethyl alcohol levels in exhaled air and the presence of gastric carcinoma, supporting the use of ethyl alcohol as a biomarker in the detection and classification of GC."
+      },
+      "ethyl alcohol_gastric_ulcer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds including ethyl alcohol in exhaled air and stomach tissue emissions. Although breath samples from both gastric carcinoma and gastric ulcer patients were collected, the focus of the study and classification results pertain primarily to gastric carcinoma detection. There is no explicit evidence or discussion in the abstract indicating a direct relationship between ethyl alcohol and gastric ulcer. The compound ethyl alcohol is mentioned as part of the VOC profile analyzed for GC detection, but no specific association or causal link to gastric ulcer is described."
+      }
+    },
+    {
+      "ethyl acetate_gastric_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study in which volatile organic compounds (VOCs), including ethyl acetate, were measured in the exhaled air and stomach tissue emissions of patients with gastric carcinoma (GC). The study aimed to classify GC cases based on these VOCs using neural network models, achieving high accuracy, sensitivity, and specificity. This indicates that ethyl acetate is one of the compounds associated with the metabolic changes in GC patients and can be used as a biomarker for detecting gastric carcinoma, demonstrating a relationship between ethyl acetate and gastric carcinoma."
+      },
+      "ethyl acetate_gastric_ulcer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breathomics to detect gastric carcinoma (GC) by analyzing volatile organic compounds (VOCs) including ethyl acetate in exhaled air and stomach tissue emissions. While the study includes breath samples from both gastric carcinoma and gastric ulcer patients, the focus is on classifying gastric carcinoma from normal and benign cases. There is no specific evidence or mention in the abstract that directly links ethyl acetate to gastric ulcer or indicates a relationship between ethyl acetate levels and gastric ulcer disease. Therefore, based on the abstract, there is no clear relationship established between ethyl acetate and gastric ulcer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as volatile organic compounds (VOCs) analyzed in exhaled air and stomach tissue emission for the detection of gastric carcinoma (GC). These are distinct chemical substances identified by their specific names."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5400,
+  "title": "Volatile organic compounds in urban Lhasa: variations, sources, and potential risks",
+  "Abstract": "Lhasa is a typical high-altitude city with strong solar radiation and high background ozone levels. With the rapid development and urbanization, the emission of volatile organic compounds (VOCs) in Tibet has been increasing annually. However, VOCs activity and the impact on air quality and human health have scarcely been investigated. We conducted online measurement of VOCs in urban Lhasa during May 2019. The mean mixing ratio (with one standard deviation) of the total VOCs was 21.5 ± 18.6 ppb. Of the total VOCs, alkanes, alkenes, and aromatic hydrocarbons accounted for 57.7%, 20.9%, and 21.4%, respectively. On the basis of VOC atmospheric reactivity, the ozone formation potential (OFP) and hydroxyl radical loss rate (L OH ) were 91.7 ppb and 3.1 s−1, respectively. Alkenes accounted for the largest proportion of the OFP and L OH , followed by aromatic hydrocarbons. The results of correlation analysis on the benzene series (BTEX), and the similarity of the diurnal changes in CO, NOy, BTEX, and TVOC mixing ratios indicated that Lhasa city strongly affected by motor vehicle emissions. Source apportionments using positive matrix factorization (PMF) model further confirmed that traffic related emissions, including gasoline automobiles, diesel vehicles, and public transportation vehicles fueled with liquid natural gas contributed the most in total VOCs concentration (44.5%–50.2%), L OH (41.6%–46.8%) and OFP (47.4%–52.3%). Biomass combustion, mainly from the traditional biomass fuel in the plateau, was the second contributor to ambient VOCs (41.3%), L OH (26.4%), and OFP (29.7%), and existed a less variation in diurnal changes with a feature of regional background. Plants contributed only about 1.5% to the VOCs concentration but a relatively high (approximately 14.6%) L OH . The noncarcinogenic risk of BTEX did not exceed the hazard quotient value, but the carcinogenic risk of benzene was 4.47 × 10–6, indicating a potential risk.",
+  "Disease_List": [
+    "carcinogenic risk"
+  ],
+  "Reason": "The abstract explicitly mentions 'carcinogenic risk of benzene,' which relates to cancer, a specific disease. Although 'carcinogenic risk' is a risk factor rather than a disease name itself, it directly refers to the potential for causing cancer, a specific disease. Therefore, the classification is Y, with cancer implied by the carcinogenic risk mention.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "carcinogenic risk": []
+  },
+  "MRCONSO_search_results": {
+    "carcinogenic risk": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

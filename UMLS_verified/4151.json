@@ -1,0 +1,60 @@
+{
+  "id": 4151,
+  "title": "Identification of Volatile Markers of Colorectal Cancer from Tumor Tissues Using Volatilomic Approach",
+  "Abstract": "The human body releases numerous volatile organic compounds (VOCs) through tissues and various body fluids, including breath. These compounds form a specific chemical profile that may be used to detect the colorectal cancer CRC-related changes in human metabolism and thereby diagnose this type of cancer. The main goal of this study was to investigate the volatile signatures formed by VOCs released from the CRC tissue. For this purpose, headspace solid-phase microextraction gas chromatography-mass spectrometry was applied. In total, 163 compounds were detected. Both cancerous and non-cancerous tissues emitted 138 common VOCs. Ten volatiles (2-butanone; dodecane; benzaldehyde; pyridine; octane; 2-pentanone; toluene; p-xylene; n-pentane; 2-methyl-2-propanol) occurred in at least 90% of both types of samples; 1-propanol in cancer tissue (86% in normal one), acetone in normal tissue (82% in cancer one). Four compounds (1-propanol, pyridine, isoprene, methyl thiolacetate) were found to have increased emissions from cancer tissue, whereas eleven showed reduced release from this type of tissue (2-butanone; 2-pentanone; 2-methyl-2-propanol; ethyl acetate; 3-methyl-1-butanol; d-limonene; tetradecane; dodecanal; tridecane; 2-ethyl-1-hexanol; cyclohexanone). The outcomes of this study provide evidence that the VOCs signature of the CRC tissue is altered by the CRC. The volatile constituents of this distinct signature can be emitted through exhalation and serve as potential biomarkers for identifying the presence of CRC. Reliable identification of the VOCs associated with CRC is essential to guide and tune the development of advanced sensor technologies that can effectively and sensitively detect and quantify these markers.",
+  "Disease_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' and its abbreviation 'CRC' multiple times as the specific disease under investigation. The study focuses on detecting volatile organic compounds related to colorectal cancer tissue, indicating a clear reference to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "CRC": [
+      {
+        "ui": "C4050364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4050364",
+        "name": "Cytogenetic Complete Response",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C5401389",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5401389",
+        "name": "Conditionally Reprogrammed Cells",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

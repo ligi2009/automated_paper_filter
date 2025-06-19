@@ -1,0 +1,35 @@
+{
+  "id": 2106,
+  "title": "Determination of VOCs in Surgical Resected Tissues from Colorectal Cancer Patients by Solid Phase Microextraction Coupled to Gas Chromatography–Mass Spectrometry",
+  "Abstract": "Early diagnosis of colorectal cancer is crucial to increase the survival rates of the patients and breath analysis represents a promising non-invasive tool to obtain information on cancer-related variations on the human volatilome. A solid phase microextraction coupled to gas chromatography–mass spectrometry method for the determination of seven selected compounds, representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer, including benzaldehyde, benzoic acid, dodecane, ethylbenzene, octanal, tetradecane and toluene, was developed. All the extraction parameters were studied for both headspace and direct immersion sampling and the procedures fully validated. The potential of the approach was demonstrated by the time monitoring of the emission of the selected volatile organic compounds from the surgical resected colon mucosa tissues of colorectal cancer patients. Furthermore, the extraction and identification of thirty-one volatile organic compounds secreted by the same tissues was accomplished.",
+  "Disease_List": [
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' multiple times as the specific disease under study. This is a clearly named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

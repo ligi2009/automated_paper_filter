@@ -1,0 +1,35 @@
+{
+  "id": 4992,
+  "title": "Phlebotomus perniciosus response to volatile organic compounds of dogs and humans",
+  "Abstract": "The olfactory response of insect vectors such as phlebotomine sand flies is a key facet for investigating their interactions with vertebrate hosts and associated vector-borne pathogens. Such studies are mainly performed by assessing the electrophysiological response and the olfactory behaviour of these arthropods towards volatile organic compounds (VOCs) produced by hosts. Nonetheless, few studies are available for species of the subgenera Lutzomyia and Nyssomyia in South America, leaving a void for Old World sand fly species of the genus Phlebotomus. In this study, we evaluated the olfactory responses of Phlebotomus perniciosus, one of the most important vectors of Leishmania infantum in the Old World. To test the P. perniciosus behavioural response to VOCs, 28 compounds isolated from humans and dogs were assessed using electrophysiological (i.e., electroantennogram, EAG) and behavioural assays (i.e., Y-tube olfactometer). In the EAG trials, 14 compounds (i.e., acetic acid, nonanoic acid, 2-propanol, 2-butanol, pentanal, hexanal, nonanal, trans-2-nonenal, decanal, myrcene, p-cymene, verbenone, 2-ethyl-1-hexanol, and acetonitrile) elicited high antennal responses (i.e., ≥ 0.30 mV) in female sand flies, being those VOCs selected for the behavioural assays. From the 14 compounds tested in the Y-tube olfactometer, nonanal was significantly attractive for P. perniciosus females, whereas myrcene and p-cymene were significantly repellents (p < 0.05). The attraction indexes varied from 0.53 for nonanal (i.e., most attractive) to -0.47 to p-cymene (i.e., most repellent). Overall, our results shed light on the role of olfactory cues routing host seeking behaviour in P. perniciosus, with implications to develop sustainable sand fly monitoring as well as control in leishmaniasis endemic areas.",
+  "Disease_List": [
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'leishmaniasis' as a disease related to the sand fly vector Phlebotomus perniciosus, which is an important vector of Leishmania infantum. This specific disease name is clearly stated, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

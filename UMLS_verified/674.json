@@ -1,0 +1,44 @@
+{
+  "id": 674,
+  "title": "Indoor Air Quality and Thermal Comfort in Naturally Ventilated Low-Energy Residential Houses",
+  "Abstract": "The indoor environmental quality (IEQ) and occupant comfort are closely related. The current indoor environmental assessment includes four aspects, namely thermal comfort (TC), indoor air quality (IAQ), visual comfort (VC) and aural comfort (AC). IAQ, as the nature of air in an indoor environment with relation to the occupant health and comfort is not an easily defined concept. In a broad context, it is the result of complex interactions between building, building systems and people. Comparative risk studies performed by the United States Environmental Protection Agency (USEPA) ranked IAQ as one of the 5 top environmental risks to the public health. Over the past decades, exposure to indoor air pollutants increased due to a variety of factors including: construction of tightly sealed buildings, reduction of ventilation rates (for energy saving) and use of synthetic building materials and furnishings as well as chemically formulated personal care products, pesticides and household cleaners. The effect of chemical pollutants on the perceived IAQ was investigated in several studies. The volatile organic compounds (VOCs) were suspected to cause ‘‘sick-building’’ symptoms, like headache, eye and mucous membrane irritation, fatigue and asthmatic symptoms (Redlich et al. 1997). The WHO air quality guidelines exist for major ambient air pollutants such as nitrogen dioxide and ozone, a few organic pollutants including mainly chlorinated and aromatic hydrocarbons (World Health Organization, 2000). The International Agency of Cancer Research recently upgraded formaldehyde to the group 1, known human carcinogen (IARC, 2004). However, there are still inadequate data about health effects of other VOCs. The total amount of VOCs and TVOC was not proven to correlate with symptoms. Investigations of all types of indoor air pollutants for the general air quality monitoring and assessment are complicated. In many studies, it was suggested that the measurement and analysis of the indoor carbon dioxide (CO2) concentration could be useful for understanding the Indoor Air Quality (IAQ) and ventilation effectiveness. Healthy people can tolerate the CO2 level up to 10,000 ppm without serious health effects. An acceptable indoor CO2 level should be kept below 1000 ppm or 650 ppm above the ambient level in order to prevent any accumulation of associated human body odors. The indoor carbon dioxide is relatively easy to measure and its low level in the indoor air usually corresponds to a low level of VOCs.",
+  "Disease_List": [
+    "asthmatic symptoms",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatic symptoms' as a health effect related to volatile organic compounds (VOCs) exposure, which relates to asthma, a specific disease. It also refers to formaldehyde being classified as a known human carcinogen by the International Agency of Cancer Research, implying cancer as a specific disease. Therefore, specific disease names are mentioned, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthmatic symptoms": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

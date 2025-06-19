@@ -1,0 +1,103 @@
+{
+  "id": 2133,
+  "title": "A Plant Worthy of Further Study—Volatile and Non-Volatile Compounds of Portenschlagiella ramosissima (Port.) Tutin and Its Biological Activity",
+  "Abstract": "New and detailed data are presented on the phytochemical composition of the volatile and non-volatile organic compounds of the Mediterranean endemic species Portenschlagiella ramosissima (Port.) Tutin. Both the essential oil and hydrosol were obtained from the air-dried plant by hydrodistillation and analyzed by gas chromatography-mass spectrometry. The volatile compounds from the fresh and air-dried plants and from the hydrosol were isolated for the first time by headspace solid-phase microextraction using two fibres of different polarity. The benzene derivative group was the predominant group in all samples, with myristicin being the most abundant component of all. The non-volatile compounds of the methanol extract were analyzed by ultra-high-performance liquid chromatography–high-resolution mass spectrometry with electrospray ionisation, and three flavonoid glycosides, one anthocyanidin glycoside, and lipid derivatives were detected. Both the chemical composition and biological activities of this plant have been described in a very limited number of publications, making it an interesting source for further study. The antiphytoviral activity of the essential oil and hydrosol showed that both extracts significantly reduced the number of lesions on the leaves of local host plants infected with tobacco mosaic virus. Moderate antiproliferative activity of the methanol extract was detected in three cancer cell lines, cervical cancer cell line, human colon cancer cell line and human osteosarcoma cell line, using the MTS-based cell proliferation assay. Based on the results, we highlight this plant as a new source of bioactive compounds and natural phytotherapeutic agent that deserves further investigation.",
+  "Disease_List": [
+    "tobacco mosaic virus",
+    "cervical cancer",
+    "colon cancer",
+    "osteosarcoma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and disease-related conditions: 'tobacco mosaic virus' (a plant disease), and three types of cancer cell lines used in the study—'cervical cancer', 'human colon cancer', and 'human osteosarcoma'. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "tobacco mosaic virus",
+    "cervical cancer",
+    "colon cancer",
+    "osteosarcoma"
+  ],
+  "UMLS_search_results": {
+    "tobacco mosaic virus": [
+      {
+        "ui": "C0040333",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0040333",
+        "name": "Tobacco Mosaic Virus",
+        "mesh_id": "D014027"
+      }
+    ],
+    "cervical cancer": [
+      {
+        "ui": "C0302592",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0302592",
+        "name": "Cervix carcinoma",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C4048328",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4048328",
+        "name": "cervical cancer",
+        "mesh_id": "D002583"
+      },
+      {
+        "ui": "C0007847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007847",
+        "name": "Malignant tumor of cervix",
+        "mesh_id": "None"
+      }
+    ],
+    "colon cancer": [
+      {
+        "ui": "C0007102",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007102",
+        "name": "Malignant tumor of colon",
+        "mesh_id": "D003110"
+      },
+      {
+        "ui": "C0346629",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346629",
+        "name": "Malignant neoplasm of large intestine",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0699790",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699790",
+        "name": "Colon Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "osteosarcoma": [
+      {
+        "ui": "C0029463",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0029463",
+        "name": "Osteosarcoma",
+        "mesh_id": "D012516"
+      },
+      {
+        "ui": "C0694889",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0694889",
+        "name": "RB1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0585442",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0585442",
+        "name": "Osteosarcoma of bone",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

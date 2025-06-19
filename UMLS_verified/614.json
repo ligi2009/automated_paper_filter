@@ -1,0 +1,28 @@
+{
+  "id": 614,
+  "title": "Prediction of Natural Volatile Organic Compounds Emitted by Bamboo Groves in Urban Forests",
+  "Abstract": "Due to the COVID-19 outbreak, people in countries around the world including the United Kingdom, Denmark, Canada, and South Korea are seeking physiological and psychological healing by visiting forests as stay-at-home orders continue. NVOCs (natural volatile organic compounds), a major healing factor of forests, have several positive effects on human health. This study specifically researched the NVOC characteristics of bamboo groves. This study revealed that α-pinene, 3-carene, and camphene were observed to emit the most, and the largest amount of NVOC emitted was seen during the early morning and late afternoon within bamboo groves. Furthermore, NVOC emission was found to have normal correlations with temperature and humidity, and inverse correlations with solar radiation, PAR (photosynthetically active radiation), and wind speed. A regression analysis conducted to predict the effect of microclimate factors on NVOC emissions resulted in a regression equation with 82.9% explanatory power, finding that PAR, temperature, and humidity had a significant effect on NVOC emission prediction. In conclusion, this study investigated NVOC emission of bamboo groves, examined the relationship between NVOC emissions and microclimate factors, and derived a prediction equation of NVOC emissions to figure out bamboo groves’ forest healing effects. These results are expected to provide a basis for establishing more effective forest healing programs in bamboo groves.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19 outbreak,' which is a specific disease name. Although the rest of the abstract discusses general health effects and healing factors, COVID-19 is clearly identified as a disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

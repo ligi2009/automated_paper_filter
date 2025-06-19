@@ -1,0 +1,120 @@
+{
+  "id": 3037,
+  "title": "Effects of Emissions From Oriented Strand Board on the Development of Atopic Dermatitis Using Two Different Experimental Mouse Models",
+  "Abstract": "Atopic dermatitis (AD) is an allergic skin disease widespread in children, which later in life can predispose them to asthma. Oriented strand board (OSB), increasingly used in the construction industry, emits volatile organic compounds in the indoor air, some of which may exacerbate AD development in humans. The aim of this study was to evaluate the effects of OSB emissions on the development of AD and lung inflammation. Two different murine AD models, induced by calcipotriol or oxazolone, were exposed to higher‐ or lower‐emitting OSB throughout the experiments. Physiological, biochemical, and immunological parameters of skin disease development, as well as lung inflammatory parameters, were evaluated. Exposure to higher‐emitting OSB, characterised especially by high 3‐carene emissions, exacerbated some parameters of AD, such as skin barrier function and thickness, with accumulation of eosinophils and 15‐lipoxygenase (15‐LOX)‐driven mediators in both models, whereas IL‐4 or 5‐LOX‐positive cells were increased in only the calcipotriol or oxazolone model, respectively. In the lungs of calcipotriol‐treated mice, higher‐emitting OSB increased lung eosinophil recruitment. Exposure to lower‐emitting OSB had no or even beneficial effects on the skin or lungs of murine AD models. 3‐carene in OSB emissions, alone or in combination with other substances, may promote the development of AD and prime the lungs towards an allergic phenotype. Identification and quantification of potentially harmful emitting sources in indoor air may be important for AD prevention or control.",
+  "Disease_List": [
+    "Atopic dermatitis",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'Atopic dermatitis (AD)' as a specific allergic skin disease and also refers to 'asthma' as a related condition that AD can predispose to later in life. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Atopic dermatitis",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "Atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "calcipotriol",
+    "oxazolone",
+    "3-carene",
+    "15-lipoxygenase (15-LOX)",
+    "IL-4",
+    "5-lipoxygenase (5-LOX)"
+  ],
+  "compound_CID": [
+    {
+      "calcipotriol": 5288783,
+      "oxazolone": 1712094,
+      "3-carene": 26049,
+      "15-lipoxygenase (15-LOX)": "None",
+      "IL-4": "None",
+      "5-lipoxygenase (5-LOX)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "calcipotriol_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of calcipotriol to induce a murine model of atopic dermatitis (AD), indicating that calcipotriol is directly involved in the experimental study of AD. Although calcipotriol itself is not described as causing or exacerbating AD, it is used to induce the disease model, which implies a relationship between calcipotriol and AD in the context of research. The study evaluates the effects of OSB emissions on AD development in calcipotriol-induced AD models, showing that calcipotriol is relevant to the disease process under investigation."
+      },
+      "calcipotriol_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using murine models of atopic dermatitis (AD) induced by calcipotriol or oxazolone. It reports that in the lungs of calcipotriol-treated mice, exposure to higher-emitting OSB increased lung eosinophil recruitment, which is indicative of lung inflammation and an allergic phenotype. Since AD can predispose individuals to asthma and lung eosinophil recruitment is a hallmark of asthma-related inflammation, the findings suggest that calcipotriol treatment in combination with environmental exposure can prime the lungs towards an allergic phenotype related to asthma. Therefore, there is evidence of a relationship between calcipotriol and asthma in the context of this study."
+      }
+    },
+    {
+      "oxazolone_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using two murine models of atopic dermatitis (AD), one of which is induced by oxazolone. This indicates that oxazolone is used to induce or model AD in experimental settings. The study evaluates the effects of OSB emissions on these models, showing exacerbation of AD parameters in both models, including the oxazolone-induced one. Therefore, there is evidence of a relationship between oxazolone and atopic dermatitis, as oxazolone is directly involved in inducing the disease model."
+      },
+      "oxazolone_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes oxazolone as a compound used to induce a murine model of atopic dermatitis (AD) and evaluates the effects of OSB emissions on AD and lung inflammation. While the study notes lung inflammatory parameters and allergic phenotypes, it does not provide direct evidence linking oxazolone itself to asthma. The lung effects observed are related to exposure to OSB emissions, particularly 3-carene, rather than oxazolone. Therefore, there is no clear evidence from this abstract that oxazolone is related to asthma."
+      }
+    },
+    {
+      "3-carene_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that exposure to higher-emitting oriented strand board (OSB), characterized especially by high 3-carene emissions, exacerbated parameters of atopic dermatitis (AD) in murine models. Specifically, 3-carene emissions were associated with worsened skin barrier function, increased skin thickness, and accumulation of inflammatory mediators linked to AD. Additionally, 3-carene may promote AD development and prime the lungs towards an allergic phenotype, indicating a relationship between 3-carene exposure and AD exacerbation."
+      },
+      "3-carene_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to higher-emitting OSB, characterized especially by high 3-carene emissions, exacerbated parameters of atopic dermatitis (AD) and increased lung eosinophil recruitment in a murine AD model. Since AD can predispose individuals to asthma later in life and the study observed lung inflammation and eosinophil recruitment (markers associated with allergic lung conditions such as asthma), it suggests that 3-carene may prime the lungs towards an allergic phenotype. Therefore, there is evidence that 3-carene is related to asthma development or exacerbation through its role in promoting allergic lung inflammation."
+      }
+    },
+    {
+      "15-lipoxygenase (15-LOX)_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to higher-emitting OSB, characterized by high 3-carene emissions, exacerbated parameters of atopic dermatitis (AD) including skin barrier function and thickness, with accumulation of eosinophils and 15-lipoxygenase (15-LOX)-driven mediators in both murine AD models. This suggests that 15-LOX is involved in the inflammatory processes associated with AD development and exacerbation in these models, demonstrating a relationship between 15-LOX and atopic dermatitis."
+      },
+      "15-lipoxygenase (15-LOX)_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of 15-lipoxygenase (15-LOX) in the context of atopic dermatitis (AD) and lung inflammation in murine models exposed to emissions from oriented strand board (OSB). While 15-LOX-driven mediators accumulated in the skin disease models and lung eosinophil recruitment was increased in calcipotriol-treated mice exposed to higher-emitting OSB, the study does not explicitly link 15-LOX to asthma. The lung inflammation described is related to an allergic phenotype primed by OSB emissions, but asthma as a disease is not directly addressed or connected to 15-LOX in the abstract. Therefore, there is no clear evidence of a direct relationship between 15-LOX and asthma based on this abstract."
+      }
+    },
+    {
+      "IL-4_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that in murine models of atopic dermatitis (AD), exposure to higher-emitting OSB increased IL-4 positive cells in the calcipotriol-induced AD model. IL-4 is a cytokine involved in allergic inflammation, and its increase in the skin correlates with exacerbation of AD parameters such as skin barrier dysfunction and thickness. This suggests a relationship between IL-4 and the pathophysiology of AD, as IL-4 positive cells are elevated in the disease context described."
+      },
+      "IL-4_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of IL-4 in murine models of atopic dermatitis (AD) and mentions lung inflammation and eosinophil recruitment in the context of AD. While it notes that IL-4-positive cells increased in one AD model and that lung eosinophil recruitment was increased in calcipotriol-treated mice exposed to higher-emitting OSB, it does not explicitly link IL-4 to asthma. The lung inflammation described is related to an allergic phenotype primed by AD and OSB exposure, but asthma as a disease is not directly addressed in relation to IL-4 within this abstract. Therefore, there is no clear evidence from this abstract alone to establish a direct relationship between IL-4 and asthma."
+      }
+    },
+    {
+      "5-lipoxygenase (5-LOX)_Atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that in murine models of atopic dermatitis (AD), exposure to higher-emitting OSB increased the number of 5-LOX-positive cells in the oxazolone-induced AD model. This suggests that 5-lipoxygenase (5-LOX) is involved in the inflammatory response associated with AD development or exacerbation. Although the increase in 5-LOX-positive cells was model-specific, the presence of these cells in the context of AD and exposure to OSB emissions supports a relationship between 5-LOX and atopic dermatitis."
+      },
+      "5-lipoxygenase (5-LOX)_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to higher-emitting OSB increased IL-4 or 5-LOX-positive cells in murine models of atopic dermatitis, with lung eosinophil recruitment observed in calcipotriol-treated mice. Since atopic dermatitis can predispose individuals to asthma and the lung inflammation observed involves 5-LOX-positive cells, this suggests a relationship between 5-lipoxygenase (5-LOX) activity and asthma-related lung inflammation. Therefore, there is evidence supporting a relationship between 5-LOX and asthma."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds used to induce atopic dermatitis models (calcipotriol, oxazolone), a volatile organic compound emitted by OSB (3-carene), and enzymes or mediators involved in inflammatory pathways (15-lipoxygenase, 5-lipoxygenase) as well as the cytokine IL-4. These are specific named chemical substances relevant to the study."
+}

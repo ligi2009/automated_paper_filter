@@ -1,0 +1,69 @@
+{
+  "id": 1122,
+  "title": "High-selectivity terahertz metamaterial nitric oxide sensor based on ZnTiO3 perovskite membrane",
+  "Abstract": "Human exhaled gases contain a wide range of volatile organic compounds, offering the potential for detecting physiological, cardiovascular, and endocrine disorders. For instance, nitric oxide (NO) concentration can be indicative of chronic obstructive pulmonary disease. Analyzing exhaled gases provides a noninvasive approach to disease detection without posing any risks to individuals. While electronic sensors have been developed over the past two decades for NO detection at high temperatures, few studies have explored optical detection in the ultraviolet to visible light range, which may have adverse effects on the skin. In this study, we designed a split-ring resonator metamaterial tailored for operation within the terahertz (THz) frequency range. Specifically, the metamaterial was designed to resonate at the NO frequency of 0.257 THz. To enhance gas absorption capacity, we incorporated a composite film layer consisting of ZnTiO3 and reduced graphene oxide onto the metamaterial. By sintering ZnTiO3 powder at different temperatures, we achieved an increase in component sensitivity (ΔT/T) from 2% to 16.4%. Overall, the proposed metamaterial holds promise for both physical monitoring applications and the development of wearable electronic devices.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'chronic obstructive pulmonary disease' as an example of a disease that can be indicated by nitric oxide concentration in exhaled gases. This is a specific disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nitric oxide",
+    "NO",
+    "ZnTiO3",
+    "reduced graphene oxide"
+  ],
+  "compound_CID": [
+    {
+      "nitric oxide": 145068,
+      "NO": 24822,
+      "ZnTiO3": "None",
+      "reduced graphene oxide": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nitric oxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that nitric oxide (NO) concentration in human exhaled gases can be indicative of chronic obstructive pulmonary disease (COPD). This suggests a direct relationship between nitric oxide levels and the disease, supporting the use of NO detection as a noninvasive diagnostic tool for COPD."
+      }
+    },
+    {
+      "NO_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that nitric oxide (NO) concentration in human exhaled gases can be indicative of chronic obstructive pulmonary disease (COPD). This suggests a direct relationship between NO levels and the disease, supporting the use of NO as a biomarker for COPD detection."
+      }
+    },
+    {
+      "ZnTiO3_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of ZnTiO3 as part of a composite film layer in a metamaterial sensor designed to detect nitric oxide (NO) in exhaled gases, which is relevant for monitoring chronic obstructive pulmonary disease (COPD). However, the abstract does not provide any evidence that ZnTiO3 itself is related to the cause, treatment, or pathology of COPD. Instead, ZnTiO3 is used as a material component to enhance sensor sensitivity. Therefore, there is no clear relationship between ZnTiO3 as a compound and COPD as a disease based on the abstract."
+      }
+    },
+    {
+      "reduced graphene oxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of reduced graphene oxide as part of a composite film layer in a metamaterial designed to detect nitric oxide (NO) in exhaled gases, which can be indicative of chronic obstructive pulmonary disease (COPD). However, the abstract does not provide evidence that reduced graphene oxide itself is related to causing, treating, or directly affecting COPD. Instead, it is used as a material component to enhance sensor sensitivity for detecting a biomarker associated with COPD. Therefore, there is no clear relationship between reduced graphene oxide and COPD based on the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions nitric oxide (NO) as a target gas for detection, ZnTiO3 as a component of the composite film layer, and reduced graphene oxide as part of the composite film. These are specific chemical compounds named in the context of the study."
+}

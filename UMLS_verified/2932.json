@@ -1,0 +1,28 @@
+{
+  "id": 2932,
+  "title": "Detection of isoprene traces in exhaled breath by using photonic crystals as a biomarker for chronic liver fibrosis disease",
+  "Abstract": "\n Detection of blood-carried volatile organic compounds (VOCs) existing in the exhaled breath of human is an attractive research point for noninvasive diagnosis of diseases. In this research, we introduce a novel application of photonic crystals (PCs) for the detection of isoprene traces in the exhaled breath as a biomarker for liver fibrosis. This idea is introduced for the first time according to the best of our knowledge. The proposed sensor structure is a one-dimensional (1D) PC constructed from a multilayer stack of two dielectric materials covered with an air cavity layer filled with the dry exhaled breath (DEB) and a thin metallic layer of Au is attached on the top surface. Hence, the proposed sensor is configured as, [prism/Au/air cavity/(GaN/SiO2)10]. The transfer matrix method and the Drude model are adopted to calculate the numerical simulations and reflection spectra of the design. The essential key for sensing isoprene levels is the resonant optical Tamm plasmon (TP) states within the photonic bandgap. The obtained numerical results are promising such as high sensitivity (S) of 0.321 nm/ppm or 278720 nm/RIU. This technique can be reducing the risk of infection during the taking of blood samples by syringe. Also, it can prevent the pain of patients. Finally, this work opens the door for the detection of many diseases by analyzing the breaths of patients based on photonic crystals.",
+  "Disease_List": [
+    "liver fibrosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'liver fibrosis' as a specific disease for which isoprene traces in exhaled breath are used as a biomarker. Although it refers generally to 'diseases' in the context of breath analysis, the only specific disease named is liver fibrosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "liver fibrosis"
+  ],
+  "UMLS_search_results": {
+    "liver fibrosis": [
+      {
+        "ui": "C0239946",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0239946",
+        "name": "Fibrosis, Liver",
+        "mesh_id": "D008103"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": 5642,
+  "title": "A proof of concept study for the differentiation of SARS-CoV-2, hCoV-NL63, and IAV-H1N1 in vitro cultures using ion mobility spectrometry",
+  "Abstract": "Rapid, high-throughput diagnostic tests are essential to decelerate the spread of the novel coronavirus disease 2019 (COVID-19) pandemic. While RT-PCR tests performed in centralized laboratories remain the gold standard, rapid point-of-care antigen tests might provide faster results. However, they are associated with markedly reduced sensitivity. Bedside breath gas analysis of volatile organic compounds detected by ion mobility spectrometry (IMS) may enable a quick and sensitive point-of-care testing alternative. In this proof-of-concept study, we investigated whether gas analysis by IMS can discriminate severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from other respiratory viruses in an experimental set-up. Repeated gas analyses of air samples collected from the headspace of virus-infected in vitro cultures were performed for 5 days. A three-step decision tree using the intensities of four spectrometry peaks correlating to unidentified volatile organic compounds allowed the correct classification of SARS-CoV-2, human coronavirus-NL63, and influenza A virus H1N1 without misassignment when the calculation was performed with data 3 days post infection. The forward selection assignment model allowed the identification of SARS-CoV-2 with high sensitivity and specificity, with only one of 231 measurements (0.43%) being misclassified. Thus, volatile organic compound analysis by IMS allows highly accurate differentiation of SARS-CoV-2 from other respiratory viruses in an experimental set-up, supporting further research and evaluation in clinical studies.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'novel coronavirus disease 2019 (COVID-19)', which is a specific disease name. Other terms like SARS-CoV-2 and influenza A virus H1N1 refer to viruses rather than diseases directly, but COVID-19 is clearly named as a disease. Therefore, the classification is Y with COVID-19 listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names. Terms like 'volatile organic compounds' and 'ion mobility spectrometry' are general and not specific chemical names."
+}

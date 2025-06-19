@@ -1,0 +1,124 @@
+{
+  "id": 2629,
+  "title": "Air Quality Monitoring and Disease Prediction Using IoT and Machine Learning",
+  "Abstract": "Air quality prediction focuses mainly on these industrial areas. Industrial level usage of this project requires expensive sensors and huge amount of power supply. According to the World Health Organization (WHO), major air pollutants include particulate pollution, carbon monoxide (CO), Sulphur-di-oxide (SO2) and nitrogen oxide (NO2). In addition to these mentioned gases, PM or Particulate Matter and VOC or Volatile Organic Compounds components also cause serious threats. Long and short-term exposure to air suspended toxicants has a different toxicological impact on humans. Some of the diseases include asthma, bronchitis, some cardiovascular diseases, and long-term chronic diseases such as cancer, lung damage and in extreme cases diseases like pulmonary fibrosis. In this proposed system, an IoT prototype of a large-scale system which uses high-end and expensive sensors that measures the various air pollutants in the atmosphere is designed. Gas sensors are used in this prototype to record the concentration of the various pollutants that are encountered in the air on a regular basis. The framework uses stored data to train the model using multi-label classification with Random Forest algorithm, XG Boost algorithm in the local system. The real time data obtained using the different sensors is tested and the results obtained would be used to predict the possibilities of diseases such as asthma, lung cancer, ventricular hypertrophy etc. and the Air Quality Index (AQI) are calculated. In addition to this, preventive suggestions are also provided which is merely a cautionary message displayed on our LCD display to vacuum clean the room or mop the room thoroughly. KEYWORDMachine Learning (ML), Internet of Things(IoT),Carbon Monoxide(CO),Nitrogen Oxide (NO), Ammonia(NH3). Manuscript Received November 20, 2020 Darshini Rajasekar, Student, B.Tech, Department of Computer Science & Engineering, Panimalar Engineering College, Anna University, Chennai Tamil Nadu India. (email Id:darshud18@gmail.com) Aravind Sekar, Student, B.Tech, Department of Computer Science & Engineering, Coimbatore Institute of Technology, Anna University, Coimbatore Tamil Nadu India. Magesh Rajasekar, Student, B.Tech, Department of Computer Science & Engineering, Coimbatore Institute of Technology, Anna University, Coimbatore Tamil Nadu India.",
+  "Disease_List": [
+    "asthma",
+    "bronchitis",
+    "cardiovascular diseases",
+    "cancer",
+    "lung damage",
+    "pulmonary fibrosis",
+    "lung cancer",
+    "ventricular hypertrophy"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma, bronchitis, cardiovascular diseases, cancer, lung damage, pulmonary fibrosis, lung cancer, and ventricular hypertrophy. These are all named diseases rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "bronchitis",
+    "cardiovascular diseases",
+    "cancer",
+    "pulmonary fibrosis",
+    "lung cancer",
+    "ventricular hypertrophy"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "lung damage": [],
+    "pulmonary fibrosis": [
+      {
+        "ui": "C0034069",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034069",
+        "name": "Pulmonary Fibrosis",
+        "mesh_id": "D011658"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "ventricular hypertrophy": [
+      {
+        "ui": "C0340279",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0340279",
+        "name": "Ventricular hypertrophy",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

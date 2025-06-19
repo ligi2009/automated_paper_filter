@@ -1,0 +1,167 @@
+{
+  "id": 2504,
+  "title": "Effects of air pollution on the skin: A review",
+  "Abstract": "The increase in air pollution over the years has had major effects on the human skin. Various air pollutants such as ultraviolet radiation, polycyclic aromatic hydrocarbons, volatile organic compounds, oxides, particulate matter, ozone and cigarette smoke affect the skin as it is the outermost barrier. Air pollutants damage the skin by inducing oxidative stress. Although human skin acts as a biological shield against pro-oxidative chemicals and physical air pollutants, prolonged or repetitive exposure to high levels of these pollutants may have profound negative effects on the skin. Exposure to ultraviolet radiation has been associated with extrinsic skin aging and skin cancers. Cigarette smoke contributes to premature aging and an increase in the incidence of psoriasis, acne and skin cancers. It is also implicated in allergic skin conditions such as atopic dermatitis and eczema. Polyaromatic hydrocarbons are associated with extrinsic skin aging, pigmentation, cancers and acneiform eruptions. Volatile organic compounds have been associated with atopic dermatitis. Given the increasing levels of air pollution and its detrimental effects on the skin, it is advisable to use strategies to decrease air pollution.",
+  "Disease_List": [
+    "psoriasis",
+    "acne",
+    "skin cancers",
+    "atopic dermatitis",
+    "eczema"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as psoriasis, acne, skin cancers, atopic dermatitis, and eczema in relation to the effects of air pollution on the skin. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "psoriasis",
+    "acne",
+    "skin cancers",
+    "atopic dermatitis",
+    "eczema"
+  ],
+  "UMLS_search_results": {
+    "psoriasis": [
+      {
+        "ui": "C0033860",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0033860",
+        "name": "Psoriasis",
+        "mesh_id": "D011565"
+      }
+    ],
+    "acne": [
+      {
+        "ui": "C0001144",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001144",
+        "name": "Acne Vulgaris",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0702166",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0702166",
+        "name": "Acne",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0718217",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0718217",
+        "name": "Acne brand of benozyl peroxide",
+        "mesh_id": "None"
+      }
+    ],
+    "skin cancers": [
+      {
+        "ui": "C0007114",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007114",
+        "name": "Malignant neoplasm of skin",
+        "mesh_id": "D012878"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "polycyclic aromatic hydrocarbons",
+    "volatile organic compounds",
+    "ozone"
+  ],
+  "compound_CID": [
+    {
+      "polycyclic aromatic hydrocarbons": "None",
+      "volatile organic compounds": "None",
+      "ozone": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polycyclic aromatic hydrocarbons_psoriasis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that polycyclic aromatic hydrocarbons (PAHs) are associated with extrinsic skin aging, pigmentation, cancers, and acneiform eruptions, but it does not mention any association between PAHs and psoriasis. Psoriasis is specifically linked to cigarette smoke exposure in the abstract, not to PAHs. Therefore, based on the abstract, there is no clear evidence of a relationship between polycyclic aromatic hydrocarbons and psoriasis."
+      },
+      "polycyclic aromatic hydrocarbons_acne": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that polycyclic aromatic hydrocarbons are associated with extrinsic skin aging, pigmentation, cancers, and acneiform eruptions. Acneiform eruptions are acne-like skin conditions, indicating a relationship between polycyclic aromatic hydrocarbons and acne. Therefore, there is evidence of a relationship between polycyclic aromatic hydrocarbons and acne."
+      },
+      "polycyclic aromatic hydrocarbons_skin_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that polycyclic aromatic hydrocarbons are associated with extrinsic skin aging, pigmentation, cancers, and acneiform eruptions. Since skin cancers are a type of cancer affecting the skin, this indicates a clear relationship between polycyclic aromatic hydrocarbons and skin cancers."
+      },
+      "polycyclic aromatic hydrocarbons_atopic_dermatitis": {
+        "relationship": "N",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs) are associated with extrinsic skin aging, pigmentation, cancers, and acneiform eruptions, but it does not mention a direct association between PAHs and atopic dermatitis. In contrast, it specifically links cigarette smoke and volatile organic compounds to atopic dermatitis. Therefore, based on the abstract, there is no clear evidence of a relationship between polycyclic aromatic hydrocarbons and atopic dermatitis."
+      },
+      "polycyclic aromatic hydrocarbons_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that polycyclic aromatic hydrocarbons (PAHs) are associated with extrinsic skin aging, pigmentation, cancers, and acneiform eruptions, but it does not explicitly link PAHs to eczema. While cigarette smoke and volatile organic compounds are implicated in allergic skin conditions including eczema and atopic dermatitis, PAHs are not directly associated with eczema in the abstract. Therefore, there is no clear evidence of a relationship between polycyclic aromatic hydrocarbons and eczema based on the provided abstract."
+      }
+    },
+    {
+      "volatile organic compounds_psoriasis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that volatile organic compounds (VOCs) have been associated with atopic dermatitis, but it does not provide any evidence or mention a relationship between VOCs and psoriasis. While cigarette smoke is noted to increase the incidence of psoriasis, VOCs are not linked to psoriasis in the abstract. Therefore, there is no clear relationship between volatile organic compounds and psoriasis based on the provided information."
+      },
+      "volatile organic compounds_acne": {
+        "relationship": "N",
+        "reason": "The abstract mentions that volatile organic compounds (VOCs) have been associated with atopic dermatitis, but it does not provide any evidence or mention a relationship between VOCs and acne. While other pollutants like cigarette smoke and polyaromatic hydrocarbons are linked to acne, VOCs are not indicated to have a direct association with acne in the provided text."
+      },
+      "volatile organic compounds_skin_cancers": {
+        "relationship": "N",
+        "reason": "The abstract mentions that volatile organic compounds (VOCs) have been associated with atopic dermatitis but does not provide any evidence linking VOCs to skin cancers. While other pollutants such as ultraviolet radiation, cigarette smoke, and polycyclic aromatic hydrocarbons are explicitly associated with skin cancers, VOCs are not indicated to have a relationship with skin cancers in the provided text."
+      },
+      "volatile organic compounds_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that volatile organic compounds have been associated with atopic dermatitis. This indicates a recognized relationship between exposure to volatile organic compounds and the occurrence or exacerbation of atopic dermatitis."
+      },
+      "volatile organic compounds_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that volatile organic compounds have been associated with atopic dermatitis, which is a form of eczema. Additionally, it mentions that cigarette smoke, another air pollutant, is implicated in allergic skin conditions such as atopic dermatitis and eczema. This indicates a relationship between volatile organic compounds and eczema through their role in allergic skin conditions."
+      }
+    },
+    {
+      "ozone_psoriasis": {
+        "relationship": "N",
+        "reason": "The abstract mentions ozone as one of the air pollutants that affect the skin by inducing oxidative stress, but it does not specifically link ozone exposure to psoriasis. While cigarette smoke is explicitly associated with an increase in the incidence of psoriasis, no such direct association is made for ozone. Therefore, based on the abstract, there is no clear evidence of a relationship between ozone and psoriasis."
+      },
+      "ozone_acne": {
+        "relationship": "N",
+        "reason": "The abstract mentions various air pollutants and their effects on the skin, including ozone as one of the pollutants that induce oxidative stress. However, it does not specifically link ozone exposure to acne. While cigarette smoke and polyaromatic hydrocarbons are explicitly associated with acne or acneiform eruptions, ozone is only mentioned as a general skin-damaging pollutant without a direct connection to acne. Therefore, based on the abstract, there is no clear evidence of a relationship between ozone and acne."
+      },
+      "ozone_skin_cancers": {
+        "relationship": "N",
+        "reason": "The abstract lists ozone as one of the air pollutants that affect the skin by inducing oxidative stress, but it does not specifically associate ozone exposure with skin cancers. While other compounds such as ultraviolet radiation, cigarette smoke, and polycyclic aromatic hydrocarbons are explicitly linked to skin cancers, ozone is mentioned only as a general pollutant affecting the skin without a direct connection to skin cancers."
+      },
+      "ozone_atopic_dermatitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions various air pollutants and their effects on the skin, including ozone as one of the pollutants that induce oxidative stress. However, it does not specifically link ozone to atopic dermatitis. While volatile organic compounds and cigarette smoke are explicitly associated with atopic dermatitis, ozone is only mentioned as a general pollutant affecting the skin without a direct connection to atopic dermatitis."
+      },
+      "ozone_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions ozone as one of the air pollutants that affect the skin by inducing oxidative stress, but it does not specifically link ozone exposure to eczema. While cigarette smoke and volatile organic compounds are explicitly associated with eczema and other allergic skin conditions, ozone is only generally mentioned as a pollutant affecting the skin without a direct connection to eczema. Therefore, based on this abstract, there is no clear evidence of a relationship between ozone and eczema."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances such as polycyclic aromatic hydrocarbons, volatile organic compounds, and ozone, which are distinct chemical entities known to affect the skin. Other terms like ultraviolet radiation and cigarette smoke are not specific chemical compounds but rather types of radiation and complex mixtures, respectively."
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2016,
+  "title": "Fecal Volatile Organic Compound Profiles are Not Influenced by Gestational Age and Mode of Delivery: A Longitudinal Multicenter Cohort Study",
+  "Abstract": "Fecal volatile organic compounds (VOC) reflect human and gut microbiota metabolic pathways and their interaction. VOC behold potential as non-invasive preclinical diagnostic biomarkers in various diseases, e.g., necrotizing enterocolitis and late onset sepsis. There is a need for standardization and assessment of the influence of clinical and environmental factors on the VOC outcome before this technique can be applied in clinical practice. The aim of this study was to investigate the influence of gestational age (GA) and mode of delivery on the fecal VOC pattern in preterm infants born below 30 weeks of gestation. Longitudinal fecal samples, collected on days 7, 14, and 21 postnatally, were analyzed by an electronic nose device (Cyranose 320®). In total, 58 preterm infants were included (29 infants born at GA 24–26 weeks vs. 29 at 27–29 completed weeks, 24 vaginally born vs. 34 via C-section). No differences were identified at any predefined time point in terms of GA and delivery mode (p > 0.05). We, therefore, concluded that correction for these factors in this population is not warranted when performing fecal VOC analysis in the first three weeks of life.",
+  "Disease_List": [
+    "necrotizing enterocolitis",
+    "late onset sepsis"
+  ],
+  "Reason": "The abstract explicitly mentions two specific diseases: 'necrotizing enterocolitis' and 'late onset sepsis' as examples of diseases where fecal volatile organic compounds (VOC) could serve as diagnostic biomarkers. These are clearly named diseases rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "necrotizing enterocolitis"
+  ],
+  "UMLS_search_results": {
+    "necrotizing enterocolitis": [
+      {
+        "ui": "C4082937",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4082937",
+        "name": "Necrotizing enterocolitis in fetus OR newborn",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0520459",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0520459",
+        "name": "Necrotizing Enterocolitis",
+        "mesh_id": "D020345"
+      }
+    ],
+    "late onset sepsis": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms without specifying any particular chemical compound names."
+}

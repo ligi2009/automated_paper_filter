@@ -1,0 +1,55 @@
+{
+  "id": 2065,
+  "title": "Pattern of TAAR5 Expression in the Human Brain Based on Transcriptome Datasets Analysis",
+  "Abstract": "Trace amine-associated receptors (TAAR) recognize organic compounds, including primary, secondary, and tertiary amines. The TAAR5 receptor is known to be involved in the olfactory sensing of innate socially relevant odors encoded by volatile amines. However, emerging data point to the involvement of TAAR5 in brain functions, particularly in the emotional behaviors mediated by the limbic system which suggests its potential contribution to the pathogenesis of neuropsychiatric diseases. TAAR5 expression was explored in datasets available in the Gene Expression Omnibus, Allen Brain Atlas, and Human Protein Atlas databases. Transcriptomic data demonstrate ubiquitous low TAAR5 expression in the cortical and limbic brain areas, the amygdala and the hippocampus, the nucleus accumbens, the thalamus, the hypothalamus, the basal ganglia, the cerebellum, the substantia nigra, and the white matter. Altered TAAR5 expression is identified in Down syndrome, major depressive disorder, or HIV-associated encephalitis. Taken together, these data indicate that TAAR5 in humans is expressed not only in the olfactory system but also in certain brain structures, including the limbic regions receiving olfactory input and involved in critical brain functions. Thus, TAAR5 can potentially be involved in the pathogenesis of brain disorders and represents a valuable novel target for neuropsychopharmacology.",
+  "Disease_List": [
+    "Down syndrome",
+    "major depressive disorder",
+    "HIV-associated encephalitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'Down syndrome', 'major depressive disorder', and 'HIV-associated encephalitis'. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Down syndrome",
+    "major depressive disorder"
+  ],
+  "UMLS_search_results": {
+    "Down syndrome": [
+      {
+        "ui": "C4521042",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4521042",
+        "name": "Complete Trisomy 21 Syndrome",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0013080",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013080",
+        "name": "Down Syndrome",
+        "mesh_id": "D004314"
+      }
+    ],
+    "major depressive disorder": [
+      {
+        "ui": "C1269683",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1269683",
+        "name": "Major Depressive Disorder",
+        "mesh_id": "D003865"
+      },
+      {
+        "ui": "C0041696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041696",
+        "name": "Unipolar Depression",
+        "mesh_id": "D003866"
+      }
+    ],
+    "HIV-associated encephalitis": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

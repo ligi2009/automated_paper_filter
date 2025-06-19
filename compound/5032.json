@@ -1,0 +1,210 @@
+{
+  "id": 5032,
+  "title": "Review—Non-Invasive Monitoring of Human Health by Exhaled Breath Analysis: A Comprehensive Review",
+  "Abstract": "Exhaled human breath analysis is a very promising ﬁ eld of research work having great potential for diagnosis of diseases in non- invasive way. Breath analysis has attracted huge attention in the ﬁ eld of medical diagnosis and disease monitoring in the last two decades. VOCs/gases (Volatile Organic Compounds) in exhaled breath bear the ﬁ nger-prints of metabolic and biophysical processes going on in human body. It ’ s a non-invasive, fast, non-hazardous, cost effective, and point of care process for disease state monitoring and environmental exposure assessment in human beings. Some VOCs/gases in exhaled breath are bio-markers of different diseases and their presence in excess amount is indicative of un-healthiness. Breath analysis has the potential for early detection of diseases. However, it is still underused and commercial device is yet not available owing to multiferrious challenges. This review is intended to provide an overview of major biomarkers (VOCs/gases) present in exhaled breath, importance of their analysis towards disease monitoring, analytical techniques involved, promising materials for breath analysis etc. Finally, related challenges and limitations along with future scope will be touched upon. for acute decompensated heart failure), Alkhouri et al. (biomarker identi ﬁ ed: acetone, isoprene, trimethylamine, acetaldehyde, pentane for non-alcoholic fatty liver disease), Hanouneh et al. (biomarker identi ﬁ ed: 2-propanol, ethanol, acetone, trimethylamine, acetaldehyde, pentane for alcoholic hepatitis), Walton et al. (biomarker identi ﬁ ed: acetone for diabetes mellitus), Storer et al. (biomarker identi ﬁ ed: acetone for diabetes mellitus) process, high energy sites available in quantum dots, nanorods, nano sheets, nano tubes, nano belts and other exotic nanostructures, doping of novel and non-novel metals and oxides",
+  "Disease_List": [
+    "acute decompensated heart failure",
+    "non-alcoholic fatty liver disease",
+    "alcoholic hepatitis",
+    "diabetes mellitus"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'acute decompensated heart failure', 'non-alcoholic fatty liver disease', 'alcoholic hepatitis', and 'diabetes mellitus' in the context of biomarkers identified in exhaled breath analysis. Therefore, the classification is 'Y' with these diseases listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "acute decompensated heart failure",
+    "non-alcoholic fatty liver disease",
+    "alcoholic hepatitis",
+    "diabetes mellitus"
+  ],
+  "UMLS_search_results": {
+    "acute decompensated heart failure": [
+      {
+        "ui": "C1609524",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1609524",
+        "name": "ADHF",
+        "mesh_id": "None"
+      }
+    ],
+    "non-alcoholic fatty liver disease": [
+      {
+        "ui": "C0400966",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0400966",
+        "name": "Non-alcoholic Fatty Liver Disease",
+        "mesh_id": "D065626"
+      }
+    ],
+    "alcoholic hepatitis": [
+      {
+        "ui": "C0019187",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019187",
+        "name": "Hepatitis, Alcoholic",
+        "mesh_id": "D006519"
+      }
+    ],
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "isoprene",
+    "trimethylamine",
+    "acetaldehyde",
+    "pentane",
+    "2-propanol",
+    "ethanol"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "isoprene": 6557,
+      "trimethylamine": 1146,
+      "acetaldehyde": 177,
+      "pentane": 8003,
+      "2-propanol": 3776,
+      "ethanol": 702
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_acute_decompensated_heart_failure": {
+        "relationship": "Y",
+        "reason": "The abstract mentions acetone as a biomarker identified in the context of acute decompensated heart failure, indicating that acetone levels in exhaled breath have been associated with this disease. This suggests a relationship between acetone and acute decompensated heart failure as a potential diagnostic or monitoring biomarker."
+      },
+      "acetone_non-alcoholic_fatty_liver_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that acetone is identified as a biomarker for non-alcoholic fatty liver disease by Alkhouri et al. This indicates that there is evidence of a relationship between acetone levels in exhaled breath and the presence or monitoring of non-alcoholic fatty liver disease."
+      },
+      "acetone_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that acetone is identified as a biomarker for alcoholic hepatitis according to Hanouneh et al. This indicates a relationship between acetone presence in exhaled breath and the disease alcoholic hepatitis, suggesting that acetone levels may be indicative or associated with this condition."
+      },
+      "acetone_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that acetone has been identified as a biomarker for diabetes mellitus by multiple studies (Walton et al. and Storer et al.). This indicates a clear relationship between acetone levels in exhaled breath and the presence or monitoring of diabetes mellitus, supporting the use of acetone as a non-invasive biomarker for this disease."
+      }
+    },
+    {
+      "isoprene_acute_decompensated_heart_failure": {
+        "relationship": "Y",
+        "reason": "The abstract mentions isoprene as one of the biomarkers identified in exhaled breath analysis related to acute decompensated heart failure. This indicates that isoprene levels in breath may be associated with the disease state, suggesting a relationship between isoprene and acute decompensated heart failure."
+      },
+      "isoprene_non-alcoholic_fatty_liver_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that isoprene is identified as a biomarker for non-alcoholic fatty liver disease (NAFLD) by Alkhouri et al. This indicates that there is evidence of a relationship between the compound isoprene and NAFLD, as isoprene levels in exhaled breath can serve as an indicator for this disease."
+      },
+      "isoprene_alcoholic_hepatitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions isoprene as a biomarker identified for non-alcoholic fatty liver disease, but for alcoholic hepatitis, the biomarkers listed are 2-propanol, ethanol, acetone, trimethylamine, acetaldehyde, and pentane. Isoprene is not listed among the biomarkers for alcoholic hepatitis, indicating no clear evidence of a relationship between isoprene and alcoholic hepatitis based on this abstract."
+      },
+      "isoprene_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions isoprene as a biomarker identified for non-alcoholic fatty liver disease but does not associate isoprene with diabetes mellitus. For diabetes mellitus, the biomarkers identified are acetone, as noted by Walton et al. and Storer et al. Therefore, based on the abstract, there is no clear evidence of a relationship between isoprene and diabetes mellitus."
+      }
+    },
+    {
+      "trimethylamine_acute_decompensated_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract mentions trimethylamine as a biomarker identified in relation to non-alcoholic fatty liver disease and alcoholic hepatitis, but it does not provide any evidence or mention of trimethylamine being associated with acute decompensated heart failure. Therefore, based on the information in the abstract, there is no clear relationship established between trimethylamine and acute decompensated heart failure."
+      },
+      "trimethylamine_non-alcoholic_fatty_liver_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that trimethylamine is identified as a biomarker for non-alcoholic fatty liver disease by Alkhouri et al. This indicates that there is evidence of a relationship between the compound trimethylamine and the disease non-alcoholic fatty liver disease, as trimethylamine presence in exhaled breath is associated with this disease."
+      },
+      "trimethylamine_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that trimethylamine is identified as a biomarker for alcoholic hepatitis, as reported by Hanouneh et al. This indicates a relationship between the compound trimethylamine and the disease alcoholic hepatitis, suggesting that trimethylamine levels in exhaled breath can be indicative of the presence or state of alcoholic hepatitis."
+      },
+      "trimethylamine_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions trimethylamine as a biomarker identified for non-alcoholic fatty liver disease and alcoholic hepatitis, but not for diabetes mellitus. For diabetes mellitus, the biomarkers identified are acetone (mentioned by Walton et al. and Storer et al.). Therefore, there is no clear evidence in the abstract of a relationship between trimethylamine and diabetes mellitus."
+      }
+    },
+    {
+      "acetaldehyde_acute_decompensated_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract mentions acetaldehyde as a biomarker identified for non-alcoholic fatty liver disease and alcoholic hepatitis, but does not provide any evidence or mention of acetaldehyde being a biomarker or having a relationship with acute decompensated heart failure. Therefore, based on the abstract content, there is no clear relationship established between acetaldehyde and acute decompensated heart failure."
+      },
+      "acetaldehyde_non-alcoholic_fatty_liver_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that acetaldehyde is identified as a biomarker for non-alcoholic fatty liver disease (NAFLD) according to Alkhouri et al. This indicates that there is evidence of a relationship between acetaldehyde and NAFLD, as its presence in exhaled breath is associated with the disease state."
+      },
+      "acetaldehyde_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that acetaldehyde is identified as a biomarker in exhaled breath for alcoholic hepatitis, indicating a relationship between acetaldehyde and the disease. This suggests that acetaldehyde levels are associated with alcoholic hepatitis and can be used for disease monitoring or diagnosis."
+      },
+      "acetaldehyde_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions acetaldehyde as a biomarker for non-alcoholic fatty liver disease and alcoholic hepatitis, but not for diabetes mellitus. For diabetes mellitus, the biomarkers identified are acetone (cited by Walton et al. and Storer et al.). There is no evidence in the abstract linking acetaldehyde to diabetes mellitus."
+      }
+    },
+    {
+      "pentane_acute_decompensated_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract mentions pentane as a biomarker for non-alcoholic fatty liver disease and alcoholic hepatitis, but does not list pentane as a biomarker for acute decompensated heart failure. Therefore, there is no clear evidence in the abstract supporting a relationship between pentane and acute decompensated heart failure."
+      },
+      "pentane_non-alcoholic_fatty_liver_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that pentane has been identified as a biomarker for non-alcoholic fatty liver disease by Alkhouri et al. This indicates a relationship between the compound pentane and the disease non-alcoholic fatty liver disease, as pentane presence in exhaled breath is associated with this condition."
+      },
+      "pentane_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that pentane is identified as a biomarker for alcoholic hepatitis according to Hanouneh et al. This indicates a relationship between the compound pentane and the disease alcoholic hepatitis, as pentane presence in exhaled breath is associated with this disease."
+      },
+      "pentane_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions pentane as a biomarker for non-alcoholic fatty liver disease and alcoholic hepatitis, but not for diabetes mellitus. For diabetes mellitus, acetone is identified as a biomarker by Walton et al. and Storer et al. There is no evidence in the abstract linking pentane to diabetes mellitus."
+      }
+    },
+    {
+      "2-propanol_acute_decompensated_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract mentions 2-propanol as a biomarker identified for alcoholic hepatitis, not for acute decompensated heart failure. For acute decompensated heart failure, other biomarkers are implied but 2-propanol is not listed among them. Therefore, there is no clear evidence in the abstract linking 2-propanol to acute decompensated heart failure."
+      },
+      "2-propanol_non-alcoholic_fatty_liver_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions 2-propanol as a biomarker identified for alcoholic hepatitis, not for non-alcoholic fatty liver disease. For non-alcoholic fatty liver disease, the biomarkers listed are acetone, isoprene, trimethylamine, acetaldehyde, and pentane. Therefore, there is no clear evidence in the abstract of a relationship between 2-propanol and non-alcoholic fatty liver disease."
+      },
+      "2-propanol_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that 2-propanol is identified as a biomarker in exhaled breath for alcoholic hepatitis, as reported by Hanouneh et al. This indicates a relationship between the compound 2-propanol and the disease alcoholic hepatitis, suggesting that 2-propanol presence or levels in breath can be associated with this disease."
+      },
+      "2-propanol_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions 2-propanol as a biomarker identified for alcoholic hepatitis, not for diabetes mellitus. For diabetes mellitus, acetone is identified as a biomarker by Walton et al. and Storer et al. There is no evidence in the abstract linking 2-propanol to diabetes mellitus."
+      }
+    },
+    {
+      "ethanol_acute_decompensated_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for various diseases. Ethanol is mentioned as a biomarker identified for alcoholic hepatitis, but there is no mention or evidence linking ethanol to acute decompensated heart failure. The biomarkers associated with acute decompensated heart failure are not specified as including ethanol. Therefore, based on the abstract, there is no clear relationship between ethanol and acute decompensated heart failure."
+      },
+      "ethanol_non-alcoholic_fatty_liver_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions ethanol as a biomarker identified for alcoholic hepatitis, not for non-alcoholic fatty liver disease (NAFLD). For NAFLD, the biomarkers listed are acetone, isoprene, trimethylamine, acetaldehyde, and pentane. Therefore, there is no clear evidence in the abstract indicating a relationship between ethanol and non-alcoholic fatty liver disease."
+      },
+      "ethanol_alcoholic_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that ethanol is identified as a biomarker in exhaled breath for alcoholic hepatitis, as reported by Hanouneh et al. This indicates a relationship between ethanol and alcoholic hepatitis, where ethanol presence in breath serves as an indicator of the disease state."
+      },
+      "ethanol_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions ethanol as a biomarker identified for alcoholic hepatitis, but it does not associate ethanol with diabetes mellitus. For diabetes mellitus, the biomarker identified is acetone, as noted by Walton et al. and Storer et al. Therefore, based on the abstract, there is no clear evidence of a relationship between ethanol and diabetes mellitus."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several volatile organic compounds identified as biomarkers in exhaled breath for various diseases, including acetone, isoprene, trimethylamine, acetaldehyde, pentane, 2-propanol, and ethanol. These are specific chemical compound names relevant to breath analysis and disease diagnosis."
+}

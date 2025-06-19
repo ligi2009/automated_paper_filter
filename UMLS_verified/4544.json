@@ -1,0 +1,30 @@
+{
+  "id": 4544,
+  "title": "Investigation of the impacts of the industrial effluent on sheep ecology downward Kwashe industrial area, Iraq Kurdistan Region",
+  "Abstract": "The present study aimed to investigate the impact of Kwashe Industrial Area (KIA) in Iraqi Kurdistan Region on sheep ecology. KIA contains around 220 industrial factories, from which are more than 50 private crude oil refineries. Each day, these factories release thousands of hazardous untreated industrial effluents and create two main drains that join together and descend both Sulaivany and Duban plains that are mainly used for wheat cultivation and sheep forging to reach Mosul dam. The study is well documented and spotted a great impact on 15000 sheep habitat and niche. The sacristy of water resources in this plain, particularly in summer forces sheep to drink this hazardous effluent to be transferred through food chain to human being, and many direct health cases are investigated in this study. Annually, ten of sheep were stunned in the heavy asphalt and dies. Emissions of a variety NOx, SOx, CO2, CO, H2S, and many other volatile organic compounds like methane causes the spread of respiratory illness among the sheep in this area. Majority of the children in the surrounding villages have developed asthma and respiratory illnesses. ",
+  "Disease_List": [
+    "asthma",
+    "respiratory illnesses"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'asthma' and 'respiratory illnesses' affecting both sheep and children in the surrounding villages. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory illnesses": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

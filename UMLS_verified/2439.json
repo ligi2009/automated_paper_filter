@@ -1,0 +1,82 @@
+{
+  "id": 2439,
+  "title": "Defensive functions of volatile organic compounds and essential oils from northern white-cedar in China",
+  "Abstract": "Background Plants are known to emit diverse volatile organic compounds (VOCs), which may function as signaling substances in plant communication with other organisms. Thuja occidentalis , which is widely cultivated throughout China, releases aromatic VOCs into the air in winter and early spring. The relationship of this cultivated plant with its neighboring plants is necessary for the conservation of biodiversity. Results (−)-α-thujone (60.34 ± 5.58%) was found to be the major component in VOCs from the Shenyang population. The essential oils (EOs) from the Kunming and Shenyang populations included the major components (−)-α-thujone, fenchone, (+)-β-thujone, and (+)-hibaene, identified using GC-MS analyses. (−)-α-thujone and (+)-hibaene were purified and identified by NMR identification. EOs and (−)-α-thujone exhibited valuable phytotoxic activities against seed germination and seedling growth of the plants Taraxacum mongolicum and Arabidopsis thaliana. Moreover, the EOs displayed potent inhibitory activity against pathogenic fungi of maize, including Fusarium graminearum , Curvularia lunata , and Bipolaris maydis , as well as one human fungal pathogen, Candida albicans. Quantitative analyses revealed high concentrations of (−)-α-thujone in the leaves of T. occidentalis individuals from both the Shenyang and Kunming populations. However, (−)-α-thujone (0.18 ± 0.17 μg/g) was only detected in the rhizosphere soil to a distance of 0.5 m from the plant. Conclusions Taken together, our results suggest that the phytotoxic effects and antifungal activities of the EOs and (−)-α-thujone in T. occidentalis certainly increased the adaptability of this plant to the environment. Nevertheless, low concentrations of released (−)-α-thujone indicated that reasonable distance of T. occidentalis with other plant species will impair the effects of allelochemical of T. occidentalis .",
+  "Disease_List": [
+    "Fusarium graminearum",
+    "Curvularia lunata",
+    "Bipolaris maydis",
+    "Candida albicans"
+  ],
+  "Reason": "The abstract explicitly mentions specific pathogenic fungi: Fusarium graminearum, Curvularia lunata, Bipolaris maydis, and the human fungal pathogen Candida albicans. These are known disease-causing organisms, thus specific diseases related to these pathogens are implied. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Fusarium graminearum",
+    "Curvularia lunata",
+    "Bipolaris maydis",
+    "Candida albicans"
+  ],
+  "UMLS_search_results": {
+    "Fusarium graminearum": [
+      {
+        "ui": "C0320167",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0320167",
+        "name": "Fusarium graminearum",
+        "mesh_id": "C000677531"
+      },
+      {
+        "ui": "C4476028",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4476028",
+        "name": "Gibberella zeae allergenic extract",
+        "mesh_id": "None"
+      }
+    ],
+    "Curvularia lunata": [
+      {
+        "ui": "C0320079",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0320079",
+        "name": "Curvularia lunata",
+        "mesh_id": "C000677526"
+      }
+    ],
+    "Bipolaris maydis": [
+      {
+        "ui": "C0997415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0997415",
+        "name": "Bipolaris maydis",
+        "mesh_id": "C000663636"
+      }
+    ],
+    "Candida albicans": [
+      {
+        "ui": "C0348081",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0348081",
+        "name": "Candida albicans antigen",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0717551",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0717551",
+        "name": "Candida albicans allergenic extract",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0006837",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006837",
+        "name": "Candida albicans",
+        "mesh_id": "D002176"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

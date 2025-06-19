@@ -1,0 +1,53 @@
+{
+  "id": 1395,
+  "title": "House-plant placement for indoor air purification and health benefits on asthmatics",
+  "Abstract": "Objectives Some plants were placed in indoor locations frequented by asthmatics in order to evaluate the quality of indoor air and examine the health benefits to asthmatics. Methods The present study classified the participants into two groups: households of continuation and households of withdrawal by a quasi-experimental design. The households of continuation spent the two observation terms with indoor plants, whereas the households of withdrawal passed the former observation terms with indoor plants and went through the latter observation term without any indoor plants. Results The household of continuation showed a continual decrease in the indoor concentrations of volatile organic compounds (VOCs) during the entire observation period, but the household of withdrawal performed an increase in the indoor concentrations of VOCs, except formaldehyde and toluene during the latter observation term after the decrease during the former observation term. Peak expiratory flow rate (PEFR) increased in the households of continuation with the value of 13.9 L/min in the morning and 20.6 L/ min in the evening, but decreased in the households of withdrawal with the value of -24.7 L/min in the morning and -30.2 L/min in the evening in the first experimental season. All of the households exhibited a decrease in the value of PEFR in the second experimental season. Conclusions Limitations to the generalizability of findings regarding the presence of plants indoors can be seen as a more general expression of such a benefit of human-environment relations.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatics' and discusses health benefits related to them, indicating the specific disease asthma is referenced. Although the term 'asthmatics' refers to people with asthma, it clearly points to the disease asthma itself.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "formaldehyde",
+    "toluene"
+  ],
+  "compound_CID": [
+    {
+      "formaldehyde": 712,
+      "toluene": 1140
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "formaldehyde_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that the presence of indoor plants led to a continual decrease in indoor concentrations of volatile organic compounds (VOCs), including formaldehyde, in households with asthmatics. This reduction in formaldehyde levels was associated with an increase in peak expiratory flow rate (PEFR), a measure of lung function, in these households. Conversely, households that removed plants experienced an increase in VOCs (except formaldehyde and toluene) and a decrease in PEFR. These findings suggest that formaldehyde levels indoors are related to asthma symptoms or lung function, implying a relationship between formaldehyde exposure and asthma."
+      }
+    },
+    {
+      "toluene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of indoor plants on indoor air quality and respiratory function in asthmatics, noting changes in volatile organic compounds (VOCs) including toluene. However, it specifically states that toluene did not increase in the household of withdrawal during the latter observation term, unlike other VOCs. The study focuses on overall VOC levels and peak expiratory flow rate (PEFR) changes but does not provide direct evidence linking toluene exposure to asthma exacerbation or improvement. Therefore, there is no clear relationship established between toluene and asthma based on this abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions formaldehyde and toluene as volatile organic compounds (VOCs) whose indoor concentrations were measured and analyzed in relation to the presence of indoor plants."
+}

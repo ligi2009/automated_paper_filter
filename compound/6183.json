@@ -1,0 +1,57 @@
+{
+  "id": 6183,
+  "title": "Breathing Out",
+  "Abstract": "During a recent exam, my veterinarian sniffed my cat’s breath and noted that she was very sick. “Can you smell her halitosis?” she asked. My vet was drawing on a skill that clinicians have used since ancient times: using their sense of smell to diagnose disease from the overall odor of a patient’s breath or bodily fluids. An earlier ultrasound exam had shown that my cat had a bladder tumor that was probably cancerous. Cancer wards in hospitals don’t smell good, says Renato Zenobi of the Swiss Federal Institute of Technology (ETH), Zurich. And dogs have been successfully trained to distinguish the breath samples of cancer patients from those of healthy people by scent. “They’re not bad. These animals, they have a 90+ percent hit rate,” he says. But noses whether human or dogdon’t reveal the actual mix of volatile organic compounds (VOCs) responsible for these odors, Zenobi adds. Being able to collect a breath sample and decode the chemical mixtures present could be a quick, noninvasive way to diagnose disease, without the mess and special handling needed for blood, urine, or other bodily fluids. Analytical instruments could also detect key molecules before a nose could, and with better accuracy and sensitivity. But to do that, chemists have to be able to work out what the key compounds are and how their relative concentrations form a fingerprint that is characteristic of a disease. It’s not as easy as a sniff. While chemists and engineers now have techniques that can detect critical VOCs in breath at parts per billion (ppb) and even parts per trillion (ppt) levels, exhaled moisture, carbon dioxide, and confounding compounds in the ambient air can mask a disease’s footprint. Also, breath composition varies from person to person, making it challenging to draw clear lines between healthy and sick individuals. To address these and other challenges, chemists and engineers are collaborating with clinicians to invent better sampling techniques, adapting analytical methods for the complex VOC mixtures in breath, and developing machine learning techniques that quickly and accurately identify disease signatures. In 1971 Linus Pauling first probed the contents of breath when his team used gas chromatography (GC) to identify approximately 250 VOCs within breath samples. These compounds are carried on the breath, but they originate in cellular metabolism. Deep within the lungs, volatile molecules produced by metabolism and passed into blood diffuse across capillary walls and are exhaled.",
+  "Disease_List": [
+    "cancer",
+    "bladder tumor"
+  ],
+  "Reason": "The abstract explicitly mentions 'bladder tumor that was probably cancerous' and refers to 'cancer wards' and 'cancer patients'. These are specific disease names or conditions related to disease, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "bladder tumor"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder tumor": [
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms and mentions carbon dioxide as a specific compound, but does not name any other specific chemical compounds. Therefore, no specific chemical compound names beyond general terms were found."
+}

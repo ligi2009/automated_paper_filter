@@ -1,0 +1,42 @@
+{
+  "id": 5649,
+  "title": "Volatile scents of influenza A and S. pyogenes (co-)infected cells",
+  "Abstract": "Influenza A is a serious pathogen itself, but often leads to dangerous co-infections in combination with bacterial species such as Streptococcus pyogenes. In comparison to classical biochemical methods, analysis of volatile organic compounds (VOCs) in headspace above cultures can enable destruction free monitoring of metabolic processes in vitro. Thus, volatile biomarkers emitted from biological cell cultures and pathogens could serve for monitoring of infection processes in vitro. In this study we analysed VOCs from headspace above (co)-infected human cells by using a customized sampling system. For investigating the influenza A mono-infection and the viral-bacterial co-infection in vitro, we analysed VOCs from Detroit cells inoculated with influenza A virus and S. pyogenes by means of needle-trap micro-extraction (NTME) and gas chromatography mass spectrometry (GC-MS). Besides the determination of microbiological data such as cell count, cytokines, virus load and bacterial load, emissions from cell medium, uninfected cells and bacteria mono-infected cells were analysed. Significant differences in emitted VOC concentrations were identified between non-infected and infected cells. After inoculation with S. pyogenes, bacterial infection was mirrored by increased emissions of acetaldehyde and propanal. N-propyl acetate was linked to viral infection. Non-destructive monitoring of infections by means of VOC analysis may open a new window for infection research and clinical applications. VOC analysis could enable early recognition of pathogen presence and in-depth understanding of their etiopathology.",
+  "Disease_List": [
+    "Influenza A"
+  ],
+  "Reason": "The abstract explicitly mentions 'Influenza A' as a specific disease caused by a pathogen. Although it also discusses bacterial species such as Streptococcus pyogenes, it does not name a specific bacterial disease. Therefore, the classification is Y because 'Influenza A' is a specific disease name explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Influenza A"
+  ],
+  "UMLS_search_results": {
+    "Influenza A": [
+      {
+        "ui": "C2062441",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2062441",
+        "name": "influenza A",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0879696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0879696",
+        "name": "Influenza virus A Ab:PrThr:Pt:Ser:Ord",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0016627",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0016627",
+        "name": "Influenza in Birds",
+        "mesh_id": "D005585"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

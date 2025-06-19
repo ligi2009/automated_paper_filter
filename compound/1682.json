@@ -1,0 +1,91 @@
+{
+  "id": 1682,
+  "title": "Elevated Carbon Monoxide in the Exhaled Breath of Mice during a Systemic Bacterial Infection",
+  "Abstract": "Blood is the specimen of choice for most laboratory tests for diagnosis and disease monitoring. Sampling exhaled breath is a noninvasive alternative to phlebotomy and has the potential for real-time monitoring at the bedside. Improved instrumentation has advanced breath analysis for several gaseous compounds from humans. However, application to small animal models of diseases and physiology has been limited. To extend breath analysis to mice, we crafted a means for collecting nose-only breath samples from groups and individual animals who were awake. Samples were subjected to gas chromatography and mass spectrometry procedures developed for highly sensitive analysis of trace volatile organic compounds (VOCs) in the atmosphere. We evaluated the system with experimental systemic infections of severe combined immunodeficiency Mus musculus with the bacterium Borrelia hermsii. Infected mice developed bacterial densities of ∼107 per ml of blood by day 4 or 5 and in comparison to uninfected controls had hepatosplenomegaly and elevations of both inflammatory and anti-inflammatory cytokines. While 12 samples from individual infected mice on days 4 and 5 and 6 samples from uninfected mice did not significantly differ for 72 different VOCs, carbon monoxide (CO) was elevated in samples from infected mice, with a mean (95% confidence limits) effect size of 4.2 (2.8–5.6), when differences in CO2 in the breath were taken into account. Normalized CO values declined to the uninfected range after one day of treatment with the antibiotic ceftriaxone. Strongly correlated with CO in the breath were levels of heme oxygenase-1 protein in serum and HMOX1 transcripts in whole blood. These results (i) provide further evidence of the informativeness of CO concentration in the exhaled breath during systemic infection and inflammation, and (ii) encourage evaluation of this noninvasive analytic approach in other various other rodent models of infection and for utility in clinical management.",
+  "Disease_List": [
+    "severe combined immunodeficiency",
+    "Borrelia hermsii infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'severe combined immunodeficiency' as a specific disease condition in the mouse model. It also refers to infection with the bacterium 'Borrelia hermsii', which causes a specific infectious disease. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "severe combined immunodeficiency",
+    "Borrelia hermsii infection"
+  ],
+  "UMLS_search_results": {
+    "severe combined immunodeficiency": [
+      {
+        "ui": "C0085110",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0085110",
+        "name": "Severe Combined Immunodeficiency",
+        "mesh_id": "D016511"
+      },
+      {
+        "ui": "C1334116",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1334116",
+        "name": "IL2RG gene",
+        "mesh_id": "None"
+      }
+    ],
+    "Borrelia hermsii infection": [
+      {
+        "ui": "C0275767",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0275767",
+        "name": "Borrelia hermsii Infection",
+        "mesh_id": "D012061"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon monoxide",
+    "CO2",
+    "ceftriaxone"
+  ],
+  "compound_CID": [
+    {
+      "carbon monoxide": 281,
+      "CO2": 280,
+      "ceftriaxone": 5479530
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon monoxide_severe_combined_immunodeficiency": {
+        "relationship": "N",
+        "reason": "The abstract describes a study involving severe combined immunodeficiency (SCID) mice infected with Borrelia hermsii, where elevated carbon monoxide (CO) levels in exhaled breath were observed during systemic infection and inflammation. However, the relationship is between CO levels and infection/inflammation in SCID mice, not SCID itself as a disease. There is no evidence in the abstract that carbon monoxide causes, contributes to, or is directly related to the pathogenesis of severe combined immunodeficiency. Instead, CO is presented as a biomarker reflecting infection-induced inflammation in SCID mice."
+      },
+      "carbon monoxide_Borrelia_hermsii_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study in which carbon monoxide (CO) levels in exhaled breath were measured in mice infected with Borrelia hermsii. The infected mice showed elevated CO levels compared to uninfected controls, with a significant effect size. Furthermore, CO levels normalized after antibiotic treatment, indicating a direct association between CO concentration and the infection. The study also found a strong correlation between CO levels and heme oxygenase-1 protein and transcripts, which are related to inflammation and infection response. These findings provide clear evidence of a relationship between carbon monoxide and Borrelia hermsii infection."
+      }
+    },
+    {
+      "CO2_severe_combined_immunodeficiency": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breath analysis in mice with severe combined immunodeficiency infected with Borrelia hermsii, focusing on volatile organic compounds (VOCs) and specifically highlights carbon monoxide (CO) levels in breath as elevated during infection. Although CO2 levels were measured and taken into account when analyzing CO, there is no evidence or indication in the abstract that CO2 itself has a direct relationship with severe combined immunodeficiency or its infection. The findings emphasize CO as a marker, not CO2."
+      },
+      "CO2_Borrelia_hermsii_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of breath analysis in mice infected with Borrelia hermsii, focusing on the elevation of carbon monoxide (CO) in the breath as a marker of infection and inflammation. While CO2 levels were measured and differences in CO were analyzed taking CO2 into account, there is no evidence presented that CO2 itself is directly related to Borrelia hermsii infection. The key compound linked to the infection in the study is CO, not CO2."
+      }
+    },
+    {
+      "ceftriaxone_severe_combined_immunodeficiency": {
+        "relationship": "N",
+        "reason": "The abstract describes a study involving severe combined immunodeficiency (SCID) mice infected with Borrelia hermsii and monitored using breath analysis. Ceftriaxone, an antibiotic, was used to treat the infection, resulting in normalization of elevated carbon monoxide levels in the breath. However, the relationship described is between ceftriaxone and the bacterial infection in SCID mice, not between ceftriaxone and the disease SCID itself. There is no evidence in the abstract that ceftriaxone affects the underlying immunodeficiency condition; rather, it is used to treat an infection occurring in SCID mice. Therefore, no clear relationship between ceftriaxone and severe combined immunodeficiency as a disease is established."
+      },
+      "ceftriaxone_Borrelia_hermsii_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes an experimental systemic infection of mice with Borrelia hermsii and notes that after infection, elevated carbon monoxide (CO) levels were detected in the breath. Importantly, these elevated CO levels declined to the uninfected range after one day of treatment with the antibiotic ceftriaxone. This indicates that ceftriaxone was used as a treatment for Borrelia hermsii infection in this model and had a measurable effect on infection-related biomarkers, demonstrating a clear relationship between ceftriaxone and Borrelia hermsii infection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions carbon monoxide (CO) and carbon dioxide (CO2) as gaseous compounds analyzed in breath samples. Additionally, ceftriaxone, an antibiotic, is named as a treatment used in the study. These are specific chemical compounds identified by name, unlike general terms such as 'volatile organic compounds' or 'chemicals'."
+}

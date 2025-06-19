@@ -1,0 +1,28 @@
+{
+  "id": 6098,
+  "title": "Theoretical Study of Adsorption Behavior of Dimethylamine and Ammonia on Al- and Ga-Doped BN Monolayer Surfaces Based on DFT",
+  "Abstract": "Endogenous volatile organic compounds (VOCs) can reflect human health status and be used for clinical diagnosis and health monitoring. Dimethylamine and ammonia are the signature VOC gases of nephropathy. In order to find a potential gas sensitivity material for the detection of both signature VOC gases of nephropathy, this paper investigated the adsorption properties of dimethylamine and ammonia on Al- and Ga-doped BN monolayers based on density functional theory. Through analyzing the adsorption energy, adsorption distance, charge transfer, density of states, and HOMO/LUMO, the results indicated that the adsorption effect of Al- and Ga-doped BN monolayers to dimethylamine and ammonia is probably good, and these nanomaterials have the potential to be applied for nephropathy monitoring and clinical diagnosis.",
+  "Disease_List": [
+    "nephropathy"
+  ],
+  "Reason": "The abstract explicitly mentions 'nephropathy' as a specific disease. It refers to dimethylamine and ammonia as signature VOC gases of nephropathy and discusses potential materials for detecting these gases for nephropathy monitoring and clinical diagnosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "nephropathy"
+  ],
+  "UMLS_search_results": {
+    "nephropathy": [
+      {
+        "ui": "C0022658",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022658",
+        "name": "Kidney Diseases",
+        "mesh_id": "D007674"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

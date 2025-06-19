@@ -1,0 +1,28 @@
+{
+  "id": 2961,
+  "title": "APLICAÇÕES E IMPLICAÇÕES DO OZÔNIO NA INDÚSTRIA, AMBIENTE E SAÚDE",
+  "Abstract": "OZONE APPLICATIONS AND IMPLICATIONS FOR INDUSTRY, ENVIRONMENT, AND HEALTH. Stratospheric ozone is an efficient filter for ultraviolet radiation, which damages organisms’ lives exposed to sunlight. In the troposphere, ozone is essential to oxidate volatile organic compounds, but its effects are harmful to animals and plants, particularly humans. The high reactivity of ozone with some organic compounds makes it a promising agent for several applications, such as microbiological control and the medical field. However, their contact with surfaces containing unsaturated substances and other compounds can result in the formation of products that are harmful to human health or distort the organoleptic and structural properties of food. The results available in the literature are often divergent as to their safety and economic viability. Despite this, there are many cases of dermatological applications, and as sanitizing agents in several environments. Antiviral and bactericide properties were that guided the expansion of ozone application in the current coronavirus pandemic (COVID-19). However, more studies should be carried out to comprove its effectiveness, considering possible damages resulting from these applications.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'the current coronavirus pandemic (COVID-19)', which is a specific disease name. Although other general health-related terms are used, COVID-19 is the only specific disease named, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

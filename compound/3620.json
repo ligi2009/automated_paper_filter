@@ -1,0 +1,72 @@
+{
+  "id": 3620,
+  "title": "Accuracy of breath test for diabetes mellitus diagnosis: a systematic review and meta-analysis",
+  "Abstract": "The review aimed to investigate the accuracy of breath tests in the diagnosis of diabetes mellitus, identify exhaled volatile organic compounds with the most evidence as potential biomarkers, and summarize prospects and challenges in diabetic breath tests. Databases including Medline, PubMed, EMBASE, Cochrane Library and Science Citation Index Expanded were searched. Human studies describing diabetic breath analysis with more than 10 subjects as controls and patients were included. Population demographics, breath test conditions, biomarkers, analytical techniques and diagnostic accuracy were extracted. Quality assessment was performed with the Standards for Reporting Diagnostic Accuracy and a modified QUADAS-2 (Quality Assessment of Diagnostic Accuracy Studies 2). Forty-four research with 2699 patients with diabetes were included for qualitative data analysis and 14 eligible studies were used for meta-analysis. Pooled analysis of type 2 diabetes breath test exhibited sensitivity of 91.8% (95% CI 83.6% to 96.1%), specificity of 92.1% (95% CI 88.4% to 94.7%) and area under the curve (AUC) of 0.96 (95% CI 0.94 to 0.97). Isotopic carbon dioxide (CO2) showed the best diagnostic accuracy with pooled sensitivity of 0.949 (95% CI 0.870 to 0.981), specificity of 0.946 (95% CI 0.891 to 0.975) and AUC of 0.98 (95% CI 0.97 to 0.99). As the most widely reported biomarker, acetone showed moderate diagnostic accuracy with pooled sensitivity of 0.638 (95% CI 0.511 to 0.748), specificity of 0.801 (95% CI 0.691 to 0.878) and AUC of 0.79 (95% CI 0.75 to 0.82). Our results indicate that breath test is a promising approach with acceptable diagnostic accuracy for diabetes mellitus and isotopic CO2 is the optimal breath biomarker. Even so, further validation and standardization in subject control, breath sampling and analysis are still required.",
+  "Disease_List": [
+    "diabetes mellitus",
+    "type 2 diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes mellitus' and 'type 2 diabetes' as specific diseases being investigated in the context of breath test diagnosis. These are well-defined disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus",
+    "type 2 diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Isotopic carbon dioxide (CO2)",
+    "Acetone"
+  ],
+  "compound_CID": [
+    {
+      "Isotopic carbon dioxide (CO2)": "None",
+      "Acetone": 180
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Isotopic carbon dioxide (CO2)_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between isotopic carbon dioxide (CO2) and diabetes mellitus by highlighting isotopic CO2 as the optimal breath biomarker for diagnosing diabetes. The meta-analysis showed that isotopic CO2 had the highest diagnostic accuracy with pooled sensitivity of 94.9%, specificity of 94.6%, and an area under the curve (AUC) of 0.98, indicating strong potential as a non-invasive diagnostic tool for diabetes mellitus. This demonstrates a clear association between isotopic CO2 levels in breath and the presence of diabetes mellitus."
+      },
+      "Isotopic carbon dioxide (CO2)_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that isotopic carbon dioxide (CO2) is strongly associated with type 2 diabetes as a breath biomarker. It reports that isotopic CO2 showed the best diagnostic accuracy among tested biomarkers, with a pooled sensitivity of 94.9%, specificity of 94.6%, and an area under the curve (AUC) of 0.98, indicating high accuracy in diagnosing type 2 diabetes. This suggests a clear relationship between isotopic CO2 levels in breath and the presence of type 2 diabetes, supporting its use as a diagnostic marker."
+      }
+    },
+    {
+      "Acetone_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone is the most widely reported biomarker in breath tests for diabetes mellitus, showing moderate diagnostic accuracy with a pooled sensitivity of 63.8%, specificity of 80.1%, and an area under the curve (AUC) of 0.79. This suggests a clear relationship between acetone levels in breath and the presence of diabetes mellitus, supporting its potential use as a biomarker for diagnosis."
+      },
+      "Acetone_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone is the most widely reported biomarker in breath tests for diabetes mellitus, including type 2 diabetes. It shows moderate diagnostic accuracy with a pooled sensitivity of 63.8%, specificity of 80.1%, and an area under the curve (AUC) of 0.79. This suggests that acetone levels in breath have a measurable association with type 2 diabetes, supporting a relationship between acetone and the disease as a potential biomarker for diagnosis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions isotopic carbon dioxide (CO2) and acetone as exhaled volatile organic compounds identified as potential biomarkers for diabetes mellitus diagnosis via breath tests. These are specific chemical compounds named and analyzed for their diagnostic accuracy."
+}

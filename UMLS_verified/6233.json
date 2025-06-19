@@ -1,0 +1,39 @@
+{
+  "id": 6233,
+  "title": "Critical evaluation of human health risks due to hydraulic fracturing in natural gas and petroleum production",
+  "Abstract": "The use of hydraulic fracturing (HF) to extract oil and natural gas has increased, along with intensive discussions on the associated risks to human health. Three technical processes should be differentiated when evaluating human health risks, namely (1) drilling of the borehole, (2) hydraulic stimulation, and (3) gas or oil production. During the drilling phase, emissions such as NOx, NMVOCs (non-methane volatile organic compounds) as precursors for tropospheric ozone formation, and SOx have been shown to be higher compared to the subsequent phases. In relation to hydraulic stimulation, the toxicity of frac fluids is of relevance. More than 1100 compounds have been identified as components. A trend is to use fewer, less hazardous and more biodegradable substances; however, the use of hydrocarbons, such as kerosene and diesel, is still allowed in the USA. Methane in drinking water is of low toxicological relevance but may indicate inadequate integrity of the gas well. There is a great concern regarding the contamination of ground- and surface water during the production phase. Water that flows to the surface from oil and gas wells, so-called ‘produced water’, represents a mixture of flow-back, the injected frac fluid returning to the surface, and the reservoir water present in natural oil and gas deposits. Among numerous hazardous compounds, produced water may contain bromide, arsenic, strontium, mercury, barium, radioactive isotopes and organic compounds, particularly benzene, toluene, ethylbenzene and xylenes (BTEX). The sewage outflow, even from specialized treatment plants, may still contain critical concentrations of barium, strontium and arsenic. Evidence suggests that the quality of groundwater and surface water may be compromised by disposal of produced water. Particularly critical is the use of produced water for watering of agricultural areas, where persistent compounds may accumulate. Air contamination can occur as a result of several HF-associated activities. In addition to BTEX, 20 HF-associated air contaminants are group 1A or 1B carcinogens according to the IARC. In the U.S., oil and gas production (including conventional production) represents the second largest source of anthropogenic methane emissions. High-quality epidemiological studies are required, especially in light of recent observations of an association between childhood leukemia and multiple myeloma in the neighborhood of oil and gas production sites. In conclusion, (1) strong evidence supports the conclusion that frac fluids can lead to local environmental contamination; (2) while changes in the chemical composition of soil, water and air are likely to occur, the increased levels are still often below threshold values for safety; (3) point source pollution due to poor maintenance of wells and pipelines can be monitored and remedied; (4) risk assessment should be based on both hazard and exposure evaluation; (5) while the concentrations of frac fluid chemicals are low, some are known carcinogens; therefore, thorough, well-designed studies are needed to assess the risk to human health with high certainty; (6) HF can represent a health risk via long-lasting contamination of soil and water, when strict safety measures are not rigorously applied.",
+  "Disease_List": [
+    "childhood leukemia",
+    "multiple myeloma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'childhood leukemia' and 'multiple myeloma' in the context of epidemiological observations near oil and gas production sites. These are specific disease names rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "childhood leukemia",
+    "multiple myeloma"
+  ],
+  "UMLS_search_results": {
+    "childhood leukemia": [
+      {
+        "ui": "C1332977",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1332977",
+        "name": "Childhood Leukemia",
+        "mesh_id": "None"
+      }
+    ],
+    "multiple myeloma": [
+      {
+        "ui": "C0026764",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0026764",
+        "name": "Multiple Myeloma",
+        "mesh_id": "D009101"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 6114,
+  "title": "The role of bio-detection dogs in prevention and diagnosis of infectious disease: A systematic review",
+  "Abstract": "Infectious diseases have been lately considered as one of the most important global risks, which negatively impact not only the health but also the socioeconomic conditions of countries. Globalization influences the spread of infectious diseases as a result of increased travelling and interaction in humans. Thus, it is highly important to prevent and diagnose new infectious diseases by using accurate and quick diagnostic methods. Bio-detection dogs have a great potential to accurately diagnose infectious disease as they have a great ability to sense disease-specific volatile organic compounds (VOCs) originate from infectious agents and/or pathophysiological processes in the human body. The use of these dogs to detect infectious diseases has come to focus in particular after the recent global health crisis due to the SARS-CoV-2 infection. This review discusses the potential use of bio-detection dogs in the prevention and diagnosing of infectious diseases. Moreover, factors affecting the scent of the disease, e.g. VOCs, are tried to be highlighted.",
+  "Disease_List": [
+    "SARS-CoV-2 infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV-2 infection' as a specific disease name. Although it discusses infectious diseases in general, the only specific disease named is SARS-CoV-2 infection, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "SARS-CoV-2 infection"
+  ],
+  "UMLS_search_results": {
+    "SARS-CoV-2 infection": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "volatile organic compounds",
+    "SARS-CoV-2"
+  ],
+  "compound_CID": [
+    {
+      "volatile organic compounds": "None",
+      "SARS-CoV-2": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "volatile organic compounds_SARS-CoV-2_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs) are disease-specific compounds that can originate from infectious agents or pathophysiological processes in the human body. It specifically mentions the use of bio-detection dogs to detect infectious diseases, highlighting their ability to sense VOCs related to diseases, including the recent global health crisis caused by SARS-CoV-2 infection. This suggests a relationship where VOCs are linked to SARS-CoV-2 infection as detectable markers."
+      }
+    },
+    {
+      "SARS-CoV-2_SARS-CoV-2_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the global health crisis caused by SARS-CoV-2 infection, indicating that SARS-CoV-2 is the infectious agent responsible for the disease SARS-CoV-2 infection. This establishes a clear relationship between the compound SARS-CoV-2 and the disease SARS-CoV-2 infection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions 'volatile organic compounds (VOCs)' as specific chemical substances that bio-detection dogs can sense to diagnose infectious diseases. Additionally, 'SARS-CoV-2' is named as a specific viral agent related to infectious disease detection. These are specific chemical or biological entities rather than general terms."
+}

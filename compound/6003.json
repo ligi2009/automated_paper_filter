@@ -1,0 +1,59 @@
+{
+  "id": 6003,
+  "title": "Validating the Use of Amputated Limbs Used as Cadaver Detection Dog Training Aids",
+  "Abstract": "Cadaver detection dogs (CDDs) are trained to locate human remains and/or objects associated with human remains. This is possible due to their extraordinary olfactory capabilities compared to those of humans. To reinforce this capability, CDDs must be trained and regularly exposed to the target odor in the form of training aids which include—chemical formulations, animal remains, and/or human remains. Currently, the Ontario Provincial Police (OPP) use amputated limbs/feet from consented surgeries performed on diabetic patients as cadaver detection dog training aids. There is limited knowledge about the volatile organic compound (VOC) composition of these training aids and their appropriateness as an alternative to human remains for CDD training purposes, which formed the aim of the current study. VOCs were collected from amputated lower limbs/feet repeatedly using thermal desorption (TD) tubes and analyzed with comprehensive two-dimensional gas chromatography—time-of-flight mass spectrometry (GC×GC-TOFMS). The response of cadaver detection dogs to these training aids was also recorded to understand their alert in the context of the detected VOCs. VOC classes including acids, alcohols, aldehydes, ketones, ester and analogues, ethers, aliphatic, cyclics, sulfur-containing, nitrogen-containing, and halogen-containing VOCs were identified. Of these classes, cyclic VOCs were most abundant followed by nitrogen-containing VOCs while ethers were the least abundant. The most prominent VOCs identified in amputated limbs/feet were decomposition related however, one VOC—sevoflurane, originated from anaesthesia during the surgeries. It was determined that the VOC profile of aged and relatively recent training aids were variable. The aged training aids sampled over time had less variability (compared to more recent training aids). Additionally, the VOC profiles of samples was not found variable owing to the storage conditions—room temperature, refrigerator or freezer. Overall, a 98.4% detection rate was observed for amputated limbs/feet used as CDD training aids and the presence of non-decomposition related VOCs such as sevoflurane did not appear to impact the CDDs’ detection capability. This study highlights that the presence of decomposition VOCs in amputated limbs/feet and their high detection rate by CDDs validates their use as alternative CDD training aids.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetic patients' in the context of amputated limbs/feet used as training aids. Diabetes is a specific disease name, so the classification is Y. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "sevoflurane"
+  ],
+  "compound_CID": [
+    {
+      "sevoflurane": 5206
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "sevoflurane_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of amputated limbs/feet from diabetic patients as training aids for cadaver detection dogs and analyzes the volatile organic compounds (VOCs) present in these samples. Sevoflurane is mentioned as a VOC originating from anesthesia during surgeries, not as a factor related to diabetes itself. There is no evidence or indication in the abstract that sevoflurane has any relationship with diabetes; rather, it is noted as a surgical artifact unrelated to the disease pathology or progression."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions various classes of volatile organic compounds (VOCs) but only specifies one chemical compound by name: sevoflurane, which is noted as originating from anesthesia during surgeries. Other VOCs are described generally by class rather than specific chemical names."
+}

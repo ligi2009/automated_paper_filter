@@ -1,0 +1,35 @@
+{
+  "id": 4655,
+  "title": "Investigating the Potential of Non-Invasive Breath Test Analysis for Early Detection of Oral Cancer: A Systematic Review",
+  "Abstract": "Oral cancer is the 6th most common type of human cancer with a survival rate of around 50% originates in the squamous cells of the mouth and throat. Early diagnosis of oral cancer remains the cornerstone to enhance treatment outcomes as many cases are still diagnosed at advanced stages. The exhaled-breath-analysis tests identifying novel Volatile Organic Compounds (VOC) as biomarkers for oral cancer provide an emerging alternative as a non-invasive diagnostic tool. Objective: To investigate the potential of non-invasive exhaled breath test analysis using VOCs as biomarkers for the early detection of oral cancer. Methods: Epidemiological studies published from twenty years (2004-2024) were included from PubMed, Google Scholar, Sci-hub and Science Direct databases using preferred reporting items for systematic reviews and meta-analyses guidelines. Results: According to this systematic review breath analysis tests coupled with other methods could serve as a feasible supplemental tool with high sensitivity, specificity, and accuracy for identifying oral cancer. The cancer-associated 40 novel VOC biomarkers identified in this review mostly belong to groups including, Alkanes, aldehydes, Ketones, and alcohols. Conclusions: Exhaled breath analysis techniques including Gas-Chromatography (GC), Mass-Spectrometry (MS), Selected-Ion-Flow-Tube (SIFT) and Polymer-based e-nose identified 40 novel VOC biomarkers belonging to Alkane, Aldehyde, Ketone, and Alcohol Groups. The results indicate that the exhaled breath analysis tests could serve as a feasible, non-invasive diagnostic tool to supplement the traditional diagnostic procedures like biopsy and assist in generating results with high sensitivity, specificity, and accuracy for identifying oral cancer at an early stage.",
+  "Disease_List": [
+    "Oral cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'oral cancer' multiple times as a specific disease. It discusses the diagnosis, biomarkers, and detection methods specifically for oral cancer, which is a distinct disease entity. Therefore, the classification is Y with 'oral cancer' listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Oral cancer"
+  ],
+  "UMLS_search_results": {
+    "Oral cancer": [
+      {
+        "ui": "C0153381",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153381",
+        "name": "Malignant neoplasm of mouth",
+        "mesh_id": "D009062"
+      },
+      {
+        "ui": "C0220641",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220641",
+        "name": "Lip and Oral Cavity Carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

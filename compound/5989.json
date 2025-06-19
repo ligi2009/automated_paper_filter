@@ -1,0 +1,111 @@
+{
+  "id": 5989,
+  "title": "Faecal volatile biomarkers of Clostridium difficile infection",
+  "Abstract": "Care of patients with potential CDI can involve isolation and use of antibiotics, often before a definitive diagnosis is available, impacting healthcare resource and contributing to antibiotic resistance. There is anecdotal evidence that the faeces of CDI patients have a distinctive odour, while it is well-established that changes in the gut microbiota are associated with changes in the volatile organic compounds (VOC) produced. A total of twenty-four candidate volatile biomarkers were identified from a review of the literature including in vitro, animal and human studies. Using thermal desorption-gas chromatography-time-of flight mass spectrometry (TD-GC-ToFMS), VOC emission rates were determined on stored frozen stool samples from 53 CDI-positive and 53 CDI-negative patients with unexplained diarrhoea which had previously been diagnosed using enzymatic and nucleic acid amplification tests. Sample preparation was limited to placement of a subsample in an appropriate container. Compounds exhibiting a statistically significant difference (p < 0.05) in emission rate between the CDI-positive and–negative groups and a corresponding area under the receiver-operator characteristic curve (ROC) >0.7 were considered potentially indicative of CDI. Seven compounds were so identified: propan-1-ol (ROC 0.75), 3-methylbutanal (ROC 0.84), ethyl propionate (ROC 0.81), hexanoic acid (ROC 0.73), 4-methylphenol (ROC 0.81), dodecane (ROC 0.80) and indole (ROC 0.85). A number of potential volatile biomarkers of CDI can be sampled rapidly and with little prior preparation from faecal samples of patients with diarrhoea. Of these 4-methylphenol (p-cresol) is of particular interest as it has been anecdotally linked to CDI and is closely related to the biology and virulence of Clostridium difficile. This approach shows promise for the rapid, point-of-care diagnosis of CDI with good sensitivity and specificity.",
+  "Disease_List": [
+    "Clostridium difficile infection (CDI)"
+  ],
+  "Reason": "The abstract explicitly mentions 'CDI' multiple times, which stands for Clostridium difficile infection, a specific disease. It discusses diagnosis, biomarkers, and patient samples related to CDI, clearly identifying it as the disease under study.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Clostridium difficile infection (CDI)"
+  ],
+  "UMLS_search_results": {
+    "Clostridium difficile infection (CDI)": []
+  },
+  "MRCONSO_search_results": {
+    "Clostridium difficile infection (CDI)": [
+      "Clostridium difficile infection",
+      "clostridium difficile infection",
+      "Clostridium difficile Infection",
+      "clostridium difficile infections",
+      "Clostridium difficile Infections"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Clostridium difficile infection (CDI)_via_Clostridium difficile infection": [
+      {
+        "ui": "C0343386",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0343386",
+        "name": "Clostridium difficile infection",
+        "mesh_id": "D003015"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "propan-1-ol",
+    "3-methylbutanal",
+    "ethyl propionate",
+    "hexanoic acid",
+    "4-methylphenol",
+    "dodecane",
+    "indole",
+    "p-cresol"
+  ],
+  "compound_CID": [
+    {
+      "propan-1-ol": 1031,
+      "3-methylbutanal": 11552,
+      "ethyl propionate": 7749,
+      "hexanoic acid": 8892,
+      "4-methylphenol": 2879,
+      "dodecane": 8182,
+      "indole": 798,
+      "p-cresol": 2879
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "propan-1-ol_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies propan-1-ol as one of seven volatile organic compounds that show a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a receiver-operator characteristic curve (ROC) value of 0.75. This indicates that propan-1-ol is potentially indicative of Clostridium difficile infection (CDI) and may serve as a biomarker for the disease. Therefore, there is evidence of a relationship between propan-1-ol and CDI based on the differential presence of this compound in stool samples from infected patients."
+      }
+    },
+    {
+      "3-methylbutanal_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 3-methylbutanal as one of seven volatile organic compounds that show a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a high area under the ROC curve (0.84), indicating good discriminatory power. This suggests that 3-methylbutanal is a potential volatile biomarker indicative of Clostridium difficile infection (CDI). Therefore, there is evidence of a relationship between 3-methylbutanal and CDI based on its differential presence in stool samples of infected patients."
+      }
+    },
+    {
+      "ethyl propionate_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies ethyl propionate as one of seven volatile organic compounds that exhibit a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with an area under the ROC curve of 0.81, indicating good discriminatory power. This suggests that ethyl propionate is a potential volatile biomarker indicative of Clostridium difficile infection. Therefore, there is evidence of a relationship between ethyl propionate and CDI based on its differential presence in stool samples of infected patients."
+      }
+    },
+    {
+      "hexanoic acid_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies hexanoic acid as one of seven volatile organic compounds that exhibit a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a ROC value of 0.73 indicating potential as a biomarker for Clostridium difficile infection. This suggests a relationship between hexanoic acid and CDI, as its presence or altered levels in fecal samples are associated with the disease."
+      }
+    },
+    {
+      "4-methylphenol_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 4-methylphenol as one of seven volatile organic compounds with a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a ROC value of 0.81 indicating good diagnostic potential. It is specifically noted that 4-methylphenol (p-cresol) is of particular interest due to its anecdotal link to CDI and its close relation to the biology and virulence of Clostridium difficile. This evidence supports a clear relationship between 4-methylphenol and Clostridium difficile infection."
+      }
+    },
+    {
+      "dodecane_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies dodecane as one of seven volatile organic compounds (VOCs) that exhibit a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a receiver-operator characteristic curve (ROC) value of 0.80, indicating good discriminatory power. This suggests that dodecane is potentially indicative of Clostridium difficile infection (CDI) and may serve as a biomarker for the disease. Therefore, there is evidence of a relationship between dodecane and CDI based on the VOC analysis of stool samples."
+      }
+    },
+    {
+      "indole_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies indole as one of seven volatile organic compounds with a statistically significant difference in emission rates between CDI-positive and CDI-negative patients, with a high ROC value of 0.85 indicating good discriminatory power. This suggests that indole is potentially indicative of Clostridium difficile infection. Although the abstract highlights 4-methylphenol (p-cresol) more specifically in relation to CDI biology and virulence, the inclusion of indole among the significant biomarkers supports a relationship between indole and CDI."
+      }
+    },
+    {
+      "p-cresol_Clostridium_difficile_infection_(CDI)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 4-methylphenol (p-cresol) as one of seven volatile organic compounds with statistically significant differences in emission rates between CDI-positive and CDI-negative patients, with a ROC value of 0.81 indicating good diagnostic potential. Furthermore, p-cresol is noted to be of particular interest due to anecdotal links to CDI and its close relation to the biology and virulence of Clostridium difficile. This evidence supports a clear relationship between p-cresol and CDI."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names seven volatile organic compounds identified as potential biomarkers for Clostridium difficile infection (CDI). These compounds are propan-1-ol, 3-methylbutanal, ethyl propionate, hexanoic acid, 4-methylphenol, dodecane, and indole. Additionally, 4-methylphenol is noted to be also known as p-cresol, which is highlighted for its biological relevance to CDI. General terms like 'volatile organic compounds' or 'biomarkers' were excluded, focusing only on the explicitly named chemical substances."
+}

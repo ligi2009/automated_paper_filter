@@ -1,0 +1,117 @@
+{
+  "id": 2691,
+  "title": "Hypoxic volatile metabolic markers in the MDA-MB-231 breast cancer cell line",
+  "Abstract": "Hypoxia in disease describes persistent low oxygen conditions, observed in a range of pathologies, including cancer. In the discovery of biomarkers in biological models, pathophysiological traits present a source of translatable metabolic products for the diagnosis of disease in humans. Part of the metabolome is represented by its volatile, gaseous fraction; the volatilome. Human volatile profiles, such as those found in breath, are able to diagnose disease, however accurate volatile biomarker discovery is required to target reliable biomarkers to develop new diagnostic tools. Using custom chambers to control oxygen levels and facilitate headspace sampling, the MDA-MB-231 breast cancer cell line was exposed to hypoxia (1% oxygen) for 24 hours. The maintenance of hypoxic conditions in the system was successfully validated over this time period. Targeting and non-targeting gas chromatography mass spectrometry approaches revealed four significantly altered volatile organic compounds when compared to control cells. Three compounds were actively consumed by cells: methyl chloride, acetone and n-Hexane. Cells under hypoxia also produced significant amounts of styrene. This work presents a novel methodology for identification of volatile metabolisms under controlled gas conditions with novel observations of volatile metabolisms by breast cancer cells.",
+  "Disease_List": [
+    "cancer",
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' and more specifically 'breast cancer' (MDA-MB-231 breast cancer cell line). These are specific disease names, which justifies classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "methyl chloride",
+    "acetone",
+    "n-Hexane",
+    "styrene"
+  ],
+  "compound_CID": [
+    {
+      "methyl chloride": 6327,
+      "acetone": 180,
+      "n-Hexane": 8058,
+      "styrene": 7501
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "methyl chloride_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving breast cancer cells (MDA-MB-231) exposed to hypoxia, where volatile organic compounds were analyzed. Methyl chloride was one of the compounds actively consumed by these cancer cells under hypoxic conditions. This indicates a metabolic interaction between methyl chloride and cancer cells, suggesting a relationship between methyl chloride and cancer in the context of cancer cell metabolism."
+      },
+      "methyl chloride_breast_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where methyl chloride was identified as one of the volatile organic compounds actively consumed by these breast cancer cells. This indicates a metabolic interaction between breast cancer cells and methyl chloride, suggesting a relationship between the compound methyl chloride and breast cancer in the context of cellular metabolism."
+      }
+    },
+    {
+      "acetone_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving breast cancer cells (MDA-MB-231) under hypoxic conditions, where acetone was identified as one of the volatile organic compounds actively consumed by these cancer cells. This indicates a metabolic relationship between acetone and cancer cells, suggesting that acetone metabolism is altered in the context of cancer. Therefore, there is evidence of a relationship between acetone and cancer based on the metabolic activity observed in the cancer cell line."
+      },
+      "acetone_breast_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where acetone was identified as one of the volatile organic compounds actively consumed by these breast cancer cells. This indicates a metabolic relationship between acetone and breast cancer cells under hypoxic conditions, suggesting that acetone metabolism is altered in the context of breast cancer. Therefore, there is evidence of a relationship between acetone and breast cancer based on the metabolic activity observed."
+      }
+    },
+    {
+      "n-Hexane_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where n-Hexane was one of the volatile organic compounds actively consumed by these cancer cells. This indicates a metabolic interaction between n-Hexane and cancer cells, suggesting a relationship between n-Hexane and cancer in the context of volatile metabolism. Although the abstract does not explicitly state that n-Hexane causes cancer, it provides evidence of a biochemical relationship between n-Hexane and cancer cell metabolism."
+      },
+      "n-Hexane_breast_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where n-Hexane was identified as one of the volatile organic compounds actively consumed by these breast cancer cells. This indicates a metabolic interaction between breast cancer cells and n-Hexane, suggesting a relationship between the compound and the disease at the cellular metabolic level."
+      }
+    },
+    {
+      "styrene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes an experiment involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where it was observed that these cancer cells produced significant amounts of styrene. This indicates a metabolic relationship between styrene and cancer cells, specifically breast cancer cells, suggesting that styrene is associated with cancer cell metabolism. Therefore, there is evidence of a relationship between the compound styrene and cancer."
+      },
+      "styrene_breast_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes an experiment involving the MDA-MB-231 breast cancer cell line exposed to hypoxia, where it was observed that these breast cancer cells produced significant amounts of styrene. This indicates a metabolic relationship between breast cancer cells and the compound styrene, suggesting that styrene is associated with breast cancer cell metabolism under hypoxic conditions."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions four volatile organic compounds identified in the study: methyl chloride, acetone, n-Hexane, and styrene. These are named chemical substances involved in the metabolic changes observed under hypoxic conditions in breast cancer cells."
+}

@@ -1,0 +1,82 @@
+{
+  "id": 348,
+  "title": "Isoprene and its Overall Impacts: Review",
+  "Abstract": "A clean environment is a suitable medium for providing requirements that sustain the organisms living therein. Hence, it is a ‘natural-store house’ to receive and provide the metabolic needs of the biotic and abiotic systems. It also accomplishes the crucial geochemical cycles that maintain their appropriate balance. The metabolites may be quantitatively and qualitatively meagre but cause good and bad impacts. The organisms also contribute to these metabolites. The anthropogenic interference a prime causes of environmental disturbances and renders the environment unsuitable. Isoprene is one of the biogenic and abiogenic volatile organic compounds prominently present in the lower troposphere. Normally, this volatile compound interacts with ozone, hydroxyl and oxides of nitrogen and causes depletion of ozone. Trees that combat unfavorable fluctuations in environmental parameters like high winds, tornadoes, extreme temperature, drought (a complex impact), flood, wild fires, and deficiency of nutrition, experience the influence of isoprene. Mostly the developing countries encounter poor air quality that contains particulate matter, pollutants resulting in respiratory illness, cardiovascular and cancerous ailments. The presence of volatile organic components in human exhaled air indicates their metabolic or the ambient environmental origin. The endogenous organic volatile compounds present in human breath are the biomarkers for the pathophysiological conditions and are of clinical and biomedical significance, specifically during non-invasive estimations. Although, isoprene has attracted researchers but its pathophysiological impacts need more investigations, hence, this presentation to evaluate the effects of isoprene in biosphere.",
+  "Disease_List": [
+    "respiratory illness",
+    "cardiovascular ailments",
+    "cancerous ailments"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease categories such as 'respiratory illness', 'cardiovascular ailments', and 'cancerous ailments'. These are specific disease-related terms rather than general references to disease or health conditions. Therefore, the classification is 'Y' with these diseases listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "respiratory illness"
+  ],
+  "UMLS_search_results": {
+    "respiratory illness": [],
+    "cardiovascular ailments": [],
+    "cancerous ailments": []
+  },
+  "MRCONSO_search_results": {
+    "respiratory illness": [
+      "Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)",
+      "Encourage to avoid smoke, pollutants, and persons with respiratory illnesses"
+    ],
+    "cardiovascular ailments": [],
+    "cancerous ailments": []
+  },
+  "MRCONSO_UMLS_results": {
+    "respiratory illness_via_Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)": [
+      {
+        "ui": "C5915031",
+        "rootSource": "NIC",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5915031",
+        "name": "Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "Isoprene",
+    "Ozone",
+    "Hydroxyl",
+    "Oxides of nitrogen"
+  ],
+  "compound_CID": [
+    {
+      "Isoprene": 6557,
+      "Ozone": 24823,
+      "Hydroxyl": 157350,
+      "Oxides of nitrogen": 25352
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Isoprene_respiratory_illness": {
+        "relationship": "N",
+        "reason": "The abstract discusses isoprene as a biogenic and abiogenic volatile organic compound present in the lower troposphere and its interactions with atmospheric components like ozone. It mentions that poor air quality containing particulate matter and pollutants results in respiratory illness, but it does not specifically link isoprene to causing respiratory illness. The abstract also notes that isoprene's pathophysiological impacts require further investigation, indicating that there is no clear evidence currently establishing a direct relationship between isoprene and respiratory illness."
+      }
+    },
+    {
+      "Ozone_respiratory_illness": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that poor air quality, which includes pollutants and particulate matter, results in respiratory illness among other health issues. Ozone is described as a compound that interacts with volatile organic compounds and is part of the atmospheric chemistry affecting air quality. Although the abstract focuses more on isoprene, it clearly links air pollutants, including ozone, to respiratory illness, indicating a relationship between ozone and respiratory illness."
+      }
+    },
+    {
+      "Hydroxyl_respiratory_illness": {
+        "relationship": "N",
+        "reason": "The abstract mentions hydroxyl as a reactive species that interacts with isoprene and ozone, contributing to ozone depletion. It also discusses respiratory illness in the context of poor air quality containing particulate matter and pollutants, but does not explicitly link hydroxyl itself to causing or influencing respiratory illness. Therefore, there is no clear evidence in the abstract of a direct relationship between hydroxyl and respiratory illness."
+      }
+    },
+    {
+      "Oxides of nitrogen_respiratory_illness": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that poor air quality, which contains particulate matter and pollutants, results in respiratory illness among other ailments. It also states that oxides of nitrogen interact with other compounds like isoprene and ozone in the atmosphere, contributing to environmental disturbances and poor air quality. Although the abstract does not explicitly state a direct causal link between oxides of nitrogen and respiratory illness, it implies that oxides of nitrogen are part of the pollutant mix in poor air quality that leads to respiratory illness. Therefore, there is evidence of a relationship between oxides of nitrogen and respiratory illness based on their role in air pollution."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds isoprene, ozone, hydroxyl, and oxides of nitrogen as volatile organic compounds involved in atmospheric and biological processes. These are specific chemical substances rather than general terms."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5051,
+  "title": "On the Fate of VOCs During the Spring 2020 COVID‐19 Lockdowns in Europe: A Study Based on the AirBase Data",
+  "Abstract": "The rapid spread of the SARS‐CoV‐2 virus lead many European governments to issue stay‐at‐home orders for the sake of controlling its impacts on the health systems. The associated decrease in human activities and therefore emissions provided a unique opportunity for a real world laboratory for atmospheric scientists. The impact on primary emissions, that is, NO2 ${\\text{NO}}_{2}$ , has been vastly studied but its consequences on secondary pollutants, O3 ${\\mathrm{O}}_{3}$ and secondary organic aerosol, have been reported to a lesser degree and the understanding is more limited. One reason is the chronic imbalance in the attention dedicated to volatile organic compounds. In the present study, we report on the evolution of volatile organic compounds under lockdown conditions in Europe by analyzing the concentrations relayed to the Airbase service of the European Environmental Agency. Subsetting was performed to account for human activity and the influence of meteorology. Traffic or urban stations exhibited the most important reduction in benzene and, more substantially, toluene concentrations. Xylenes, trimethylbenzenes, and ethylbenzene also decreased under lockdown conditions, though less when the synoptic conditions were associated with slow flows. Acyclic alkenes evidenced no change or increased slightly, whereas n‐alkanes increased. The evolution of the relative importance of the sources was investigated by means of diagnostic ratios (toluene to benzene and benzene to toluene to ethylbenzene) and exhibited a shift from traffic toward biomass/biofuel/coal burning, indicating a possible increase in the domestic use of solvents.",
+  "Disease_List": [
+    "SARS-CoV-2"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV-2', which is the virus responsible for COVID-19, a specific disease. Although the focus of the abstract is on atmospheric science and emissions during lockdown, the mention of SARS-CoV-2 directly relates to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "SARS-CoV-2"
+  ],
+  "UMLS_search_results": {
+    "SARS-CoV-2": [
+      {
+        "ui": "C5203676",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203676",
+        "name": "SARS-CoV-2",
+        "mesh_id": "D000086402"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

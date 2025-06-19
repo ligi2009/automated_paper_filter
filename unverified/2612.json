@@ -1,0 +1,20 @@
+{
+  "id": 2612,
+  "title": "Análise por cromatografia gasosa das emissões de compostos orgânicos voláteis provenientes de motores de combustão interna",
+  "Abstract": "X FERREIRA, S. L. (2006). Analysis of the emissions of volatile organic compounds from the internai combustion engines by gas chromatography. Dissertação (Mestrado). Escola de Engenharia de São Carlos, Universidade de São Paulo, São Carlos, 2006. Air Pollution 's is one ofthe most serious environment problems concerning human animais and vegetables life. The increase of concentration of atmospheric pollutants is generated mainly due to increasing urbatúzation and the increase on the number of motor vehicles. The emissions caused by vehicles contain severa! toxic substances as: carbon monoxide (CO), uitrogen oxides (NOx), volatile organic compounds (VOC), polycyclic aromatic hydrocarbons (P AH) and others substances ending quite negative effect on health. Considering this situatiou, this study described the procedures of analysis of pollutant gases emitted by cngines, such as volatile organic compowtds (benzene, toluene, etbilbenzene, o-xylene, m-xylene and p-xylene) by using High Resolution Gas Chromatography (HRGC) applied to diesel, B 10 mixture, and ethat10l emissions analysis. Considering the use of diesel and B I O as fl.Jel, a comparative studies has been performed for fossil fitei (diesel) and biodiesel by varying some parametcrs ofthe engines .. Also, detennination of these toxic substattces in the emissions of engines had been made using ethat10l as fitei. In the emissions o f this type o f engine varying the parameters as mill.1ure quality and rotation had been detected benzene at concentration values 0,129 ± 0,02 1, 0,124 ± 0,020 e 0,132 ± 0,007 J.tgmL· (rich, stoichiometry and lean mill.1ure); 0, 134 ± 0,017, 0, 129 ± 0,007 e O, 133 ± 0,044 J.tgtnL· (1700 rpm, 2200 rpm and 2700 rpm, respectively) that can be proceed ing from the lubricant oi I. In genera l, for CI engine buming diesel o r B 1 O mixture it has been observed drastically reduction in the emissions of the aromatic compounds by using B 1 O. Especially for benzene the reduction of concentrations occurs on the levei of about 24.5%. Althougb, it has obtained a concentration value below 1 J.lgmL· as much as i.n tbe using diesel and BlO, tl.ús reduction is, extremely s ignificatlt, to being benzene a carcinogenic compound . Moreover, the addi tion of biodiesel to tlte diesel has been showed efficicnt in tbc rcduction of tbe pollutants emissions.",
+  "Disease_List": [
+    "carcinogenic compound"
+  ],
+  "Reason": "The abstract explicitly mentions 'benzene' as a 'carcinogenic compound,' which relates to cancer, a specific disease. Although 'carcinogenic compound' is a general term indicating cancer-causing potential, cancer is a specific disease. Therefore, the mention of benzene as carcinogenic implies a direct relation to a specific disease (cancer). No other specific disease names are mentioned.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "carcinogenic compound": []
+  },
+  "MRCONSO_search_results": {
+    "carcinogenic compound": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

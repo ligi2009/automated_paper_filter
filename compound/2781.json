@@ -1,0 +1,95 @@
+{
+  "id": 2781,
+  "title": "Antifungal activity of bio-active cell-free culture extracts and volatile organic compounds (VOCs) synthesised by endophytic fungal isolates of Garden Nasturtium",
+  "Abstract": "Antimicrobial resistance in fungal pathogens (both human and plant) is increasing alarmingly, leading to massive economic crises. The existing anti-fungal agents are becoming ineffective, and the situation worsens on a logarithmic scale. Novel antifungals from unique natural sources are highly sought to cope sustainably with the situation. Metabolites from endophytic microbes are the best-fitted alternatives in this case. Endophytes are the untapped sources of ‘plants’ internal microbial population’ and are promising sources of effective bio-therapeutic agents. Fungal endophytes were isolated from Tropaeolum majus and checked for antifungal activity against selected plant and human pathogens. Bioactive metabolites were identified through chromatographic techniques. The mode of action of those metabolites was evaluated through various spectroscopic techniques. The production of antifungal metabolite was optimized also. In particular VOCs (volatile organic compounds) of TML9 were tested in vitro for their anti-phytopathogenic activity. Ethyl acetate (EA) extract of cell-free culture components of Colletotrichum aenigma TML3 exhibited broad-spectrum antifungal activity against four species of Candida and the major constituents reported were 6-pentyl-2H-pyran-2-one, 2-Nonanone, 1 propanol 2-amino. The volatile metabolites, trans-ocimene, geraniol, and 4-terpinyl acetate, produced from Curvularia lunata TML9, inhibited the growth of some selected phyto pathogens. EA extract hampered the biofilm formation, minimised the haemolytic effect, and blocked the transformation of Candida albicans (MTCC 4748) from yeast to hyphal form with a Minimum Fungicidal Concentration (MFC) of 200–600 µg mL−1. Central carbohydrate metabolism, ergosterol synthesis, and membrane permeability were adversely affected and caused the lethal leakage of necessary macromolecules of C. albicans. Volatile metabolites inhibited the growth of phytopathogens i.e., Rhizoctonia solani, Alternaria alternata, Botrytis cinerea, Cercospora beticola, Penicillium digitatum, Aspergillus fumigatus, Ceratocystis ulmi, Pythium ultimum up to 89% with an IC50 value of 21.3–69.6 µL 50 mL−1 and caused leakage of soluble proteins and other intracellular molecules. Citrusy sweet odor volatiles of TML9 cultured in wheat-husk minimised the infections of Penicillium digitatum (green mold), in VOC-exposed sweet oranges (Citrus sinensis). Volatile and non-volatile antifungal metabolites of these two T. majus endophytes hold agricultural and pharmaceutical interests. Metabolites of TML3 have strong anti-Candida activity and require further assessment for therapeutic applications. Also, volatile metabolites of TML9 can be further studied as a source of antifungals. The present investigational outcomes bio-prospects the efficacy of fungal endophytes of Garden Nasturtium.",
+  "Disease_List": [
+    "Candida albicans infection",
+    "green mold"
+  ],
+  "Reason": "The abstract explicitly mentions 'Candida albicans', a specific fungal pathogen known to cause candidiasis in humans, which is a specific disease. It also refers to 'green mold' caused by Penicillium digitatum, a specific plant disease affecting sweet oranges. These are specific disease names rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Candida albicans infection"
+  ],
+  "UMLS_search_results": {
+    "Candida albicans infection": [
+      {
+        "ui": "C0276680",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276680",
+        "name": "Infection by Candida albicans",
+        "mesh_id": "None"
+      }
+    ],
+    "green mold": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Ethyl acetate",
+    "6-pentyl-2H-pyran-2-one",
+    "2-Nonanone",
+    "1 propanol 2-amino",
+    "trans-ocimene",
+    "geraniol",
+    "4-terpinyl acetate"
+  ],
+  "compound_CID": [
+    {
+      "Ethyl acetate": 8857,
+      "6-pentyl-2H-pyran-2-one": 33960,
+      "2-Nonanone": 13187,
+      "1 propanol 2-amino": "None",
+      "trans-ocimene": 5281553,
+      "geraniol": 637566,
+      "4-terpinyl acetate": 20960
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Ethyl acetate_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract provides clear evidence of a relationship between Ethyl acetate (EA) extract and Candida albicans infection. Specifically, the EA extract of cell-free culture components of Colletotrichum aenigma TML3 exhibited broad-spectrum antifungal activity against four species of Candida, including Candida albicans. The extract was shown to hamper biofilm formation, minimize haemolytic effects, and block the transformation of Candida albicans from yeast to hyphal form, with a Minimum Fungicidal Concentration (MFC) of 200–600 µg/mL. Additionally, the extract adversely affected central carbohydrate metabolism, ergosterol synthesis, and membrane permeability in C. albicans, causing lethal leakage of essential macromolecules. These findings demonstrate that Ethyl acetate extract has antifungal effects against Candida albicans and thus a direct relationship with Candida albicans infection."
+      }
+    },
+    {
+      "6-pentyl-2H-pyran-2-one_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that 6-pentyl-2H-pyran-2-one, identified as a major constituent in the ethyl acetate extract of Colletotrichum aenigma TML3, exhibits broad-spectrum antifungal activity against four species of Candida, including Candida albicans. The extract containing this compound was shown to inhibit biofilm formation, reduce haemolytic effects, and block the yeast-to-hyphal transformation of Candida albicans with a defined Minimum Fungicidal Concentration (MFC). Additionally, it adversely affected central carbohydrate metabolism, ergosterol synthesis, and membrane permeability in C. albicans, leading to lethal leakage of essential macromolecules. These findings indicate a clear antifungal relationship between 6-pentyl-2H-pyran-2-one and Candida albicans infection."
+      }
+    },
+    {
+      "2-Nonanone_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the ethyl acetate extract of Colletotrichum aenigma TML3, which contains 2-Nonanone as one of its major constituents, exhibited broad-spectrum antifungal activity against four species of Candida, including Candida albicans. The extract was shown to inhibit biofilm formation, reduce haemolytic effects, and block the yeast-to-hyphal transformation of Candida albicans, with a minimum fungicidal concentration of 200–600 µg/mL. These findings indicate that 2-Nonanone, as part of the bioactive metabolites, is associated with antifungal effects against Candida albicans infection."
+      }
+    },
+    {
+      "1 propanol 2-amino_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the ethyl acetate extract of Colletotrichum aenigma TML3, which contains 1 propanol 2-amino as a major constituent, exhibited broad-spectrum antifungal activity against four species of Candida, including Candida albicans. The extract was shown to inhibit biofilm formation, reduce haemolytic effect, and block the yeast-to-hyphal transformation of Candida albicans, with a defined minimum fungicidal concentration. Additionally, the extract adversely affected central carbohydrate metabolism, ergosterol synthesis, and membrane permeability of C. albicans, leading to lethal leakage of macromolecules. These findings provide clear evidence of an antifungal relationship between 1 propanol 2-amino (as part of the bioactive metabolites) and Candida albicans infection."
+      }
+    },
+    {
+      "trans-ocimene_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes that volatile metabolites including trans-ocimene, geraniol, and 4-terpinyl acetate produced from Curvularia lunata TML9 inhibited the growth of selected phytopathogens, but does not mention any activity of trans-ocimene against Candida albicans. The antifungal activity against Candida albicans is attributed specifically to metabolites from Colletotrichum aenigma TML3, with major constituents different from trans-ocimene. While trans-ocimene is noted for inhibiting phytopathogens, there is no clear evidence in the abstract linking trans-ocimene to antifungal effects on Candida albicans infection."
+      }
+    },
+    {
+      "geraniol_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes antifungal activity of metabolites from fungal endophytes against Candida albicans and other pathogens. It specifically mentions that the ethyl acetate extract of Colletotrichum aenigma TML3 exhibited broad-spectrum antifungal activity against Candida species, including C. albicans, with effects on biofilm formation and yeast-to-hyphal transformation. However, the volatile metabolites from Curvularia lunata TML9, which include geraniol, were reported to inhibit the growth of selected phytopathogens (plant pathogens) but there is no direct evidence or mention of geraniol inhibiting Candida albicans or having antifungal activity against this human pathogen. Therefore, while geraniol is noted as a volatile metabolite with antifungal activity against plant pathogens, the abstract does not provide clear evidence of a relationship between geraniol and Candida albicans infection."
+      }
+    },
+    {
+      "4-terpinyl acetate_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes that 4-terpinyl acetate is a volatile metabolite produced by Curvularia lunata TML9, which inhibited the growth of some selected phytopathogens (plant pathogens). However, the antifungal activity against Candida albicans infection is attributed specifically to metabolites from Colletotrichum aenigma TML3, including compounds like 6-pentyl-2H-pyran-2-one, 2-Nonanone, and 1 propanol 2-amino. The volatile metabolites from TML9, including 4-terpinyl acetate, were not reported to inhibit Candida albicans or affect its biofilm formation or yeast-to-hyphal transformation. Therefore, there is no clear evidence in the abstract that 4-terpinyl acetate has antifungal activity against Candida albicans infection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several chemical compounds identified as bioactive metabolites with antifungal activity, including Ethyl acetate (EA) extract, 6-pentyl-2H-pyran-2-one, 2-Nonanone, 1 propanol 2-amino, and volatile organic compounds such as trans-ocimene, geraniol, and 4-terpinyl acetate. These are distinct chemical substances rather than general terms."
+}

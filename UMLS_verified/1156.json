@@ -1,0 +1,35 @@
+{
+  "id": 1156,
+  "title": "Discrimination between the human prostate normal and cancer cell exometabolome by GC-MS",
+  "Abstract": "Serum prostate-specific antigen (PSA) is currently the most used biomarker in clinical practice for prostate cancer (PCa) detection. However, this biomarker has several drawbacks. In this work, an untargeted gas chromatography-mass spectrometry (GC-MS)-based metabolomic profiling of PCa cells was performed to prove the concept that metabolic alterations might differentiate PCa cell lines from normal prostate cell line. For that, we assessed the differences in volatile organic compounds (VOCs) profile in the extracellular medium (exometabolome) of four PCa cell lines and one normal prostate cell line at two pH values (pH 2 and 7) by GC-MS. Multivariate analysis revealed a panel of volatile metabolites that discriminated cancerous from normal prostate cells. The most altered metabolites included ketones, aldehydes and organic acids. Among these, we highlight pentadecane-2-one and decanoic acid, which were significantly increased in PCa compared to normal cells, and cyclohexanone, 4-methylheptan-2-one, 2-methylpentane-1,3-diol, 4-methylbenzaldehyde, 1-(3,5-dimethylfuran-2-yl)ethanone, methyl benzoate and nonanoic acid, which were significantly decreased in PCa cells. The PCa volatilome was markedly influenced by the VOCs extraction pH, though the discriminant capability was similar. Overall, our data suggest that VOCs monitoring has the potential to be used as a PCa screening methodology.",
+  "Disease_List": [
+    "prostate cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'prostate cancer (PCa)' multiple times as the specific disease being studied. The focus is on detecting and differentiating prostate cancer cells from normal prostate cells using metabolomic profiling. Therefore, specific disease names are clearly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "prostate cancer"
+  ],
+  "UMLS_search_results": {
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

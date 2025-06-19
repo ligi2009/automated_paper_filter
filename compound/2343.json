@@ -1,0 +1,237 @@
+{
+  "id": 2343,
+  "title": "Potential Impact of Smog on Human Health",
+  "Abstract": "Smog is a term used to describe pollution suspended in humid air. It's made up of different- sized dust particles, as well as non-metal oxides, organic compounds, and heavy metals. Apart from smoking cigarettes, one of the changeable variables leading to the development of respiratory diseases is exposure to toxic compounds dispersed in the air. . Smog is a visible form of air pollution that arises due to the over-emissions of some primary pollutants like volatile organic compounds (VOCs), hydrocarbons, SO, NO, and NO2 which further react in the atmosphere and give rise to toxic and carcinogenic secondary smog components. There are six categories of airborne chemicals that have a negative impact on public health and cause disease. Ozone, particulate matter (PM) of various dimensions - PM2.5, PM2.5–10, PM10, nitrogen – all has important implications. Lead, carbon dioxide, Sulphur dioxide, and carbon monoxide Small dust particles (PM10 and PM2.5) are given special attention since they can enter the lower respiratory tract. The page examines the impact of atmospheric pollutants on both the development and exacerbation of the disease, in addition to detailing the composition of smog and sources of air pollution. Asthma, chronic obstructive pulmonary disease, respiratory infections, and other respiratory tract illnesses can all cause symptoms. Lung cancer is a type of cancer that affects. Some of the legislative methods used in various nations to reduce exposure to harmful air pollution are presented.",
+  "Disease_List": [
+    "Asthma",
+    "Chronic obstructive pulmonary disease",
+    "Respiratory infections",
+    "Lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'Asthma', 'chronic obstructive pulmonary disease', 'respiratory infections', and 'lung cancer'. These are named diseases rather than general terms like 'disease' or 'illness', which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Asthma",
+    "Chronic obstructive pulmonary disease",
+    "Respiratory infections",
+    "Lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "Chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "Respiratory infections": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "Lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "SO",
+    "NO",
+    "NO2",
+    "Ozone",
+    "Lead",
+    "carbon dioxide",
+    "Sulphur dioxide",
+    "carbon monoxide"
+  ],
+  "compound_CID": [
+    {
+      "SO": 114845,
+      "NO": 24822,
+      "NO2": "None",
+      "Ozone": 24823,
+      "Lead": 5352425,
+      "carbon dioxide": 280,
+      "Sulphur dioxide": 1119,
+      "carbon monoxide": 281
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "SO_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 'SO' as one of the primary pollutants contributing to smog formation, which includes toxic and carcinogenic secondary components. It highlights that exposure to toxic compounds dispersed in the air, including 'SO', is a changeable variable leading to the development of respiratory diseases. Specifically, the abstract mentions asthma among the respiratory tract illnesses caused or exacerbated by atmospheric pollutants. Therefore, there is evidence in the abstract linking 'SO' exposure to asthma."
+      },
+      "SO_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 'SO' as one of the primary pollutants contributing to smog formation, which includes toxic and carcinogenic components harmful to respiratory health. It explicitly mentions that exposure to toxic compounds dispersed in the air, including those like SO, is a changeable variable leading to the development of respiratory diseases such as chronic obstructive pulmonary disease (COPD). Therefore, there is evidence in the abstract linking SO exposure to COPD."
+      },
+      "SO_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 'SO' (likely referring to sulfur oxides such as sulfur dioxide) as one of the primary pollutants contributing to smog formation. It explains that smog and its components, including sulfur oxides, have a negative impact on public health and are linked to the development and exacerbation of respiratory diseases. Specifically, respiratory infections are mentioned among the respiratory tract illnesses caused or worsened by exposure to these atmospheric pollutants. Therefore, there is evidence in the abstract supporting a relationship between the compound 'SO' and respiratory infections."
+      },
+      "SO_Lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that smog, which includes primary pollutants such as SO (likely referring to sulfur oxides), contributes to the formation of toxic and carcinogenic secondary smog components. It also highlights that exposure to toxic compounds dispersed in the air, including sulfur dioxide (SO2), has important implications for respiratory diseases. Lung cancer is mentioned as a disease affected by atmospheric pollutants. Therefore, there is evidence in the abstract that SO compounds are related to lung cancer through their role in air pollution and the generation of carcinogenic substances."
+      }
+    },
+    {
+      "NO_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO (nitric oxide) is one of the primary pollutants contributing to smog formation, which is linked to respiratory diseases including asthma. It mentions that exposure to toxic compounds dispersed in the air, such as NO, is a changeable variable leading to the development and exacerbation of respiratory diseases like asthma. Therefore, there is evidence in the abstract supporting a relationship between NO and asthma."
+      },
+      "NO_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO (nitric oxide) is one of the primary pollutants contributing to smog formation, which contains toxic and carcinogenic components. It further explains that exposure to toxic compounds dispersed in the air, including nitrogen oxides like NO, is a modifiable risk factor for respiratory diseases. Specifically, the abstract lists chronic obstructive pulmonary disease (COPD) among the respiratory illnesses caused or exacerbated by air pollution. Therefore, there is evidence in the abstract supporting a relationship between NO exposure and COPD."
+      },
+      "NO_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO (nitric oxide) is one of the primary pollutants contributing to smog formation, which contains toxic and carcinogenic components. It further explains that exposure to these airborne chemicals, including nitrogen oxides like NO, negatively impacts public health and causes respiratory diseases. Specifically, respiratory infections are mentioned as one of the respiratory tract illnesses caused or exacerbated by exposure to atmospheric pollutants such as NO. Therefore, there is evidence of a relationship between NO and respiratory infections based on the abstract."
+      },
+      "NO_Lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO (nitric oxide) is one of the primary pollutants emitted into the atmosphere, which reacts to form toxic and carcinogenic secondary smog components. It also highlights that exposure to toxic compounds dispersed in the air, including nitrogen oxides like NO, is a changeable variable leading to the development of respiratory diseases. Furthermore, lung cancer is mentioned as a disease affected by air pollution. Therefore, there is evidence in the abstract suggesting a relationship between NO exposure and lung cancer through its role in air pollution and formation of carcinogenic compounds."
+      }
+    },
+    {
+      "NO2_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract describes smog as containing various pollutants including NO2, which contribute to air pollution and have negative impacts on public health. It specifically mentions that exposure to toxic compounds dispersed in the air, such as NO2, is a changeable variable leading to the development of respiratory diseases. Asthma is listed among the respiratory tract illnesses that can be caused or exacerbated by atmospheric pollutants. Therefore, there is evidence in the abstract indicating a relationship between NO2 exposure and asthma."
+      },
+      "NO2_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes NO2 as one of the primary pollutants contributing to smog and air pollution, which negatively impacts public health. It specifically mentions that exposure to toxic compounds dispersed in the air, including nitrogen oxides like NO2, is a changeable variable leading to the development of respiratory diseases. Chronic obstructive pulmonary disease (COPD) is explicitly listed among the respiratory illnesses caused or exacerbated by atmospheric pollutants such as NO2. Therefore, there is evidence in the abstract supporting a relationship between NO2 exposure and COPD."
+      },
+      "NO2_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract describes NO2 as one of the primary pollutants contributing to smog formation, which contains toxic and carcinogenic components. It highlights that exposure to toxic compounds dispersed in the air, including nitrogen oxides like NO2, is a changeable variable leading to the development of respiratory diseases. Specifically, respiratory infections are mentioned among the respiratory tract illnesses caused or exacerbated by atmospheric pollutants such as NO2. Therefore, there is evidence in the abstract supporting a relationship between NO2 exposure and respiratory infections."
+      },
+      "NO2_Lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is one of the primary pollutants contributing to smog formation, which includes toxic and carcinogenic secondary components. It also highlights that exposure to toxic compounds dispersed in the air, including nitrogen oxides like NO2, is a changeable variable leading to the development of respiratory diseases. Lung cancer is specifically mentioned as a disease affected by atmospheric pollutants. Therefore, there is evidence in the abstract suggesting a relationship between NO2 exposure and lung cancer."
+      }
+    },
+    {
+      "Ozone_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including ozone, as airborne chemicals that negatively impact public health and cause respiratory diseases. It specifically mentions that atmospheric pollutants contribute to the development and exacerbation of diseases such as asthma. Therefore, there is evidence in the abstract that ozone, as a component of air pollution, is related to asthma."
+      },
+      "Ozone_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including ozone, as airborne chemicals that negatively impact public health and cause respiratory diseases. It specifically mentions that atmospheric pollutants contribute to the development and exacerbation of diseases such as chronic obstructive pulmonary disease (COPD). Since ozone is listed among the pollutants with important health implications and COPD is explicitly named as a disease affected by air pollution, there is evidence of a relationship between ozone exposure and COPD."
+      },
+      "Ozone_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including ozone, as airborne chemicals that negatively impact public health and cause respiratory diseases. It specifically mentions respiratory infections among the respiratory tract illnesses affected by air pollution. Since ozone is listed as one of the important pollutants in smog that contribute to respiratory diseases, there is evidence of a relationship between ozone exposure and respiratory infections."
+      },
+      "Ozone_Lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses smog and its components, including ozone, and their impact on respiratory diseases. It mentions that smog contains toxic and carcinogenic components and lists diseases such as asthma, chronic obstructive pulmonary disease, respiratory infections, and other respiratory tract illnesses. Lung cancer is mentioned as a type of cancer affecting the lungs, but the abstract does not provide specific evidence or a clear link between ozone exposure and the development or exacerbation of lung cancer. Therefore, based on the abstract alone, there is no clear relationship established between ozone and lung cancer."
+      }
+    },
+    {
+      "Lead_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution, highlighting various airborne chemicals including lead as components of pollution that negatively impact public health and cause respiratory diseases. It specifically mentions that exposure to toxic compounds dispersed in the air, such as heavy metals like lead, is a changeable variable leading to the development of respiratory diseases. Asthma is explicitly listed among the respiratory tract illnesses caused or exacerbated by atmospheric pollutants. Therefore, there is evidence in the abstract indicating a relationship between lead exposure and asthma."
+      },
+      "Lead_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution components, including lead, as airborne chemicals that negatively impact public health and cause respiratory diseases. It specifically mentions that exposure to toxic compounds dispersed in the air, such as those found in smog, is a changeable variable leading to the development of respiratory diseases including chronic obstructive pulmonary disease (COPD). Although the abstract does not isolate lead as the sole cause, it includes lead among harmful pollutants contributing to respiratory illnesses like COPD, indicating a relationship between lead exposure and COPD."
+      },
+      "Lead_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution, highlighting that heavy metals including lead are components of airborne pollutants. It states that exposure to toxic compounds dispersed in the air, such as lead, is a changeable variable leading to the development of respiratory diseases. Respiratory infections are explicitly mentioned as one of the respiratory tract illnesses caused or exacerbated by atmospheric pollutants. Therefore, there is evidence in the abstract that lead, as a component of air pollution, is related to respiratory infections."
+      },
+      "Lead_Lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses smog and its components, including lead as one of the airborne chemicals with negative health impacts. It mentions respiratory diseases such as asthma, chronic obstructive pulmonary disease, respiratory infections, and lung cancer. However, the abstract does not provide specific evidence or a direct link between lead exposure and the development of lung cancer. The relationship between lead and lung cancer is not clearly established or detailed in the abstract."
+      }
+    },
+    {
+      "carbon dioxide_Asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon dioxide as one of the airborne chemicals present in smog and air pollution. However, it does not provide specific evidence or details linking carbon dioxide directly to the development or exacerbation of asthma. The focus is more on other pollutants like ozone, particulate matter, nitrogen oxides, sulfur dioxide, and carbon monoxide in relation to respiratory diseases including asthma. Therefore, based on the abstract, there is no clear relationship established between carbon dioxide and asthma."
+      },
+      "carbon dioxide_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon dioxide as one of the airborne chemicals present in smog and air pollution. However, it does not provide specific evidence or details linking carbon dioxide exposure directly to the development or exacerbation of chronic obstructive pulmonary disease (COPD). The abstract generally associates air pollution and toxic compounds with respiratory diseases including COPD, but the specific role of carbon dioxide in causing or worsening COPD is not established or discussed."
+      },
+      "carbon dioxide_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon dioxide among several airborne chemicals that negatively impact public health and cause disease. It specifically mentions respiratory infections as one of the respiratory tract illnesses caused or exacerbated by exposure to atmospheric pollutants, including carbon dioxide. Although the abstract does not detail the exact mechanism, it implies a relationship between carbon dioxide exposure and respiratory infections within the context of air pollution and smog."
+      },
+      "carbon dioxide_Lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants and their impact on respiratory diseases, including lung cancer. While carbon dioxide is mentioned as one of the airborne chemicals present in pollution, the abstract does not provide any specific evidence or indication that carbon dioxide itself is directly related to the development or exacerbation of lung cancer. The focus is more on other pollutants such as volatile organic compounds, particulate matter, nitrogen oxides, and heavy metals as contributors to respiratory diseases and carcinogenic effects. Therefore, based on the abstract, there is no clear relationship established between carbon dioxide and lung cancer."
+      }
+    },
+    {
+      "Sulphur dioxide_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including Sulphur dioxide, as airborne chemicals that negatively impact public health and cause respiratory diseases. It specifically mentions that exposure to toxic compounds dispersed in the air, such as Sulphur dioxide, is a changeable variable leading to the development and exacerbation of respiratory diseases, including asthma. Therefore, there is evidence in the abstract indicating a relationship between Sulphur dioxide exposure and asthma."
+      },
+      "Sulphur dioxide_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including Sulphur dioxide, as part of air pollution that negatively impacts public health. It specifically mentions that exposure to toxic compounds dispersed in the air, such as Sulphur dioxide, is a changeable variable leading to the development of respiratory diseases. Chronic obstructive pulmonary disease (COPD) is explicitly listed among the respiratory diseases caused or exacerbated by atmospheric pollutants. Therefore, there is evidence in the abstract indicating a relationship between Sulphur dioxide exposure and COPD."
+      },
+      "Sulphur dioxide_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and its components, including Sulphur dioxide, as toxic compounds dispersed in the air that negatively impact public health. It specifically mentions respiratory infections among the respiratory tract illnesses caused or exacerbated by exposure to atmospheric pollutants such as Sulphur dioxide. Therefore, there is evidence in the abstract indicating a relationship between Sulphur dioxide exposure and respiratory infections."
+      },
+      "Sulphur dioxide_Lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses smog and its components, including Sulphur dioxide, and their general impact on respiratory diseases. It mentions that smog contains toxic and carcinogenic components and lists several respiratory illnesses such as asthma, chronic obstructive pulmonary disease, and respiratory infections. Lung cancer is mentioned as a type of cancer affecting the respiratory tract, but the abstract does not provide specific evidence or a direct link between Sulphur dioxide exposure and the development of lung cancer. Therefore, based on the abstract alone, there is no clear relationship established between Sulphur dioxide and lung cancer."
+      }
+    },
+    {
+      "carbon monoxide_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution as contributors to respiratory diseases, including asthma. It lists carbon monoxide among the airborne chemicals with negative health impacts. It also states that exposure to toxic compounds dispersed in the air, such as those found in smog, is a changeable variable leading to the development and exacerbation of respiratory diseases like asthma. Therefore, there is evidence in the abstract indicating a relationship between carbon monoxide exposure and asthma."
+      },
+      "carbon monoxide_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution components, including carbon monoxide, as toxic compounds dispersed in the air that negatively impact public health. It specifically mentions that exposure to these airborne chemicals, including carbon monoxide, is a changeable variable leading to the development and exacerbation of respiratory diseases such as chronic obstructive pulmonary disease (COPD). Therefore, there is evidence in the abstract indicating a relationship between carbon monoxide exposure and COPD."
+      },
+      "carbon monoxide_Respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses smog and air pollution components, including carbon monoxide, as toxic compounds dispersed in the air that negatively impact public health and cause respiratory diseases. It specifically mentions respiratory infections among the respiratory tract illnesses caused or exacerbated by exposure to airborne pollutants such as carbon monoxide. Therefore, there is evidence of a relationship between carbon monoxide exposure and respiratory infections."
+      },
+      "carbon monoxide_Lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants including carbon monoxide and their general impact on respiratory diseases. It mentions lung cancer as a disease affected by air pollution but does not provide specific evidence or a direct link between carbon monoxide exposure and lung cancer development. The focus is more on the overall impact of smog and particulate matter rather than isolating carbon monoxide as a causative agent for lung cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds involved in smog and air pollution, including sulfur oxides (SO, Sulphur dioxide), nitrogen oxides (NO, NO2), ozone, lead, carbon dioxide, and carbon monoxide. These are distinct chemical substances rather than general terms."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1763,
+  "title": "Non-Invasive Method to Detect Infection with Mycobacterium tuberculosis Complex in Wild Boar by Measurement of Volatile Organic Compounds Obtained from Feces with an Electronic Nose System",
+  "Abstract": "More effective methods to detect bovine tuberculosis, caused by Mycobacterium bovis, in wildlife, is of paramount importance for preventing disease spread to other wild animals, livestock, and human beings. In this study, we analyzed the volatile organic compounds emitted by fecal samples collected from free-ranging wild boar captured in Doñana National Park, Spain, with an electronic nose system based on organically-functionalized gold nanoparticles. The animals were separated by the age group for performing the analysis. Adult (>24 months) and sub-adult (12–24 months) animals were anesthetized before sample collection, whereas the juvenile (<12 months) animals were manually restrained while collecting the sample. Good accuracy was obtained for the adult and sub-adult classification models: 100% during the training phase and 88.9% during the testing phase for the adult animals, and 100% during both the training and testing phase for the sub-adult animals, respectively. The results obtained could be important for the further development of a non-invasive and less expensive detection method of bovine tuberculosis in wildlife populations.",
+  "Disease_List": [
+    "bovine tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'bovine tuberculosis' as a specific disease caused by Mycobacterium bovis. This is a clearly named disease rather than a general term like 'disease' or 'illness', so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "bovine tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "bovine tuberculosis": [
+      {
+        "ui": "C0041307",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041307",
+        "name": "Tuberculosis, Bovine",
+        "mesh_id": "D014380"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

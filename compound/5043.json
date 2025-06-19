@@ -1,0 +1,365 @@
+{
+  "id": 5043,
+  "title": "Phytochemical analysis and antimicrobial activity of Chorella vulgaris isolated from Unkal Lake",
+  "Abstract": "Objective: To determine the presence of bioactive molecules and to check their antimicrobial activity from green algae Chlorella vulgaris (AS-3) (C. vulgaris) isolated from Unkal Lake in Dharwad District, Karnataka, India. Methods: Based on the polarity, benzene, chloroform, ethyl acetate, ethanol, hexane, methanol, petroleum ether and distilled water were the solvents used for the preparation of algal extracts using Soxhlet apparatus, which were further subjected to phytochemical analysis and screening of antimicrobial activity. Human pathogens such as Staphylococcus aureus, Corynebacterium, Bacillus subtilis, Streptococcus, Escherichia coli, Salmonella Paratyphi B, Klebsiella pneumoniae, Aerobacter aerogenes, Candida albicans and Aspergillus niger were used for antimicrobial assay. Standard methods were followed for qualitative estimation of phytochemicals. Results: Phytochemical determination of bioactive molecules showed the presence of alkaloids, flavonoids, glycosides, carotenoids, phenols, lignins, saponins, sterols, tannins, reducing sugars, volatile oil, fats, amino acids and carbohydrates. In vitro analysis of organic solvent extracts of C. vulgaris, a green microalgae, showed an activity by suppressing the proliferation of bacterial, fungal and human pathogens. Four extracts (chloroform, ethyl acetate, hexane and methanol) showed effective inhibitory activity against the tested pathogens. Depending on the percentage of bioactive molecules present in each of the organic extracts, different extracts showed different inhibition zone diameters against the pathogens. Among the eight organic extracts used for the study, excellent inhibitory effects were shown by chloroform and methanol extracts. Conclusions: The present study indicates that green algae C. vulgaris is rich in natural compounds which are highly important in pharmacology and nutraceuticals. Although the presence of bioactive molecules is very less in the algae, excellent effect on the microbial pathogens was observed. Article history: Received 3 Aug 2015 Received in revised form 8 Sep 2015 Accepted 15 Mar 2016 Available online 20 May 2016",
+  "Disease_List": [
+    "Staphylococcus aureus infection",
+    "Corynebacterium infection",
+    "Bacillus subtilis infection",
+    "Streptococcus infection",
+    "Escherichia coli infection",
+    "Salmonella Paratyphi B infection",
+    "Klebsiella pneumoniae infection",
+    "Aerobacter aerogenes infection",
+    "Candida albicans infection",
+    "Aspergillus niger infection"
+  ],
+  "Reason": "The abstract explicitly mentions several human pathogens by name, including Staphylococcus aureus, Corynebacterium, Bacillus subtilis, Streptococcus, Escherichia coli, Salmonella Paratyphi B, Klebsiella pneumoniae, Aerobacter aerogenes, Candida albicans, and Aspergillus niger. These pathogens are associated with specific infectious diseases. Although the diseases themselves are not named explicitly, the pathogens are specific and well-known causes of particular diseases, so the classification is 'Y' for specific disease names mentioned in the form of pathogen names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Staphylococcus aureus infection",
+    "Corynebacterium infection",
+    "Streptococcus infection",
+    "Escherichia coli infection",
+    "Klebsiella pneumoniae infection",
+    "Candida albicans infection",
+    "Aspergillus niger infection"
+  ],
+  "UMLS_search_results": {
+    "Staphylococcus aureus infection": [
+      {
+        "ui": "C1318973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1318973",
+        "name": "Staphylococcus aureus infection",
+        "mesh_id": "D013203"
+      }
+    ],
+    "Corynebacterium infection": [
+      {
+        "ui": "C0010153",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010153",
+        "name": "Corynebacterium Infections",
+        "mesh_id": "D003354"
+      }
+    ],
+    "Bacillus subtilis infection": [],
+    "Streptococcus infection": [
+      {
+        "ui": "C0038395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038395",
+        "name": "Streptococcal Infections",
+        "mesh_id": "D013290"
+      }
+    ],
+    "Escherichia coli infection": [
+      {
+        "ui": "C0014836",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014836",
+        "name": "Escherichia coli Infections",
+        "mesh_id": "D004927"
+      }
+    ],
+    "Salmonella Paratyphi B infection": [],
+    "Klebsiella pneumoniae infection": [
+      {
+        "ui": "C0948802",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0948802",
+        "name": "Klebsiella pneumoniae infection",
+        "mesh_id": "None"
+      }
+    ],
+    "Aerobacter aerogenes infection": [],
+    "Candida albicans infection": [
+      {
+        "ui": "C0276680",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276680",
+        "name": "Infection by Candida albicans",
+        "mesh_id": "None"
+      }
+    ],
+    "Aspergillus niger infection": [
+      {
+        "ui": "C0276657",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276657",
+        "name": "Aspergillus niger infection",
+        "mesh_id": "C535390"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene",
+    "chloroform",
+    "ethyl acetate",
+    "ethanol",
+    "hexane",
+    "methanol",
+    "petroleum ether",
+    "distilled water"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241,
+      "chloroform": 6212,
+      "ethyl acetate": 8857,
+      "ethanol": 702,
+      "hexane": 8058,
+      "methanol": 887,
+      "petroleum ether": "None",
+      "distilled water": 962
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_Staphylococcus_aureus_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of various organic solvent extracts, including benzene, for preparing algal extracts from Chlorella vulgaris and testing their antimicrobial activity against pathogens including Staphylococcus aureus. However, the abstract does not provide any evidence that benzene itself has a direct relationship with Staphylococcus aureus infection. Instead, it mentions that certain extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity, while benzene is only listed as one of the solvents used for extraction. There is no indication that benzene is bioactive against Staphylococcus aureus or related to the infection in any way. Therefore, no clear relationship between benzene and Staphylococcus aureus infection is established based on this abstract."
+      },
+      "benzene_Corynebacterium_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of various organic solvent extracts, including benzene, for preparing algal extracts from Chlorella vulgaris and their antimicrobial activity against several pathogens including Corynebacterium. However, it does not provide any evidence that benzene itself has a direct relationship with Corynebacterium infection. Instead, benzene is mentioned only as a solvent used in the extraction process, not as a bioactive compound affecting the infection. The antimicrobial activity is attributed to the bioactive molecules present in the algal extracts, not to benzene. Therefore, there is no clear relationship between benzene and Corynebacterium infection based on this abstract."
+      },
+      "benzene_Streptococcus_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of benzene as a solvent to prepare algal extracts from Chlorella vulgaris and tests these extracts for antimicrobial activity against various pathogens including Streptococcus. However, it does not provide any evidence that benzene itself has a direct relationship with Streptococcus infection, either as a cause or treatment. The antimicrobial activity is attributed to bioactive molecules extracted from the algae, not to benzene. Therefore, there is no clear relationship between the compound benzene and Streptococcus infection based on this abstract."
+      },
+      "benzene_Escherichia_coli_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of benzene as a solvent to prepare algal extracts from Chlorella vulgaris and evaluates the antimicrobial activity of these extracts against various pathogens including Escherichia coli. However, benzene itself is not described as having a direct relationship with Escherichia coli infection. Instead, it is used as a solvent in the extraction process. The study focuses on the antimicrobial effects of the algal extracts, not on benzene as a compound affecting Escherichia coli infection. Therefore, there is no clear evidence of a direct relationship between benzene and Escherichia coli infection based on this abstract."
+      },
+      "benzene_Klebsiella_pneumoniae_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of various organic solvent extracts, including benzene, for preparing algal extracts from Chlorella vulgaris and testing their antimicrobial activity against several pathogens, including Klebsiella pneumoniae. However, the study does not provide any evidence that benzene itself has a direct relationship with Klebsiella pneumoniae infection. Instead, benzene is mentioned only as a solvent used in the extraction process, not as a bioactive compound affecting the infection. The antimicrobial activity observed is attributed to bioactive molecules present in the algal extracts, not to benzene. Therefore, there is no clear relationship between benzene and Klebsiella pneumoniae infection based on this abstract."
+      },
+      "benzene_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of various organic solvent extracts, including benzene, for preparing algal extracts from Chlorella vulgaris and their antimicrobial activity against pathogens including Candida albicans. However, benzene is mentioned only as a solvent used for extraction, not as a compound tested for antimicrobial activity or linked to Candida albicans infection. The study focuses on the inhibitory effects of certain extracts (chloroform, ethyl acetate, hexane, methanol) on pathogens, but does not provide evidence of any relationship between benzene itself and Candida albicans infection."
+      },
+      "benzene_Aspergillus_niger_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts, including benzene, for preparing algal extracts from Chlorella vulgaris and testing their antimicrobial activity against several pathogens, including Aspergillus niger. However, the study does not provide any evidence of a direct relationship between the compound benzene itself and Aspergillus niger infection. Benzene is mentioned only as a solvent used in the extraction process, not as a bioactive compound affecting the infection. The antimicrobial activity observed is attributed to bioactive molecules present in the algal extracts, not to benzene. Therefore, there is no clear relationship between benzene and Aspergillus niger infection based on this abstract."
+      }
+    },
+    {
+      "chloroform_Staphylococcus_aureus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of chloroform as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris and reports that the chloroform extract showed inhibitory activity against various pathogens, including Staphylococcus aureus. However, the relationship is between the chloroform extract of algae and antimicrobial activity, not between the chemical compound chloroform itself and Staphylococcus aureus infection. There is no evidence in the abstract that chloroform as a chemical compound is related to causing, treating, or influencing Staphylococcus aureus infection directly."
+      },
+      "chloroform_Corynebacterium_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where chloroform extracts of the green algae Chlorella vulgaris were tested for antimicrobial activity against various human pathogens, including Corynebacterium. The results showed that the chloroform extract exhibited effective inhibitory activity against the tested pathogens, which includes Corynebacterium. This indicates a relationship where chloroform extract has antimicrobial effects against Corynebacterium infection."
+      },
+      "chloroform_Streptococcus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where chloroform was used as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris. The chloroform extract showed effective inhibitory activity against various human pathogens, including Streptococcus. This indicates that compounds present in the chloroform extract have antimicrobial effects against Streptococcus bacteria, suggesting a relationship between chloroform-extracted compounds and the inhibition of Streptococcus infection."
+      },
+      "chloroform_Escherichia_coli_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where chloroform extracts of the green algae Chlorella vulgaris showed effective inhibitory activity against various human pathogens, including Escherichia coli. This indicates that chloroform extracts have antimicrobial properties that suppress the proliferation of E. coli, suggesting a relationship between chloroform (as a solvent for bioactive compounds) and Escherichia coli infection through its antimicrobial effect."
+      },
+      "chloroform_Klebsiella_pneumoniae_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where chloroform extracts of the green algae Chlorella vulgaris were tested for antimicrobial activity against various human pathogens, including Klebsiella pneumoniae. The results showed that the chloroform extract exhibited excellent inhibitory effects against the tested pathogens, which includes Klebsiella pneumoniae. Therefore, there is evidence of a relationship between the compound chloroform (as a solvent extract containing bioactive molecules) and antimicrobial activity against Klebsiella pneumoniae infection."
+      },
+      "chloroform_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that chloroform extracts of the green algae Chlorella vulgaris showed effective inhibitory activity against various pathogens, including Candida albicans. This indicates that chloroform extract has antimicrobial properties that suppress the proliferation of Candida albicans, establishing a relationship between chloroform (as a solvent extract) and Candida albicans infection."
+      },
+      "chloroform_Aspergillus_niger_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where chloroform was used as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris. The chloroform extract showed effective inhibitory activity against various pathogens, including Aspergillus niger, a fungal pathogen. This indicates that compounds extracted using chloroform have antimicrobial effects against Aspergillus niger, suggesting a relationship between chloroform extracts and inhibition of Aspergillus niger infection."
+      }
+    },
+    {
+      "ethyl acetate_Staphylococcus_aureus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including an ethyl acetate extract. The ethyl acetate extract showed effective inhibitory activity against tested pathogens, which included Staphylococcus aureus. This indicates that compounds extracted using ethyl acetate have antimicrobial effects against Staphylococcus aureus, suggesting a relationship between ethyl acetate-extracted bioactive molecules and Staphylococcus aureus infection."
+      },
+      "ethyl acetate_Corynebacterium_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including an ethyl acetate extract. The ethyl acetate extract showed effective inhibitory activity against tested pathogens, which included Corynebacterium species. This indicates that compounds extracted using ethyl acetate have antimicrobial effects against Corynebacterium, suggesting a relationship between ethyl acetate extract and Corynebacterium infection in terms of potential antimicrobial activity."
+      },
+      "ethyl acetate_Streptococcus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where various organic solvent extracts of the green algae Chlorella vulgaris, including ethyl acetate extract, were tested for antimicrobial activity against several human pathogens, including Streptococcus. The ethyl acetate extract showed effective inhibitory activity against the tested pathogens, which implies it has antimicrobial effects against Streptococcus species. Therefore, there is evidence of a relationship between the compound ethyl acetate (as a solvent extract containing bioactive molecules) and inhibition of Streptococcus infection."
+      },
+      "ethyl acetate_Escherichia_coli_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including ethyl acetate extracts. It specifically mentions that four extracts, including ethyl acetate, showed effective inhibitory activity against tested pathogens, among which Escherichia coli was included. This indicates that ethyl acetate extracts of C. vulgaris have antimicrobial effects against Escherichia coli, suggesting a relationship between the compound ethyl acetate (as a solvent extract medium) and inhibition of Escherichia coli infection."
+      },
+      "ethyl acetate_Klebsiella_pneumoniae_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where various organic solvent extracts of the green algae Chlorella vulgaris, including ethyl acetate extract, were tested for antimicrobial activity against several human pathogens, including Klebsiella pneumoniae. The ethyl acetate extract showed effective inhibitory activity against the tested pathogens, which implies that compounds extracted using ethyl acetate have antimicrobial effects against Klebsiella pneumoniae. Therefore, there is evidence of a relationship between ethyl acetate (as a solvent extracting bioactive compounds) and inhibition of Klebsiella pneumoniae infection."
+      },
+      "ethyl acetate_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that ethyl acetate extract of the green algae Chlorella vulgaris showed effective inhibitory activity against various tested pathogens, including Candida albicans. This indicates that compounds extracted using ethyl acetate have antimicrobial effects against Candida albicans, suggesting a relationship between ethyl acetate extract and Candida albicans infection."
+      },
+      "ethyl acetate_Aspergillus_niger_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where various solvent extracts of the green algae Chlorella vulgaris, including ethyl acetate extract, were tested for antimicrobial activity against several human pathogens, including Aspergillus niger. The results indicate that the ethyl acetate extract showed effective inhibitory activity against the tested pathogens, which includes Aspergillus niger. Therefore, there is evidence of a relationship where ethyl acetate extract from C. vulgaris exhibits antimicrobial effects against Aspergillus niger infection."
+      }
+    },
+    {
+      "ethanol_Staphylococcus_aureus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris against several pathogens, including Staphylococcus aureus. While ethanol is listed as one of the solvents used to prepare algal extracts, the results specifically highlight that chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the pathogens. There is no mention of ethanol extracts demonstrating significant antimicrobial effects against Staphylococcus aureus. Therefore, based on this abstract, there is no clear evidence of a relationship between ethanol and Staphylococcus aureus infection."
+      },
+      "ethanol_Corynebacterium_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including ethanol as one of the solvents used for extraction. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens, including Corynebacterium. There is no mention of ethanol extracts demonstrating antimicrobial activity against Corynebacterium or any other pathogens. Therefore, based on the abstract, there is no clear evidence of a relationship between ethanol and Corynebacterium infection."
+      },
+      "ethanol_Streptococcus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including ethanol as one of the solvents used for extraction. However, the results specifically highlight that chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against pathogens, including Streptococcus. There is no mention of ethanol extracts showing significant antimicrobial activity against Streptococcus or any other pathogens. Therefore, based on this abstract, there is no clear evidence of a relationship between ethanol and Streptococcus infection."
+      },
+      "ethanol_Escherichia_coli_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris against multiple pathogens including Escherichia coli. While ethanol is mentioned as one of the solvents used to prepare algal extracts, the results specifically highlight that chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the pathogens. There is no mention of ethanol extracts demonstrating antimicrobial activity against Escherichia coli. Therefore, based on this abstract, there is no clear evidence of a relationship between ethanol and Escherichia coli infection."
+      },
+      "ethanol_Klebsiella_pneumoniae_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various solvent extracts from the green algae Chlorella vulgaris, including ethanol, to test antimicrobial activity against several pathogens including Klebsiella pneumoniae. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Ethanol extract is mentioned as one of the solvents used for extraction but is not reported to have shown significant antimicrobial activity against Klebsiella pneumoniae. Therefore, there is no clear evidence from this abstract that ethanol has a relationship with Klebsiella pneumoniae infection in terms of antimicrobial activity."
+      },
+      "ethanol_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris against several pathogens, including Candida albicans. While ethanol was used as one of the solvents to prepare algal extracts, the results specifically highlight that chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the pathogens. There is no mention of ethanol extracts demonstrating antimicrobial activity against Candida albicans. Therefore, based on this abstract, there is no clear evidence of a relationship between ethanol and Candida albicans infection."
+      },
+      "ethanol_Aspergillus_niger_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes a study investigating antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris against multiple pathogens including Aspergillus niger. Among the solvents tested (benzene, chloroform, ethyl acetate, ethanol, hexane, methanol, petroleum ether, and distilled water), only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the pathogens. Ethanol extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of ethanol extract exhibiting antimicrobial activity against Aspergillus niger. Therefore, based on the abstract, there is no clear relationship between the compound ethanol and Aspergillus niger infection."
+      }
+    },
+    {
+      "hexane_Staphylococcus_aureus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including a hexane extract. The hexane extract showed effective inhibitory activity against tested pathogens, which included Staphylococcus aureus. This indicates that compounds extracted using hexane from C. vulgaris have antimicrobial effects against Staphylococcus aureus, demonstrating a relationship between the compound 'hexane' (as a solvent extract) and inhibition of Staphylococcus aureus infection."
+      },
+      "hexane_Corynebacterium_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of hexane as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris and tests these extracts for antimicrobial activity against various pathogens, including Corynebacterium. The hexane extract showed effective inhibitory activity against the tested pathogens, indicating antimicrobial properties. However, this does not establish a direct relationship between the compound 'hexane' itself and 'Corynebacterium infection.' Hexane is used as a solvent in the extraction process rather than being implicated as a cause or treatment of the infection. Therefore, there is no clear relationship between hexane and Corynebacterium infection based on the abstract."
+      },
+      "hexane_Streptococcus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that hexane extracts of the green algae Chlorella vulgaris showed effective inhibitory activity against tested pathogens, including Streptococcus. This indicates that hexane extracts contain bioactive molecules capable of suppressing the proliferation of Streptococcus bacteria, demonstrating a relationship between hexane (as a solvent extract) and Streptococcus infection through antimicrobial activity."
+      },
+      "hexane_Escherichia_coli_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of hexane as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris and tests these extracts for antimicrobial activity against various pathogens, including Escherichia coli. The hexane extract showed inhibitory activity against E. coli, indicating its potential antimicrobial effect. However, the abstract does not indicate that hexane itself causes or is related to Escherichia coli infection. Instead, hexane is used as a solvent to obtain compounds that may inhibit the infection. Therefore, there is no clear relationship between the compound hexane and the disease Escherichia coli infection as a causative or risk factor."
+      },
+      "hexane_Klebsiella_pneumoniae_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including a hexane extract. The hexane extract showed effective inhibitory activity against several tested pathogens, among which Klebsiella pneumoniae was included. This indicates that compounds extracted using hexane from C. vulgaris have antimicrobial effects against Klebsiella pneumoniae, suggesting a relationship between the compound 'hexane' (as a solvent extracting bioactive molecules) and the disease caused by Klebsiella pneumoniae infection."
+      },
+      "hexane_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that hexane was one of the organic solvents used to prepare extracts from the green algae Chlorella vulgaris. The hexane extract showed effective inhibitory activity against various tested pathogens, including Candida albicans, a fungal pathogen responsible for Candida albicans infection. This indicates that compounds extracted using hexane have antimicrobial properties that suppress the proliferation of Candida albicans, demonstrating a relationship between hexane-extracted compounds and Candida albicans infection."
+      },
+      "hexane_Aspergillus_niger_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where various solvent extracts of the green algae Chlorella vulgaris, including a hexane extract, were tested for antimicrobial activity against several human pathogens, including Aspergillus niger. The results indicate that the hexane extract showed effective inhibitory activity against the tested pathogens, which includes Aspergillus niger. This suggests a relationship where hexane extract of C. vulgaris exhibits antimicrobial effects against Aspergillus niger infection."
+      }
+    },
+    {
+      "methanol_Staphylococcus_aureus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where methanol was used as a solvent to extract bioactive molecules from the green algae Chlorella vulgaris. The methanol extract showed effective inhibitory activity against various pathogens, including Staphylococcus aureus. This indicates that compounds extracted using methanol have antimicrobial effects against Staphylococcus aureus, demonstrating a relationship between methanol (as an extraction solvent for bioactive compounds) and inhibition of Staphylococcus aureus infection."
+      },
+      "methanol_Corynebacterium_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including methanol extracts. It specifically mentions that methanol extracts showed effective inhibitory activity against tested pathogens, including Corynebacterium. This indicates that methanol extracts from C. vulgaris have antimicrobial effects against Corynebacterium, suggesting a relationship between methanol (as a solvent extract) and Corynebacterium infection in terms of antimicrobial activity."
+      },
+      "methanol_Streptococcus_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including methanol extracts. It specifically mentions that methanol extracts showed effective inhibitory activity against tested pathogens, which included Streptococcus species. This indicates that methanol extracts of C. vulgaris have antimicrobial effects against Streptococcus, suggesting a relationship between methanol (as a solvent extract) and inhibition of Streptococcus infection."
+      },
+      "methanol_Escherichia_coli_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including methanol extracts. It specifically mentions that methanol extracts showed effective inhibitory activity against several human pathogens, including Escherichia coli. This indicates that methanol extracts of C. vulgaris have an inhibitory effect on E. coli, suggesting a relationship between methanol (as a solvent extract) and Escherichia coli infection in terms of antimicrobial activity."
+      },
+      "methanol_Klebsiella_pneumoniae_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the antimicrobial activity of various solvent extracts from the green algae Chlorella vulgaris, including methanol extracts. The methanol extract showed effective inhibitory activity against multiple pathogens, including Klebsiella pneumoniae. This indicates that methanol extracts of C. vulgaris contain bioactive compounds capable of suppressing the proliferation of Klebsiella pneumoniae, demonstrating a relationship between methanol (as a solvent extract) and Klebsiella pneumoniae infection in terms of antimicrobial activity."
+      },
+      "methanol_Candida_albicans_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where various solvent extracts of the green algae Chlorella vulgaris, including methanol extracts, were tested for antimicrobial activity against several human pathogens, including Candida albicans. The results indicate that the methanol extract showed effective inhibitory activity against Candida albicans, demonstrating an antimicrobial effect. Therefore, there is evidence of a relationship between methanol extract of C. vulgaris and inhibition of Candida albicans infection, suggesting methanol extract has potential antifungal properties against this pathogen."
+      },
+      "methanol_Aspergillus_niger_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where methanol extracts of the green algae Chlorella vulgaris were tested for antimicrobial activity against various human pathogens, including Aspergillus niger. The results indicate that the methanol extract showed effective inhibitory activity against Aspergillus niger, demonstrating a relationship between methanol (as a solvent extract containing bioactive compounds) and the suppression of Aspergillus niger infection. Therefore, there is evidence of a relationship between methanol extracts and Aspergillus niger infection in terms of antimicrobial activity."
+      }
+    },
+    {
+      "petroleum ether_Staphylococcus_aureus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from the green algae Chlorella vulgaris, including petroleum ether, for antimicrobial activity screening against several pathogens including Staphylococcus aureus. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of its antimicrobial activity or inhibitory effect against Staphylococcus aureus in the abstract. Therefore, there is no clear relationship established between petroleum ether and Staphylococcus aureus infection based on this abstract."
+      },
+      "petroleum ether_Corynebacterium_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from the green algae Chlorella vulgaris, including petroleum ether, for antimicrobial activity testing against several pathogens including Corynebacterium. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of its antimicrobial activity or inhibitory effect against Corynebacterium infection. Therefore, based on the abstract, there is no clear relationship between petroleum ether and Corynebacterium infection."
+      },
+      "petroleum ether_Streptococcus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from Chlorella vulgaris, including petroleum ether, for antimicrobial activity screening against several pathogens including Streptococcus. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but is not reported to have shown any significant antimicrobial activity against Streptococcus or other pathogens. Therefore, there is no clear evidence in the abstract supporting a relationship between petroleum ether and inhibition or treatment of Streptococcus infection."
+      },
+      "petroleum ether_Escherichia_coli_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from the green algae Chlorella vulgaris, including petroleum ether, to test antimicrobial activity against several pathogens including Escherichia coli. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of its antimicrobial activity against Escherichia coli in the abstract. Therefore, there is no clear relationship established between petroleum ether and Escherichia coli infection based on this abstract."
+      },
+      "petroleum ether_Klebsiella_pneumoniae_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from the green algae Chlorella vulgaris, including petroleum ether, for antimicrobial activity testing against several pathogens including Klebsiella pneumoniae. However, the results specifically highlight that chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity, with chloroform and methanol extracts showing excellent effects. There is no mention of petroleum ether extract demonstrating any significant antimicrobial activity against Klebsiella pneumoniae or any other pathogens. Therefore, based on the abstract, there is no clear evidence of a relationship between petroleum ether and Klebsiella pneumoniae infection."
+      },
+      "petroleum ether_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from Chlorella vulgaris, including petroleum ether, for antimicrobial activity testing against several pathogens including Candida albicans. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of its antimicrobial activity against Candida albicans in the abstract. Therefore, there is no clear relationship established between petroleum ether and Candida albicans infection based on this study."
+      },
+      "petroleum ether_Aspergillus_niger_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvent extracts from the green algae Chlorella vulgaris, including petroleum ether, for antimicrobial activity testing against several pathogens including Aspergillus niger. However, the results specifically highlight that only chloroform, ethyl acetate, hexane, and methanol extracts showed effective inhibitory activity against the tested pathogens. Petroleum ether extract is mentioned as one of the solvents used for extraction but there is no evidence or mention of its antimicrobial activity against Aspergillus niger in the abstract. Therefore, there is no clear relationship established between petroleum ether and Aspergillus niger infection based on this abstract."
+      }
+    },
+    {
+      "distilled water_Staphylococcus_aureus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against pathogens such as Staphylococcus aureus. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no mention of distilled water extract exhibiting any antimicrobial effect against Staphylococcus aureus. Therefore, there is no clear evidence of a relationship between distilled water and Staphylococcus aureus infection in terms of antimicrobial activity."
+      },
+      "distilled water_Corynebacterium_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against several pathogens, including Corynebacterium. However, the antimicrobial activity was observed only in extracts prepared with organic solvents such as chloroform, ethyl acetate, hexane, and methanol. There is no mention of distilled water extracts showing any inhibitory effect against Corynebacterium or any other pathogens. Therefore, there is no clear evidence of a relationship between distilled water and Corynebacterium infection based on this abstract."
+      },
+      "distilled water_Streptococcus_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against several pathogens including Streptococcus. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no mention of distilled water extract exhibiting any antimicrobial effect against Streptococcus or other pathogens. Therefore, there is no clear evidence of a relationship between distilled water and Streptococcus infection based on this abstract."
+      },
+      "distilled water_Escherichia_coli_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against several pathogens, including Escherichia coli. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no evidence presented that the distilled water extract exhibited any antimicrobial effect against Escherichia coli. Therefore, there is no clear relationship between distilled water and Escherichia coli infection based on this abstract."
+      },
+      "distilled water_Klebsiella_pneumoniae_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various organic solvents, including distilled water, for preparing algal extracts to test their antimicrobial activity against several pathogens, including Klebsiella pneumoniae. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no mention of distilled water extract showing any antimicrobial effect against Klebsiella pneumoniae. Therefore, there is no clear evidence of a relationship between distilled water and Klebsiella pneumoniae infection based on this abstract."
+      },
+      "distilled water_Candida_albicans_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against pathogens including Candida albicans. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no mention of distilled water extract showing any antimicrobial effect or relationship with Candida albicans infection. Therefore, there is no clear evidence of a relationship between distilled water and Candida albicans infection based on this abstract."
+      },
+      "distilled water_Aspergillus_niger_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of various solvents, including distilled water, for preparing algal extracts to test antimicrobial activity against several pathogens, including Aspergillus niger. However, the results indicate that only four organic solvent extracts (chloroform, ethyl acetate, hexane, and methanol) showed effective inhibitory activity against the pathogens. There is no mention of distilled water extract exhibiting any antimicrobial effect against Aspergillus niger or any other pathogen. Therefore, there is no clear evidence of a relationship between distilled water and Aspergillus niger infection based on this abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical solvents used for preparing algal extracts, including benzene, chloroform, ethyl acetate, ethanol, hexane, methanol, petroleum ether, and distilled water. These are specific chemical compounds named explicitly in the text."
+}

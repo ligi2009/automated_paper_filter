@@ -1,0 +1,28 @@
+{
+  "id": 2209,
+  "title": "Antiproliferative effect of methanolic extraction of tualang honey on human keloid fibroblasts",
+  "Abstract": "BackgroundKeloid is a type of scar which extends beyond the boundaries of the original wound. It can spread to the surrounding skin by invasion. The use of Tualang honey is a possible approach for keloid treatment. The objective of this study was to determine the antiproliferative effect of methanolic extraction of Tualang honey to primary human keloid fibroblasts and to identify the volatile compounds in methanol extraction of Tualang honey.MethodsCrude Tualang honey was extracted with methanol and then dried using rota vapor to remove remaining methanol from honey. Normal and keloid fibroblasts were verified and treated with the extracted honey. Cell proliferation was tested with [3-(4,5-dimethylthiazol-2-yi)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium, inner salt] (MTS) assay. Extraction of Tualang honey using methanol was carried out and the extracted samples were analysed using gas chromatography-mass spectrometry (GC-MS). The result was analysed using SPSS and tested with Kruskal-Wallis and Mann-Whitney tests.ResultsMethanolic extraction of honey has positive anti proliferative effect on keloid fibroblasts in a dose-dependent manner. The presence of fatty acids such as palmitic acid, stearic acid, oleic acid, linoleic acid and octadecanoic acid may contribute to the anti-proliferative effect in keloid fibroblasts.ConclusionsThe methanolic honey extraction has an antiproliferative effect on keloid fibroblasts and a range of volatile compounds has been identified from Tualang honey. The antiproliferative effect of keloid fibroblasts towards Tualang honey may involve cell signaling pathway. Identifying other volatile compounds from different organic solvents should be carried out in future.",
+  "Disease_List": [
+    "Keloid"
+  ],
+  "Reason": "The abstract explicitly mentions 'keloid' multiple times, describing it as a type of scar that extends beyond the original wound and discussing treatment approaches for it. Keloid is a specific medical condition, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Keloid"
+  ],
+  "UMLS_search_results": {
+    "Keloid": [
+      {
+        "ui": "C0022548",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022548",
+        "name": "Keloid",
+        "mesh_id": "D007627"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

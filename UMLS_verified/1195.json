@@ -1,0 +1,28 @@
+{
+  "id": 1195,
+  "title": "COVID-19 Pandemic: Impacts on Air Quality during Partial Lockdown in the Metropolitan Area of São Paulo",
+  "Abstract": "Air pollution has become one of the factors that most affect the quality of life, human health, and the environment. Gaseous pollutants from motor vehicles have a significantly harmful effect on air quality in the Metropolitan Area of São Paulo (MASP)—Brazil. Motor vehicles emit large amounts of particulate matter (PM), carbon monoxide (CO), nitrogen oxides (NOx), and volatile organic compounds (VOCs), the last three acting as the main tropospheric ozone (O3) precursors. In this study, we evaluated the effects of these pollutants on air quality in the MASP during the partial lockdown that was imposed to ensure the social distancing necessitated by the COVID-19 pandemic. We compared the monthly data for nitrogen dioxide (NO2) from the Ozone Monitoring Instrument (OMI) and CO, SO2, and BC from MERRA-2 for the period between April and May 2020 (during the pandemic) with the average for the same period for the (pre-pandemic) years 2017 to 2019 in the southeast region of Brazil. The meteorological and pollutant concentration data from the CETESB air quality monitoring stations for the MASP were compared with the diurnal cycle of three previous years, with regard to the monthly averages of April and May (2017, 2018, and 2019) and the same period in 2020, when the partial lockdown was first imposed in southeast Brazil. Our findings showed that there was a decrease in NO2 concentrations ranging from 10% to more than 60% in the MASP and the Metropolitan Area of Rio de Janeiro (MARJ), whereas in the Metropolitan Area of Belo Horizonte and Vitoria (MABH and MAV, respectively), there was a reduction of around 10%. In the case of the concentrations of CO and BC from MERRA-2, there was a considerable decrease (approx. 10%) during the period of partial lockdown caused by COVID-19 throughout almost the entire state of São Paulo, particularly in the region bordering the state of Rio de Janeiro. The concentration of SO2 from MERRA-2 was 5 to 10% lower in the MASP and MARJ and the west of the MABH, and there was a decrease of 30 to 50% on the border between the states of São Paulo and Rio de Janeiro, while in the MAV region, there was an increase in pollutant levels, as this region was not significantly affected by the COVID-19 pandemic. Sharp reductions in the average hourly concentrations of CO (38.8%), NO (44.9%), NO2 (38.7%), and PM2.5 (6%) were noted at the CETESB air quality monitoring stations in the MASP during the partial lockdown in 2020 compared with the hourly average rate in the pre-pandemic period. In contrast, there was an increase of approximately 16.0% in O3 concentrations in urban areas that are seriously affected by vehicular emissions, which is probably related to a decrease in NOx.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease 'COVID-19' multiple times in the context of the pandemic and partial lockdown measures. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

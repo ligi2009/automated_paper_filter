@@ -1,0 +1,68 @@
+{
+  "id": 2912,
+  "title": "Breathing new life into clinical testing and diagnostics: perspectives on volatile biomarkers from breath",
+  "Abstract": "Abstract Human breath offers several benefits for diagnostic applications, including simple, noninvasive collection. Breath is a rich source of clinically-relevant biological information; this includes a volatile fraction, where greater than 1,000 volatile organic compounds (VOCs) have been described so far, and breath aerosols that carry nucleic acids, proteins, signaling molecules, and pathogens. Many of these factors, especially VOCs, are delivered to the lung by the systemic circulation, and diffusion of candidate biomarkers from blood into breath allows systematic profiling of organismal health. Biomarkers on breath offer the capability to advance early detection and precision medicine in areas of global clinical need. Breath tests are noninvasive and can be performed at home or in a primary care setting, which makes them well-suited for the kind of public screening program that could dramatically improve the early detection of conditions such as lung cancer. Since measurements of VOCs on breath largely report on metabolic changes, this too aids in the early detection of a broader range of illnesses and can be used to detect metabolic shifts that could be targeted through precision medicine. Furthermore, the ability to perform frequent sampling has envisioned applications in monitoring treatment responses. Breath has been investigated in respiratory, liver, gut, and neurological diseases and in contexts as diverse as infectious diseases and cancer. Preclinical research studies using breath have been ongoing for some time, yet only a few breath-based diagnostics tests are currently available and in widespread clinical use. Most recently, tests assessing the gut microbiome using hydrogen and methane on breath, in addition to tests using urea to detect Helicobacter pylori infections have been released, yet there are many more applications of breath tests still to be realized. Here, we discuss the strengths of breath as a clinical sampling matrix and the technical challenges to be addressed in developing it for clinical use. Historically, a lack of standardized methodologies has delayed the discovery and validation of biomarker candidates, resulting in a proliferation of early-stage pilot studies. We will explore how advancements in breath collection and analysis are in the process of driving renewed progress in the field, particularly in the context of gastrointestinal and chronic liver disease. Finally, we will provide a forward-looking outlook for developing the next generation of clinically relevant breath tests and how they may emerge into clinical practice.",
+  "Disease_List": [
+    "lung cancer",
+    "Helicobacter pylori infections",
+    "gastrointestinal disease",
+    "chronic liver disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'lung cancer' and 'Helicobacter pylori infections'. It also refers to 'gastrointestinal disease' and 'chronic liver disease' as specific disease categories. These are clear mentions of particular diseases or disease types rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "Helicobacter pylori infections",
+    "gastrointestinal disease",
+    "chronic liver disease"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "Helicobacter pylori infections": [
+      {
+        "ui": "C0850666",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0850666",
+        "name": "Infection caused by Helicobacter pylori",
+        "mesh_id": "None"
+      }
+    ],
+    "gastrointestinal disease": [
+      {
+        "ui": "C0017178",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017178",
+        "name": "Gastrointestinal Diseases",
+        "mesh_id": "D005767"
+      }
+    ],
+    "chronic liver disease": [
+      {
+        "ui": "C0341439",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0341439",
+        "name": "Chronic liver disease",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

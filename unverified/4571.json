@@ -1,0 +1,20 @@
+{
+  "id": 4571,
+  "title": "Ligand-Capped Ultrapure Metal Nanoparticle Sensors for the Detection of Cutaneous Leishmaniasis Disease in Exhaled Breath.",
+  "Abstract": "Human cutaneous leishmaniasis, although designated as one of the most neglected tropical diseases, remains underestimated due to its misdiagnosis. The diagnosis is mainly based on the microscopic detection of amastigote forms, isolation of the parasite, or the detection of Leishmania DNA, in addition to its differential clinical characterization; these tools are not always available in routine daily practice, and they are expensive and time-consuming. Here, we present a simple-to-use, noninvasive approach for human cutaneous leishmaniasis diagnosis, which is based on the analysis of volatile organic compounds in exhaled breath with an array of specifically designed chemical gas sensors. The study was realized on a group of n = 28 volunteers diagnosed with human cutaneous leishmaniasis and a group of n = 32 healthy controls, recruited in various sites from Tunisia, an endemic country of the disease. The classification success rate of human cutaneous leishmaniasis patients achieved by our sensors test was 98.2% accuracy, 96.4% sensitivity, and 100% specificity. Remarkably, one of the sensors, based on CuNPs functionalized with 2-mercaptobenzoxazole, yielded 100% accuracy, 100% sensitivity, and 100% specificity for human cutaneous leishmaniasis discrimination. While AuNPs have been the most extensively used in metal nanoparticle-ligand sensing films for breath sensing, our results demonstrate that chemical sensors based on ligand-capped CuNPs also hold great potential for breath volatile organic compounds detection. Additionally, the chemical analysis of the breath samples with gas chromatography coupled to mass spectrometry identified nine putative breath biomarkers for human cutaneous leishmaniasis.",
+  "Disease_List": [
+    "human cutaneous leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'human cutaneous leishmaniasis' multiple times as a specific disease. It is not a general term but a clearly defined disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "human cutaneous leishmaniasis": []
+  },
+  "MRCONSO_search_results": {
+    "human cutaneous leishmaniasis": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

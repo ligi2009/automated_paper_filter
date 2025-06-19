@@ -1,0 +1,39 @@
+{
+  "id": 330,
+  "title": "PROSPECTS FOR THE APPLICATION OF THE MOST MODERN METHODS OF DIAGNOSIS OF LUNG CANCER",
+  "Abstract": "Lung cancer is one of the major causes of death from malignancies. That is why the article devoted to the issue early diagnosis of lung cancer. The objective of the work is to consider the features and prospects of using the most modern methods of diagnosis of lung cancer. The introduction of the latest technologies is essential for quality screening of lung cancer patients. Gradually, there is a growing interest in developing strategies around the world to better assess the risk of human lung cancer, increase screening sensitivity, and reduce costs. The methods of early detection of lung cancer are described in the article: determination of the concentration of volatile organic compounds (LuCID method), endobronchial ultrasound (EBUS method), FISH-marker method, basic principles of the Nano-Nose device. Despite some advances in our country in the diagnosis of lung cancer using common advanced methods of computed tomography and biopsy, the introduction of foreign experience in lung cancer screening is necessary, because the current state-of-the-art methods of diagnosis allow to detect cancer.",
+  "Disease_List": [
+    "Lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as a specific disease. It discusses early diagnosis, screening methods, and detection techniques specifically for lung cancer, which is a clearly named disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general terms such as 'volatile organic compounds' but does not specify any particular chemical compound names."
+}

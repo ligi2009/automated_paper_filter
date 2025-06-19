@@ -1,0 +1,54 @@
+{
+  "id": 1492,
+  "title": "The wide spectrum high biocidal potency of Bioxy formulation when dissolved in water at different concentrations",
+  "Abstract": "Traditional surface disinfectants that have long been applied in medicine, animal husbandry, manufacturing and institutions are inconvenient at best and dangerous at worst. Moreover, some of these substances have adverse environmental impacts: for example, quaternary ammonium compounds (“quats”) are reproductive toxicants in both fish and mammals. Halogens are corrosive both to metals and living tissues, are highly reactive, can be readily neutralized by metals, and react with organic matter to form toxic, persistent by-products such as dioxins and furans. Aldehydes may be carcinogenic to both human and animals upon repeated exposures, are corrosive, cross-link living tissues and many synthetic materials, and may lose efficacy when pathogens enzymatically adapt to them. Alcohols are flammable and volatile and can be enzymatically degraded by certain bacterial pathogens. Quats are highly irritating to mucous membranes and over time can induce pathogen resistance, especially if they are not alternated with functionally different disinfectants. In contrast, peracetic acid (PAA), a potent oxidizer, liberates hydrogen peroxide (itself a disinfectant), biodegrades to carbon dioxide, water and oxygen, and is at least as efficacious as contact biocides e.g., halogens and aldehydes. Nevertheless, the standard form of liquid PAA is highly corrosive, is neutralized by metals and organic matter, gives off noxious odours and must be stored in vented containers. For the reasons stated above, Bioxy formulations were developed, a series of powder forms of PAA, which are odourless, stable in storage and safe to transport and handle. They generate up to 10% PAA in situ when dissolved in water. A 0.2% aqueous solution of Bioxy (equivalent to 200 ppm PAA) effected a 6.76 log reduction in Methicillin-resistant Staphylococcus aureus (MRSA) within 2 minutes after application. A 5% aqueous solution of Bioxy achieved a 3.93 log reduction in the bovine tuberculosis bacillus Mycobacterium bovis, within 10 minutes after contact. A 1% solution of Bioxy reduced vancomycin-resistant enterococci (VRE) and Pseudomonas aeruginosa by 6.31 and 7.18 logs, respectively, within 3 minutes after application. A 0.5% solution of Bioxy inactivated porcine epidemic diarrhea virus (PEDV) within 15 minutes of contact, and a 5% solution of Bioxy realized a 5.36 log reduction in the spores of Clostridium difficile within 10 minutes of application. In summary, Bioxy is safe and easy to transport and store, poses negligible human, animal and environmental health risks, shows high levels of pathogen control efficacy and does not induce microbial resistance. Further investigations are recommended to explore its use as an industrial biocide.",
+  "Disease_List": [
+    "Methicillin-resistant Staphylococcus aureus (MRSA)",
+    "bovine tuberculosis",
+    "vancomycin-resistant enterococci (VRE)",
+    "porcine epidemic diarrhea virus (PEDV)",
+    "Clostridium difficile"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-causing agents and diseases: Methicillin-resistant Staphylococcus aureus (MRSA) is a well-known antibiotic-resistant bacterial infection; bovine tuberculosis caused by Mycobacterium bovis is a specific disease affecting cattle; vancomycin-resistant enterococci (VRE) are bacteria associated with difficult-to-treat infections; porcine epidemic diarrhea virus (PEDV) causes a specific viral disease in pigs; and Clostridium difficile is a bacterium causing severe intestinal disease. These are all specific diseases or pathogens linked to diseases, not just general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Methicillin-resistant Staphylococcus aureus (MRSA)",
+    "bovine tuberculosis",
+    "Clostridium difficile"
+  ],
+  "UMLS_search_results": {
+    "Methicillin-resistant Staphylococcus aureus (MRSA)": [
+      {
+        "ui": "C1265292",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1265292",
+        "name": "Methicillin-Resistant Staphylococcus aureus",
+        "mesh_id": "D055624"
+      }
+    ],
+    "bovine tuberculosis": [
+      {
+        "ui": "C0041307",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041307",
+        "name": "Tuberculosis, Bovine",
+        "mesh_id": "D014380"
+      }
+    ],
+    "vancomycin-resistant enterococci (VRE)": [],
+    "porcine epidemic diarrhea virus (PEDV)": [],
+    "Clostridium difficile": [
+      {
+        "ui": "C0079134",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079134",
+        "name": "Clostridioides difficile",
+        "mesh_id": "D016360"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

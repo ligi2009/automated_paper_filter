@@ -1,0 +1,46 @@
+{
+  "id": 5999,
+  "title": "Investigating Bacterial Volatilome for the Classification and Identification of Mycobacterial Species by HS-SPME-GC-MS and Machine Learning",
+  "Abstract": "Species of Mycobacteriaceae cause disease in animals and humans, including tuberculosis and leprosy. Individuals infected with organisms in the Mycobacterium tuberculosis complex (MTBC) or non-tuberculous mycobacteria (NTM) may present identical symptoms, however the treatment for each can be different. Although the NTM infection is considered less vital due to the chronicity of the disease and the infrequency of occurrence in healthy populations, diagnosis and differentiation among Mycobacterium species currently require culture isolation, which can take several weeks. The use of volatile organic compounds (VOCs) is a promising approach for species identification and in recent years has shown promise for use in the rapid analysis of both in vitro cultures as well as ex vivo diagnosis using breath or sputum. The aim of this contribution is to analyze VOCs in the culture headspace of seven different species of mycobacteria and to define the volatilome profiles that are discriminant for each species. For the pre-concentration of VOCs, solid-phase micro-extraction (SPME) was employed and samples were subsequently analyzed using gas chromatography–quadrupole mass spectrometry (GC-qMS). A machine learning approach was applied for the selection of the 13 discriminatory features, which might represent clinically translatable bacterial biomarkers.",
+  "Disease_List": [
+    "tuberculosis",
+    "leprosy"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names 'tuberculosis' and 'leprosy' as diseases caused by species of Mycobacteriaceae. These are well-known specific diseases, not general terms, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "tuberculosis",
+    "leprosy"
+  ],
+  "UMLS_search_results": {
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "leprosy": [
+      {
+        "ui": "C0051981",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0051981",
+        "name": "leprosy vaccine",
+        "mesh_id": "C060596"
+      },
+      {
+        "ui": "C0023343",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023343",
+        "name": "Leprosy",
+        "mesh_id": "D007918"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

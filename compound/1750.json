@@ -1,0 +1,121 @@
+{
+  "id": 1750,
+  "title": "The Association Between Exposure to Acrylamide and Mortalities of Cardiovascular Disease and All-Cause Among People With Hyperglycemia",
+  "Abstract": "Background Acrylamide is a common environmental volatile organic compound that humans are frequently exposed to in their daily lives. However, whether exposure to acrylamide is associated with long-term survival in patients with hyperglycemia remains largely unknown. Methods and Results A total of 3,601 hyperglycemic people were recruited in this study, including 1,247 people with diabetes and 2,354 people with pre-diabetes, who enrolled in the National Health and Nutrition Examination survey (2003–2004, 2005–2006, and 2013–2014). The acrylamide exposure was measured by the serum hemoglobin adduct of acrylamide (HbAA) and glycidamide (HbGA), and the ratio of HbAA and HbGA (HbAA/HbGA) was calculated, which were all categorized into quintiles. The National Death Index was used to identify the participants' death information until 2015. Cox proportional hazards (CPHs) regression models were performed to examine the survival relationship between these biomarkers and mortality. During the 28,652 person-year follow-up, 268 deaths due to the cardiovascular disease (CVD) were documented. After adjustment for multiple confounders, compared with participants in the lowest quintile of HbAA/HbGA, the participants in the highest quintile were more likely to die due to CVD (hazard ratio [HR] = 1.61, 95% CI: 1.09–2.39) and all-cause (HR = 1.59, 95% CI: 1.25–2.01). Moreover, subgroup analysis showed that the highest quintile of HbAA/HbGA in the people with diabetes or pre-diabetes was related to mortalities risk of CVD (HRdiabetes = 1.92, 95% CI: 1.11–3.31; HRpre−diabetes = 1.78, 95% CI: 1.01–3.14) and all-cause mortality (HRdiabetes = 1.81, 95% CI: 1.27–2.58; HRpre−diabetes = 1.59, 95% CI: 1.14–2.20). Additionally, no significant association between the levels of HbAA or HbGA and CVD mortality was observed among people with diabetes or pre-diabetes. Conclusion Higher levels of HbAA/HbGA are associated with greater mortalities of CVD and all-cause among hyperglycemic people.",
+  "Disease_List": [
+    "diabetes",
+    "pre-diabetes",
+    "cardiovascular disease (CVD)"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'diabetes', 'pre-diabetes', and 'cardiovascular disease (CVD)'. These are clearly named diseases rather than general terms. Therefore, the classification is 'Y' for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes",
+    "pre-diabetes",
+    "cardiovascular disease (CVD)"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "pre-diabetes": [
+      {
+        "ui": "C0362046",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0362046",
+        "name": "Prediabetes syndrome",
+        "mesh_id": "D011236"
+      }
+    ],
+    "cardiovascular disease (CVD)": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Acrylamide",
+    "Hemoglobin adduct of acrylamide (HbAA)",
+    "Glycidamide (HbGA)"
+  ],
+  "compound_CID": [
+    {
+      "Acrylamide": 6579,
+      "Hemoglobin adduct of acrylamide (HbAA)": "None",
+      "Glycidamide (HbGA)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Acrylamide_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acrylamide exposure, measured by the serum hemoglobin adducts HbAA and HbGA and their ratio HbAA/HbGA, is associated with increased mortality risk from cardiovascular disease (CVD) and all causes among people with hyperglycemia, including those with diabetes. Specifically, the highest quintile of the HbAA/HbGA ratio was linked to higher CVD and all-cause mortality in diabetic and pre-diabetic individuals. Although the study does not directly state that acrylamide causes diabetes, it demonstrates a significant relationship between acrylamide exposure and adverse health outcomes in people with diabetes, suggesting a relevant association between acrylamide and the disease context."
+      },
+      "Acrylamide_pre-diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that higher levels of the acrylamide exposure biomarker ratio (HbAA/HbGA) are associated with increased cardiovascular disease (CVD) and all-cause mortality among people with pre-diabetes. This suggests a relationship between acrylamide exposure and adverse health outcomes in individuals with pre-diabetes. Although the study does not directly link acrylamide to the development of pre-diabetes, it demonstrates that acrylamide exposure is related to mortality risks in the pre-diabetic population, indicating a relevant relationship between acrylamide and pre-diabetes."
+      },
+      "Acrylamide_cardiovascular_disease_(CVD)": {
+        "relationship": "Y",
+        "reason": "The abstract reports a study involving hyperglycemic individuals where acrylamide exposure was measured using serum hemoglobin adducts (HbAA and HbGA) and their ratio (HbAA/HbGA). The findings indicate that participants in the highest quintile of the HbAA/HbGA ratio had a significantly higher risk of death due to cardiovascular disease (CVD) compared to those in the lowest quintile, with a hazard ratio of 1.61 (95% CI: 1.09–2.39). This association was also observed in subgroup analyses for people with diabetes and pre-diabetes. Although no significant association was found between individual levels of HbAA or HbGA and CVD mortality, the ratio HbAA/HbGA was clearly linked to increased CVD mortality risk. Therefore, there is evidence of a relationship between acrylamide exposure and cardiovascular disease mortality in hyperglycemic individuals."
+      }
+    },
+    {
+      "Hemoglobin adduct of acrylamide (HbAA)_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract investigates the association between acrylamide exposure, measured by hemoglobin adducts HbAA and HbGA, and mortality outcomes in people with hyperglycemia, including those with diabetes and pre-diabetes. While higher HbAA/HbGA ratios are linked to increased cardiovascular and all-cause mortality in these populations, the study does not report a direct association between HbAA levels alone and the presence or development of diabetes. Therefore, there is no clear evidence from this abstract that HbAA is related to diabetes itself, only that it may influence mortality risk in diabetic individuals."
+      },
+      "Hemoglobin adduct of acrylamide (HbAA)_pre-diabetes": {
+        "relationship": "N",
+        "reason": "The abstract investigates the relationship between acrylamide exposure, measured by hemoglobin adducts HbAA and HbGA, and mortality outcomes in people with hyperglycemia, including those with pre-diabetes. While it reports that a higher ratio of HbAA to HbGA (HbAA/HbGA) is associated with increased cardiovascular and all-cause mortality in pre-diabetic individuals, it explicitly states that no significant association was found between the levels of HbAA alone and cardiovascular mortality in people with pre-diabetes. The study does not provide evidence that HbAA levels are related to the presence or development of pre-diabetes itself, only to mortality risk among those already pre-diabetic. Therefore, there is no clear evidence of a relationship between HbAA and pre-diabetes as a disease condition."
+      },
+      "Hemoglobin adduct of acrylamide (HbAA)_cardiovascular_disease_(CVD)": {
+        "relationship": "Y",
+        "reason": "The abstract reports that higher levels of the ratio of Hemoglobin adduct of acrylamide (HbAA) to glycidamide (HbGA) (HbAA/HbGA) are associated with increased mortality due to cardiovascular disease (CVD) among hyperglycemic individuals, including those with diabetes and pre-diabetes. Specifically, participants in the highest quintile of HbAA/HbGA had a significantly higher risk of CVD mortality (HR=1.61) compared to those in the lowest quintile. Subgroup analyses also showed elevated CVD mortality risks in both diabetic and pre-diabetic groups with high HbAA/HbGA ratios. However, the abstract notes no significant association between HbAA levels alone and CVD mortality. Despite this, the evidence indicates that the compound HbAA, as part of the HbAA/HbGA ratio biomarker, is related to CVD mortality risk, supporting a relationship between HbAA exposure and cardiovascular disease outcomes."
+      }
+    },
+    {
+      "Glycidamide (HbGA)_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract investigates the relationship between acrylamide exposure biomarkers, including glycidamide hemoglobin adduct (HbGA), and mortality outcomes in people with hyperglycemia, including those with diabetes. While the ratio of HbAA to HbGA (HbAA/HbGA) is associated with increased cardiovascular disease and all-cause mortality in diabetic and pre-diabetic individuals, the levels of HbGA alone do not show a significant association with cardiovascular mortality in these groups. The study does not provide evidence that HbGA is directly related to the occurrence or development of diabetes itself, only to mortality outcomes in those already hyperglycemic. Therefore, there is no clear relationship between glycidamide (HbGA) and diabetes based on this abstract."
+      },
+      "Glycidamide (HbGA)_pre-diabetes": {
+        "relationship": "N",
+        "reason": "The abstract investigates the relationship between acrylamide exposure biomarkers (HbAA, HbGA, and their ratio HbAA/HbGA) and mortality outcomes in people with hyperglycemia, including those with pre-diabetes. While the ratio HbAA/HbGA is associated with increased cardiovascular and all-cause mortality in pre-diabetic individuals, the levels of HbGA alone do not show a significant association with cardiovascular disease mortality in this group. Therefore, there is no clear evidence from this study that Glycidamide (HbGA) alone is related to pre-diabetes as a disease or its development; the findings pertain to mortality risk rather than disease occurrence or progression."
+      },
+      "Glycidamide (HbGA)_cardiovascular_disease_(CVD)": {
+        "relationship": "N",
+        "reason": "The abstract reports that higher levels of the ratio HbAA/HbGA are associated with increased cardiovascular disease (CVD) mortality in hyperglycemic individuals. However, it explicitly states that no significant association was found between the levels of HbGA alone and CVD mortality among people with diabetes or pre-diabetes. Therefore, there is no clear evidence of a direct relationship between Glycidamide (HbGA) alone and cardiovascular disease based on this study."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acrylamide as the primary chemical compound studied. Additionally, it refers to the hemoglobin adducts of acrylamide (HbAA) and glycidamide (HbGA), which are specific chemical biomarkers used to measure acrylamide exposure in the body."
+}

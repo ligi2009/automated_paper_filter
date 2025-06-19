@@ -1,0 +1,59 @@
+{
+  "id": 5958,
+  "title": "Metal Oxide Gas Sensors to Study Acetone Detection Considering Their Potential in the Diagnosis of Diabetes: A Review",
+  "Abstract": "Metal oxide (MOx) gas sensors have attracted considerable attention from both scientific and practical standpoints. Due to their promising characteristics for detecting toxic gases and volatile organic compounds (VOCs) compared with conventional techniques, these devices are expected to play a key role in home and public security, environmental monitoring, chemical quality control, and medicine in the near future. VOCs (e.g., acetone) are blood-borne and found in exhaled human breath as a result of certain diseases or metabolic disorders. Their measurement is considered a promising tool for noninvasive medical diagnosis, for example in diabetic patients. The conventional method for the detection of acetone vapors as a potential biomarker is based on spectrometry. However, the development of MOx-type sensors has made them increasingly attractive from a medical point of view. The objectives of this review are to assess the state of the art of the main MOx-type sensors in the detection of acetone vapors to propose future perspectives and directions that should be carried out to implement this type of sensor in the field of medicine.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetic patients,' which refers to the disease diabetes. Although the term 'diseases' is used generally, the specific mention of 'diabetic patients' identifies diabetes as a specific disease name mentioned in the abstract.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone is a volatile organic compound found in exhaled human breath as a result of certain diseases or metabolic disorders, specifically mentioning diabetic patients. It highlights that measuring acetone levels is considered a promising noninvasive diagnostic tool for diabetes. Therefore, there is evidence of a relationship between acetone and diabetes, as acetone serves as a potential biomarker for the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetone as a volatile organic compound (VOC) found in exhaled human breath and as a target for detection by metal oxide gas sensors. No other specific chemical compound names are mentioned."
+}

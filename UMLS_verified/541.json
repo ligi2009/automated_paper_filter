@@ -1,0 +1,65 @@
+{
+  "id": 541,
+  "title": "Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities",
+  "Abstract": "Bisphosphonates (BPs) are the first line treatment for many bone diseases including hypercalcimia associated with bone malignancies. In this paper, we introduce a new analogue of bisphosphonate called the 2,3,3-Trisphosphonate (2,3,3-TriPP) that was synthesised in a two steps reaction. In vitro investigations using a medically known bisphosphonate (Etidronate) and the 2,3,3-TrisPP were performed with an aim to evaluate biological effect of this novel compound in major bone cells. 2,3,3-TrisPP showed to have potential to supress the bone resorption process, as our data found that this novel compound exhibited cytotoxic effect in osteoclastic cells at a low concentration of 0.172 mg/mL (LC50). A molecular docking computational simulation calculated a high level of binding affinity between the human farnesyl pyrophosphate synthase (hFPPS) and 2,3,3-TrisPP. This calculation suggested 2,3,3TrisPP may have undergone the mevalonate pathway to prevent the prenylation step during biosynthesis and subsequently resulted in the deactivation of osteoclastic cells. Finally, high levels of osteoblast mineralisation potentials were recorded upon treatments with 2,3,3-TrisPP (0.01-0.1 mg/ml), which implied 2,3,3-TrsiPP may also facilitate bone regeneration. Correspondence to: Yuen Ki Cheong, School of Engineering and Technology, College Lane, University of Hertfordshire, Hatfield and AL10 9AB, UK, E-mail: y.cheong2@herts.ac.uk GG Ren, School of Engineering and Technology, College Lane, University of Hertfordshire, Hatfield and AL10 9AB, UK, E-mail: g.g.ren@herts.ac.uk Received: November 14, 2017; Accepted: December 04, 2017; Published: December 08, 2017 Introduction Bisphosphonate (BP) [1] is an important class of anti-resorptive medications for osteoporosis, [2] Paget’s diseases, [3] hypercalcimia associated with bone metastasis [4-8] and other disorders involving excessive bone loss [9]. There are two classes of BP, the nitrogencontaining bisphosphonates (N-BP) and the non-nitrogen containing bisphosphonates (BP). These BP analogues exhibit excellent biodistributions on bone surface (hydroxyapatite) by chelating Calcium ions. Although the non-nitrogen BPs undergo cellular reaction to manipulate the ATP biosynthesis (Figure 1), while the N-BPs selectively bind to farnesylpyrophosphate synthase (FPPS) to inhibit the mevalonate pathway (Figure 2), both mechanisms eventually lead to suppression of the bone resorption process via inhibition of osteoclast activities [10-12]. Due to the selective inhibitory ability of N-BPs on the isoprenoid and cholesterol biosynthesis, extensive studies of BPs have been carried out to unveil their potential applications to other diseases related to Alzheimer’s, immunomodulator and parasitological infections [13-16]. BPs are also known to own special metal-binding properties, [17] which has made great interests to scientists to explore the chemistry and metal conjugations of this category of compounds, [18,19] in particular for the development in nuclear medicines (186Re therapy) [20] and radiopharmaceuticals (99Tc imaging), [21-23] in advance material discoveries for bone and dental implants [24-26] as well as in nanotechnologies [27-29]. Evidence from preclinical models have shown that N-BPs are generally up to several orders of magnitude more potent than the conventional BPs at inhibiting bone resorption. However, the disadvantage of administering N-BPs is that patients are at risk of developing severe N-bisphosphonate-related osteonecrosis of the jaw (BRONJ) [30] and gastric inflammation [31-33]. Considering these adverse effects, nonnitrogen containing BPs (i.e. Clodronate) are still widely prescribed, especially to cancer patients who are in poor physical states [34,35]. There are over twenty clinically approved BPs on the market, many other derivatives have been synthesised, studied and reported [3638]. Griffiths, et al. have recently published a convenient method to synthesise a range of novel 2,3,3-trisphosphonates 2 (Figure 3), a new class of the non-nitrogen containing geminal BPs [39]. The synthesis of these 2,3,3-trisphosphonate derivatives 2 (R=Me, Et or iPr) involve ‘one-pot reactions’ using 3,4-dihalogenated maleic anhydride and Figure 1. Chemical structures of ATP and its manipulated version after pyrophosphate group is replaced by a bisphosphonate group (e.g. Etidronate). Cheong YK (2017) Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities Volume 2(1): 2-10 Gen Med Open, 2017 doi: 10.15761/GMO.1000121 to stir under a sealed condition at room temperature for a further 16 hours. This crude ylidic bisphosphonate 1 was then purified by silica gel chromatography using a gradient solvent of dichloromethane and acetonitrile mixtures as eluent. Chromatography fractions were analysed using silica based tlc plate, which was developed using 100 % acetonitrile as mobile phase solvent system and then visualised under UV light to determine present of ylidic bisphosphonate 1 collected. Volatile components of the collected chromatography fractions were removed under reduced pressure (55°C at 10 mmHg), NMR spectra of the obtained green oil confirmed ylidic bisphosphonate was formed in a high state of purity [39]. A stream of dry Hydrogen Chloride gas was bubbled into this freshly prepared ylidic bisphosphonate 1 in dichloromethane (20 mL) over a period of 20 minutes, this homogeneous solution was stirred for a further 1 hour before volatile components were removed under reduced pressure (35°C at 10 mmHg). The residue was then re-dissolved into 20 mL of aqueous acetonitrile (1:1 ratio) and stirred at room temperature overnight. Crude 2,3,3-TrisPP was obtained as pale-yellow oil after removal of volatile components in vacuo. This sample was firstly isolated via solvent extraction using dichloromethane and water mixtures. Water layers were collected and combined, volatile components were then removed in vacuo (45°C at 0.01 mmHg), residue was subsequently washed and triturated from initially DCM and then ethyl acetate multiple times. A pure sample of 2,3,3-TrisPP (0.8 g, 45 %) was finally obtained as colourless solid after removing excess water under reduced pressure. Original method and analytic data of 2,3,3-TrisPP had been previously reported by Griffiths, et al. NMR characterisation of 2,3,3-TrisPP NMR spectra were recorded on a JEOL EX-600 spectrometer located at the Department of Pharmacy, University of Hertfordshire. Chemical shifts are reported in ‘ppm’ whereas coupling constants (J values) are measured in Hertz. Etidronate (Etidronic acid) was purchased from Sigma-Aldrich, while 2,3,3-TrisPP as prepared in situ, both samples were dissolved in D2O (Goss Scientific Ltd.) and all NMR experiments performed using 5 mm diameter NMR glass tubes. Hydrogen resonances (δH 5.30 ppm) present in residual water in samples were irradiated and suppressed during all 1H NMR acquisitions. NMR data set were recorded using Dalta and the resulting spectra were processed using MestRe Nova. NMR spectra of Etidronate and 2,3,3-TrisPP can be found in supplementary files provided. † 31P three equivalents of trialkylphosphite at ambient temperature. These reactions give initially ylidic bisphosphonates 1 (R = Me, Et or iPr) as stable intermediates, which subsequently undergo protonation to give the ring opened trisphosphonic esters 2 (R=Me, Et or iPr). A complete hydrolysis of the trisphosphosphic ester 2 (R = Et) under acid condition gives the desired 2,3,3-TrisPP (Figure 4), the compound that was used in this biological report. The first biological study of the 2,3,3-TrisPP reported by Yang, et al. who has revealed the intercellular Ca2+ binding ability of this novel system in a neurocellular research. 2,3,3-TrisPP was found to chelate with Ca2+ ions intercellularly, which had led to neuro-protective effects in PC12 cells via mechanisms involving Ca2+ attenuation and oxidative stress relief [40]. With regard to the chemical structure relationship, 2,3,3-TrisPP shares a common feature to all typical BPs (i.e. Etidronate), it contains a geminal bisphosphonate unit (PCP) where the two phosphonic acid groups share the same α-carbon atom [41]. Besides, this novel 2,3,3TrisPP owns an extra phosphoryl unit, locates in very close proximity to the germinal BP moiety. The present of this additional phosphoryl unit is expected to enhance functionalities, pharmacokinetic and antiresorptive effects in bones, as well as to ameliorate adverse effects and complications cause by current NBP treatments. Materials and methods Chemicals and reagents Organic solvents such as dichloromethane, acetone, acetonitrile, ethyl acetate etc, were purchased from VWR. TLC was performed with alumina backed silica gel 60 F254 eluting with the solvent system used for the column chromatography and the plates were visualised under UV light or developed in an iodine tank. Column chromatography used silica gel with particle size 33–50 μm and was purchased from BDH. All other materials including dichloromaleic anhydride and triethylphosphite were purchased from Sigma-Aldrich. All other chemicals were used as received unless otherwise indicated. Preparation of 2,3,3-TrisPP in situ Triethylphosphite (2.98 g, 18mmol) in a syringe was added dropwise into a stirred solution of dichloromaleic anhydride (1 g, 5.9 mmol) and dried dichloromethane (15 mL) through a lose septum over a period of 15 minutes. The resulting reaction mixture was then allowed Figure 2. The Mevalonate pathway: FPPS is required to catalyse the twostep synthesis of farnesyl pyrophosphate (FPP) and garanyl diphosphate (GPP) for osteoclast function and viability. Figure 3. Synthetic approach for trisphosphonic ester 2 (precursor of 2,3,3-TrisPP). Figure 4. Chemical structures of 2,3,3-TrisPP and Etidronate (a clinical BP). Cheong YK (2017) Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities Volume 2(1):",
+  "Disease_List": [
+    "osteoporosis",
+    "Paget’s disease",
+    "hypercalcimia associated with bone malignancies",
+    "bone metastasis",
+    "N-bisphosphonate-related osteonecrosis of the jaw (BRONJ)",
+    "gastric inflammation",
+    "Alzheimer’s disease"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases: osteoporosis, Paget’s disease, hypercalcimia associated with bone malignancies, bone metastasis, N-bisphosphonate-related osteonecrosis of the jaw (BRONJ), gastric inflammation, and Alzheimer's disease. These are all named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "osteoporosis",
+    "bone metastasis",
+    "gastric inflammation"
+  ],
+  "UMLS_search_results": {
+    "osteoporosis": [
+      {
+        "ui": "C0029456",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0029456",
+        "name": "Osteoporosis",
+        "mesh_id": "D010024"
+      },
+      {
+        "ui": "C2911643",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2911643",
+        "name": "Encounter due to family history of osteoporosis",
+        "mesh_id": "None"
+      }
+    ],
+    "Paget’s disease": [],
+    "hypercalcimia associated with bone malignancies": [],
+    "bone metastasis": [
+      {
+        "ui": "C0153690",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153690",
+        "name": "Metastatic malignant neoplasm to bone",
+        "mesh_id": "None"
+      }
+    ],
+    "N-bisphosphonate-related osteonecrosis of the jaw (BRONJ)": [],
+    "gastric inflammation": [
+      {
+        "ui": "C0017152",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017152",
+        "name": "Gastritis",
+        "mesh_id": "None"
+      }
+    ],
+    "Alzheimer’s disease": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

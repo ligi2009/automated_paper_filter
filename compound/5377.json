@@ -1,0 +1,189 @@
+{
+  "id": 5377,
+  "title": "Chemical constituents of tobacco smoke induce the production of interleukin-8 in human bronchial epithelium, 16HBE cells",
+  "Abstract": "BackgroundInterleukin-8 (IL-8) functions as a major chemoattractant and plays pivotal roles in the initiation and development of chronic obstructive pulmonary disease (COPD), and tobacco smoke is a most risk factor contributing to the development of COPD. Hence, we have screened some of the tobacco smoke-derived chemical compounds that potentially induce the production of IL-8 in human bronchial epithelium, 16HBE cells.MethodsTwenty-eight hazardous smoke components belonging to 9 classes including nicotine, ammonia, aromatic amines, polycyclic aromatic hydrocarbons, phenols, carbonyls, hydrocyanic acid, nitrosamines and other volatile organics were used in the experiments. Proliferation of 16HBE cells was determined by cell counting kit-8 kit, luciferase activity was measured in IL-8 reporter gene-expressing 16HBE cells, and IL-8 levels in culture supernatants were quantified by enzyme-linked immunosorbent assay.ResultsAt the non-toxic dosages, chemical compounds belonging to nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics dose-dependently increased IL-8 reporter gene expression. Consistently, the representative compounds belonging to nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics significantly and dose-dependently increased IL-8 levels in the culture supernatants of 16HBE cells, among these compounds, benzopyrene is a most potent stimulator for inducing IL-8 production.ConclusionsThe present study has identified particular tobacco smoke constituents responsible for inducing the IL-8 production in human bronchial epithelium, which might help shed light on the pathogenesis of tobacco smoke-induced COPD.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "Reason": "The abstract explicitly mentions 'chronic obstructive pulmonary disease (COPD)' multiple times as a specific disease related to the study. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nicotine",
+    "ammonia",
+    "aromatic amines",
+    "polycyclic aromatic hydrocarbons",
+    "phenols",
+    "carbonyls",
+    "hydrocyanic acid",
+    "nitrosamines",
+    "benzopyrene",
+    "aldehydes"
+  ],
+  "compound_CID": [
+    {
+      "nicotine": 89594,
+      "ammonia": 222,
+      "aromatic amines": "None",
+      "polycyclic aromatic hydrocarbons": "None",
+      "phenols": "None",
+      "carbonyls": "None",
+      "hydrocyanic acid": 768,
+      "nitrosamines": "None",
+      "benzopyrene": "None",
+      "aldehydes": 712
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nicotine_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nicotine, a tobacco smoke-derived chemical compound, dose-dependently increased IL-8 reporter gene expression and IL-8 levels in human bronchial epithelial cells (16HBE). Since IL-8 plays a pivotal role in the initiation and development of chronic obstructive pulmonary disease (COPD), the findings suggest that nicotine contributes to the pathogenesis of tobacco smoke-induced COPD by inducing IL-8 production."
+      },
+      "nicotine_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nicotine, a tobacco smoke-derived chemical compound, dose-dependently increases IL-8 reporter gene expression and IL-8 levels in human bronchial epithelial cells (16HBE). Since IL-8 plays a pivotal role in the initiation and development of COPD, and tobacco smoke is a major risk factor for COPD, the findings suggest that nicotine contributes to the pathogenesis of tobacco smoke-induced COPD by inducing IL-8 production."
+      }
+    },
+    {
+      "ammonia_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their potential to induce IL-8 production in human bronchial epithelium cells, which is relevant to the pathogenesis of COPD. While ammonia is listed among the 28 hazardous smoke components tested, the results specifically highlight nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics as compounds that dose-dependently increased IL-8 expression and levels. Ammonia is not mentioned as having a significant effect on IL-8 production or being implicated in COPD development in this study. Therefore, based on this abstract, there is no clear evidence of a relationship between ammonia and chronic obstructive pulmonary disease."
+      },
+      "ammonia_COPD": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their ability to induce IL-8 production in human bronchial epithelium cells, which is relevant to COPD pathogenesis. While multiple compounds such as nicotine, aromatic amines, benzopyrene, phenols, and aldehydes were found to dose-dependently increase IL-8 expression, ammonia is mentioned only as part of the list of hazardous smoke components tested but is not reported to have any effect on IL-8 production or cell proliferation. Therefore, there is no clear evidence from this abstract that ammonia is related to COPD through the mechanism studied."
+      }
+    },
+    {
+      "aromatic amines_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating tobacco smoke-derived chemical compounds, including aromatic amines, and their effect on IL-8 production in human bronchial epithelial cells. IL-8 is a key chemoattractant involved in the initiation and development of chronic obstructive pulmonary disease (COPD). The results show that aromatic amines dose-dependently increased IL-8 reporter gene expression and IL-8 levels in the cells. Since IL-8 plays a pivotal role in COPD pathogenesis and aromatic amines induce IL-8 production, there is evidence supporting a relationship between aromatic amines and COPD."
+      },
+      "aromatic amines_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that aromatic amines, which are tobacco smoke-derived chemical compounds, dose-dependently increased IL-8 reporter gene expression and IL-8 levels in human bronchial epithelial cells (16HBE). Since IL-8 plays a pivotal role in the initiation and development of COPD, and tobacco smoke is a major risk factor for COPD, the induction of IL-8 production by aromatic amines suggests a mechanistic link between aromatic amines and COPD pathogenesis."
+      }
+    },
+    {
+      "polycyclic aromatic hydrocarbons_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tobacco smoke, a major risk factor for COPD, contains multiple chemical compounds including polycyclic aromatic hydrocarbons (PAHs). The study screened various tobacco smoke-derived compounds for their ability to induce IL-8 production in human bronchial epithelial cells, a key factor in COPD pathogenesis. Although the abstract specifically highlights benzopyrene (a PAH) as a potent stimulator of IL-8 production, it groups PAHs among the hazardous components tested. This suggests that PAHs contribute to the inflammatory processes involved in COPD development, establishing a relationship between polycyclic aromatic hydrocarbons and chronic obstructive pulmonary disease."
+      },
+      "polycyclic aromatic hydrocarbons_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract discusses tobacco smoke-derived chemical compounds, including polycyclic aromatic hydrocarbons (PAHs), as potential inducers of IL-8 production in human bronchial epithelial cells. IL-8 plays a pivotal role in the initiation and development of COPD. Although the abstract specifically highlights benzopyrene (a PAH) as a potent stimulator of IL-8 production, it groups PAHs among the hazardous smoke components tested. This suggests that PAHs contribute to the inflammatory processes linked to COPD pathogenesis, indicating a relationship between polycyclic aromatic hydrocarbons and COPD."
+      }
+    },
+    {
+      "phenols_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating tobacco smoke-derived chemical compounds, including phenols, and their effect on IL-8 production in human bronchial epithelial cells. IL-8 is a key chemoattractant involved in the initiation and development of chronic obstructive pulmonary disease (COPD). The results show that phenols dose-dependently increased IL-8 reporter gene expression and IL-8 levels in the culture supernatants of 16HBE cells. Since increased IL-8 production is linked to COPD pathogenesis, the findings indicate that phenols, as tobacco smoke constituents, contribute to mechanisms underlying COPD development."
+      },
+      "phenols_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that phenols, which are tobacco smoke-derived chemical compounds, dose-dependently increase IL-8 reporter gene expression and IL-8 levels in human bronchial epithelial cells (16HBE). Since IL-8 plays a pivotal role in the initiation and development of COPD, and tobacco smoke is a major risk factor for COPD, the induction of IL-8 production by phenols suggests a mechanistic link between phenols and the pathogenesis of COPD."
+      }
+    },
+    {
+      "carbonyls_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies tobacco smoke-derived chemical compounds, including carbonyls (which encompass aldehydes), as capable of inducing IL-8 production in human bronchial epithelial cells. IL-8 plays a pivotal role in the initiation and development of chronic obstructive pulmonary disease (COPD). Specifically, aldehydes, a subset of carbonyls, dose-dependently increased IL-8 expression and secretion, suggesting that carbonyl compounds contribute to the inflammatory processes underlying COPD pathogenesis. Therefore, there is evidence supporting a relationship between carbonyls and COPD."
+      },
+      "carbonyls_COPD": {
+        "relationship": "N",
+        "reason": "The abstract discusses various tobacco smoke-derived chemical compounds and their effects on IL-8 production in human bronchial epithelium cells, which is relevant to COPD pathogenesis. While it mentions several classes of compounds including carbonyls, the results specifically highlight nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics as significantly increasing IL-8 expression and levels. Carbonyls as a class are mentioned as part of the tested compounds but are not specifically identified as having a dose-dependent effect on IL-8 production or linked to COPD in the results. Therefore, based on this abstract, there is no clear evidence of a relationship between carbonyls and COPD."
+      }
+    },
+    {
+      "hydrocyanic acid_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their ability to induce IL-8 production in human bronchial epithelium cells, which is relevant to the development of COPD. While hydrocyanic acid is listed among the 28 hazardous smoke components tested, the results specifically highlight nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics as compounds that dose-dependently increased IL-8 expression and levels. Hydrocyanic acid is not mentioned as having a significant effect on IL-8 production or being implicated in the pathogenesis of COPD in this study. Therefore, there is no clear evidence from this abstract to support a relationship between hydrocyanic acid and chronic obstructive pulmonary disease."
+      },
+      "hydrocyanic acid_COPD": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their ability to induce IL-8 production in human bronchial epithelial cells, which is relevant to COPD pathogenesis. While hydrocyanic acid is listed among the 28 hazardous smoke components tested, the results specifically highlight nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics as compounds that dose-dependently increased IL-8 expression and levels. Hydrocyanic acid is not mentioned as having a significant effect on IL-8 production or being implicated in COPD development in this study. Therefore, based on this abstract, there is no clear evidence of a relationship between hydrocyanic acid and COPD."
+      }
+    },
+    {
+      "nitrosamines_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their ability to induce IL-8 production in human bronchial epithelial cells, which is relevant to COPD pathogenesis. While nitrosamines were included among the 28 hazardous smoke components tested, the results specifically highlight nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics as significantly increasing IL-8 expression and levels. Nitrosamines are not mentioned as having a significant effect on IL-8 production in this study. Therefore, based on this abstract, there is no clear evidence of a relationship between nitrosamines and chronic obstructive pulmonary disease."
+      },
+      "nitrosamines_COPD": {
+        "relationship": "N",
+        "reason": "The abstract investigates various tobacco smoke-derived chemical compounds and their ability to induce IL-8 production in human bronchial epithelial cells, which is relevant to COPD pathogenesis. While multiple compounds such as nicotine, aromatic amines, benzopyrene, phenols, and aldehydes were found to dose-dependently increase IL-8 expression and levels, nitrosamines were included in the tested compounds but were not reported to have a significant effect on IL-8 production. Therefore, based on this abstract, there is no clear evidence supporting a relationship between nitrosamines and COPD."
+      }
+    },
+    {
+      "benzopyrene_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that benzopyrene, a tobacco smoke-derived chemical compound, significantly and dose-dependently increases IL-8 production in human bronchial epithelial cells (16HBE). IL-8 is a major chemoattractant involved in the initiation and development of chronic obstructive pulmonary disease (COPD). Since tobacco smoke is a major risk factor for COPD and benzopyrene is identified as a potent stimulator of IL-8 production, this suggests a mechanistic link between benzopyrene exposure and the pathogenesis of COPD."
+      },
+      "benzopyrene_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between benzopyrene, a tobacco smoke-derived chemical compound, and COPD. It reports that benzopyrene significantly and dose-dependently increases IL-8 production in human bronchial epithelial cells (16HBE). IL-8 is a major chemoattractant involved in the initiation and development of COPD. Since tobacco smoke is a major risk factor for COPD and benzopyrene is identified as a potent stimulator of IL-8 production, this suggests that benzopyrene contributes to the pathogenesis of tobacco smoke-induced COPD."
+      }
+    },
+    {
+      "aldehydes_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that aldehydes, which are tobacco smoke-derived chemical compounds, dose-dependently increased IL-8 reporter gene expression and IL-8 levels in human bronchial epithelium cells (16HBE). Since IL-8 plays a pivotal role in the initiation and development of chronic obstructive pulmonary disease (COPD), and tobacco smoke is a major risk factor for COPD, the induction of IL-8 production by aldehydes suggests a mechanistic link between aldehydes and the pathogenesis of COPD."
+      },
+      "aldehydes_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that aldehydes, which are tobacco smoke-derived chemical compounds, dose-dependently increase IL-8 production in human bronchial epithelial cells (16HBE). IL-8 is a major chemoattractant involved in the initiation and development of COPD. Since tobacco smoke is a major risk factor for COPD and aldehydes are shown to induce IL-8 production, there is a clear relationship between aldehydes and COPD pathogenesis as indicated by the study."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds derived from tobacco smoke that induce IL-8 production, including nicotine, ammonia, aromatic amines, polycyclic aromatic hydrocarbons, phenols, carbonyls, hydrocyanic acid, nitrosamines, benzopyrene, and aldehydes. These are specific named chemical substances rather than general terms."
+}

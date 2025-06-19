@@ -1,0 +1,35 @@
+{
+  "id": 1230,
+  "title": "Canine Scent Detection of Lung Cancer : Preliminary Results",
+  "Abstract": "Several researches have evidenced that cancer cells can produce volatile organic compounds (VOCs) which are released not only in breath but also in other organic fluids, such as blood and urine. This study has evaluated the olfactory capability of trained dogs to detect human lung cancer VOCs in urine. We recruited 150 subjects from European Institute of Oncology (IEO) divided into three groups: 57 patients with lung cancer (group 1); 38 patients with lung disease, other than cancer (group 2); 55 healthy control subjects (group 3).The results are referred to the last 45 days of training, and evidenced that dogs reached a mean success rate that exceeded 80%, with a sensitivity of 0,72 and a specificity of 0,94 for two out of three dogs enrolled. The important novelty is that dogs can discriminate lung cancer not only from healthy subjects, but also from patients with other lung diseases. The results obtained so far are encouraging and lead us to persevere with the training session in order to improve the success rate, reaching values as close as possible to 100%. If so, we believe that, in the future, dogs may be used to perform early diagnostic tests, useful in improving the chances of survival in cases of human lung cancer.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as a specific disease being studied. Although it also refers to 'lung disease, other than cancer,' this is a general term and not a specific disease name. Therefore, the classification is Y because 'lung cancer' is a specific disease explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

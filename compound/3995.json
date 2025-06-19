@@ -1,0 +1,42 @@
+{
+  "id": 3995,
+  "title": "Zika virus modulates human fibroblasts to enhance transmission success in a controlled lab-setting",
+  "Abstract": "Transmission of Zika virus (ZIKV) has been reported in 92 countries and the geographical spread of invasive virus-borne vectors has increased in recent years. Arboviruses naturally survive between vertebrate hosts and arthropod vectors. Transmission success requires the mosquito to feed on viraemic hosts. There is little specific understanding of factors that may promote ZIKV transmission-success. Here we show that mosquito host-seeking behaviour is impacted by viral infection of the vertebrae host and may be essential for the effective transmission of arboviruses like ZIKV. Human skin fibroblasts produce a variety of metabolites, and we show that ZIKV immediately alters gene/protein expression patterns in infected-dermal fibroblasts, altering their metabolism to increase the release of mosquito-attractive volatile organic compounds (VOCs), which improves its transmission success. We demonstrate that at the invasion stage, ZIKV differentially altered the emission of VOCs by significantly increasing or decreasing their amounts, while at the transmission stage of the virus, all VOCs are significantly increased. The findings are complemented by an extensive meta-proteome analysis. Overall, we demonstrate a multifaceted role of virus-host interaction and shed light on how arboviruses may influence the behaviour of their vectors as an evolved means of improving transmission-success.",
+  "Disease_List": [
+    "Zika virus (ZIKV)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Zika virus (ZIKV)', which is a specific disease-causing virus known to cause Zika virus disease. The discussion centers around the transmission of ZIKV and its effects, thus qualifying as a specific disease mention.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Zika virus (ZIKV)"
+  ],
+  "UMLS_search_results": {
+    "Zika virus (ZIKV)": []
+  },
+  "MRCONSO_search_results": {
+    "Zika virus (ZIKV)": [
+      "Zika Virus Infection",
+      "Zika virus infection",
+      "Infection, Zika Virus",
+      "Zika Virus Disease",
+      "Zika virus disease"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Zika virus (ZIKV)_via_Zika Virus Infection": [
+      {
+        "ui": "C0276289",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276289",
+        "name": "Zika Virus Infection",
+        "mesh_id": "D000071243"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) produced by human skin fibroblasts and altered by Zika virus infection, but does not specify any particular chemical compound names."
+}

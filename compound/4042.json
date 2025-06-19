@@ -1,0 +1,125 @@
+{
+  "id": 4042,
+  "title": "Chemosensitization of B-cell lymphomas by methylseleninic acid involves nuclear factor-kappaB inhibition and the rapid generation of other selenium species.",
+  "Abstract": "Although recent reports suggest that selenium can modulate the activity of cytotoxic drugs, the mechanism underlying this activity remains unclear. This has been investigated using a panel of human B-cell lymphoma cell lines. The cytotoxic effects of chemotherapeutic agents (e.g., doxorubicin, etoposide, 4-hydroperoxycyclophosphamide, melphalan, and 1-beta-d-arabinofuranosylcytosine) were increased by up to 2.5-fold when combined with minimally toxic concentrations (EC(5-10)) of the organic selenium compound, methylseleninic acid (MSA). DNA strand breaks were identified using comet assays, but the measured genotoxic activity of the combinations did not explain the observed synergistic effects in cell death. However, minimally toxic (EC(10)) concentrations of MSA induced a 50% decrease in nuclear factor-kappaB (NF-kappaB) activity after an exposure of 5 h, similar to that obtained with the specific NF-kappaB inhibitor, BAY 11-7082. Combinations of BAY 11-7082 with these cytotoxic drugs also resulted in synergism, suggesting that the chemosensitizing activity of MSA is mediated, at least in part, by its effects on NF-kappaB. Basal intracellular selenium concentration was higher in a MSA-sensitive cell line. After exposure to MSA, methylselenocysteine and selenomethionine were identified as the main intracellular species generated. Volatile selenium species, trapped using solid-phase microextraction fibers, were identified as dimethylselenide and dimethyldiselenide. These volatile species are thought to be the most biologically active forms of selenium. Taken together, these results show that the NF-kappaB pathway is one target for MSA underlying the interaction between MSA and chemotherapy. These data encourage the further clinical development of selenium as a potential modulator of cytotoxic drug activity in B-cell lymphomas.",
+  "Disease_List": [
+    "B-cell lymphoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'B-cell lymphoma' as the disease context in which the study was conducted. This is a specific disease name, not a general term, and the research focuses on the effects of selenium compounds on human B-cell lymphoma cell lines.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "B-cell lymphoma"
+  ],
+  "UMLS_search_results": {
+    "B-cell lymphoma": [
+      {
+        "ui": "C0079731",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079731",
+        "name": "B-Cell Lymphomas",
+        "mesh_id": "D016393"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "doxorubicin",
+    "etoposide",
+    "4-hydroperoxycyclophosphamide",
+    "melphalan",
+    "1-beta-d-arabinofuranosylcytosine",
+    "methylseleninic acid",
+    "BAY 11-7082",
+    "methylselenocysteine",
+    "selenomethionine",
+    "dimethylselenide",
+    "dimethyldiselenide"
+  ],
+  "compound_CID": [
+    {
+      "doxorubicin": 31703,
+      "etoposide": 36462,
+      "4-hydroperoxycyclophosphamide": 38347,
+      "melphalan": 460612,
+      "1-beta-d-arabinofuranosylcytosine": 6253,
+      "methylseleninic acid": 161597,
+      "BAY 11-7082": 5353431,
+      "methylselenocysteine": 147004,
+      "selenomethionine": 15103,
+      "dimethylselenide": 11648,
+      "dimethyldiselenide": 23496
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "doxorubicin_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving human B-cell lymphoma cell lines and the cytotoxic effects of chemotherapeutic agents including doxorubicin. It reports that the cytotoxic effects of doxorubicin were increased when combined with methylseleninic acid (MSA), indicating that doxorubicin is active against B-cell lymphoma cells. The study focuses on the modulation of doxorubicin's activity in B-cell lymphoma, demonstrating a clear relationship between doxorubicin and the disease."
+      }
+    },
+    {
+      "etoposide_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving human B-cell lymphoma cell lines and the cytotoxic effects of several chemotherapeutic agents, including etoposide. It reports that the cytotoxic effects of etoposide were increased when combined with methylseleninic acid (MSA), an organic selenium compound. This suggests that etoposide has activity against B-cell lymphoma cells, and its effectiveness can be modulated in this disease context. Therefore, there is evidence of a relationship between etoposide and B-cell lymphoma as etoposide is used as a cytotoxic drug targeting these lymphoma cells."
+      }
+    },
+    {
+      "4-hydroperoxycyclophosphamide_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of 4-hydroperoxycyclophosphamide, a chemotherapeutic agent, in studies involving human B-cell lymphoma cell lines. It reports that the cytotoxic effects of 4-hydroperoxycyclophosphamide were increased when combined with methylseleninic acid (MSA), indicating that this compound is active against B-cell lymphoma cells. The study focuses on the modulation of drug activity in B-cell lymphoma, demonstrating a clear relationship between 4-hydroperoxycyclophosphamide and the disease."
+      }
+    },
+    {
+      "melphalan_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving human B-cell lymphoma cell lines and the cytotoxic effects of several chemotherapeutic agents, including melphalan. It reports that the cytotoxic effects of melphalan were increased up to 2.5-fold when combined with methylseleninic acid (MSA), an organic selenium compound. This indicates that melphalan has cytotoxic activity against B-cell lymphoma cells. Furthermore, the study focuses on the modulation of chemotherapy activity in B-cell lymphomas, directly linking melphalan's effects to this disease context. Therefore, there is clear evidence of a relationship between melphalan and B-cell lymphoma."
+      }
+    },
+    {
+      "1-beta-d-arabinofuranosylcytosine_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes that 1-beta-d-arabinofuranosylcytosine, a chemotherapeutic agent, exhibits increased cytotoxic effects on human B-cell lymphoma cell lines when combined with methylseleninic acid (MSA). This indicates that 1-beta-d-arabinofuranosylcytosine is active against B-cell lymphoma cells, and its efficacy can be modulated in this disease context. Therefore, there is evidence of a relationship between 1-beta-d-arabinofuranosylcytosine and B-cell lymphoma."
+      }
+    },
+    {
+      "methylseleninic acid_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between methylseleninic acid (MSA) and B-cell lymphoma. It describes how MSA, an organic selenium compound, enhances the cytotoxic effects of various chemotherapeutic agents on human B-cell lymphoma cell lines by up to 2.5-fold. The mechanism involves MSA-induced inhibition of nuclear factor-kappaB (NF-kappaB) activity, which is known to play a role in cell survival and drug resistance. The synergistic effect of MSA with chemotherapy drugs and the similarity of this effect to that of a specific NF-kappaB inhibitor suggest that MSA modulates chemotherapy sensitivity in B-cell lymphoma cells. The abstract concludes by encouraging further clinical development of selenium compounds like MSA as potential modulators of cytotoxic drug activity in B-cell lymphomas, indicating a clear relationship between the compound and the disease."
+      }
+    },
+    {
+      "BAY 11-7082_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes that BAY 11-7082, a specific NF-kappaB inhibitor, when combined with cytotoxic drugs, results in synergistic effects in human B-cell lymphoma cell lines. This suggests that BAY 11-7082 can modulate the activity of chemotherapy in B-cell lymphoma by inhibiting NF-kappaB, a pathway implicated in the disease. Therefore, there is evidence of a relationship between BAY 11-7082 and B-cell lymphoma through its chemosensitizing effects and modulation of NF-kappaB activity in these lymphoma cells."
+      }
+    },
+    {
+      "methylselenocysteine_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes research on the effects of selenium compounds, including methylselenocysteine, in human B-cell lymphoma cell lines. It reports that methylseleninic acid (MSA), an organic selenium compound, enhances the cytotoxic effects of chemotherapeutic agents on B-cell lymphoma cells. After exposure to MSA, methylselenocysteine was identified as one of the main intracellular selenium species generated, indicating its presence and potential role in these cells. The study suggests that selenium compounds modulate the NF-kappaB pathway, which is involved in cell survival, thereby enhancing chemotherapy efficacy in B-cell lymphoma. These findings support a relationship between methylselenocysteine and B-cell lymphoma, particularly in the context of modulating chemotherapy response."
+      }
+    },
+    {
+      "selenomethionine_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes research on the effects of selenium compounds, including selenomethionine, in human B-cell lymphoma cell lines. It reports that methylseleninic acid (MSA), an organic selenium compound, enhances the cytotoxic effects of chemotherapy drugs on B-cell lymphoma cells. After exposure to MSA, selenomethionine was identified as one of the main intracellular selenium species generated. The study suggests that selenium compounds, including selenomethionine, are involved in modulating pathways such as NF-kappaB that affect the sensitivity of B-cell lymphoma cells to chemotherapy. Therefore, there is evidence of a relationship between selenomethionine and B-cell lymphoma in the context of modulating chemotherapy efficacy."
+      }
+    },
+    {
+      "dimethylselenide_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes research on the effects of selenium compounds on human B-cell lymphoma cell lines, showing that selenium can modulate the activity of cytotoxic drugs used against B-cell lymphoma. Specifically, it identifies dimethylselenide as one of the volatile selenium species generated intracellularly after exposure to methylseleninic acid (MSA), which is linked to increased chemosensitivity and modulation of the NF-kappaB pathway in B-cell lymphoma cells. Although the direct effect of dimethylselenide alone is not isolated, it is identified as a biologically active selenium species involved in the observed effects on B-cell lymphoma cells, indicating a relationship between dimethylselenide and B-cell lymphoma."
+      }
+    },
+    {
+      "dimethyldiselenide_B-cell_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes research on the effects of selenium compounds on human B-cell lymphoma cell lines, showing that selenium can modulate the activity of cytotoxic drugs used in treatment. Specifically, it identifies volatile selenium species, including dimethyldiselenide, as biologically active forms generated intracellularly after exposure to methylseleninic acid (MSA). The study suggests that these selenium species, including dimethyldiselenide, are involved in enhancing the cytotoxic effects on B-cell lymphoma cells, likely through modulation of the NF-kappaB pathway. Therefore, there is evidence of a relationship between dimethyldiselenide and B-cell lymphoma in the context of selenium's role in modulating chemotherapy efficacy."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several chemotherapeutic agents (doxorubicin, etoposide, 4-hydroperoxycyclophosphamide, melphalan, 1-beta-d-arabinofuranosylcytosine) and selenium-containing compounds (methylseleninic acid, methylselenocysteine, selenomethionine, dimethylselenide, dimethyldiselenide) as well as the NF-kappaB inhibitor BAY 11-7082. These are all specific chemical compounds relevant to the study's investigation of selenium's modulation of cytotoxic drug activity."
+}

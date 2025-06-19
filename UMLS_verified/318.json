@@ -1,0 +1,59 @@
+{
+  "id": 318,
+  "title": "Changes in air pollution and childhood respiratory viral infections in Korea post-COVID-19 outbreak",
+  "Abstract": "To the editor Since the initial outbreak of coronavirus disease 2019 (COVID19), global lockdowns have been implemented, resulting in a decline in overall human activities, including economies, industries, and lifestyles. The government of South Korea enforced an executive order on public health measures, such as social distancing and compulsory mask-wearing. The ambient air pollution, a global health burden for several decades, seems to have improved worldwide compared to the prepandemic period.1) The global health status also underwent significant changes after the COVID19 outbreak, such as fewer hospital visits and decreased respiratory tract infection rates.2,3) The present study aimed to observe the changes in air pollution levels and the number of respiratory viral infections among hospitalized children in South Korea before versus after the COVID-19 pandemic, especially after implementation of the public health measures. The government of South Korea organized the COVID-19 Central Disaster and Safety Countermeasures Headquarters comprising experts from various organizations and implemented nationwide social distancing measures on March 22, 2020. They released basic guidelines for maintaining distance in daily life to prevent viral penetration into individual living spaces, removing conditions favorable for pathogen transmission and survival, minimizing the excretion of the virus from the body, and blocking the pathogen’s transmission.4) They classified 4 levels of social distancing and announced them on a regular basis. Additionally, online office work and school work and gathering restrictions resulted in decreased traffic and activity volumes. Daily mean concentrations of air pollutants (particulate matter [PM]2.5, PM10, ozone [O3], nitrogen dioxide [NO2], carbon monoxide [CO], and sulfur dioxide [SO2]) in 5 metropolitan cities (Seoul, Daejeon, Daegu, Gwangju, and Busan) were gathered to represent the national data of South Korea. Data on ambient air pollution were measured and recorded by air pollutant observatory stations in each city under NAMIS (National Ambient Air Quality Monitoring Information System) surveillance. Data on national air quality were accessed through the AIRKOREA website provided by the Korea Ministry of Environment and the Korea Environment Corporation.5) Since air quality in South Korea traditionally exhibited relatively poor levels in winter and spring under the influence of Asian fine dust, we designated the study period from February 1 to May 31 each year.6) Weekly respiratory virus data provided by the Korea Disease Control and Prevention Agency were collected from February to May annually in 2015–2021.7) A total of 125,463 cases of respiratory viruses from hospitalized children were collected from the Korea Disease Control and Prevention Agency during the study period: 42,279 cases of rhinovirus, 20,602 cases of metapneumovirus, 16,361 cases of adenovirus, 15,537 cases of parainfluenza virus, 12,585 cases of bocavirus, 10,181 cases of respiratory syncytial virus, and 7,918 cases of coronavirus. We observed decreasing trends in ambient NO2, PM2.5, PM10, and SO2 levels in 2020 since the beginning of the pandemic and following lockdowns compared to the same periods before the pandemic (Fig. 1). Since industrial emissions and traffic contribute largely to these air pollutants, noticeable decreases were observed after the implementation of the lockdowns. However, the levels of CO and O3 did not show significant changes compared to those in previous years. A marked reduction of ambient NO2 and paradoxical increase of ambient O3 levels at urban stations during the pandemic were also observed abroad, such as in Brazil, China, and Europe.8) Increased O3 levels during lockdowns may be attributed to a reduction in NOx emissions, which leads to lower O3 titration, since its formation depends on the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds in the atmosphere.8) In 2021, when social distancing between individuals persisted while most industries in South Korea and nearby countries such as China and India resumed, several parameters including PM2.5, PM10, SO2, and O3 exhibited slight increases compared to those in 2020 (Fig. 1). A steep increase in ambient PM10 seems to have resulted from several sandstorms that began and spread from the Eastern Gobi desert steppe during March 2021.9) Respiratory viral infections in the childhood population showed a dramatic decrease after the COVID-19 outbreak since public health measures were implemented (Fig. 2). The average number of respiratory virus detections from February to May each year before the pandemic was 23,120, but in 2020 and 2021, only 5,563 and 4,298 cases were detected, showing reductions of 75.9% and 81.4%, respectively. Several studies from abroad also demonstrated decreased trends in respiratory viruses and hospital use. A reduction in pediatric asthma encounters and decreased steroid prescriptions were observed, probably due to decreased rhinovirus infections during the pandemic.3) In addition, the global decline in influenza virus circulation was concurrent with the pandemic, and most other respiratory viruses exhibited de-",
+  "Disease_List": [
+    "coronavirus disease 2019 (COVID-19)",
+    "respiratory tract infection",
+    "pediatric asthma",
+    "influenza"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'coronavirus disease 2019 (COVID-19)', 'respiratory tract infection', 'pediatric asthma', and 'influenza'. These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory tract infection",
+    "pediatric asthma",
+    "influenza"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019 (COVID-19)": [],
+    "respiratory tract infection": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "pediatric asthma": [
+      {
+        "ui": "C0264408",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0264408",
+        "name": "Childhood asthma",
+        "mesh_id": "None"
+      }
+    ],
+    "influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

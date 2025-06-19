@@ -1,0 +1,64 @@
+{
+  "id": 1735,
+  "title": "Molecularly Imprinted Polymer-Based Optical Sensor for Isopropanol Vapor",
+  "Abstract": "Recent advances have allowed the monitoring of several volatile organic compounds (VOCs) in human exhaled breath, and many of them are being utilized as a biomarker to diagnose several diseases, including diabetes. Among several VOCs, isopropanol (IPA) has been reported as a common volatile compound in the exhaled breath of patients with type 1 and type 2 diabetes. In this article, an experimental approach is discussed to develop a highly selective and sensitive IPA vapor sensor system. The fabricated sensor is comprised of a small and portable glass slide coated with molecularly imprinted polymer containing specific binding sites compatible with IPA molecules. The developed sensor is based on the wavelength interrogation technique. The fabricated device is analyzed for the detection of IPA vapor with different concentrations varying from 50% to 100%. The sensor exhibits maximum sensitivities of 0.37, 0.30, and 0.62 nm/%IPA, respectively, for 30, 60, and 90 min, respectively, and an excellent sensitivity of 0.63 nm/%IPA for 120 min exposure along with good selectivity among a similar class of VOCs. The major features of the sensor i.e., small size, portability, cost-effectiveness, high sensitivity, and good selectivity, make it a potential candidate for diabetes monitoring. The promising results of the sensor illustrate its potential in diabetes monitoring applications.",
+  "Disease_List": [
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'type 1 diabetes' and 'type 2 diabetes', as well as the general term 'diabetes'. These are specific disease names related to the context of the study, which focuses on monitoring isopropanol in exhaled breath as a biomarker for these diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "type 1 diabetes": [
+      {
+        "ui": "C0011854",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011854",
+        "name": "Diabetes Mellitus, Insulin-Dependent",
+        "mesh_id": "D003922"
+      }
+    ],
+    "type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

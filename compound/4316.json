@@ -1,0 +1,34 @@
+{
+  "id": 4316,
+  "title": "Phytochemical Profiling of Dried Palmyrah Haustorium Powder through GC-MS Analysis: Unveiling Novel Bioactive Compounds",
+  "Abstract": "Palmyrah seed haustorium is most beneficial (in human health) with its medicinal properties. It contains various volatile compounds and health benefits, preventing many diseases. The present study was carried out with palmyrah haustorium to evaluate the volatile compounds through GC-MS analysis using methanolic extract. The haustorium extract was used to identify the amount of bioactive substances, secondary metabolites, sugars, amino acids, organic acids, fatty acids, and phenolics found in the Palmyrah haustorium using GC-MS analysis. The results indicated that the palmyrah haustorium contains 50 volatile compounds and secondary metabolites. GC-MS analysis of palmyrah haustorium extract revealed volatile compounds with medicinal properties including anti-bacterial, anti-microbial, hepatoprotective, antihistaminic, cardiotonic, diuretic, antioxidant, anti-inflammatory, and anti-cancer activity. It may prevent Alzheimer's and nervous system disorders. Haustorium is used in food and perfumery industries as a flavoring agent and food additives. The study highlights its health benefits and disease preventing potential in palmyrah haustorium.",
+  "Disease_List": [
+    "Alzheimer's",
+    "nervous system disorders"
+  ],
+  "Reason": "The abstract explicitly mentions 'Alzheimer's' and 'nervous system disorders' as specific diseases or disease categories that the palmyrah haustorium may help prevent. Although 'nervous system disorders' is a broader category, it is still a specific disease-related term rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "nervous system disorders"
+  ],
+  "UMLS_search_results": {
+    "Alzheimer's": [],
+    "nervous system disorders": [
+      {
+        "ui": "C0027765",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027765",
+        "name": "nervous system disorder",
+        "mesh_id": "D009422"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions 'volatile compounds' and 'secondary metabolites' in general terms but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2529,
+  "title": "Gut–brain axis volatile organic compounds derived from breath distinguish between schizophrenia and major depressive disorder",
+  "Abstract": "Background: Signatures from the metabolome and microbiome have already been introduced as candidates for diagnostic and treatment support. The aim of this study was to investigate the utility of volatile organic compounds (VOCs) from the breath for detection of schizophrenia and depression. Methods: Patients with a diagnosis of major depressive disorder (MDD) or schizophrenia, as well as healthy controls, were recruited to participate. After being clinically assessed and receiving instruction, each participant independently collected breath samples for subsequent examination by proton transfer–reaction mass spectrometry. Results: The sample consisted of 104 participants: 36 patients with MDD, 34 patients with schizophrenia and 34 healthy controls. Through mixed-model and deep learning analyses, 5 VOCs contained in the participants’ breath samples were detected that significantly differentiated between diagnostic groups and healthy controls, namely VOCs with mass-to-charge ratios (m/z) 60, 69, 74, 88 and 90, which had classification accuracy of 76.8% to distinguish participants with MDD from healthy controls, 83.6% to distinguish participants with schizophrenia from healthy controls and 80.9% to distinguish participants with MDD from those with schizophrenia. No significant associations with medication, illness duration, age of onset or time in hospital were detected for these VOCs. Limitations: The sample size did not allow generalization, and confounders such as nutrition and medication need to be tested. Conclusion: This study established promising results for the use of human breath gas for detection of schizophrenia and MDD. Two VOCs, 1 with m/z 60 (identified as trimethylamine) and 1 with m/z 90 (identified as butyric acid) could then be further connected to the interworking of the microbiota–gut–brain axis.",
+  "Disease_List": [
+    "schizophrenia",
+    "major depressive disorder (MDD)"
+  ],
+  "Reason": "The abstract explicitly mentions two specific diseases: schizophrenia and major depressive disorder (MDD). These are named multiple times as the conditions being studied for detection using volatile organic compounds from breath samples. Therefore, the classification is 'Y' because specific disease names are clearly stated.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "schizophrenia"
+  ],
+  "UMLS_search_results": {
+    "schizophrenia": [
+      {
+        "ui": "C0036341",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036341",
+        "name": "Schizophrenia",
+        "mesh_id": "D012559"
+      }
+    ],
+    "major depressive disorder (MDD)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "trimethylamine",
+    "butyric acid"
+  ],
+  "compound_CID": [
+    {
+      "trimethylamine": 1146,
+      "butyric acid": 264
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "trimethylamine_schizophrenia": {
+        "relationship": "Y",
+        "reason": "The abstract reports that trimethylamine, identified as a volatile organic compound (VOC) with mass-to-charge ratio 60 in breath samples, significantly differentiated patients with schizophrenia from healthy controls. The study found that this VOC had a classification accuracy of 83.6% in distinguishing schizophrenia patients from healthy controls, suggesting a notable association. Furthermore, trimethylamine is linked to the microbiota–gut–brain axis, which may play a role in schizophrenia pathophysiology. Although the sample size limits generalization and confounders need further testing, the evidence in this study supports a relationship between trimethylamine and schizophrenia."
+      }
+    },
+    {
+      "butyric acid_schizophrenia": {
+        "relationship": "Y",
+        "reason": "The abstract reports that butyric acid, identified as a volatile organic compound with mass-to-charge ratio 90 in breath samples, was one of the compounds that significantly differentiated patients with schizophrenia from healthy controls. This suggests a detectable association between butyric acid levels and schizophrenia. Furthermore, the study connects butyric acid to the microbiota–gut–brain axis, implying a potential mechanistic link relevant to schizophrenia. Although the sample size limits generalization and confounders need further testing, the evidence presented supports a relationship between butyric acid and schizophrenia."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically identifies two volatile organic compounds detected in breath samples with mass-to-charge ratios m/z 60 and m/z 90 as trimethylamine and butyric acid, respectively. These are specific chemical compound names mentioned in the context of differentiating diagnostic groups."
+}

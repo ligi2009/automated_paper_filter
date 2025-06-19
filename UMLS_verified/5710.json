@@ -1,0 +1,35 @@
+{
+  "id": 5710,
+  "title": "Nose-on-Chip Nanobiosensors for Early Detection of Lung Cancer Breath Biomarkers",
+  "Abstract": "Lung cancer remains a global health concern, demanding the development of noninvasive, prompt, selective, and point-of-care diagnostic tools. Correspondingly, breath analysis using nanobiosensors has emerged as a promising noninvasive nose-on-chip technique for the early detection of lung cancer through monitoring diversified biomarkers such as volatile organic compounds/gases in exhaled breath. This comprehensive review summarizes the state-of-the-art breath-based lung cancer diagnosis employing chemiresistive-module nanobiosensors supported by theoretical findings. It unveils the fundamental mechanisms and biological basis of breath biomarker generation associated with lung cancer, technological advancements, and clinical implementation of nanobiosensor-based breath analysis. It explores the merits, challenges, and potential alternate solutions in implementing these nanobiosensors in clinical settings, including standardization, biocompatibility/toxicity analysis, green and sustainable technologies, life-cycle assessment, and scheming regulatory modalities. It highlights nanobiosensors’ role in facilitating precise, real-time, and on-site detection of lung cancer through breath analysis, leading to improved patient outcomes, enhanced clinical management, and remote personalized monitoring. Additionally, integrating these biosensors with artificial intelligence, machine learning, Internet-of-things, bioinformatics, and omics technologies is discussed, providing insights into the prospects of intelligent nose-on-chip lung cancer sniffing nanobiosensors. Overall, this review consolidates knowledge on breathomic biosensor-based lung cancer screening, shedding light on its significance and potential applications in advancing state-of-the-art medical diagnostics to reduce the burden on hospitals and save human lives.",
+  "Disease_List": [
+    "Lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease being addressed for diagnosis using nanobiosensors. Since 'lung cancer' is a specific disease name, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 3792,
+  "title": "Exploring the influence of different habitats and their volatile chemistry in modulating sand fly population structure in a leishmaniasis endemic foci, Kenya",
+  "Abstract": "Phlebotomine sand flies transmit many viral protozoan and bacterial pathogens of public health importance. Knowledge of the ecologic factors influencing their distribution at local scale can provide insights into disease epidemiology and avenues for targeted control. Animal sheds, termite mounds and houses are important peri-domestic and domestic habitats utilized by different sand flies as resting or breeding habitats. However, our knowledge for selection of these habitats by sand flies remains poor. Here, we tested the hypothesis that these habitat types harbor different composition of sand fly species and differ in their volatile chemistry that could influence sand fly selection. To achieve this, we employed CDC light traps following a cross-sectional survey to investigate the distribution of sand flies in the three habitats in an endemic site for leishmaniasis in Kenya. The study was carried out during the dry season, when sand flies are optimally abundant in 2018 and 2020. Sand fly abundance did not vary between the habitats, but species-specific differences in abundance was evident. Measures of sand fly community structure (Shannon diversity and richness) were highest in animal shed, followed by termite mound and lowest inside human dwelling (house). This finding indicates broader attraction of both sexes of sand flies and females of varying physiological states to animal sheds potentially used as breeding or resting sites, but also as a signal for host presence for a blood meal. Furthermore, gas chromatography-mass spectrometric analysis of volatiles collected from represented substrates associated with these habitats viz: human foot odor on worn socks (houses indoors), cow dung (animal sheds) and termite mounds (enclosed vent), revealed a total of 47 volatile organic compounds. Of these, 26, 35 and 16 were detected in human socks, cow dung and enclosed termite vent, respectively. Of these volatiles, 1-octen-3-ol, 6-methyl-5-hepten-2-one, α-pinene, benzyl alcohol, m-cresol, p-cresol and decanal, previously known as attractants for sandflies and other blood-feeding insects, were common to the habitats. Our results suggest that habitat volatiles may contribute to the composition of sand flies and highlight their potential for use in monitoring sand fly populations.",
+  "Disease_List": [
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'leishmaniasis' as a specific disease in the context of the endemic site in Kenya where the study was conducted. Although other terms like 'disease epidemiology' and 'pathogens' are used, only leishmaniasis is named as a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "1-octen-3-ol",
+    "6-methyl-5-hepten-2-one",
+    "α-pinene",
+    "benzyl alcohol",
+    "m-cresol",
+    "p-cresol",
+    "decanal"
+  ],
+  "compound_CID": [
+    {
+      "1-octen-3-ol": 18827,
+      "6-methyl-5-hepten-2-one": 9862,
+      "α-pinene": "None",
+      "benzyl alcohol": 244,
+      "m-cresol": 342,
+      "p-cresol": 2879,
+      "decanal": 8175
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "1-octen-3-ol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study conducted in an endemic site for leishmaniasis, focusing on sand flies which are vectors for the disease. It identifies 1-octen-3-ol as one of the volatile organic compounds common to habitats where sand flies are found. Since 1-octen-3-ol is known as an attractant for sand flies, which transmit leishmaniasis, there is evidence of a relationship between this compound and the disease through its role in influencing sand fly behavior and habitat selection. Therefore, 1-octen-3-ol is indirectly related to leishmaniasis by attracting the vector responsible for disease transmission."
+      }
+    },
+    {
+      "6-methyl-5-hepten-2-one_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on sand flies, which are vectors for leishmaniasis, and their attraction to various habitats based on volatile organic compounds. Among the volatiles identified, 6-methyl-5-hepten-2-one is listed as one of the compounds common to habitats that attract sand flies. Since sand flies transmit leishmaniasis, the presence of 6-methyl-5-hepten-2-one as an attractant suggests an indirect relationship with the disease by influencing sand fly behavior and potentially affecting disease transmission dynamics."
+      }
+    },
+    {
+      "α-pinene_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that α-pinene is one of the volatile organic compounds detected in habitats associated with sand flies, which are vectors for leishmaniasis. α-pinene is noted as a known attractant for sand flies and other blood-feeding insects. Since sand flies transmit leishmaniasis, the presence of α-pinene as an attractant suggests a relationship between this compound and the disease by influencing sand fly behavior and potentially affecting disease epidemiology."
+      }
+    },
+    {
+      "benzyl alcohol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the volatile organic compounds present in habitats of sand flies, which are vectors for leishmaniasis. Benzyl alcohol was identified among the volatiles common to habitats where sand flies rest or breed. Since sand flies transmit leishmaniasis, and benzyl alcohol is noted as an attractant for sand flies, there is evidence of a relationship between benzyl alcohol and leishmaniasis through its role in influencing sand fly behavior and potentially affecting disease epidemiology."
+      }
+    },
+    {
+      "m-cresol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that m-cresol is one of the volatile organic compounds detected in habitats associated with sand flies, which are vectors for leishmaniasis. m-cresol, along with other compounds, is noted as an attractant for sand flies and other blood-feeding insects. Since sand flies transmit the protozoan pathogens causing leishmaniasis, the presence of m-cresol as an attractant suggests an indirect relationship where m-cresol influences sand fly behavior and habitat selection, potentially affecting the epidemiology of leishmaniasis."
+      }
+    },
+    {
+      "p-cresol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that p-cresol is one of the volatile organic compounds detected in habitats associated with sand flies, which are vectors for leishmaniasis. p-cresol is noted as a known attractant for sand flies and other blood-feeding insects. Since sand flies transmit the protozoan pathogens causing leishmaniasis, the presence of p-cresol as an attractant suggests an indirect relationship where p-cresol influences sand fly behavior and habitat selection, potentially affecting the epidemiology of leishmaniasis."
+      }
+    },
+    {
+      "decanal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that decanal is one of the volatile organic compounds detected in habitats associated with sand flies, which are vectors for leishmaniasis. Decanal is noted as a known attractant for sand flies and other blood-feeding insects. Since sand flies transmit the protozoan pathogens causing leishmaniasis, the presence of decanal as an attractant suggests it may influence sand fly behavior and thus potentially impact the epidemiology of leishmaniasis. Therefore, there is evidence of a relationship between decanal and leishmaniasis through its role in attracting the disease vector."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as volatile organic compounds detected in different habitats associated with sand flies. These compounds are known attractants for sandflies and other blood-feeding insects, making them relevant chemical substances identified in the study."
+}

@@ -1,0 +1,77 @@
+{
+  "id": 6280,
+  "title": "Biomonitoring: Developing a Beehive Air Volatiles Profile as an Indicator of Environmental Contamination Using a Sustainable In-Field Technique",
+  "Abstract": "The wellbeing of the honey bee colonies and the health of humans are connected in numerous ways. Therefore, ensuring the wellbeing of bees is a crucial component of fostering sustainability and ecological harmony. The colony collapse disorder (CCD) phenomenon was first reported in 2006 when the majority of bee colonies in Europe died out, due to an increase in infections, contamination of hives with agrochemical pesticides, and persistent organic pollutants (POPs). Only 6 years after the emergence of CCD, more than 6.5 million premature deaths were reported, as a consequence of persistent human exposure to air pollution. The insect species such as the honey bee Apis mellifera L. and the air matrix inside the beehive can be used as tools in biomonitoring, instead of traditional monitoring methods. This may have advantages in terms of cost-effective bioindicators of the environmental health status, showing the ability to record spatial and temporal pollutant variations. In this study, we present the sustainable in-field usage of the portable membrane inlet mass spectrometry (MIMS) instrument for an instant and effective determination of the level of environmental pollution by analytical identification of hive atmosphere volatile organic compound (VOC) contaminants, polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), monocyclic aromatic hydrocarbons (BTEX) compounds, and pesticides. The samples were taken from hives located in urbanized and rural regions, highlighting variations in contamination. The MIMS results were benchmarked against a conventional laboratory sampling technique, such as GC-MS.",
+  "Disease_List": [
+    "colony collapse disorder (CCD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'colony collapse disorder (CCD)', which is a specific disease affecting honey bee colonies. Although it discusses general health impacts on humans, no specific human diseases are named. The mention of CCD qualifies the response as 'Y' with the disease listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "colony collapse disorder (CCD)"
+  ],
+  "UMLS_search_results": {
+    "colony collapse disorder (CCD)": []
+  },
+  "MRCONSO_search_results": {
+    "colony collapse disorder (CCD)": [
+      "Colony Collapse Disorder",
+      "Colony Collapse Disorders",
+      "Colony collapse disorder of honeybees"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "colony collapse disorder (CCD)_via_Colony Collapse Disorder": [
+      {
+        "ui": "C2717864",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2717864",
+        "name": "Colony Collapse Disorder",
+        "mesh_id": "D056631"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "polycyclic aromatic hydrocarbons",
+    "polychlorinated biphenyls",
+    "monocyclic aromatic hydrocarbons",
+    "BTEX"
+  ],
+  "compound_CID": [
+    {
+      "polycyclic aromatic hydrocarbons": "None",
+      "polychlorinated biphenyls": "None",
+      "monocyclic aromatic hydrocarbons": "None",
+      "BTEX": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polycyclic aromatic hydrocarbons_colony_collapse_disorder_(CCD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses colony collapse disorder (CCD) and mentions contamination of hives with agrochemical pesticides and persistent organic pollutants (POPs) as factors contributing to CCD. It also describes the use of mass spectrometry to detect various environmental pollutants, including polycyclic aromatic hydrocarbons (PAHs), in hive atmospheres. However, the abstract does not provide direct evidence or a clear link between PAHs specifically and the occurrence or causation of CCD. PAHs are mentioned as one of several contaminants detected, but no causal or associative relationship with CCD is established in the text."
+      }
+    },
+    {
+      "polychlorinated biphenyls_colony_collapse_disorder_(CCD)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that colony collapse disorder (CCD) in honey bee colonies is associated with contamination of hives by agrochemical pesticides and persistent organic pollutants (POPs). Polychlorinated biphenyls (PCBs) are specifically mentioned as one of the pollutants detected in the hive atmosphere using mass spectrometry techniques. This suggests that PCBs are present in the environment of affected bee colonies and may be linked to the CCD phenomenon. Although the abstract does not explicitly state a direct causal relationship, the inclusion of PCBs among the contaminants associated with CCD implies a relationship between polychlorinated biphenyls and colony collapse disorder."
+      }
+    },
+    {
+      "monocyclic aromatic hydrocarbons_colony_collapse_disorder_(CCD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of monocyclic aromatic hydrocarbons (BTEX compounds) as environmental pollutants detected in beehive atmospheres using mass spectrometry. It mentions colony collapse disorder (CCD) being associated with infections, agrochemical pesticides, and persistent organic pollutants (POPs), but does not provide direct evidence linking monocyclic aromatic hydrocarbons specifically to CCD. The study focuses on monitoring environmental pollution levels rather than establishing a causal relationship between monocyclic aromatic hydrocarbons and CCD."
+      }
+    },
+    {
+      "BTEX_colony_collapse_disorder_(CCD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of BTEX compounds as part of the volatile organic compound contaminants detected in hive atmospheres using mass spectrometry. However, it does not provide any direct evidence or specific findings linking BTEX exposure to the occurrence or causation of colony collapse disorder (CCD). The abstract mentions CCD in the context of multiple factors such as infections, agrochemical pesticides, and persistent organic pollutants, but BTEX is only listed as one of several contaminants measured without an established causal or correlative relationship to CCD."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several classes of chemical compounds including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), monocyclic aromatic hydrocarbons, and BTEX compounds, which are specific groups of volatile organic compounds relevant to environmental pollution monitoring."
+}

@@ -1,0 +1,103 @@
+{
+  "id": 805,
+  "title": "Inhaled Pollutants: The Molecular Scene behind Respiratory and Systemic Diseases Associated with Ultrafine Particulate Matter",
+  "Abstract": "Air pollution of anthropogenic origin is largely from the combustion of biomass (e.g., wood), fossil fuels (e.g., cars and trucks), incinerators, landfills, agricultural activities and tobacco smoke. Air pollution is a complex mixture that varies in space and time, and contains hundreds of compounds including volatile organic compounds (e.g., benzene), metals, sulphur and nitrogen oxides, ozone and particulate matter (PM). PM0.1 (ultrafine particles (UFP)), those particles with a diameter less than 100 nm (includes nanoparticles (NP)) are considered especially dangerous to human health and may contribute significantly to the development of numerous respiratory and cardiovascular diseases such as chronic obstructive pulmonary disease (COPD) and atherosclerosis. Some of the pathogenic mechanisms through which PM0.1 may contribute to chronic disease is their ability to induce inflammation, oxidative stress and cell death by molecular mechanisms that include transcription factors such as nuclear factor κB (NF-κB) and nuclear factor (erythroid-derived 2)-like 2 (Nrf2). Epigenetic mechanisms including non-coding RNA (ncRNA) may also contribute towards the development of chronic disease associated with exposure to PM0.1. This paper highlights emerging molecular concepts associated with inhalational exposure to PM0.1 and their ability to contribute to chronic respiratory and systemic disease.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease (COPD)",
+    "atherosclerosis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to air pollution exposure, namely 'chronic obstructive pulmonary disease (COPD)' and 'atherosclerosis'. These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease (COPD)",
+    "atherosclerosis"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene",
+    "sulphur oxides",
+    "nitrogen oxides",
+    "ozone"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241,
+      "sulphur oxides": "None",
+      "nitrogen oxides": "None",
+      "ozone": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution as a complex mixture containing volatile organic compounds such as benzene and particulate matter (PM0.1), which are linked to respiratory diseases including COPD. However, the evidence presented specifically implicates ultrafine particles (PM0.1) and their molecular mechanisms in contributing to COPD, rather than benzene itself. Benzene is mentioned only as a component of the mixture without direct association or mechanistic evidence linking it to COPD in the abstract."
+      },
+      "benzene_atherosclerosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution containing benzene as one of many volatile organic compounds and highlights ultrafine particulate matter (PM0.1) as contributing to respiratory and cardiovascular diseases including atherosclerosis. However, it does not provide specific evidence linking benzene itself directly to atherosclerosis. The mechanisms described relate primarily to PM0.1 particles rather than benzene specifically. Therefore, based on this abstract, there is no clear relationship established between benzene and atherosclerosis."
+      }
+    },
+    {
+      "sulphur oxides_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution containing sulphur oxides among many compounds, and highlights particulate matter (PM0.1) as especially dangerous and linked to chronic respiratory diseases including COPD. However, it does not provide specific evidence or direct association between sulphur oxides themselves and COPD. The focus is on ultrafine particles and their molecular mechanisms contributing to COPD, without explicit mention of sulphur oxides causing or contributing to COPD."
+      },
+      "sulphur oxides_atherosclerosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution containing sulphur oxides among many compounds, and highlights particulate matter (PM0.1) as contributing to respiratory and cardiovascular diseases including atherosclerosis. However, it does not provide specific evidence linking sulphur oxides directly to atherosclerosis. The mechanisms described relate primarily to ultrafine particles rather than sulphur oxides specifically. Therefore, based on this abstract, there is no clear relationship established between sulphur oxides and atherosclerosis."
+      }
+    },
+    {
+      "nitrogen oxides_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies air pollution as a complex mixture containing nitrogen oxides among other compounds. It highlights that particulate matter, which includes components like nitrogen oxides, contributes significantly to the development of respiratory diseases such as chronic obstructive pulmonary disease (COPD). The mechanisms described, including inflammation and oxidative stress induced by these pollutants, support a relationship between nitrogen oxides exposure and COPD."
+      },
+      "nitrogen oxides_atherosclerosis": {
+        "relationship": "N",
+        "reason": "The abstract mentions nitrogen oxides as part of the complex mixture of air pollution compounds but does not provide specific evidence linking nitrogen oxides directly to atherosclerosis. Instead, it highlights particulate matter (PM0.1) as contributing significantly to cardiovascular diseases including atherosclerosis through mechanisms like inflammation and oxidative stress. Therefore, based on this abstract, there is no clear relationship established between nitrogen oxides and atherosclerosis."
+      }
+    },
+    {
+      "ozone_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution as a complex mixture containing many compounds including ozone and particulate matter (PM). It specifically highlights the role of ultrafine particles (PM0.1) in contributing to chronic respiratory diseases such as COPD through mechanisms like inflammation and oxidative stress. However, the abstract does not provide direct evidence or specific mention of ozone's role or relationship with COPD. The focus is primarily on particulate matter rather than ozone in relation to COPD."
+      },
+      "ozone_atherosclerosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution as a complex mixture containing various compounds including ozone and particulate matter (PM). It specifically highlights the role of ultrafine particles (PM0.1) in contributing to respiratory and cardiovascular diseases such as atherosclerosis through mechanisms like inflammation and oxidative stress. However, the abstract does not provide direct evidence or specific mention of ozone itself contributing to atherosclerosis. The focus is on particulate matter rather than ozone in relation to atherosclerosis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions benzene as an example of volatile organic compounds, and also lists sulphur oxides, nitrogen oxides, and ozone as components of air pollution. These are specific chemical compounds relevant to the study of air pollution and its health effects."
+}

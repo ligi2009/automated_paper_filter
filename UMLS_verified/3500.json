@@ -1,0 +1,39 @@
+{
+  "id": 3500,
+  "title": "Breathomics for Gastric Cancer Classification Using Back-propagation Neural Network",
+  "Abstract": "Breathomics is the metabolomics study of exhaled air. It is a powerful emerging metabolomics research field that mainly focuses on health-related volatile organic compounds (VOCs). Since the quantity of these compounds varies with health status, breathomics assures to deliver noninvasive diagnostic tools. Thus, the main aim of breathomics is to discover patterns of VOCs related to abnormal metabolic processes occurring in the human body. Classification systems, however, are not designed for cost-sensitive classification domains. Therefore, they do not work on the gastric carcinoma (GC) domain where the benefit of correct classification of early stages is more than that of later stages, and also the cost of wrong classification is different for all pairs of predicted and actual classes. The aim of this work is to demonstrate the basic principles for the breathomics to classify the GC, for that the determination of VOCs such as acetone, carbon disulfide, 2-propanol, ethyl alcohol, and ethyl acetate in exhaled air and stomach tissue emission for the detection of GC has been analyzed. The breath of 49 GC and 30 gastric ulcer patients were collected for the study to distinguish the normal, suspected, and positive cases using back-propagation neural network (BPN) and produced the accuracy of 93%, sensitivity of 94.38%, and specificity of 89.93%. This study carries out the comparative study of the result obtained by the single- and multi-layer cascade-forward and feed-forward BPN with different activation functions. From this study, the multilayer cascade-forward outperforms the classification of GC from normal and benign cases.",
+  "Disease_List": [
+    "gastric carcinoma",
+    "gastric ulcer"
+  ],
+  "Reason": "The abstract explicitly mentions 'gastric carcinoma (GC)' and 'gastric ulcer' as specific diseases being studied. These are specific disease names rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "gastric carcinoma",
+    "gastric ulcer"
+  ],
+  "UMLS_search_results": {
+    "gastric carcinoma": [
+      {
+        "ui": "C0699791",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699791",
+        "name": "Stomach Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "gastric ulcer": [
+      {
+        "ui": "C0038358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038358",
+        "name": "Gastric ulcer",
+        "mesh_id": "D013276"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

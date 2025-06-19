@@ -1,0 +1,237 @@
+{
+  "id": 1801,
+  "title": "Nicotine or marijuana vaping exposure during pregnancy and altered immune responses in offspring",
+  "Abstract": "Electronic nicotine delivery systems (ENDS) - which include electronic cigarettes or e-cigarettes, or simply e-cigs, and marijuana vaping have become increasingly popular. ENDS devices have been established as one of the tobacco quit methods and promoted to be safer compared to traditional tobacco cigarettes. Emerging evidence demonstrates that e-cigarette and marijuana vape use can be harmful, with potential associations with cancer. Herein, we summarize the level of evidence to date for altered immune response, with a focus on cancer risks in the offspring after maternal use of, or aerosol exposures from, ENDS or marijuana vape during pregnancy. From 27 published articles retrieved from PubMed, we sought to find out identified carcinogens in ENDS aerosols and marijuana vapor, which cross the placental barrier and can increase cancer risk in the offspring. Carcinogens in vaping aerosols include aldehydes, metals, tobacco-specific nitrosamines, tobacco alkaloids, polycyclic aromatic hydrocarbons, and volatile organic compounds. Additionally, there was only one passive vaping exposure case study on a human fetus, which noted that glycerol, aluminum, chromium, nickel, copper, zinc, selenium, and lead crossed from the mother to the offspring’s cord blood. The carcinogens (metals) in that study were at lower concentrations compared to the mother’s biological matrices. Lastly, we observed that in utero exposures to ENDS-associated chemicals can occur in vital organs such as the lungs, kidneys, brain, bladder, and heart. Any resulting DNA damage increases the risk of tumorigenesis. Future epidemiological studies are needed to examine the effects of passive aerosol exposures from existing and emerging electronic nicotine and marijuana products on developing offspring to cancer.",
+  "Disease_List": [
+    "cancer",
+    "tumorigenesis"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' multiple times as a potential risk associated with e-cigarette and marijuana vape use, including cancer risks in offspring after maternal exposure. It also refers to 'tumorigenesis,' which is the process of tumor formation, directly related to disease development. These are specific disease-related terms rather than general references to illness or health conditions.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "tumorigenesis"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "tumorigenesis": [
+      {
+        "ui": "C0007621",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007621",
+        "name": "Neoplastic Cell Transformation",
+        "mesh_id": "D002471"
+      },
+      {
+        "ui": "C0596263",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0596263",
+        "name": "Carcinogenesis",
+        "mesh_id": "D063646"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "aldehydes",
+    "metals",
+    "tobacco-specific nitrosamines",
+    "tobacco alkaloids",
+    "polycyclic aromatic hydrocarbons",
+    "volatile organic compounds",
+    "glycerol",
+    "aluminum",
+    "chromium",
+    "nickel",
+    "copper",
+    "zinc",
+    "selenium",
+    "lead"
+  ],
+  "compound_CID": [
+    {
+      "aldehydes": 712,
+      "metals": "None",
+      "tobacco-specific nitrosamines": "None",
+      "tobacco alkaloids": "None",
+      "polycyclic aromatic hydrocarbons": "None",
+      "volatile organic compounds": "None",
+      "glycerol": 753,
+      "aluminum": 5359268,
+      "chromium": 23976,
+      "nickel": 935,
+      "copper": 23978,
+      "zinc": 23994,
+      "selenium": 6326970,
+      "lead": 5352425
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "aldehydes_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies aldehydes as one of the carcinogens present in vaping aerosols from electronic nicotine delivery systems (ENDS) and marijuana vapor. It highlights that these carcinogens can cross the placental barrier and increase cancer risk in offspring. Additionally, the abstract notes that exposure to these chemicals can cause DNA damage, which increases the risk of tumorigenesis, indicating a relationship between aldehydes and cancer."
+      },
+      "aldehydes_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies aldehydes as carcinogens present in vaping aerosols from electronic nicotine delivery systems (ENDS). It further explains that exposure to these carcinogens, including aldehydes, can cross the placental barrier and cause DNA damage in vital organs of the offspring. This DNA damage is linked to an increased risk of tumorigenesis, indicating a relationship between aldehyde exposure and the development of tumors."
+      }
+    },
+    {
+      "metals_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies metals as carcinogens present in vaping aerosols, including specific metals such as aluminum, chromium, nickel, copper, zinc, selenium, and lead that can cross the placental barrier and reach the offspring's cord blood. It highlights that in utero exposure to these metals and other ENDS-associated chemicals can cause DNA damage, which increases the risk of tumorigenesis (cancer development). Although the concentrations of metals were lower in the fetus compared to the mother, the presence of these carcinogenic metals and their potential to cause DNA damage supports a relationship between metals and cancer risk."
+      },
+      "metals_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies metals as carcinogens present in vaping aerosols that can cross the placental barrier and reach the offspring's cord blood. It also states that in utero exposure to ENDS-associated chemicals, including metals, can cause DNA damage, which increases the risk of tumorigenesis. Therefore, there is evidence suggesting a relationship between metals and tumorigenesis based on the potential for metals to contribute to cancer risk through DNA damage."
+      }
+    },
+    {
+      "tobacco-specific nitrosamines_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies tobacco-specific nitrosamines as one of the carcinogens present in electronic nicotine delivery system (ENDS) aerosols. It highlights that these carcinogens can cross the placental barrier and potentially increase cancer risk in offspring. Additionally, the abstract discusses that exposure to these chemicals can cause DNA damage, which increases the risk of tumorigenesis. Therefore, there is evidence in the abstract supporting a relationship between tobacco-specific nitrosamines and cancer."
+      },
+      "tobacco-specific nitrosamines_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies tobacco-specific nitrosamines as carcinogens present in vaping aerosols, which can cross the placental barrier and increase cancer risk in offspring. It also states that DNA damage resulting from in utero exposure to ENDS-associated chemicals, including these carcinogens, increases the risk of tumorigenesis. Therefore, there is evidence supporting a relationship between tobacco-specific nitrosamines and tumorigenesis."
+      }
+    },
+    {
+      "tobacco alkaloids_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies tobacco alkaloids as one of the carcinogens present in electronic nicotine delivery system (ENDS) aerosols. It highlights that these carcinogens can cross the placental barrier and potentially increase cancer risk in offspring. Additionally, the abstract discusses DNA damage caused by in utero exposure to ENDS-associated chemicals, which can lead to tumorigenesis. Therefore, there is evidence suggesting a relationship between tobacco alkaloids and cancer risk."
+      },
+      "tobacco alkaloids_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies tobacco alkaloids as one of the carcinogens present in vaping aerosols, which can cross the placental barrier and increase cancer risk in offspring. It also states that in utero exposure to ENDS-associated chemicals, including tobacco alkaloids, can cause DNA damage that increases the risk of tumorigenesis. Therefore, there is evidence supporting a relationship between tobacco alkaloids and tumorigenesis."
+      }
+    },
+    {
+      "polycyclic aromatic hydrocarbons_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons (PAHs) as one of the carcinogens present in electronic nicotine delivery systems (ENDS) aerosols. It highlights that these carcinogens can cross the placental barrier and increase cancer risk in offspring. The abstract also notes that exposure to these chemicals can cause DNA damage, which increases the risk of tumorigenesis, thereby establishing a relationship between PAHs and cancer."
+      },
+      "polycyclic aromatic hydrocarbons_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons as carcinogens present in vaping aerosols, which can cross the placental barrier and increase cancer risk in offspring. It also states that in utero exposure to ENDS-associated chemicals, including these carcinogens, can cause DNA damage that increases the risk of tumorigenesis. Therefore, there is evidence supporting a relationship between polycyclic aromatic hydrocarbons and tumorigenesis."
+      }
+    },
+    {
+      "volatile organic compounds_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies volatile organic compounds (VOCs) as carcinogens present in vaping aerosols from electronic nicotine delivery systems (ENDS) and marijuana vapor. These carcinogens can cross the placental barrier and potentially increase cancer risk in offspring. The abstract also notes that exposure to these chemicals can cause DNA damage, which increases the risk of tumorigenesis. Therefore, there is evidence of a relationship between volatile organic compounds and cancer based on the carcinogenic potential of VOCs in vaping aerosols."
+      },
+      "volatile organic compounds_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies volatile organic compounds (VOCs) as carcinogens present in electronic nicotine delivery system (ENDS) aerosols. It further explains that exposure to these carcinogens, including VOCs, can cross the placental barrier and cause DNA damage in vital organs of the offspring, which increases the risk of tumorigenesis. Therefore, there is evidence in the abstract linking volatile organic compounds to tumorigenesis through their carcinogenic effects and DNA damage potential."
+      }
+    },
+    {
+      "glycerol_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that glycerol was detected crossing from the mother to the offspring’s cord blood in a passive vaping exposure case study. However, it does not identify glycerol as a carcinogen or directly link glycerol exposure to cancer risk. The carcinogens identified in ENDS aerosols are aldehydes, metals, tobacco-specific nitrosamines, tobacco alkaloids, polycyclic aromatic hydrocarbons, and volatile organic compounds, but glycerol is not listed among these. Therefore, based on the abstract, there is no clear evidence of a relationship between glycerol and cancer."
+      },
+      "glycerol_tumorigenesis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that glycerol was detected crossing from the mother to the offspring’s cord blood during passive vaping exposure. However, it does not provide evidence that glycerol itself is a carcinogen or directly linked to tumorigenesis. The carcinogens identified in the aerosols are primarily metals and other compounds, and the increased risk of tumorigenesis is attributed to DNA damage from these chemicals, not glycerol. Therefore, there is no clear relationship established between glycerol and tumorigenesis based on the abstract."
+      }
+    },
+    {
+      "aluminum_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that aluminum is one of the metals found to cross from the mother to the offspring’s cord blood during passive vaping exposure. However, it does not specifically identify aluminum as a carcinogen or directly link aluminum exposure to cancer risk. The carcinogens listed include aldehydes, metals in general, tobacco-specific nitrosamines, and other compounds, but the evidence for aluminum specifically causing cancer is not established in the abstract. The abstract calls for future studies to examine cancer risks related to exposures but does not provide clear evidence of a relationship between aluminum and cancer."
+      },
+      "aluminum_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that aluminum, among other metals, was detected crossing from the mother to the offspring's cord blood following passive vaping exposure. It also states that in utero exposures to ENDS-associated chemicals, including metals, can cause DNA damage that increases the risk of tumorigenesis. Although direct causation is not definitively established, the presence of aluminum as a metal crossing the placental barrier and the association of such exposures with increased tumorigenesis risk provides evidence of a relationship."
+      }
+    },
+    {
+      "chromium_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that chromium is one of the metals identified in ENDS aerosols that can cross the placental barrier and reach the offspring's cord blood. These metals are classified as carcinogens, and exposure to such carcinogens in utero can cause DNA damage, which increases the risk of tumorigenesis (cancer development). Although the concentrations of chromium were lower compared to the mother's biological matrices and direct epidemiological evidence is limited, the presence of chromium as a carcinogenic metal in vaping aerosols and its potential to contribute to cancer risk supports a relationship between chromium and cancer."
+      },
+      "chromium_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that chromium, a metal found in ENDS aerosols, can cross the placental barrier and reach the offspring's cord blood. It also states that in utero exposures to ENDS-associated chemicals, including metals like chromium, can cause DNA damage, which increases the risk of tumorigenesis. Although direct causation is not definitively established, the presence of chromium as a carcinogen in vaping aerosols and its potential to contribute to DNA damage supports a relationship between chromium exposure and tumorigenesis."
+      }
+    },
+    {
+      "nickel_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nickel as one of the metals found in ENDS aerosols that can cross the placental barrier and reach the offspring's cord blood. It mentions that these metals are carcinogens and that exposure to ENDS-associated chemicals, including metals like nickel, can cause DNA damage that increases the risk of tumorigenesis (cancer development). Although direct epidemiological evidence is still needed, the presence of nickel as a carcinogenic metal in vaping aerosols and its potential to contribute to cancer risk supports a relationship between nickel and cancer."
+      },
+      "nickel_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nickel, among other metals, is present in ENDS aerosols and can cross the placental barrier to reach the offspring's cord blood. It also states that exposure to these chemicals in utero can cause DNA damage, which increases the risk of tumorigenesis. Although direct causation is not definitively established, the presence of nickel as a carcinogenic metal and its potential to contribute to DNA damage supports a relationship between nickel exposure and tumorigenesis."
+      }
+    },
+    {
+      "copper_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that copper, among other metals, was detected crossing from the mother to the offspring's cord blood during passive vaping exposure. While copper itself is not explicitly labeled as a carcinogen in the abstract, it is included in the list of metals found in ENDS aerosols that can cross the placental barrier. The abstract also notes that exposure to these chemicals, including metals, can cause DNA damage that increases the risk of tumorigenesis (cancer development). Therefore, there is evidence suggesting a potential relationship between copper exposure from vaping aerosols and increased cancer risk, particularly in offspring exposed in utero."
+      },
+      "copper_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that copper is one of the metals found in vaping aerosols that can cross the placental barrier and reach the offspring's cord blood. It also states that exposure to ENDS-associated chemicals, including metals like copper, can cause DNA damage, which increases the risk of tumorigenesis. Although the concentration of these metals in the fetus is lower than in the mother, the presence of copper among these carcinogenic metals and the link to DNA damage supports a relationship between copper exposure and tumorigenesis risk."
+      }
+    },
+    {
+      "zinc_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that zinc is one of the metals found to cross from the mother to the offspring's cord blood during passive vaping exposure. However, it does not provide direct evidence linking zinc itself to cancer risk. The carcinogens identified include various metals and chemicals, but the abstract does not specify zinc as a carcinogen or directly associated with tumorigenesis. The increased cancer risk is attributed to DNA damage from ENDS-associated chemicals in general, without isolating zinc as a causative factor. Therefore, based on this abstract, there is no clear relationship established between zinc and cancer."
+      },
+      "zinc_tumorigenesis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that zinc is one of the metals found to cross from the mother to the offspring's cord blood during passive vaping exposure. However, it does not provide any direct evidence or specific association between zinc itself and tumorigenesis. The increased risk of tumorigenesis is linked generally to DNA damage caused by carcinogens in ENDS aerosols, which include various metals and chemicals, but zinc is not specifically identified as a carcinogen or causative agent for tumorigenesis in the abstract. Therefore, there is no clear relationship established between zinc and tumorigenesis based on the provided information."
+      }
+    },
+    {
+      "selenium_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions selenium as one of the metals that crossed from the mother to the offspring's cord blood during passive vaping exposure. However, it does not provide evidence that selenium itself is a carcinogen or directly linked to cancer risk. The carcinogens identified in vaping aerosols include aldehydes, metals, tobacco-specific nitrosamines, tobacco alkaloids, polycyclic aromatic hydrocarbons, and volatile organic compounds, but selenium is not specifically implicated as a carcinogen. The abstract emphasizes the need for future studies to examine cancer risks related to vaping exposures but does not establish a clear relationship between selenium and cancer."
+      },
+      "selenium_tumorigenesis": {
+        "relationship": "N",
+        "reason": "The abstract mentions selenium as one of the metals that crossed from the mother to the offspring’s cord blood during passive vaping exposure. However, it does not provide any direct evidence or specific association between selenium itself and tumorigenesis. The increased risk of tumorigenesis discussed is linked generally to DNA damage caused by ENDS-associated chemicals and carcinogens, but selenium is not identified as a carcinogen or causative agent in tumorigenesis within the abstract."
+      }
+    },
+    {
+      "lead_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that lead, a metal found in ENDS aerosols, can cross the placental barrier and reach the offspring's cord blood. It is mentioned among carcinogens present in vaping aerosols. The abstract also notes that in utero exposure to these chemicals, including metals like lead, can cause DNA damage that increases the risk of tumorigenesis (cancer development). Although direct epidemiological evidence is still needed, the presence of lead as a carcinogen in the aerosol and its ability to reach fetal tissues supports a relationship between lead exposure and increased cancer risk."
+      },
+      "lead_tumorigenesis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that lead, a metal found in ENDS aerosols, can cross the placental barrier and reach the offspring's cord blood. It also states that in utero exposure to ENDS-associated chemicals, including metals like lead, can cause DNA damage, which increases the risk of tumorigenesis. Although direct causation is not definitively established, the presence of lead as a carcinogen in vaping aerosols and its potential to contribute to DNA damage supports a relationship between lead exposure and tumorigenesis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds and elements identified as carcinogens or components in ENDS aerosols and marijuana vapor, including aldehydes, tobacco-specific nitrosamines, tobacco alkaloids, polycyclic aromatic hydrocarbons, volatile organic compounds, glycerol, and several metals such as aluminum, chromium, nickel, copper, zinc, selenium, and lead. These are specific chemical names or classes rather than general terms."
+}

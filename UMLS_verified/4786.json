@@ -1,0 +1,28 @@
+{
+  "id": 4786,
+  "title": "Early detection of bacterial pneumonia by characteristic induced odor signatures",
+  "Abstract": "Introduction The ability to detect pathogenic bacteria before the onsets of severe respiratory symptoms and to differentiate bacterial infection allows to improve patient-tailored treatment leading to a significant reduction in illness severity, comorbidity as well as antibiotic resistance. As such, this study refines the application of the non-invasive Secondary Electrospray Ionization-High Resolution Mass Spectrometry (SESI-HRMS) methodology for real-time and early detection of human respiratory bacterial pathogens in the respiratory tract of a mouse infection model. Methods A real-time analysis of changes in volatile metabolites excreted by mice undergoing a lung infection by Staphylococcus aureus or Streptococcus pneumoniae were evaluated using a SESI-HRMS instrument. The infection status was confirmed using classical CFU enumeration and tissue histology. The detected VOCs were analyzed using a pre- and post-processing algorithm along with ANOVA and RASCA statistical evaluation methods. Results Characteristic changes in the VOCs emitted from the mice were detected as early as 4–6 h post-inoculation. Additionally, by using each mouse as its own baseline, we mimicked the inherent variation within biological organism and reported significant variations in 25 volatile organic compounds (VOCs) during the course of a lung bacterial infection. Conclusion the non-invasive SESI-HRMS enables real-time detection of infection specific VOCs. However, further refinement of this technology is necessary to improve clinical patient management, treatment, and facilitate decisions regarding antibiotic use due to early infection detection. Supplementary Information The online version contains supplementary material available at 10.1186/s12879-024-10371-7.",
+  "Disease_List": [
+    "lung infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung infection' as a specific disease condition studied in the mouse infection model. Although the pathogens Staphylococcus aureus and Streptococcus pneumoniae are named, they are bacteria rather than diseases. The term 'lung infection' refers to a specific disease state, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung infection"
+  ],
+  "UMLS_search_results": {
+    "lung infection": [
+      {
+        "ui": "C0876973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0876973",
+        "name": "Infectious Lung Disorder",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 2578,
+  "title": "Development of Exhaled Breath Diagnosis Sensors for Rapid Identification of COVID-19 Patients",
+  "Abstract": "The novel coronavirus pneumonia, a global pandemic disease named as coronavirus disease 2019, has caused enormous losses on the health and economies of people all over the world, while there is still a lack of quick and sensitive diagnostic method and effective therapy. Developing rapid diagnostic method for coronavirus disease 2019 has become exceptional urgent. Herein we report a rapid diagnostic method for the novel coronavirus through monitoring the volatile biomarkers in human exhaled breath. The breath volatile biomarkers are derived from the metabolism of novel coronavirus, including acetoin, 2,4,6-trimethylpyridine, 3-methyl tridecane, tetradecane, isooctyl alcohol, pentadecane, hexadecane, 1-methylene-1H-indene. By comparing the types and concentrations of the volatile biomarkers in human exhaled breath combined with SERS sensor, we could distinguish between the healthy person and the patients with coronavirus disease 2019. This work confirms that various volatile organic compounds metabolized by novel coronavirus can be employed for rapidly screening of patients with coronavirus disease 2019, and has broad application prospects in the prevention and control of the epidemic.",
+  "Disease_List": [
+    "coronavirus disease 2019",
+    "novel coronavirus pneumonia"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'coronavirus disease 2019' and 'novel coronavirus pneumonia'. These are clearly identified diseases related to the novel coronavirus pandemic, thus classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "coronavirus disease 2019",
+    "novel coronavirus pneumonia"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "novel coronavirus pneumonia": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetoin",
+    "2,4,6-trimethylpyridine",
+    "3-methyl tridecane",
+    "tetradecane",
+    "isooctyl alcohol",
+    "pentadecane",
+    "hexadecane",
+    "1-methylene-1H-indene"
+  ],
+  "compound_CID": [
+    {
+      "acetoin": 179,
+      "2,4,6-trimethylpyridine": 7953,
+      "3-methyl tridecane": "None",
+      "tetradecane": 12389,
+      "isooctyl alcohol": 15450,
+      "pentadecane": 12391,
+      "hexadecane": 11006,
+      "1-methylene-1H-indene": 75581
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetoin_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetoin is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These biomarkers, including acetoin, are used in a rapid diagnostic method to distinguish between healthy individuals and patients with coronavirus disease 2019. Therefore, there is evidence of a relationship between acetoin and coronavirus disease 2019 as acetoin serves as a metabolic marker associated with the disease."
+      },
+      "acetoin_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetoin is one of the volatile biomarkers derived from the metabolism of the novel coronavirus. These biomarkers, including acetoin, are present in the exhaled breath of patients with novel coronavirus pneumonia (COVID-19) and can be used to distinguish infected patients from healthy individuals. This demonstrates a clear relationship between acetoin and the disease as a metabolic marker useful for rapid diagnosis."
+      }
+    },
+    {
+      "2,4,6-trimethylpyridine_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract states that 2,4,6-trimethylpyridine is one of the volatile biomarkers derived from the metabolism of the novel coronavirus. These biomarkers are present in the exhaled breath of patients with coronavirus disease 2019 and can be used to distinguish infected patients from healthy individuals. Therefore, there is evidence of a relationship between 2,4,6-trimethylpyridine and coronavirus disease 2019 as a metabolic biomarker useful for rapid diagnosis."
+      },
+      "2,4,6-trimethylpyridine_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2,4,6-trimethylpyridine is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. This compound is used as part of a rapid diagnostic method to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). Therefore, there is evidence of a relationship between 2,4,6-trimethylpyridine and the disease as a metabolic biomarker."
+      }
+    },
+    {
+      "3-methyl tridecane_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract describes that 3-methyl tridecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. The presence and concentration of 3-methyl tridecane, along with other volatile organic compounds, can be used to distinguish between healthy individuals and patients with coronavirus disease 2019. This indicates a clear relationship between 3-methyl tridecane and coronavirus disease 2019 as a metabolic biomarker useful for rapid diagnosis."
+      },
+      "3-methyl tridecane_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that 3-methyl tridecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These biomarkers, including 3-methyl tridecane, are used to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). Therefore, there is clear evidence of a relationship between 3-methyl tridecane and the disease as a metabolic biomarker useful for rapid diagnosis."
+      }
+    },
+    {
+      "tetradecane_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract reports that tetradecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. The presence and concentration of tetradecane, along with other volatile organic compounds, can be used to distinguish between healthy individuals and patients with coronavirus disease 2019. This indicates a clear relationship between tetradecane and coronavirus disease 2019 as a metabolic biomarker useful for rapid diagnosis."
+      },
+      "tetradecane_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions tetradecane as one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These volatile organic compounds, including tetradecane, are used to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). Therefore, there is clear evidence of a relationship between tetradecane and the disease as a metabolic biomarker useful for rapid diagnosis."
+      }
+    },
+    {
+      "isooctyl alcohol_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that isooctyl alcohol is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These biomarkers, including isooctyl alcohol, are used in a rapid diagnostic method to distinguish between healthy individuals and patients with coronavirus disease 2019. This indicates a clear relationship between isooctyl alcohol and coronavirus disease 2019 as a metabolic biomarker for diagnosis."
+      },
+      "isooctyl alcohol_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that isooctyl alcohol is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These volatile biomarkers, including isooctyl alcohol, are used to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). Therefore, there is evidence of a relationship between isooctyl alcohol and the disease as a metabolic biomarker useful for rapid diagnosis."
+      }
+    },
+    {
+      "pentadecane_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where volatile biomarkers in human exhaled breath, including pentadecane, are derived from the metabolism of the novel coronavirus. These biomarkers are used to distinguish between healthy individuals and patients with coronavirus disease 2019 (COVID-19). This indicates a clear relationship between pentadecane and COVID-19, as pentadecane is one of the volatile organic compounds metabolized by the virus and can serve as a diagnostic marker for the disease."
+      },
+      "pentadecane_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract states that pentadecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. These volatile organic compounds, including pentadecane, are used to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). Therefore, there is evidence of a relationship between pentadecane and the disease as a metabolic biomarker useful for rapid diagnosis."
+      }
+    },
+    {
+      "hexadecane_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract reports that hexadecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. The presence and concentration of hexadecane, along with other volatile organic compounds, can be used to distinguish between healthy individuals and patients with coronavirus disease 2019. This indicates a clear relationship between hexadecane and coronavirus disease 2019 as a metabolic biomarker useful for rapid diagnosis."
+      },
+      "hexadecane_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that hexadecane is one of the volatile biomarkers derived from the metabolism of the novel coronavirus in human exhaled breath. The presence and concentration of hexadecane, along with other volatile organic compounds, can be used to distinguish between healthy individuals and patients with coronavirus disease 2019 (novel coronavirus pneumonia). This suggests a direct relationship between hexadecane and the disease as a metabolic biomarker useful for rapid diagnosis."
+      }
+    },
+    {
+      "1-methylene-1H-indene_coronavirus_disease_2019": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that 1-methylene-1H-indene is one of the volatile biomarkers derived from the metabolism of the novel coronavirus. These biomarkers are detected in the exhaled breath of patients with coronavirus disease 2019 and are used to distinguish infected patients from healthy individuals. Therefore, there is clear evidence of a relationship between 1-methylene-1H-indene and coronavirus disease 2019 as a metabolic biomarker for rapid diagnosis."
+      },
+      "1-methylene-1H-indene_novel_coronavirus_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that 1-methylene-1H-indene is one of the volatile biomarkers derived from the metabolism of the novel coronavirus. These biomarkers are detected in the exhaled breath of patients with coronavirus disease 2019 (novel coronavirus pneumonia) and are used to distinguish infected patients from healthy individuals. Therefore, there is clear evidence of a relationship between 1-methylene-1H-indene and novel coronavirus pneumonia as a metabolic biomarker associated with the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as volatile biomarkers derived from the metabolism of the novel coronavirus, which are detected in human exhaled breath for rapid diagnostic purposes."
+}

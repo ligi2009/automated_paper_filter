@@ -1,0 +1,76 @@
+{
+  "id": 4777,
+  "title": "Systematic Review: Contribution of the Gut Microbiome to the Volatile Metabolic Fingerprint of Colorectal Neoplasia",
+  "Abstract": "Colorectal cancer (CRC) has been associated with changes in volatile metabolic profiles in several human biological matrices. This enables its non-invasive detection, but the origin of these volatile organic compounds (VOCs) and their relation to the gut microbiome are not yet fully understood. This systematic review provides an overview of the current understanding of this topic. A systematic search using PubMed, Embase, Medline, Cochrane Library, and the Web of Science according to PRISMA guidelines resulted in seventy-one included studies. In addition, a systematic search was conducted that identified five systematic reviews from which CRC-associated gut microbiota data were extracted. The included studies analyzed VOCs in feces, urine, breath, blood, tissue, and saliva. Eight studies performed microbiota analysis in addition to VOC analysis. The most frequently reported dysregulations over all matrices included short-chain fatty acids, amino acids, proteolytic fermentation products, and products related to the tricarboxylic acid cycle and Warburg metabolism. Many of these dysregulations could be related to the shifts in CRC-associated microbiota, and thus the gut microbiota presumably contributes to the metabolic fingerprint of VOC in CRC. Future research involving VOCs analysis should include simultaneous gut microbiota analysis.",
+  "Disease_List": [
+    "Colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Colorectal cancer (CRC)' as a specific disease name multiple times. The discussion centers around metabolic profiles and gut microbiota related to colorectal cancer, clearly identifying it as the disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "Colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "short-chain fatty acids",
+    "amino acids",
+    "proteolytic fermentation products",
+    "tricarboxylic acid cycle products"
+  ],
+  "compound_CID": [
+    {
+      "short-chain fatty acids": "None",
+      "amino acids": 169449957,
+      "proteolytic fermentation products": "None",
+      "tricarboxylic acid cycle products": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "short-chain fatty acids_Colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that short-chain fatty acids (SCFAs) are among the most frequently reported dysregulated compounds in various biological matrices of colorectal cancer (CRC) patients. These dysregulations are linked to shifts in CRC-associated gut microbiota, suggesting that SCFAs are involved in the metabolic changes associated with CRC. Therefore, there is evidence of a relationship between short-chain fatty acids and colorectal cancer."
+      }
+    },
+    {
+      "amino acids_Colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that colorectal cancer (CRC) is associated with changes in volatile metabolic profiles, including dysregulations in amino acids across various biological matrices. These amino acid dysregulations are frequently reported and are linked to shifts in CRC-associated gut microbiota, suggesting a relationship between amino acid metabolism and CRC. Therefore, there is evidence supporting a relationship between amino acids and colorectal cancer."
+      }
+    },
+    {
+      "proteolytic fermentation products_Colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that proteolytic fermentation products are among the most frequently reported dysregulations in volatile organic compounds (VOCs) across various biological matrices in colorectal cancer (CRC) patients. These dysregulations are linked to shifts in CRC-associated gut microbiota, suggesting that proteolytic fermentation products are related to the metabolic fingerprint of CRC. Therefore, there is evidence of a relationship between proteolytic fermentation products and colorectal cancer."
+      }
+    },
+    {
+      "tricarboxylic acid cycle products_Colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that products related to the tricarboxylic acid cycle are among the most frequently reported dysregulations in various biological matrices of colorectal cancer (CRC) patients. This suggests a metabolic alteration involving tricarboxylic acid cycle products in CRC. Furthermore, these metabolic changes are linked to shifts in CRC-associated gut microbiota, implying a relationship between tricarboxylic acid cycle products and colorectal cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific classes of chemical compounds such as short-chain fatty acids, amino acids, proteolytic fermentation products, and products related to the tricarboxylic acid cycle. These are specific chemical substances relevant to the metabolic profiles studied in colorectal cancer, whereas general terms like 'volatile organic compounds' or 'compounds' were excluded."
+}

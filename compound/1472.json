@@ -1,0 +1,109 @@
+{
+  "id": 1472,
+  "title": "Insights into the significant increase in ozone during COVID-19 in a typical urban city of China",
+  "Abstract": "Abstract. The outbreak of COVID-19 promoted strict restrictions to human activities in\nChina, which led to a dramatic decrease in most air pollutant concentrations\n(e.g., PM2.5, PM10, NOx, SO2 and CO). However, an obvious\nincrease in ozone (O3) concentrations was found during the lockdown\nperiod in most urban areas of China. In this study, we conducted field\nmeasurements targeting ozone and its key precursors by utilizing a novel\nproton transfer reaction time-of-flight mass spectrometer (PTR-TOF-MS) in\nChangzhou, which is representative of the Yangtze River Delta (YRD) city\ncluster of China. We further applied the integrated methodology including\nmachine learning, an observation-based model (OBM) and sensitivity analysis to\nobtain insights into the reasons causing the obvious increase in ozone. Major\nfindings include the following: (1) by deweathered calculation, we found changes in\nprecursor emissions contributed 1.46 ppbv to the increase in the observed\nO3 during the full-lockdown period in 2020, while meteorology\nconstrained 3.0 ppbv of O3 in the full-lockdown period of 2019. (2) By\nusing an OBM, we found that although a significant reduction in O3\nprecursors was observed during the full-lockdown period, the photochemical\nformation of O3 was stronger than that during the pre-lockdown period.\n(3) The NOx/VOC ratio dropped dramatically from 1.84 during\nthe pre-lockdown to 0.79 in the full-lockdown period, which switched O3\nformation from a VOC-limited regime to the boundary of a NOx- and\nVOC-limited regime. Additionally, box model results suggested that the\ndecrease in the NOx/VOC ratio during the full-lockdown period could increase\nthe mean O3 by 2.4 ppbv. Results of this study give insights into the\nrelationship between O3 and its precursors in urban area and\ndemonstrate reasons for the obvious increase in O3 in most urban\nareas of China during the COVID-19 lockdown period. This study also\nunderlines the necessity of controlling anthropogenic oxygenated volatile organic compounds (OVOCs), alkenes and\naromatics in the sustained campaign of reducing O3 pollution in China.\n",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' as a specific disease name in the context of the outbreak and lockdown measures. Although the main focus of the study is on air pollution and ozone levels, the mention of COVID-19 is a clear reference to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "PM2.5",
+    "PM10",
+    "NOx",
+    "SO2",
+    "CO",
+    "O3",
+    "oxygenated volatile organic compounds (OVOCs)",
+    "alkenes",
+    "aromatics"
+  ],
+  "compound_CID": [
+    {
+      "PM2.5": "None",
+      "PM10": "None",
+      "NOx": "None",
+      "SO2": 1119,
+      "CO": 104730,
+      "O3": 24823,
+      "oxygenated volatile organic compounds (OVOCs)": "None",
+      "alkenes": 32932,
+      "aromatics": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "PM2.5_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including PM2.5, during the COVID-19 lockdown period in China, noting a decrease in PM2.5 levels. However, the focus of the study is on the increase in ozone (O3) concentrations and its precursors, with detailed analysis of photochemical processes and emission changes. There is no evidence or discussion in the abstract indicating a direct relationship between PM2.5 and COVID-19 disease itself. The changes in PM2.5 are described as a consequence of lockdown measures rather than a factor influencing COVID-19."
+      }
+    },
+    {
+      "PM10_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including PM10, during the COVID-19 lockdown period in China. It notes a dramatic decrease in PM10 levels due to restrictions on human activities. However, the study focuses primarily on the increase in ozone (O3) concentrations and its precursors, analyzing photochemical processes and emission changes. There is no evidence or discussion in the abstract indicating a direct relationship between PM10 and COVID-19 disease itself, such as PM10 influencing COVID-19 infection rates, severity, or outcomes. The relationship described is between COVID-19 lockdown measures and changes in air pollutant levels, not a causal or associative link between PM10 and the disease COVID-19."
+      }
+    },
+    {
+      "NOx_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including NOx, and how changes in NOx levels influenced ozone (O3) formation in urban areas. However, it does not provide evidence of a direct relationship between NOx and COVID-19 disease itself. Instead, the focus is on environmental changes during the COVID-19 lockdown, not on NOx as a factor affecting COVID-19 infection, severity, or outcomes."
+      }
+    },
+    {
+      "SO2_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including a noted decrease in SO2 levels. However, it does not provide any evidence or analysis indicating a direct relationship between SO2 and COVID-19 disease itself. The focus is on changes in air pollution patterns during the pandemic, not on SO2 influencing COVID-19 infection, severity, or outcomes."
+      }
+    },
+    {
+      "CO_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including a noted decrease in CO levels. However, it does not indicate any direct relationship between CO (carbon monoxide) and the disease COVID-19 itself. The focus is on changes in air pollution patterns during the pandemic, not on CO as a factor influencing COVID-19 infection, progression, or outcomes."
+      }
+    },
+    {
+      "O3_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the changes in ozone (O3) concentrations during the COVID-19 lockdown period, noting an increase in O3 levels due to changes in precursor emissions and atmospheric chemistry. However, it does not provide evidence of a direct relationship between O3 and the disease COVID-19 itself. The focus is on air pollution dynamics during the pandemic restrictions, not on O3 causing or affecting COVID-19 disease outcomes."
+      }
+    },
+    {
+      "oxygenated volatile organic compounds (OVOCs)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including oxygenated volatile organic compounds (OVOCs), and their role in ozone (O3) formation. However, it does not provide evidence of a direct relationship between OVOCs and the disease COVID-19 itself. Instead, the focus is on how changes in emissions of OVOCs and other precursors during the COVID-19 lockdown influenced air quality and ozone levels. Therefore, while OVOCs are related to air pollution changes during the COVID-19 pandemic, there is no clear evidence from the abstract that OVOCs have a direct relationship with the disease COVID-19."
+      }
+    },
+    {
+      "alkenes_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including ozone and its precursors such as alkenes. It highlights changes in atmospheric chemistry and ozone formation related to reductions in emissions during the lockdown. However, the abstract does not provide any evidence or indication of a direct relationship between alkenes and the disease COVID-19 itself. The focus is on environmental and air quality changes during the pandemic, not on alkenes affecting COVID-19 disease pathology or transmission."
+      }
+    },
+    {
+      "aromatics_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 lockdown measures on air pollutant concentrations, including ozone and its precursors such as aromatics. It highlights changes in atmospheric chemistry and pollutant levels during the lockdown but does not provide evidence of a direct relationship between the compound 'aromatics' and the disease 'COVID-19' itself. Instead, aromatics are mentioned as pollutants relevant to ozone formation and air quality management during the pandemic period, not as factors influencing COVID-19 disease occurrence or progression."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds and groups relevant to air pollution and ozone formation, including particulate matter (PM2.5, PM10), nitrogen oxides (NOx), sulfur dioxide (SO2), carbon monoxide (CO), ozone (O3), and classes of organic compounds such as oxygenated volatile organic compounds (OVOCs), alkenes, and aromatics. These are specific named chemical substances or well-defined chemical classes directly related to the study."
+}

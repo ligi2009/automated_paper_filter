@@ -1,0 +1,57 @@
+{
+  "id": 877,
+  "title": "PWE-373 Volatile organic compound (VOC) profiles as indicators of early lesions in murine colon carcinogenesis",
+  "Abstract": "Introduction Patients with inflammatory bowel disease (IBD) are at increased risk for colorectal cancer (CRC). IBD-associated CRC can be summarised as an inflammation-dysplasia-carcinoma sequence. Much effort has been spent on identifying morphologically distinctive pre-invasive mucosal lesions to help elucidate the early steps of CRC. These efforts have led to the characterisation of so-called mucin-depleted foci (MDF), formed by dysplastic crypts devoid of mucins. A metabolomics-based approach may provide a non-invasive strategy to identify volatile biomarkers of CRC, therefore improving both the early detection of CRC and patient prognosis. Method An IBD-associated CRC murine model was used. C57BL/6 female mice were housed individually and were administered one dose of 12.5mg/kg azoxymethane (AOM). Next, mice were orally exposed to 1.5% DSS for 5 days followed by 16 days ordinary water. This DSS cycle was repeated twice with animals sacrificed 12 days after final cycle. There were 2 control groups: untreated mice (n = 6) and mice treated with cycles of DSS alone (n = 6). Faecal samples were collected weekly and tissues were taken for histological analysis upon necropsy. Headspace gas surrounding samples was collected using a CAR/PDMS/DVB SPME fibre before analysis by GC-MS. Chromatograms were analysed and data were processed in-house using AMDIS and Metab. A student’s t-test was performed on samples collected at week 10 (p < 0.01). A time series analysis (two-way ANOVA) was performed on samples collected at weeks 1, 4, 7 and 10, using MetATT. Results All animals treated with AOM/DSS showed signs of pre-malignancy, visualised by Alcian blue staining of colonic sections. Signs included hyperplasic and occasionally, dysplastic crypts and MDF reported by an accredited murine pathologist. Faecal VOC analysis at week 10 yielded 93 compounds, 11 of which were significantly different between the two groups (p < 0.01). There was a significant increase in the abundance and prevalence of methyl ketones and aldehydes in treated mice and a time series analysis provided further evidence for these changes over time in VOC profiles. A PCA plot was able to clearly distinguish between untreated and treated mice based on VOCs present in the headspace of faecal samples. Furthermore, the specific compounds that were identified and differed between AOM/DSS and DSS groups may be markers of pre-malignancy. Conclusion We have shown that the early lesions of colitis-associated CRC are associated with significant metabolic alterations in the faeces of mice. Markers of chronic inflammation were found. In addition other VOCs were found in AOM/DSS treated mice which had premalignant changes in the colon. These results provide a strong rationale for future studies in humans. Disclosure of interest None Declared.",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "colorectal cancer",
+    "colitis-associated colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'inflammatory bowel disease (IBD)', 'colorectal cancer (CRC)', and 'colitis-associated colorectal cancer'. These are named diseases rather than general terms. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "colorectal cancer",
+    "colitis-associated colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "colitis-associated colorectal cancer": [
+      {
+        "ui": "C5392092",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5392092",
+        "name": "Colitis-Associated Neoplasms",
+        "mesh_id": "D000083023"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

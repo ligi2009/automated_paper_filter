@@ -1,0 +1,35 @@
+{
+  "id": 513,
+  "title": "Urinary Volatile Compounds as Biomarkers for Lung Cancer: A Proof of Principle Study Using Odor Signatures in Mouse Models of Lung Cancer",
+  "Abstract": "A potential strategy for diagnosing lung cancer, the leading cause of cancer-related death, is to identify metabolic signatures (biomarkers) of the disease. Although data supports the hypothesis that volatile compounds can be detected in the breath of lung cancer patients by the sense of smell or through bioanalytical techniques, analysis of breath samples is cumbersome and technically challenging, thus limiting its applicability. The hypothesis explored here is that variations in small molecular weight volatile organic compounds (“odorants”) in urine could be used as biomarkers for lung cancer. To demonstrate the presence and chemical structures of volatile biomarkers, we studied mouse olfactory-guided behavior and metabolomics of volatile constituents of urine. Sensor mice could be trained to discriminate between odors of mice with and without experimental tumors demonstrating that volatile odorants are sufficient to identify tumor-bearing mice. Consistent with this result, chemical analyses of urinary volatiles demonstrated that the amounts of several compounds were dramatically different between tumor and control mice. Using principal component analysis and supervised machine-learning, we accurately discriminated between tumor and control groups, a result that was cross validated with novel test groups. Although there were shared differences between experimental and control animals in the two tumor models, we also found chemical differences between these models, demonstrating tumor-based specificity. The success of these studies provides a novel proof-of-principle demonstration of lung tumor diagnosis through urinary volatile odorants. This work should provide an impetus for similar searches for volatile diagnostic biomarkers in the urine of human lung cancer patients.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease being studied for diagnosis through metabolic signatures and volatile biomarkers. This is a clear and specific disease name, not a general term.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,130 @@
+{
+  "id": 3568,
+  "title": "Breath analysis for the detection of digestive tract malignancies: systematic review",
+  "Abstract": "Abstract Background In recent decades there has been growing interest in the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for the diagnosis of multiple variants of cancer. This review aimed to evaluate the diagnostic accuracy and current status of VOC analysis in exhaled breath for the detection of cancer in the digestive tract. Methods PubMed and the Cochrane Library database were searched for VOC analysis studies, in which exhaled air was used to detect gastro-oesophageal, liver, pancreatic, and intestinal cancer in humans, Quality assessment was performed using the QUADAS-2 criteria. Data on diagnostic performance, VOCs with discriminative power, and methodological information were extracted from the included articles. Results Twenty-three articles were included (gastro-oesophageal cancer n = 14, liver cancer n = 1, pancreatic cancer n = 2, colorectal cancer n = 6). Methodological issues included different modalities of patient preparation and sampling and platform used. The sensitivity and specificity of VOC analysis ranged from 66.7 to 100 per cent and from 48.1 to 97.9 per cent respectively. Owing to heterogeneity of the studies, no pooling of the results could be performed. Of the VOCs found, 32 were identified in more than one study. Nineteen were reported as cancer type-specific, whereas 13 were found in different cancer types. Overall, decanal, nonanal, and acetone were the most frequently identified. Conclusion The literature on VOC analysis has documented a lack of standardization in study designs. Heterogeneity between the studies and insufficient validation of the results make interpretation of the outcomes challenging. To reach clinical applicability, future studies on breath analysis should provide an accurate description of the methodology and validate their findings.",
+  "Disease_List": [
+    "gastro-oesophageal cancer",
+    "liver cancer",
+    "pancreatic cancer",
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names related to cancer types in the digestive tract, including gastro-oesophageal cancer, liver cancer, pancreatic cancer, and colorectal cancer. These are specific diseases rather than general terms like 'disease' or 'illness', which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "liver cancer",
+    "pancreatic cancer",
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "gastro-oesophageal cancer": [],
+    "liver cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      },
+      {
+        "ui": "C0279000",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0279000",
+        "name": "Liver and Intrahepatic Biliary Tract Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "pancreatic cancer": [
+      {
+        "ui": "C0346647",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346647",
+        "name": "Malignant neoplasm of pancreas",
+        "mesh_id": "D010190"
+      },
+      {
+        "ui": "C0235974",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0235974",
+        "name": "Pancreatic carcinoma",
+        "mesh_id": "D010190"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "decanal",
+    "nonanal",
+    "acetone"
+  ],
+  "compound_CID": [
+    {
+      "decanal": 8175,
+      "nonanal": 31289,
+      "acetone": 180
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "decanal_liver_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for various digestive tract cancers, including liver cancer. Decanal is mentioned as one of the most frequently identified VOCs across multiple studies. However, the abstract does not provide specific evidence linking decanal directly to liver cancer. It notes methodological heterogeneity and lack of standardization, which limits interpretation. Therefore, there is no clear or specific evidence in the abstract establishing a relationship between decanal and liver cancer."
+      },
+      "decanal_pancreatic_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for various digestive tract cancers, including pancreatic cancer. Decanal is mentioned as one of the most frequently identified VOCs across studies. However, the abstract does not provide specific evidence linking decanal directly to pancreatic cancer. It notes that 19 VOCs were reported as cancer type-specific and 13 were found in different cancer types, but it does not specify decanal as pancreatic cancer-specific. Additionally, the abstract highlights methodological heterogeneity and lack of validation, making it difficult to draw definitive conclusions about any specific compound-disease relationship. Therefore, there is no clear evidence from this abstract to establish a direct relationship between decanal and pancreatic cancer."
+      },
+      "decanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that decanal is one of the most frequently identified volatile organic compounds (VOCs) in studies analyzing exhaled breath for cancer detection, including colorectal cancer. Specifically, colorectal cancer was among the cancer types studied, and decanal was noted as a commonly detected VOC across multiple studies. Although the abstract highlights methodological heterogeneity and challenges in standardization, the repeated identification of decanal in colorectal cancer breath analysis suggests a relationship between decanal and colorectal cancer."
+      }
+    },
+    {
+      "nonanal_liver_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs), including nonanal, as biomarkers in exhaled breath for detecting various digestive tract cancers, including liver cancer. However, only one study specifically addressed liver cancer, and the abstract highlights significant heterogeneity and methodological issues across studies. While nonanal is mentioned as one of the most frequently identified VOCs, there is no clear evidence or specific association established between nonanal and liver cancer in the abstract. The lack of standardized study designs and insufficient validation further limit the ability to confirm a definitive relationship."
+      },
+      "nonanal_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nonanal is one of the most frequently identified volatile organic compounds (VOCs) in studies analyzing exhaled breath for cancer detection, including pancreatic cancer. Although the studies show heterogeneity and lack of standardization, nonanal has been reported among VOCs with discriminative power in cancer detection. Specifically, pancreatic cancer was included among the cancer types studied, and nonanal was noted as a commonly identified compound, suggesting a relationship between nonanal presence and pancreatic cancer detection."
+      },
+      "nonanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nonanal is one of the most frequently identified volatile organic compounds (VOCs) in studies analyzing exhaled breath for cancer detection, including colorectal cancer. Specifically, colorectal cancer was among the cancer types studied (6 articles), and nonanal was noted as a commonly detected VOC across multiple studies. Although the abstract highlights methodological heterogeneity and challenges in standardization, the repeated identification of nonanal in colorectal cancer breath analysis suggests an existing relationship between nonanal and colorectal cancer."
+      }
+    },
+    {
+      "acetone_liver_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs), including acetone, in exhaled breath as potential biomarkers for various digestive tract cancers, including liver cancer. However, it highlights significant methodological heterogeneity and lack of standardization across studies, with only one study specifically addressing liver cancer. Although acetone is frequently identified among VOCs, the abstract does not provide clear or validated evidence directly linking acetone to liver cancer diagnosis or pathogenesis. Therefore, based on the abstract, there is no clear established relationship between acetone and liver cancer."
+      },
+      "acetone_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone is one of the most frequently identified volatile organic compounds (VOCs) in studies analyzing exhaled breath for cancer detection, including pancreatic cancer. Although the studies show heterogeneity and methodological limitations, acetone has been reported among VOCs with discriminative power in cancer detection. Therefore, there is evidence suggesting a relationship between acetone and pancreatic cancer in the context of breath biomarker analysis."
+      },
+      "acetone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone is one of the most frequently identified volatile organic compounds (VOCs) in studies analyzing exhaled breath for cancer detection, including colorectal cancer. Specifically, colorectal cancer was among the cancer types studied (6 articles), and acetone was noted as a commonly detected VOC across multiple cancer types. Although the studies show heterogeneity and lack of standardization, the repeated identification of acetone in colorectal cancer breath analysis suggests a relationship between acetone presence and colorectal cancer detection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions decanal, nonanal, and acetone as volatile organic compounds (VOCs) frequently identified in multiple studies related to cancer detection in exhaled breath. These are specific chemical compound names, unlike general terms such as VOCs or compounds."
+}

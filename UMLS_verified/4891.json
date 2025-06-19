@@ -1,0 +1,60 @@
+{
+  "id": 4891,
+  "title": "Metabolomic Analysis of Respiratory Epithelial Lining Fluid in Patients with Chronic Obstructive Pulmonary Disease—A Systematic Review",
+  "Abstract": "Chronic obstructive pulmonary disease (COPD), as the third leading cause of death among adults, is a significant public health problem around the world. However, about 75% of smokers do not develop the disease despite the severe smoking burden. COPD is a heterogeneous disease, and several phenotypes, with differences in their clinical picture and response to treatment, have been distinguished. Metabolomic studies provide information on metabolic pathways, and therefore are a promising tool for understanding disease etiopathogenesis and the development of effective causal treatment. The aim of this systematic review was to analyze the metabolome of the respiratory epithelial lining fluid of patients with COPD, compared to healthy volunteers, refractory smokers, and subjects with other lung diseases. We included observational human studies. Sphingolipids, phosphatidylethanolamines, and sphingomyelins distinguished COPD from non-smokers; volatile organic compounds, lipids, and amino acids distinguished COPD from smokers without the disease. Five volatile organic compounds were correlated with eosinophilia and four were associated with a phenotype with frequent exacerbations. Fatty acids and ornithine metabolism were correlated with the severity of COPD. Metabolomics, by searching for biomarkers and distinguishing metabolic pathways, can allow us to understand the pathophysiology of COPD and the development of its phenotypes.",
+  "Disease_List": [
+    "Chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "Reason": "The abstract explicitly mentions 'Chronic obstructive pulmonary disease (COPD)' multiple times as a specific disease. It discusses COPD as a leading cause of death, its phenotypes, and metabolomic studies related to it. Therefore, specific disease names are clearly identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "UMLS_search_results": {
+    "Chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

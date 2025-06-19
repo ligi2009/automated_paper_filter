@@ -1,0 +1,42 @@
+{
+  "id": 1154,
+  "title": "Detection of acetone vapours using solution-processed tin oxide thin-film transistors",
+  "Abstract": "Abnormal concentrations of volatile organic compounds (VOCs) in human breathe can be used as disease-specific biomarkers for the non-invasive diagnosis of medical conditions, such as acetone for diabetes. Solution-processed bottom gate top contact metal oxide thin-film transistors (TFTs) are used to detect acetone vapours, as part of a proof-of-concept study. The effect of increasing annealing temperature ( T ) and channel length ( L ) on electrical and sensing performance are explored. Drain current ( I _ds) increases following exposure as acetone undergoes a redox reaction with the adsorbed oxygen species on the semiconductor surface, which results in free electrons being released back into the conduction band. Responsivity ( R ) is maximized at negative bias ( V _gs < 0). For L  = 50 μm, the peak R of the TFT annealed at 450 °C is three times greater than that of the TFT annealed at 350 °C, with V _gs = − 37.5 V and − 33 V, respectively. Graphical abstract",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'acetone for diabetes' as a disease-specific biomarker, indicating that diabetes is a specific disease named in the text. Although other terms like 'disease-specific biomarkers' and 'medical conditions' are general, the mention of diabetes is a clear specific disease reference.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

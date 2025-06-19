@@ -1,0 +1,32 @@
+{
+  "id": 2010,
+  "title": "Use of fecal volatile organic compound analysis to discriminate between non-vaccinated and BCG—Vaccinated cattle prior to and after Mycobacterium bovis challenge",
+  "Abstract": "Bovine tuberculosis is a zoonotic disease of global public health concern. Development of diagnostic tools to improve test accuracy and efficiency in domestic livestock and enable surveillance of wildlife reservoirs would improve disease management and eradication efforts. Use of volatile organic compound analysis in breath and fecal samples is being developed and optimized as a means to detect disease in humans and animals. In this study we demonstrate that VOCs present in fecal samples can be used to discriminate between non-vaccinated and BCG-vaccinated cattle prior to and after Mycobacterium bovis challenge.",
+  "Disease_List": [
+    "Bovine tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Bovine tuberculosis' as a specific disease name. It discusses the disease's impact, diagnostic tools, and detection methods related to this particular disease, which justifies classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Bovine tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "Bovine tuberculosis": [
+      {
+        "ui": "C0041307",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041307",
+        "name": "Tuberculosis, Bovine",
+        "mesh_id": "D014380"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2221,
+  "title": "A study on volatile organic compounds emitted by in-vitro lung cancer cultured cells using gas sensor array and SPME-GCMS",
+  "Abstract": "BackgroundVolatile organic compounds (VOCs) emitted from exhaled breath from human bodies have been proven to be a useful source of information for early lung cancer diagnosis. To date, there are still arguable information on the production and origin of significant VOCs of cancer cells. Thus, this study aims to conduct in-vitro experiments involving related cell lines to verify the capability of VOCs in providing information of the cells.MethodThe performances of e-nose technology with different statistical methods to determine the best classifier were conducted and discussed. The gas sensor study has been complemented using solid phase micro-extraction-gas chromatography mass spectrometry. For this purpose, the lung cancer cells (A549 and Calu-3) and control cell lines, breast cancer cell (MCF7) and non-cancerous lung cell (WI38VA13) were cultured in growth medium.ResultsThis study successfully provided a list of possible volatile organic compounds that can be specific biomarkers for lung cancer, even at the 24th hour of cell growth. Also, the Linear Discriminant Analysis-based One versus All-Support Vector Machine classifier, is able to produce high performance in distinguishing lung cancer from breast cancer cells and normal lung cells.ConclusionThe findings in this work conclude that the specific VOC released from the cancer cells can act as the odour signature and potentially to be used as non-invasive screening of lung cancer using gas array sensor devices.",
+  "Disease_List": [
+    "lung cancer",
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times, including in the context of diagnosis and cell lines (A549 and Calu-3). It also mentions 'breast cancer' in relation to the breast cancer cell line (MCF7). These are specific disease names, not general terms, so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

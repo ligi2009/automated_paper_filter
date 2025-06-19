@@ -1,0 +1,20 @@
+{
+  "id": 2166,
+  "title": "Canine Olfactory Detection of a Non-Systemic Phytobacterial Citrus Pathogen of International Quarantine Significance",
+  "Abstract": "For millennia humans have benefitted from application of the acute canine sense of smell to hunt, track and find targets of importance. In this report, canines were evaluated for their ability to detect the severe exotic phytobacterial arboreal pathogen Xanthomonas citri pv. citri (Xcc), which is the causal agent of Asiatic citrus canker (Acc). Since Xcc causes only local lesions, infections are non-systemic, limiting the use of serological and molecular diagnostic tools for field-level detection. This necessitates reliance on human visual surveys for Acc symptoms, which is highly inefficient at low disease incidence, and thus for early detection. In simulated orchards the overall combined performance metrics for a pair of canines were 0.9856, 0.9974, 0.9257 and 0.9970, for sensitivity, specificity, precision, and accuracy, respectively, with 1–2 s/tree detection time. Detection of trace Xcc infections on commercial packinghouse fruit resulted in 0.7313, 0.9947, 0.8750, and 0.9821 for the same performance metrics across a range of cartons with 0–10% Xcc-infected fruit despite the noisy, hot and potentially distracting environment. In orchards, the sensitivity of canines increased with lesion incidence, whereas the specificity and overall accuracy was >0.99 across all incidence levels; i.e., false positive rates were uniformly low. Canines also alerted to a range of 1–12-week-old infections with equal accuracy. When trained to either Xcc-infected trees or Xcc axenic cultures, canines inherently detected the homologous and heterologous targets, suggesting they can detect Xcc directly rather than only volatiles produced by the host following infection. Canines were able to detect the Xcc scent signature at very low concentrations (10,000× less than 1 bacterial cell per sample), which implies that the scent signature is composed of bacterial cell volatile organic compound constituents or exudates that occur at concentrations many fold that of the bacterial cells. The results imply that canines can be trained as viable early detectors of Xcc and deployed across citrus orchards, packinghouses, and nurseries.",
+  "Disease_List": [
+    "Asiatic citrus canker"
+  ],
+  "Reason": "The abstract explicitly mentions 'Asiatic citrus canker (Acc)' as a specific disease caused by the pathogen Xanthomonas citri pv. citri (Xcc). This is a named disease rather than a general term, so the classification is 'Y'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Asiatic citrus canker": []
+  },
+  "MRCONSO_search_results": {
+    "Asiatic citrus canker": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

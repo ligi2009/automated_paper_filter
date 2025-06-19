@@ -1,0 +1,93 @@
+{
+  "id": 2454,
+  "title": "Health Effects of Exposure to Indoor Semi-Volatile Organic Compounds in Chinese Building Environment: A Systematic Review",
+  "Abstract": "People spend a considerable portion of their lives indoors; thus, the quality of the indoor environment is crucial. Semi-volatile organic compounds (SVOCs) are among the primary indoor pollutants responsible for various health risks. This paper systematically reviews the impact of SVOC exposure on human health in Chinese built environments. Based on a set of criteria, we judged 12 publications as providing sufficient information on both SVOC exposure and health effects to inform the relationship. Out of six studies on polycyclic aromatic hydrocarbons (PAHs), three observed a positive association between PAH exposure and lung cancer. Out of six studies of phthalate exposure, two studies reported a significant positive association between DEP and DiBP and asthma, between DEP and DEHP and dry cough among children, and between DBP and rhinitis among younger adults. The results of this review suggest that there might be a link between phthalate exposure and asthma and allergies, as well as a link between PAH exposure and lung cancer. However, due to the limited number of studies conducted, more evidence is necessary to definitively guide the establishment of standards for SVOC control in China.",
+  "Disease_List": [
+    "lung cancer",
+    "asthma",
+    "dry cough",
+    "rhinitis",
+    "allergies"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'lung cancer', 'asthma', 'dry cough', 'rhinitis', and 'allergies' in relation to exposure to SVOCs like PAHs and phthalates. These are specific disease names rather than general health conditions, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "asthma",
+    "dry cough",
+    "rhinitis",
+    "allergies"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "dry cough": [
+      {
+        "ui": "C0850149",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0850149",
+        "name": "Dry cough",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1828863",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1828863",
+        "name": "Dry Cough Pharmaceutical",
+        "mesh_id": "None"
+      }
+    ],
+    "rhinitis": [
+      {
+        "ui": "C0035455",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035455",
+        "name": "Rhinitis",
+        "mesh_id": "D012220"
+      }
+    ],
+    "allergies": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1717415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1717415",
+        "name": "Allergies:Find:Pt:^Patient:Ord",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

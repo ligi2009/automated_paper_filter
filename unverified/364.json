@@ -1,0 +1,23 @@
+{
+  "id": 364,
+  "title": "Potential for Biological Control of Pythium schmitthenneri Root Rot Disease of Olive Trees (Olea europaea L.) by Antagonistic Bacteria",
+  "Abstract": "Several diseases affect the productivity of olive trees, including root rot disease caused by Pythium genera. Chemical fungicides, which are often used to manage this disease, have harmful side effects on humans as well as environmental components. Biological management is a promising control approach that has shown its great potential as an efficient eco-friendly alternative to treating root rot diseases. In the present study, the antagonistic activity of ten bacterial isolates was tested both in vitro and in planta against Pythium schmitthenneri, the causal agent of olive root rot disease. These bacterial isolates belonging to the genera Alcaligenes, Pantoea, Bacillus, Sphingobacterium, and Stenotrophomonas were chosen for their potential antimicrobial effects against many pathogens. Results of the in vitro confrontation bioassay revealed a high reduction of mycelial growth exceeding 80%. The antifungal effect of the volatile organic compounds (VOCs) was observed for all the isolates, with mycelial inhibition rates ranging from 28.37 to 70.32%. Likewise, the bacterial cell-free filtrates showed important inhibition of the mycelial growth of the pathogen. Overall, their efficacy was substantially affected by the nature of the bacterial strains and their modes of action. A greenhouse test was then carried out to validate the in vitro results. Interestingly, two bacterial isolates, Alcaligenes faecalis ACBC1 and Bacillus amyloliquefaciens SF14, were the most successful in managing the disease. Our findings suggested that these two antagonistic bacterial isolates have promising potential as biocontrol agents of olive root rot disease.",
+  "Disease_List": [
+    "root rot disease",
+    "olive root rot disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'root rot disease' and 'olive root rot disease' as specific diseases affecting olive trees. These are specific disease names caused by Pythium genera, particularly Pythium schmitthenneri, which is identified as the causal agent. Therefore, the classification is Y with these diseases listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "root rot disease": [],
+    "olive root rot disease": []
+  },
+  "MRCONSO_search_results": {
+    "root rot disease": [],
+    "olive root rot disease": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

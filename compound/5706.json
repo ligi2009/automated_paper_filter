@@ -1,0 +1,84 @@
+{
+  "id": 5706,
+  "title": "Evaluating In Silico the Potential Health and Environmental Benefits of Houseplant Volatile Organic Compounds for an Emerging ‘Indoor Forest Bathing’ Approach",
+  "Abstract": "The practice of spending time in green areas to gain the health benefits provided by trees is well known, especially in Asia, as ‘forest bathing’, and the consequent protective and experimentally detectable effects on the human body have been linked to the biogenic volatile organic compounds released by plants. Houseplants are common in houses over the globe and are particularly appreciated for aesthetic reasons as well for their ability to purify air from some environmental volatile pollutants indoors. However, to the best of our knowledge, no attempt has been made to describe the health benefits achievable from houseplants thanks to the biogenic volatile organic compounds released, especially during the day, from some of them. Therefore, we performed the present study, based on both a literature analysis and in silico studies, to investigate whether the volatile compounds and aerosol constituents emitted by some of the most common houseplants (such as peace lily plant, Spathiphyllum wallisii, and iron plant, Aspidistra eliator) could be exploited in ‘indoor forest bathing’ approaches, as proposed here for the first time not only in private houses but also public spaces, such as offices, hospitals, and schools. By using molecular docking (MD) and other in silico methodologies for estimating vapor pressures and chemico-physical/pharmacokinetic properties prediction, we found that β-costol is an organic compound, emitted in appreciable amounts by the houseplant Spathiphyllum wallisii, endowed with potential antiviral properties as emerged by our MD calculations in a SARS-CoV-2 Mpro (main protease) inhibition study, together with sesquirosefuran. Our studies suggest that the anti-COVID-19 potential of these houseplant-emitted compounds is comparable or even higher than known Mpro inhibitors, such as eugenol, and sustain the utility of houseplants as indoor biogenic volatile organic compound emitters for immunity boosting and health protection.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' and 'SARS-CoV-2' (the virus causing COVID-19) in the context of antiviral properties of compounds emitted by houseplants. These are specific disease names related to a viral infection, thus classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2 infection": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "β-costol",
+    "sesquirosefuran",
+    "eugenol"
+  ],
+  "compound_CID": [
+    {
+      "β-costol": "None",
+      "sesquirosefuran": 5366078,
+      "eugenol": 3314
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "β-costol_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract reports that β-costol, a biogenic volatile organic compound emitted by the houseplant Spathiphyllum wallisii, has potential antiviral properties against SARS-CoV-2, the virus responsible for COVID-19. This conclusion is based on molecular docking studies showing β-costol's ability to inhibit the SARS-CoV-2 main protease (Mpro), a key enzyme for viral replication. The antiviral potential of β-costol is suggested to be comparable or even higher than known Mpro inhibitors like eugenol. Therefore, there is evidence supporting a relationship between β-costol and COVID-19 in terms of potential antiviral activity."
+      },
+      "β-costol_SARS-CoV-2_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that β-costol, an organic compound emitted by the houseplant Spathiphyllum wallisii, has potential antiviral properties based on molecular docking studies targeting the SARS-CoV-2 main protease (Mpro). The in silico results suggest that β-costol may inhibit this key viral enzyme, indicating a possible therapeutic effect against SARS-CoV-2 infection. Furthermore, the study compares β-costol's anti-COVID-19 potential to known Mpro inhibitors, supporting a relationship between β-costol and SARS-CoV-2 infection."
+      }
+    },
+    {
+      "sesquirosefuran_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract reports that sesquirosefuran, a volatile organic compound emitted by certain houseplants, was studied using molecular docking and in silico methods for its potential to inhibit the SARS-CoV-2 main protease (Mpro), a key enzyme in the COVID-19 virus. The findings suggest that sesquirosefuran has potential antiviral properties against COVID-19, comparable or even superior to known Mpro inhibitors like eugenol. Therefore, there is evidence of a relationship between sesquirosefuran and COVID-19 in terms of potential antiviral activity."
+      },
+      "sesquirosefuran_SARS-CoV-2_infection": {
+        "relationship": "Y",
+        "reason": "The abstract reports that sesquirosefuran, a biogenic volatile organic compound emitted by certain houseplants, was studied using molecular docking and in silico methods for its potential to inhibit the SARS-CoV-2 main protease (Mpro). The findings suggest that sesquirosefuran has potential antiviral properties against SARS-CoV-2, comparable or even superior to known Mpro inhibitors like eugenol. This indicates a potential relationship between sesquirosefuran and SARS-CoV-2 infection through its inhibitory effect on a key viral enzyme, supporting its possible use in immunity boosting and health protection against COVID-19."
+      }
+    },
+    {
+      "eugenol_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the antiviral properties of certain biogenic volatile organic compounds emitted by houseplants, specifically mentioning β-costol and sesquirosefuran as potential inhibitors of the SARS-CoV-2 main protease (Mpro). It explicitly compares these compounds' anti-COVID-19 potential to known Mpro inhibitors, including eugenol. This indicates that eugenol is recognized as having inhibitory effects against SARS-CoV-2, thus establishing a relationship between eugenol and COVID-19 in the context of antiviral activity."
+      },
+      "eugenol_SARS-CoV-2_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the antiviral potential of compounds emitted by houseplants against SARS-CoV-2, specifically mentioning molecular docking studies targeting the SARS-CoV-2 main protease (Mpro). Eugenol is referenced as a known Mpro inhibitor, serving as a benchmark for comparison. The study found that other compounds emitted by houseplants have antiviral potential comparable or even higher than eugenol. This indicates that eugenol has documented inhibitory activity against SARS-CoV-2 Mpro, suggesting a relationship between eugenol and SARS-CoV-2 infection through its potential antiviral effects."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions β-costol and sesquirosefuran as organic compounds emitted by houseplants, with potential antiviral properties. Eugenol is also mentioned as a known Mpro inhibitor for comparison. These are specific chemical compound names identified in the text."
+}

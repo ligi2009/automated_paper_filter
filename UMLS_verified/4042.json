@@ -1,0 +1,28 @@
+{
+  "id": 4042,
+  "title": "Chemosensitization of B-cell lymphomas by methylseleninic acid involves nuclear factor-kappaB inhibition and the rapid generation of other selenium species.",
+  "Abstract": "Although recent reports suggest that selenium can modulate the activity of cytotoxic drugs, the mechanism underlying this activity remains unclear. This has been investigated using a panel of human B-cell lymphoma cell lines. The cytotoxic effects of chemotherapeutic agents (e.g., doxorubicin, etoposide, 4-hydroperoxycyclophosphamide, melphalan, and 1-beta-d-arabinofuranosylcytosine) were increased by up to 2.5-fold when combined with minimally toxic concentrations (EC(5-10)) of the organic selenium compound, methylseleninic acid (MSA). DNA strand breaks were identified using comet assays, but the measured genotoxic activity of the combinations did not explain the observed synergistic effects in cell death. However, minimally toxic (EC(10)) concentrations of MSA induced a 50% decrease in nuclear factor-kappaB (NF-kappaB) activity after an exposure of 5 h, similar to that obtained with the specific NF-kappaB inhibitor, BAY 11-7082. Combinations of BAY 11-7082 with these cytotoxic drugs also resulted in synergism, suggesting that the chemosensitizing activity of MSA is mediated, at least in part, by its effects on NF-kappaB. Basal intracellular selenium concentration was higher in a MSA-sensitive cell line. After exposure to MSA, methylselenocysteine and selenomethionine were identified as the main intracellular species generated. Volatile selenium species, trapped using solid-phase microextraction fibers, were identified as dimethylselenide and dimethyldiselenide. These volatile species are thought to be the most biologically active forms of selenium. Taken together, these results show that the NF-kappaB pathway is one target for MSA underlying the interaction between MSA and chemotherapy. These data encourage the further clinical development of selenium as a potential modulator of cytotoxic drug activity in B-cell lymphomas.",
+  "Disease_List": [
+    "B-cell lymphoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'B-cell lymphoma' as the disease context in which the study was conducted. This is a specific disease name, not a general term, and the research focuses on the effects of selenium compounds on human B-cell lymphoma cell lines.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "B-cell lymphoma"
+  ],
+  "UMLS_search_results": {
+    "B-cell lymphoma": [
+      {
+        "ui": "C0079731",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079731",
+        "name": "B-Cell Lymphomas",
+        "mesh_id": "D016393"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

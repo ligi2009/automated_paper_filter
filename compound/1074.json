@@ -1,0 +1,93 @@
+{
+  "id": 1074,
+  "title": "Traffic-related Air Pollution, Health, and Allergy: The Role of Nitrogen Dioxide",
+  "Abstract": "It is now well established that the adverse effects of air pollution are observed across all stages of the life course, from low birth weight, to increased respiratory and cardiovascular symptoms, to premature cardiopulmonary death (1). As the evidence base has advanced, an increasingly diverse range of systemic and metabolic endpoints as well as extrapulmonary complications have further been linked to air pollution exposure, as reviewed in the recent European Respiratory Society/American Thoracic Society policy statement (2). Throughout this literature, certainly since the mid-1990s, there has been an emphasis on fine particulate matter (<2.5 mm in aerodynamic diameter), which is derived from primary combustion sources. The working principle is thus established, not without some support, that it is the very small particles that we need to be most concerned about. However, somehow, along the way, the potential toxicity of copollutant gases and other volatile components has become neglected. As individuals, we are clearly not exposed to a single pollutant in the real world; rather, we breathe in a cocktail of gases and compositionally heterogeneous solid and liquid particles in the air. Dissecting out which components drive specific adverse outcomes has been, and remains, one of the fundamental challenges in air pollution research. There has been some success with time series studies that have isolated components or source profiles within the particulate aerosol that are more strongly linked to respiratory and to cardiovascular endpoints than others (3–5), but in long-term studies, the high correlation between different pollutants has made it difficult to accurately quantify the contribution of primary combustion particles from copollutant gases, such as NO2. When associations have been demonstrated with NO2, it has become the default assumption that this is simply illustrating the source, reflecting the true underlying association with primary combustion and ultrafine particles. The picture is, however, not so clear-cut, with an increasing number of studies emerging demonstrating NO2-induced health effects that are robust to adjustment to particulate matter <2.5 mm in aerodynamic diameter (6), and even in some studies to ultrafine particles exposures (7, 8). Epidemiological studies are fundamental to assess patterns in conditions and compositions of significance, yet their ability to fully resolve this issue is limited. Additional valuable information on component specific effects can be further deciphered though experimental exposure studies, in which the composition of the aerosol can be carefully manipulated and defined. In this issue of the Journal, Wooding and colleagues (pp. 565–574), a Vancouver-based group of scientists, have studied the role of traffic-related air pollution on respiratory function and allergen responsiveness by means of controlled chamber exposure experiments in allergen-sensitized individuals (9). The notion that allergen reactions would be enhanced by diesel exhaust particles has previously been addressed in animal models (10, 11), but it was not until the pivotal paper by Diaz-Sanchez and colleagues that this was investigated in humans. By means of nasal instillation of allergen, in association with a diesel exhaust exposure, the authors demonstrated that exhaust particles enhanced both sensitization to neoallergen and the allergen response proper (12, 13). In the present paper, the authors hypothesized that removing particles from the diesel exhaust aerosol would protect against allergen responses, with the counterfactual assumption being that the gaseous and volatile components would have little contribution to the adjuvant effect. Allergen-sensitized individuals with or without preexisting bronchial hyperresponsiveness were recruited and exposed in a fully randomized manner to allergen on three occasions, with preexposure to diesel exhaust, particle-filtered diesel exhaust, and filtered air. A double placebo exposure to filtered air and the saline diluent used for allergen challenges was also performed, with all exposures separated by a period of at least 4 weeks. All exposures lasted 2 hours, with the allergen challenge performed 1 hour after exposure. Airway responsiveness was evaluated 24 hours after the diesel exposure, using a methacholine challenge test. Spirometry was also examined preexposure, immediately following, and at various points up to 48 hours after exposure. Blood sampling for the assessment of systemic inflammation was also performed at set times preand postexposure. Contrary to their hypothesis, removing particles using a highefficiency particulate air filter and electrostatic precipitation to mimic catalytic particle traps used on diesel vehicles did not protect against the allergen-induced effects, despite 93% effectiveness in filtering particles. Diesel exhaust and allergen challenge enhanced bronchial hyperresponsiveness in subjects without preexisting bronchial hyperresponsiveness; however, filtering out the particles provided no protection. Instead, the lung function reduction in terms of FEV1 was significantly higher when exposed to the particle-filtered diesel exhaust. The authors noted that the filtering reduced not only particles but also total volatile organic compounds and gases, with the exception of NO2, which increased. This strongly implicates NO2 associated with diesel exhaust as an important adjuvant factor enhancing allergen sensitization. This aligns with the older literature, again from human chamber studies, demonstrating the capacity of NO2 to induce bronchial hyperresponsiveness and responses to inhaled allergen in patients",
+  "Disease_List": [
+    "bronchial hyperresponsiveness",
+    "respiratory symptoms",
+    "cardiovascular symptoms",
+    "premature cardiopulmonary death"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-related conditions such as 'bronchial hyperresponsiveness,' 'respiratory symptoms,' 'cardiovascular symptoms,' and 'premature cardiopulmonary death.' These terms refer to specific pathological states or disease manifestations rather than general terms like 'disease' or 'illness.' The focus on bronchial hyperresponsiveness and allergen sensitization further supports the classification as 'Y' for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "bronchial hyperresponsiveness",
+    "respiratory symptoms",
+    "cardiovascular symptoms"
+  ],
+  "UMLS_search_results": {
+    "bronchial hyperresponsiveness": [
+      {
+        "ui": "C0085129",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0085129",
+        "name": "Bronchial Hyperreactivity",
+        "mesh_id": "D016535"
+      }
+    ],
+    "respiratory symptoms": [
+      {
+        "ui": "C0037090",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0037090",
+        "name": "Signs and Symptoms, Respiratory",
+        "mesh_id": "D012818"
+      }
+    ],
+    "cardiovascular symptoms": [
+      {
+        "ui": "C0476270",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0476270",
+        "name": "Cardiovascular symptom",
+        "mesh_id": "None"
+      }
+    ],
+    "premature cardiopulmonary death": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "NO2",
+    "methacholine"
+  ],
+  "compound_CID": [
+    {
+      "NO2": "None",
+      "methacholine": 1993
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "NO2_bronchial_hyperresponsiveness": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between NO2 and bronchial hyperresponsiveness. It describes a study where allergen-sensitized individuals were exposed to diesel exhaust, particle-filtered diesel exhaust, and filtered air. Despite effective particle removal, bronchial hyperresponsiveness was not prevented, and lung function reduction was greater with particle-filtered diesel exhaust, which had increased NO2 levels. This suggests that NO2, a gaseous component of diesel exhaust, plays a significant role in enhancing allergen sensitization and inducing bronchial hyperresponsiveness. The findings align with previous human chamber studies demonstrating NO2's capacity to induce bronchial hyperresponsiveness and allergen responses."
+      },
+      "NO2_respiratory_symptoms": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between NO2 and respiratory symptoms. It discusses studies where NO2 exposure, particularly from diesel exhaust, was linked to enhanced allergen sensitization and bronchial hyperresponsiveness, which are respiratory symptoms. Notably, when particles were filtered out from diesel exhaust, NO2 levels increased and lung function reduction (FEV1) was significantly higher, implicating NO2 as an important factor in exacerbating respiratory responses. This is supported by both recent and older human chamber studies demonstrating NO2's capacity to induce bronchial hyperresponsiveness and allergen responses."
+      },
+      "NO2_cardiovascular_symptoms": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between air pollution and cardiovascular symptoms broadly, noting that air pollution is linked to increased cardiovascular symptoms and premature cardiopulmonary death. It highlights the complexity of isolating the effects of specific pollutants like NO2 due to high correlations with other pollutants. While some studies show NO2-induced health effects independent of particulate matter, the evidence presented in the abstract primarily focuses on respiratory effects, particularly allergen sensitization and bronchial hyperresponsiveness related to NO2 exposure. There is no direct evidence or clear link in the abstract specifically connecting NO2 to cardiovascular symptoms. Therefore, based on this abstract, there is no clear relationship established between NO2 and cardiovascular symptoms."
+      }
+    },
+    {
+      "methacholine_bronchial_hyperresponsiveness": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where airway responsiveness was evaluated 24 hours after diesel exposure using a methacholine challenge test. This indicates that methacholine is used as a tool to assess bronchial hyperresponsiveness. The use of methacholine challenge test in this context demonstrates a direct relationship between methacholine and bronchial hyperresponsiveness, as methacholine provokes bronchoconstriction and is a standard method to measure airway hyperresponsiveness."
+      },
+      "methacholine_respiratory_symptoms": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where airway responsiveness was evaluated using a methacholine challenge test following exposure to diesel exhaust and allergens. Methacholine challenge tests are used to assess bronchial hyperresponsiveness, which is a key feature of respiratory symptoms such as asthma. The study found that diesel exhaust and allergen exposure enhanced bronchial hyperresponsiveness, indicating that methacholine responsiveness is linked to respiratory symptoms. Therefore, there is evidence of a relationship between methacholine (used as a diagnostic agent in the challenge test) and respiratory symptoms."
+      },
+      "methacholine_cardiovascular_symptoms": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of methacholine in the context of evaluating airway responsiveness, specifically bronchial hyperresponsiveness, following exposure to diesel exhaust and allergens. Methacholine challenge tests are used to assess respiratory function, particularly in relation to asthma and airway sensitivity. The abstract does not provide any evidence or mention of methacholine being related to cardiovascular symptoms. Instead, cardiovascular symptoms are discussed in relation to air pollution exposure, but without linking methacholine to these symptoms. Therefore, based on the abstract, there is no clear relationship between methacholine and cardiovascular symptoms."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions nitrogen dioxide (NO2) multiple times as a copollutant gas linked to health effects and allergen sensitization. Methacholine is mentioned as part of a challenge test to evaluate airway responsiveness. Other terms like diesel exhaust particles and particulate matter are general descriptors rather than specific chemical compound names."
+}

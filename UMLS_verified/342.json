@@ -1,0 +1,108 @@
+{
+  "id": 342,
+  "title": "A systematic review on the detection of volatile organic compounds in exhaled breath in experimental animals in the context of gastrointestinal and hepatic diseases",
+  "Abstract": "Background Analysis of volatile organic compounds (VOCs) in exhaled breath has the potential to serve as an accurate diagnostic tool for gastro-intestinal diseases. Animal studies could be instrumental as a preclinical base and subsequent clinical translation to humans, as they are easier to standardize and better equipped to relate specific VOCs to metabolic and pathological processes. This review provides an overview of the study design, characteristics and methodological quality of previously published animal studies on analysis of exhaled breath in gastrointestinal and hepatic diseases. Guidelines are provided for standardization in study design and breath collection methods to improve comparability, avoid duplication of research and reduce discomfort of animals in future studies. Methods PubMed and Embase database were searched for animal studies using exhaled breath analysis to detect gastro-intestinal diseases. Risk of bias was assessed using the SYRCLE’s risk of bias tool for animal studies. Information on study design, standardization methods, animal models, breath collection methods and identified VOCs were extracted from the included studies. Results 10 studies were included (acute liver failure n = 1, non-alcoholic steatohepatitis n = 1, hepatic ischemia n = 2, mesenteric ischemia n = 2, sepsis and peritonitis n = 3, colitis n = 1). Rats were used in most of the studies. Exhaled breath was mostly collected using invasive procedures as tracheal cannulation or tracheostomy. Poor reporting on standardization, breath collection methods, analytical techniques, as well as heterogeneity of the studies, complicate comparison of the different studies. Conclusion Poor reporting of essential methodological details impaired comprehensive summarizing the various studies on exhaled breath in gastrointestinal and hepatic diseases. Potential pitfalls in study design, and suggestions for improvement of study design are discussed which, when applied, lead to consistent and generalizable results and a reduction in the use of laboratory animals. Refining the methodological quality of animal studies has the potential to improve subsequent clinical trial design.",
+  "Disease_List": [
+    "acute liver failure",
+    "non-alcoholic steatohepatitis",
+    "hepatic ischemia",
+    "mesenteric ischemia",
+    "sepsis",
+    "peritonitis",
+    "colitis"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases including acute liver failure, non-alcoholic steatohepatitis, hepatic ischemia, mesenteric ischemia, sepsis, peritonitis, and colitis. These are all named diseases rather than general terms like 'disease' or 'illness', which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "acute liver failure",
+    "non-alcoholic steatohepatitis",
+    "hepatic ischemia",
+    "mesenteric ischemia",
+    "sepsis",
+    "peritonitis",
+    "colitis"
+  ],
+  "UMLS_search_results": {
+    "acute liver failure": [
+      {
+        "ui": "C0162557",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0162557",
+        "name": "Liver Failure, Acute",
+        "mesh_id": "D017114"
+      }
+    ],
+    "non-alcoholic steatohepatitis": [
+      {
+        "ui": "C3241937",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3241937",
+        "name": "Nonalcoholic Steatohepatitis",
+        "mesh_id": "D065626"
+      }
+    ],
+    "hepatic ischemia": [
+      {
+        "ui": "C0920569",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0920569",
+        "name": "Hepatic ischaemia",
+        "mesh_id": "None"
+      }
+    ],
+    "mesenteric ischemia": [
+      {
+        "ui": "C1412000",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412000",
+        "name": "Mesenteric vascular insufficiency",
+        "mesh_id": "D065666"
+      }
+    ],
+    "sepsis": [
+      {
+        "ui": "C0036690",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036690",
+        "name": "Septicemia",
+        "mesh_id": "D018805"
+      },
+      {
+        "ui": "C0243026",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0243026",
+        "name": "Sepsis",
+        "mesh_id": "D018805"
+      },
+      {
+        "ui": "C1090821",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1090821",
+        "name": "Sepsis <Sepsidae>",
+        "mesh_id": "None"
+      }
+    ],
+    "peritonitis": [
+      {
+        "ui": "C0031154",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031154",
+        "name": "Peritonitis",
+        "mesh_id": "D010538"
+      }
+    ],
+    "colitis": [
+      {
+        "ui": "C0009319",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009319",
+        "name": "Colitis",
+        "mesh_id": "D003092"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

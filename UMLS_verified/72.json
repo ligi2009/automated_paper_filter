@@ -1,0 +1,66 @@
+{
+  "id": 72,
+  "title": "Adult-Onset Transcriptomic Effects of Developmental Exposure to Benzene in Zebrafish (Danio rerio): Evaluating a Volatile Organic Compound of Concern",
+  "Abstract": "Urban environments are afflicted by mixtures of anthropogenic volatile organic compounds (VOCs). VOC sources that drive human exposure include vehicle exhaust, industrial emissions, and oil spillage. The highly volatile VOC benzene has been linked to adverse health outcomes. However, few studies have focused on the later-in-life effects of low-level benzene exposure during the susceptible window of early development. Transcriptomic responses during embryogenesis have potential long-term consequences at levels equal to or lower than 1 ppm, therefore justifying the analysis of adult zebrafish that were exposed during early development. Previously, we identified transcriptomic alteration following controlled VOC exposures to 0.1 or 1 ppm benzene during the first five days of embryogenesis using a zebrafish model. In this study, we evaluated the adult-onset transcriptomic responses to this low-level benzene embryogenesis exposure (n = 20/treatment). We identified key genes, including col1a2 and evi5b, that were differentially expressed in adult zebrafish in both concentrations. Some DEGs overlapped at the larval and adult stages, specifically nfkbiaa, mecr, and reep1. The observed transcriptomic results suggest dose- and sex-dependent changes, with the highest impact of benzene exposure to be on cancer outcomes, endocrine system disorders, reproductive success, neurodevelopment, neurological disease, and associated pathways. Due to molecular pathways being highly conserved between zebrafish and mammals, developmentally exposed adult zebrafish transcriptomics is an important endpoint for providing insight into the long term-effects of VOCs on human health and disease.",
+  "Disease_List": [
+    "cancer",
+    "endocrine system disorders",
+    "neurodevelopment",
+    "neurological disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-related terms such as 'cancer outcomes', 'endocrine system disorders', 'neurodevelopment', and 'neurological disease'. These are specific disease categories or conditions rather than general terms like 'disease' or 'health conditions'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "neurodevelopment",
+    "neurological disease"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "endocrine system disorders": [],
+    "neurodevelopment": [
+      {
+        "ui": "C0599855",
+        "rootSource": "CHV",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0599855",
+        "name": "neurodevelopment",
+        "mesh_id": "None"
+      }
+    ],
+    "neurological disease": [
+      {
+        "ui": "C0027765",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027765",
+        "name": "nervous system disorder",
+        "mesh_id": "D009422"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

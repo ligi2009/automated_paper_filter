@@ -1,0 +1,60 @@
+{
+  "id": 6388,
+  "title": "VOC breath profile in spontaneously breathing awake swine during Influenza A infection",
+  "Abstract": "Influenza is one of the most common causes of virus diseases worldwide. Virus detection requires determination of Influenza RNA in the upper respiratory tract. Efficient screening is not possible in this way. Analysis of volatile organic compounds (VOCs) in breath holds promise for non-invasive and fast monitoring of disease progression. Breath VOC profiles of 14 (3 controls and 11 infected animals) swine were repeatedly analyzed during a complete infection cycle of Influenza A under high safety conditions. Breath VOCs were pre-concentrated by means of needle trap micro-extraction and analysed by gas chromatography mass spectrometry before infection, during virus presence in the nasal cavity, and after recovery. Six VOCs could be related to disease progression: acetaldehyde, propanal, n-propyl acetate, methyl methacrylate, styrene and 1,1-dipropoxypropane. As early as on day four after inoculation, when animals were tested positive for Influenza A, differentiation between control and infected animals was possible. VOC based information on virus infection could enable early detection of Influenza A. As VOC analysis is completely non-invasive it has potential for large scale screening purposes. In a perspective, breath analysis may offer a novel tool for Influenza monitoring in human medicine, animal health control or border protection.",
+  "Disease_List": [
+    "Influenza",
+    "Influenza A"
+  ],
+  "Reason": "The abstract explicitly mentions 'Influenza' and 'Influenza A' as specific diseases caused by viruses. These are named diseases rather than general terms like 'disease' or 'illness'. The study focuses on detecting Influenza A virus infection in swine, highlighting these specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Influenza",
+    "Influenza A"
+  ],
+  "UMLS_search_results": {
+    "Influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ],
+    "Influenza A": [
+      {
+        "ui": "C2062441",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2062441",
+        "name": "influenza A",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0879696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0879696",
+        "name": "Influenza virus A Ab:PrThr:Pt:Ser:Ord",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0016627",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0016627",
+        "name": "Influenza in Birds",
+        "mesh_id": "D005585"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

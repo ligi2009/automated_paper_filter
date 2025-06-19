@@ -1,0 +1,20 @@
+{
+  "id": 5632,
+  "title": "Volatile Organic Compounds in Cellular Headspace after Hyperbaric Oxygen Exposure: An In Vitro Pilot Study",
+  "Abstract": "Volatile organic compounds (VOCs) might be associated with pulmonary oxygen toxicity (POT). This pilot study aims to identify VOCs linked to oxidative stress employing an in vitro model of alveolar basal epithelial cells exposed to hyperbaric and hyperoxic conditions. In addition, the feasibility of this in vitro model for POT biomarker research was evaluated. The hyperbaric exposure protocol, similar to the U.S. Navy Treatment Table 6, was conducted on human alveolar basal epithelial cells, and the headspace VOCs were analyzed using gas chromatography–mass spectrometry. Three compounds (nonane [p = 0.005], octanal [p = 0.009], and decane [p = 0.018]), of which nonane and decane were also identified in a previous in vivo study with similar hyperbaric exposure, varied significantly between the intervention group which was exposed to 100% oxygen and the control group which was exposed to compressed air. VOC signal intensities were lower in the intervention group, but cellular stress markers (IL8 and LDH) confirmed increased stress and injury in the intervention group. Despite the observed reductions in compound expression, the model holds promise for POT biomarker exploration, emphasizing the need for further investigation into the complex relationship between VOCs and oxidative stress.",
+  "Disease_List": [
+    "pulmonary oxygen toxicity"
+  ],
+  "Reason": "The abstract explicitly mentions 'pulmonary oxygen toxicity (POT)' as a specific disease condition being studied. This is a defined medical condition related to lung injury caused by oxygen exposure, thus qualifying as a specific disease name.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "pulmonary oxygen toxicity": []
+  },
+  "MRCONSO_search_results": {
+    "pulmonary oxygen toxicity": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

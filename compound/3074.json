@@ -1,0 +1,60 @@
+{
+  "id": 3074,
+  "title": "HS–GC–MS Method for the Diagnosis of IBD Dynamics in a Model of DSS-Induced Colitis",
+  "Abstract": "Inflammatory bowel disease (IBD) is highly prevalent globally and, in the majority of cases, remains asymptomatic during its initial stages. The gastrointestinal microbiota secretes volatile organic compounds (VOCs), and their composition alters in IBD. The examination of VOCs could prove beneficial in complementing diagnostic techniques to facilitate the early identification of IBD risk. In this protocol, a model of sodium dextran sulfate (DSS)-induced colitis in rats was successfully implemented for the non-invasive metabolomic assessment of different stages of inflammation. Headspace–gas chromatography–mass spectrometry (HS–GC–MS) was used as a non-invasive method for inflammation assessment at early and remission stages. The disease activity index (DAI) and histological method were employed to assess intestinal inflammation. The HS–GC–MS method demonstrated high sensitivity to intestine inflammation, confirmed by DAI and histology assay, in the acute and remission stages, identifying changes in the relative content of VOCs in stools. HS–GC–MS may be a useful and non-invasive method for IBD diagnostics and therapy effectiveness control. Key features • Experiments performed in vivo to better control DSS-induced colon damage and to aid the study of IBD development in humans. • Optimized for the following organisms: Wistar rats and C57BL/6 mice. • An easily assessed disease activity index (DAI) (weight loss, stool consistency, degree of fecal occult blood) and histopathological examination are suggested for additional IBD confirmation. • Enables VOC testing with relatively small stool samples.",
+  "Disease_List": [
+    "Inflammatory bowel disease",
+    "colitis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Inflammatory bowel disease (IBD)' multiple times as a specific disease. Additionally, 'colitis' is mentioned as a DSS-induced condition in rats, which is a specific inflammatory disease of the colon. Therefore, specific disease names are clearly identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Inflammatory bowel disease",
+    "colitis"
+  ],
+  "UMLS_search_results": {
+    "Inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "colitis": [
+      {
+        "ui": "C0009319",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009319",
+        "name": "Colitis",
+        "mesh_id": "D003092"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "sodium dextran sulfate"
+  ],
+  "compound_CID": [
+    {
+      "sodium dextran sulfate": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "sodium dextran sulfate_Inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of sodium dextran sulfate (DSS) to induce colitis in rats, which serves as a model for studying inflammatory bowel disease (IBD). This indicates a direct relationship where sodium dextran sulfate is used to experimentally induce inflammation characteristic of IBD, allowing for the assessment of disease progression and diagnostic methods. Therefore, there is clear evidence of a relationship between sodium dextran sulfate and IBD in the context of disease modeling and research."
+      },
+      "sodium dextran sulfate_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a model of sodium dextran sulfate (DSS)-induced colitis in rats, indicating that sodium dextran sulfate is used to induce colitis experimentally. This establishes a clear relationship between sodium dextran sulfate and colitis, as the compound causes colon inflammation in the animal model, which is used to study inflammatory bowel disease (IBD)."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'sodium dextran sulfate (DSS)' as a chemical compound used to induce colitis in rats. No other specific chemical compound names are identified in the text."
+}

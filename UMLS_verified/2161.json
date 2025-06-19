@@ -1,0 +1,28 @@
+{
+  "id": 2161,
+  "title": "Editorial: Design of efficient and healthy buildings",
+  "Abstract": "People spend most of their time indoors in residential buildings; thus, maintaining good indoor air quality (IAQ) is essential. It is necessary to provide a suitable ventilation rate in these spaces (low-density occupation) taking into account that materials (finishes and furnishing) are one of the main sources ofindoor pollution (Hormigos et al., 2017). The burden of disease associated with indoor air accounts for millions of premature deaths related to exposure to Indoor Air Pollutants (IAPs). CO2 is commonly used as a metric of IAQ. Indoor CO2 concentrations can be significantly higher than outdoors due to human metabolism and activities. Even in presence of ventilation, controlling the CO2 concentration below the recommended limits is challenging, and many indoor environments, such as schools, offices and transport, exceed the recommended value of 1,000 ppm. These values are often accompanied by high concentrations of other pollutants, volatile organic compunds (VOC), including bioeffluents such as viruses, and because of this, the importance of mitigating airborne disease transmission has been highlighted by the COVID-19 pandemic (López et al., 2023). Currently the total amount of volatile organic compounds (TVOC) suspended in the air are indicators of indoor pollution and their source control is necessary from the points of view of health, comfort, energy efficiency and sustainability (Mølhave et al., 1997). The built environment has a significant impact on human health. The extent of the impact of buildings on human health and the environment depends on different environmental factors. The extent of the impact of buildings on human health and the environment depends on the design, materials and methods used for construction and operation (Awada et al., 2022). It is increasingly important to design healthy buildings in the pursuit of sustainable development, where not only the occupants play an important role in ensuring good indoor air quality through their habits, but also current developments related to interior finishes with low chemical emissions and good fungal resistance (Rupp et al., 2015; Loftness et al., 2007). Recent research has shown that people contract COVID-19 through airborne transmission indoors, especially in poorly ventilated environments (Domínguez-Amarillo et al., 2020). It is therefore necessary to maintain optimal air quality to eradicate the virus spread. This requires innovative changes to existing indoor and outdoor infrastructure to positively influence occupants even in the most densely populated spaces (Karagulian et al., 2015). This is also a challenge to traditional residential and public building construction in the aftermath of the COVID-19 pandemic (Lopez et al., 2023). OPEN ACCESS",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' multiple times as a specific disease related to airborne transmission indoors and the importance of mitigating its spread. No other specific diseases are named, but COVID-19 is clearly identified as a disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

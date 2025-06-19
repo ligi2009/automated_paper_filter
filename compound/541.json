@@ -1,0 +1,250 @@
+{
+  "id": 541,
+  "title": "Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities",
+  "Abstract": "Bisphosphonates (BPs) are the first line treatment for many bone diseases including hypercalcimia associated with bone malignancies. In this paper, we introduce a new analogue of bisphosphonate called the 2,3,3-Trisphosphonate (2,3,3-TriPP) that was synthesised in a two steps reaction. In vitro investigations using a medically known bisphosphonate (Etidronate) and the 2,3,3-TrisPP were performed with an aim to evaluate biological effect of this novel compound in major bone cells. 2,3,3-TrisPP showed to have potential to supress the bone resorption process, as our data found that this novel compound exhibited cytotoxic effect in osteoclastic cells at a low concentration of 0.172 mg/mL (LC50). A molecular docking computational simulation calculated a high level of binding affinity between the human farnesyl pyrophosphate synthase (hFPPS) and 2,3,3-TrisPP. This calculation suggested 2,3,3TrisPP may have undergone the mevalonate pathway to prevent the prenylation step during biosynthesis and subsequently resulted in the deactivation of osteoclastic cells. Finally, high levels of osteoblast mineralisation potentials were recorded upon treatments with 2,3,3-TrisPP (0.01-0.1 mg/ml), which implied 2,3,3-TrsiPP may also facilitate bone regeneration. Correspondence to: Yuen Ki Cheong, School of Engineering and Technology, College Lane, University of Hertfordshire, Hatfield and AL10 9AB, UK, E-mail: y.cheong2@herts.ac.uk GG Ren, School of Engineering and Technology, College Lane, University of Hertfordshire, Hatfield and AL10 9AB, UK, E-mail: g.g.ren@herts.ac.uk Received: November 14, 2017; Accepted: December 04, 2017; Published: December 08, 2017 Introduction Bisphosphonate (BP) [1] is an important class of anti-resorptive medications for osteoporosis, [2] Paget’s diseases, [3] hypercalcimia associated with bone metastasis [4-8] and other disorders involving excessive bone loss [9]. There are two classes of BP, the nitrogencontaining bisphosphonates (N-BP) and the non-nitrogen containing bisphosphonates (BP). These BP analogues exhibit excellent biodistributions on bone surface (hydroxyapatite) by chelating Calcium ions. Although the non-nitrogen BPs undergo cellular reaction to manipulate the ATP biosynthesis (Figure 1), while the N-BPs selectively bind to farnesylpyrophosphate synthase (FPPS) to inhibit the mevalonate pathway (Figure 2), both mechanisms eventually lead to suppression of the bone resorption process via inhibition of osteoclast activities [10-12]. Due to the selective inhibitory ability of N-BPs on the isoprenoid and cholesterol biosynthesis, extensive studies of BPs have been carried out to unveil their potential applications to other diseases related to Alzheimer’s, immunomodulator and parasitological infections [13-16]. BPs are also known to own special metal-binding properties, [17] which has made great interests to scientists to explore the chemistry and metal conjugations of this category of compounds, [18,19] in particular for the development in nuclear medicines (186Re therapy) [20] and radiopharmaceuticals (99Tc imaging), [21-23] in advance material discoveries for bone and dental implants [24-26] as well as in nanotechnologies [27-29]. Evidence from preclinical models have shown that N-BPs are generally up to several orders of magnitude more potent than the conventional BPs at inhibiting bone resorption. However, the disadvantage of administering N-BPs is that patients are at risk of developing severe N-bisphosphonate-related osteonecrosis of the jaw (BRONJ) [30] and gastric inflammation [31-33]. Considering these adverse effects, nonnitrogen containing BPs (i.e. Clodronate) are still widely prescribed, especially to cancer patients who are in poor physical states [34,35]. There are over twenty clinically approved BPs on the market, many other derivatives have been synthesised, studied and reported [3638]. Griffiths, et al. have recently published a convenient method to synthesise a range of novel 2,3,3-trisphosphonates 2 (Figure 3), a new class of the non-nitrogen containing geminal BPs [39]. The synthesis of these 2,3,3-trisphosphonate derivatives 2 (R=Me, Et or iPr) involve ‘one-pot reactions’ using 3,4-dihalogenated maleic anhydride and Figure 1. Chemical structures of ATP and its manipulated version after pyrophosphate group is replaced by a bisphosphonate group (e.g. Etidronate). Cheong YK (2017) Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities Volume 2(1): 2-10 Gen Med Open, 2017 doi: 10.15761/GMO.1000121 to stir under a sealed condition at room temperature for a further 16 hours. This crude ylidic bisphosphonate 1 was then purified by silica gel chromatography using a gradient solvent of dichloromethane and acetonitrile mixtures as eluent. Chromatography fractions were analysed using silica based tlc plate, which was developed using 100 % acetonitrile as mobile phase solvent system and then visualised under UV light to determine present of ylidic bisphosphonate 1 collected. Volatile components of the collected chromatography fractions were removed under reduced pressure (55°C at 10 mmHg), NMR spectra of the obtained green oil confirmed ylidic bisphosphonate was formed in a high state of purity [39]. A stream of dry Hydrogen Chloride gas was bubbled into this freshly prepared ylidic bisphosphonate 1 in dichloromethane (20 mL) over a period of 20 minutes, this homogeneous solution was stirred for a further 1 hour before volatile components were removed under reduced pressure (35°C at 10 mmHg). The residue was then re-dissolved into 20 mL of aqueous acetonitrile (1:1 ratio) and stirred at room temperature overnight. Crude 2,3,3-TrisPP was obtained as pale-yellow oil after removal of volatile components in vacuo. This sample was firstly isolated via solvent extraction using dichloromethane and water mixtures. Water layers were collected and combined, volatile components were then removed in vacuo (45°C at 0.01 mmHg), residue was subsequently washed and triturated from initially DCM and then ethyl acetate multiple times. A pure sample of 2,3,3-TrisPP (0.8 g, 45 %) was finally obtained as colourless solid after removing excess water under reduced pressure. Original method and analytic data of 2,3,3-TrisPP had been previously reported by Griffiths, et al. NMR characterisation of 2,3,3-TrisPP NMR spectra were recorded on a JEOL EX-600 spectrometer located at the Department of Pharmacy, University of Hertfordshire. Chemical shifts are reported in ‘ppm’ whereas coupling constants (J values) are measured in Hertz. Etidronate (Etidronic acid) was purchased from Sigma-Aldrich, while 2,3,3-TrisPP as prepared in situ, both samples were dissolved in D2O (Goss Scientific Ltd.) and all NMR experiments performed using 5 mm diameter NMR glass tubes. Hydrogen resonances (δH 5.30 ppm) present in residual water in samples were irradiated and suppressed during all 1H NMR acquisitions. NMR data set were recorded using Dalta and the resulting spectra were processed using MestRe Nova. NMR spectra of Etidronate and 2,3,3-TrisPP can be found in supplementary files provided. † 31P three equivalents of trialkylphosphite at ambient temperature. These reactions give initially ylidic bisphosphonates 1 (R = Me, Et or iPr) as stable intermediates, which subsequently undergo protonation to give the ring opened trisphosphonic esters 2 (R=Me, Et or iPr). A complete hydrolysis of the trisphosphosphic ester 2 (R = Et) under acid condition gives the desired 2,3,3-TrisPP (Figure 4), the compound that was used in this biological report. The first biological study of the 2,3,3-TrisPP reported by Yang, et al. who has revealed the intercellular Ca2+ binding ability of this novel system in a neurocellular research. 2,3,3-TrisPP was found to chelate with Ca2+ ions intercellularly, which had led to neuro-protective effects in PC12 cells via mechanisms involving Ca2+ attenuation and oxidative stress relief [40]. With regard to the chemical structure relationship, 2,3,3-TrisPP shares a common feature to all typical BPs (i.e. Etidronate), it contains a geminal bisphosphonate unit (PCP) where the two phosphonic acid groups share the same α-carbon atom [41]. Besides, this novel 2,3,3TrisPP owns an extra phosphoryl unit, locates in very close proximity to the germinal BP moiety. The present of this additional phosphoryl unit is expected to enhance functionalities, pharmacokinetic and antiresorptive effects in bones, as well as to ameliorate adverse effects and complications cause by current NBP treatments. Materials and methods Chemicals and reagents Organic solvents such as dichloromethane, acetone, acetonitrile, ethyl acetate etc, were purchased from VWR. TLC was performed with alumina backed silica gel 60 F254 eluting with the solvent system used for the column chromatography and the plates were visualised under UV light or developed in an iodine tank. Column chromatography used silica gel with particle size 33–50 μm and was purchased from BDH. All other materials including dichloromaleic anhydride and triethylphosphite were purchased from Sigma-Aldrich. All other chemicals were used as received unless otherwise indicated. Preparation of 2,3,3-TrisPP in situ Triethylphosphite (2.98 g, 18mmol) in a syringe was added dropwise into a stirred solution of dichloromaleic anhydride (1 g, 5.9 mmol) and dried dichloromethane (15 mL) through a lose septum over a period of 15 minutes. The resulting reaction mixture was then allowed Figure 2. The Mevalonate pathway: FPPS is required to catalyse the twostep synthesis of farnesyl pyrophosphate (FPP) and garanyl diphosphate (GPP) for osteoclast function and viability. Figure 3. Synthetic approach for trisphosphonic ester 2 (precursor of 2,3,3-TrisPP). Figure 4. Chemical structures of 2,3,3-TrisPP and Etidronate (a clinical BP). Cheong YK (2017) Biological evaluations of novel 2,3,3-Trisphosphonate in osteoclastic and osteoblastic activities Volume 2(1):",
+  "Disease_List": [
+    "osteoporosis",
+    "Paget’s disease",
+    "hypercalcimia associated with bone malignancies",
+    "bone metastasis",
+    "N-bisphosphonate-related osteonecrosis of the jaw (BRONJ)",
+    "gastric inflammation",
+    "Alzheimer’s disease"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases: osteoporosis, Paget’s disease, hypercalcimia associated with bone malignancies, bone metastasis, N-bisphosphonate-related osteonecrosis of the jaw (BRONJ), gastric inflammation, and Alzheimer's disease. These are all named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "osteoporosis",
+    "bone metastasis",
+    "gastric inflammation"
+  ],
+  "UMLS_search_results": {
+    "osteoporosis": [
+      {
+        "ui": "C0029456",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0029456",
+        "name": "Osteoporosis",
+        "mesh_id": "D010024"
+      },
+      {
+        "ui": "C2911643",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2911643",
+        "name": "Encounter due to family history of osteoporosis",
+        "mesh_id": "None"
+      }
+    ],
+    "Paget’s disease": [],
+    "hypercalcimia associated with bone malignancies": [],
+    "bone metastasis": [
+      {
+        "ui": "C0153690",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153690",
+        "name": "Metastatic malignant neoplasm to bone",
+        "mesh_id": "None"
+      }
+    ],
+    "N-bisphosphonate-related osteonecrosis of the jaw (BRONJ)": [],
+    "gastric inflammation": [
+      {
+        "ui": "C0017152",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017152",
+        "name": "Gastritis",
+        "mesh_id": "None"
+      }
+    ],
+    "Alzheimer’s disease": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2,3,3-Trisphosphonate",
+    "2,3,3-TrisPP",
+    "Etidronate",
+    "Etidronic acid",
+    "Clodronate",
+    "dichloromaleic anhydride",
+    "triethylphosphite",
+    "dichloromethane",
+    "acetonitrile",
+    "ethyl acetate",
+    "D2O"
+  ],
+  "compound_CID": [
+    {
+      "2,3,3-Trisphosphonate": "None",
+      "2,3,3-TrisPP": "None",
+      "Etidronate": 3305,
+      "Etidronic acid": 3305,
+      "Clodronate": 25419,
+      "dichloromaleic anhydride": 70728,
+      "triethylphosphite": 31215,
+      "dichloromethane": 6344,
+      "acetonitrile": 6342,
+      "ethyl acetate": 8857,
+      "D2O": 24602
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2,3,3-Trisphosphonate_osteoporosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that 2,3,3-Trisphosphonate (2,3,3-TrisPP), a novel bisphosphonate analogue, has biological effects relevant to osteoporosis treatment. Bisphosphonates are established first-line treatments for osteoporosis due to their ability to inhibit bone resorption by osteoclasts. The study shows that 2,3,3-TrisPP suppresses bone resorption by exhibiting cytotoxic effects on osteoclastic cells at low concentrations and has a high binding affinity to human farnesyl pyrophosphate synthase (hFPPS), suggesting inhibition of the mevalonate pathway, a known mechanism for osteoclast deactivation. Additionally, 2,3,3-TrisPP enhances osteoblast mineralization, implying potential to facilitate bone regeneration. These combined anti-resorptive and bone-forming activities indicate a clear relationship between 2,3,3-Trisphosphonate and osteoporosis, supporting its potential as a therapeutic agent for this disease."
+      },
+      "2,3,3-Trisphosphonate_bone_metastasis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between 2,3,3-Trisphosphonate (2,3,3-TrisPP) and bone metastasis through its classification as a bisphosphonate (BP) analogue. Bisphosphonates are established first-line treatments for bone diseases, including hypercalcemia associated with bone malignancies and bone metastasis. The novel compound 2,3,3-TrisPP was shown to suppress bone resorption by exhibiting cytotoxic effects on osteoclastic cells and enhancing osteoblast mineralization, indicating potential to inhibit bone degradation and promote bone regeneration. Additionally, 2,3,3-TrisPP demonstrated high binding affinity to human farnesyl pyrophosphate synthase (hFPPS), suggesting it acts via the mevalonate pathway to deactivate osteoclasts, a mechanism relevant to managing bone metastasis-related bone loss. Therefore, the data support a clear relationship between 2,3,3-Trisphosphonate and bone metastasis treatment."
+      },
+      "2,3,3-Trisphosphonate_gastric_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract discusses bisphosphonates (BPs) and their analogues, including the novel compound 2,3,3-Trisphosphonate (2,3,3-TrisPP). It notes that nitrogen-containing bisphosphonates (N-BPs) are associated with adverse effects such as gastric inflammation. While 2,3,3-TrisPP is a non-nitrogen containing bisphosphonate analogue, the abstract highlights that non-nitrogen BPs are generally preferred to avoid such adverse effects, implying that gastric inflammation is a known risk with bisphosphonate treatments. Although the abstract does not explicitly state that 2,3,3-Trisphosphonate causes gastric inflammation, it situates this compound within the bisphosphonate class, which is linked to gastric inflammation as a side effect, especially with nitrogen-containing BPs. Therefore, there is evidence of a relationship between 2,3,3-Trisphosphonate (as a bisphosphonate analogue) and gastric inflammation risk."
+      }
+    },
+    {
+      "2,3,3-TrisPP_osteoporosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that 2,3,3-TrisPP, a novel bisphosphonate analogue, has biological effects relevant to bone diseases such as osteoporosis. Specifically, 2,3,3-TrisPP demonstrated the ability to suppress bone resorption by exhibiting cytotoxic effects on osteoclastic cells at low concentrations, which is a key mechanism in treating osteoporosis. Additionally, molecular docking studies suggest that 2,3,3-TrisPP inhibits the mevalonate pathway by binding to human farnesyl pyrophosphate synthase (hFPPS), leading to osteoclast deactivation. Furthermore, 2,3,3-TrisPP enhanced osteoblast mineralization, indicating potential to facilitate bone regeneration. Since bisphosphonates are established first-line treatments for osteoporosis by inhibiting bone resorption and promoting bone formation, the data support a clear relationship between 2,3,3-TrisPP and osteoporosis treatment."
+      },
+      "2,3,3-TrisPP_bone_metastasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes 2,3,3-TrisPP as a novel bisphosphonate analogue with biological activity relevant to bone diseases. Bisphosphonates are established first-line treatments for bone diseases including hypercalcemia associated with bone malignancies and bone metastasis. The 2,3,3-TrisPP compound demonstrated the ability to suppress bone resorption by exhibiting cytotoxic effects on osteoclastic cells and showed high binding affinity to human farnesyl pyrophosphate synthase (hFPPS), suggesting inhibition of the mevalonate pathway, a known mechanism for bisphosphonates in preventing osteoclast activity. Additionally, 2,3,3-TrisPP enhanced osteoblast mineralization, implying potential to facilitate bone regeneration. Given that bisphosphonates are clinically used to manage bone metastasis-related complications by inhibiting osteoclast-mediated bone resorption, and 2,3,3-TrisPP shares similar mechanisms and effects, there is evidence supporting a relationship between 2,3,3-TrisPP and bone metastasis treatment or management."
+      },
+      "2,3,3-TrisPP_gastric_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract discusses bisphosphonates (BPs) as a class of compounds used primarily for bone diseases and mentions that nitrogen-containing bisphosphonates (N-BPs) carry a risk of adverse effects including gastric inflammation. Although 2,3,3-TrisPP is described as a novel non-nitrogen containing bisphosphonate analogue with potential bone-related benefits and possibly fewer adverse effects, the abstract explicitly states that administration of N-BPs is associated with gastric inflammation. While 2,3,3-TrisPP is a non-nitrogen containing BP and may have reduced side effects, the class association and the mention of gastric inflammation as a known adverse effect of bisphosphonates in general suggest a potential relationship. However, the abstract does not provide direct evidence that 2,3,3-TrisPP itself causes or is linked to gastric inflammation. Therefore, there is an implied relationship based on the compound class and known side effects, but no direct evidence specific to 2,3,3-TrisPP and gastric inflammation is presented."
+      }
+    },
+    {
+      "Etidronate_osteoporosis": {
+        "relationship": "Y",
+        "reason": "The abstract clearly establishes a relationship between Etidronate, a bisphosphonate (BP), and osteoporosis. Bisphosphonates, including Etidronate, are described as the first-line treatment for bone diseases such as osteoporosis. The text explains that bisphosphonates inhibit bone resorption by suppressing osteoclast activity, which is a key pathological process in osteoporosis. Etidronate is specifically mentioned as a medically known bisphosphonate used in the study, and the abstract discusses the mechanisms by which bisphosphonates, including Etidronate, act to prevent bone loss. Therefore, there is clear evidence from the abstract that Etidronate is related to the treatment of osteoporosis."
+      },
+      "Etidronate_bone_metastasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that bisphosphonates (BPs), including Etidronate, are first-line treatments for many bone diseases, explicitly mentioning hypercalcemia associated with bone malignancies, which includes bone metastasis. Etidronate, a clinically known bisphosphonate, shares the geminal bisphosphonate unit common to BPs that exhibit antiresorptive effects on bone by inhibiting osteoclast activity. The text also highlights that bisphosphonates are used to manage bone disorders involving excessive bone loss, such as those caused by bone metastasis. Therefore, there is clear evidence in the abstract that Etidronate is related to the treatment of bone metastasis."
+      },
+      "Etidronate_gastric_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that nitrogen-containing bisphosphonates (N-BPs), which include compounds like Etidronate, have been associated with adverse effects including gastric inflammation. Specifically, it states that patients receiving N-BPs are at risk of developing severe bisphosphonate-related osteonecrosis of the jaw and gastric inflammation. Although Etidronate is a non-nitrogen containing bisphosphonate, the abstract discusses bisphosphonates as a class and highlights gastric inflammation as a known adverse effect related to their administration. Therefore, there is evidence in the abstract indicating a relationship between Etidronate (a bisphosphonate) and gastric inflammation."
+      }
+    },
+    {
+      "Etidronic acid_osteoporosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses bisphosphonates (BPs), including Etidronate (Etidronic acid), as a first-line treatment for bone diseases such as osteoporosis. It explains that bisphosphonates inhibit bone resorption by suppressing osteoclast activity, which is a key therapeutic mechanism in osteoporosis management. Etidronate is specifically mentioned as a medically known bisphosphonate used in the study, and the text highlights the role of bisphosphonates in treating osteoporosis by preventing excessive bone loss. Therefore, there is clear evidence in the abstract supporting a relationship between Etidronic acid and osteoporosis."
+      },
+      "Etidronic acid_bone_metastasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that bisphosphonates (BPs), including Etidronic acid (Etidronate), are first-line treatments for bone diseases such as hypercalcemia associated with bone malignancies, which includes bone metastasis. It specifically mentions that BPs are used to manage hypercalcemia linked to bone metastasis and that Etidronate shares the typical bisphosphonate structure and function. Bisphosphonates act by inhibiting osteoclast-mediated bone resorption, a key pathological process in bone metastasis. Therefore, there is clear evidence from the abstract that Etidronic acid is related to the treatment of bone metastasis."
+      },
+      "Etidronic acid_gastric_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitrogen-containing bisphosphonates (N-BPs) are associated with adverse effects including gastric inflammation. Although Etidronic acid (Etidronate) is a non-nitrogen containing bisphosphonate, the text mentions that N-BPs carry a risk of gastric inflammation, and non-nitrogen BPs like Clodronate are preferred in some cases to avoid such adverse effects. While Etidronic acid itself is not explicitly stated to cause gastric inflammation, the class of bisphosphonates, particularly nitrogen-containing ones, have documented risks of gastric inflammation. Therefore, there is evidence of a relationship between bisphosphonates and gastric inflammation, which may extend to Etidronic acid as a bisphosphonate compound."
+      }
+    },
+    {
+      "Clodronate_osteoporosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses bisphosphonates (BPs) as the first-line treatment for many bone diseases including osteoporosis. It specifically mentions that non-nitrogen containing bisphosphonates, such as Clodronate, are widely prescribed, especially to cancer patients in poor physical states, due to their relatively safer profile compared to nitrogen-containing bisphosphonates. Since Clodronate is identified as a non-nitrogen containing bisphosphonate and bisphosphonates are established treatments for osteoporosis by inhibiting bone resorption and promoting bone regeneration, there is clear evidence of a relationship between Clodronate and osteoporosis treatment."
+      },
+      "Clodronate_bone_metastasis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses bisphosphonates (BPs) as first-line treatments for many bone diseases, explicitly including hypercalcemia associated with bone malignancies, which are often related to bone metastasis. It further explains that non-nitrogen containing bisphosphonates, such as Clodronate, are widely prescribed especially to cancer patients in poor physical condition. This indicates that Clodronate, a non-nitrogen containing BP, is used in clinical settings related to bone metastasis. Although the abstract focuses on a novel bisphosphonate analogue (2,3,3-TrisPP), it clearly establishes the clinical relevance and use of Clodronate in managing bone complications arising from metastatic bone disease. Therefore, there is evidence of a relationship between Clodronate and bone metastasis."
+      },
+      "Clodronate_gastric_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitrogen-containing bisphosphonates (N-BPs) are associated with adverse effects including gastric inflammation. It further states that non-nitrogen containing bisphosphonates, such as Clodronate, are still widely prescribed especially because they are considered to have fewer adverse effects compared to N-BPs. However, the mention of gastric inflammation as a risk is specifically linked to N-BPs, and Clodronate, being a non-nitrogen containing bisphosphonate, is implied to have a lower risk but is still related to the class of bisphosphonates that can cause gastric inflammation. Therefore, there is evidence of a relationship between Clodronate and gastric inflammation, although Clodronate is noted as having a preferable safety profile in this regard compared to nitrogen-containing bisphosphonates."
+      }
+    },
+    {
+      "dichloromaleic anhydride_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue called 2,3,3-Trisphosphonate (2,3,3-TrisPP), which is synthesized using dichloromaleic anhydride as a starting material. However, dichloromaleic anhydride itself is not described as having any direct biological or therapeutic effect on osteoporosis. Instead, it is a chemical reagent used in the synthesis process of 2,3,3-TrisPP. The compound evaluated for effects on bone cells and osteoporosis-related mechanisms is 2,3,3-TrisPP, not dichloromaleic anhydride. Therefore, there is no evidence in the abstract that dichloromaleic anhydride itself has a relationship with osteoporosis."
+      },
+      "dichloromaleic anhydride_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue, 2,3,3-Trisphosphonate (2,3,3-TrisPP), which is prepared using dichloromaleic anhydride as a starting material. However, dichloromaleic anhydride itself is not described as having any direct biological or therapeutic effect related to bone metastasis. Instead, it is a chemical reagent used in the synthesis process. The compound evaluated for effects on bone cells and bone resorption is 2,3,3-TrisPP, not dichloromaleic anhydride. Therefore, there is no evidence in the abstract that dichloromaleic anhydride has a relationship with bone metastasis."
+      },
+      "dichloromaleic anhydride_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue, 2,3,3-Trisphosphonate (2,3,3-TrisPP), which is synthesized using dichloromaleic anhydride as a starting material. While the abstract mentions that nitrogen-containing bisphosphonates (N-BPs) can cause gastric inflammation as an adverse effect, there is no direct evidence or mention of dichloromaleic anhydride itself being related to gastric inflammation. Dichloromaleic anhydride is described only as a chemical reagent used in the synthesis process, without any reported biological or toxicological effects related to gastric inflammation. Therefore, based on the abstract content, there is no clear relationship between dichloromaleic anhydride and gastric inflammation."
+      }
+    },
+    {
+      "triethylphosphite_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue called 2,3,3-Trisphosphonate (2,3,3-TrisPP), which is synthesized using triethylphosphite as a reagent. However, triethylphosphite itself is not described as having a direct biological effect on osteoporosis or bone cells. Instead, it is used as a chemical reagent in the synthesis process of 2,3,3-TrisPP. The biological effects relevant to osteoporosis, such as suppression of bone resorption and promotion of bone regeneration, are attributed to the 2,3,3-TrisPP compound, not triethylphosphite. Therefore, there is no clear evidence in the abstract that triethylphosphite itself has a relationship with osteoporosis."
+      },
+      "triethylphosphite_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue called 2,3,3-Trisphosphonate (2,3,3-TrisPP), which is prepared using triethylphosphite as a reagent in the chemical synthesis process. However, triethylphosphite itself is not described as having a direct biological effect or therapeutic role. The biological effects and potential treatment relevance are attributed to the 2,3,3-TrisPP compound, which shows potential to suppress bone resorption and facilitate bone regeneration. The abstract mentions bisphosphonates as treatments for bone diseases including hypercalcemia associated with bone metastasis, but does not provide evidence that triethylphosphite itself has any relationship with bone metastasis. Triethylphosphite is only referenced as a chemical reagent used in the synthesis of the active compound, not as a therapeutic agent. Therefore, there is no clear relationship between triethylphosphite and bone metastasis based on the abstract."
+      },
+      "triethylphosphite_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) synthesized using triethylphosphite as a reagent. While the abstract mentions that nitrogen-containing bisphosphonates (N-BPs) can cause gastric inflammation as an adverse effect, there is no evidence or indication that triethylphosphite itself is related to gastric inflammation. Triethylphosphite is described only as a chemical reagent used in the synthesis process, not as a therapeutic agent or a compound causing gastric inflammation. Therefore, based on the abstract, there is no clear relationship between triethylphosphite and gastric inflammation."
+      }
+    },
+    {
+      "dichloromethane_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in relation to osteoporosis and bone resorption. Dichloromethane is mentioned only as an organic solvent used in the chemical synthesis and purification processes of the compounds studied. There is no evidence or indication in the abstract that dichloromethane itself has any biological or pathological relationship with osteoporosis. The compound is not described as having any therapeutic or harmful effect on bone diseases, including osteoporosis."
+      },
+      "dichloromethane_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue, 2,3,3-Trisphosphonate (2,3,3-TriPP), which was purified using dichloromethane as a solvent in the chromatography process. Dichloromethane is mentioned solely as an organic solvent used in the chemical synthesis and purification steps. There is no evidence or discussion in the abstract indicating that dichloromethane itself has any biological or pathological relationship with bone metastasis. The focus is on bisphosphonates and their analogues in treating bone diseases including those associated with bone metastasis, but dichloromethane is not implicated as a therapeutic agent or a causative factor in bone metastasis."
+      },
+      "dichloromethane_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract primarily discusses bisphosphonates and their analogues, focusing on their synthesis, biological effects on bone cells, and potential adverse effects such as bisphosphonate-related osteonecrosis of the jaw and gastric inflammation. While gastric inflammation is mentioned as a known adverse effect of nitrogen-containing bisphosphonates, there is no evidence or discussion linking dichloromethane itself to gastric inflammation. Dichloromethane is mentioned only as a solvent used in the chemical synthesis and purification processes, without any indication of it causing or being related to gastric inflammation. Therefore, based on the abstract, there is no clear relationship between dichloromethane and gastric inflammation."
+      }
+    },
+    {
+      "acetonitrile_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in relation to osteoporosis and bone resorption. Acetonitrile is mentioned only as an organic solvent used in the chemical synthesis and purification processes of the compounds studied. There is no evidence or indication in the abstract that acetonitrile itself has any biological or therapeutic relationship with osteoporosis. Its role is purely as a chemical reagent or solvent, not as a compound affecting bone disease."
+      },
+      "acetonitrile_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in the context of bone diseases including bone metastasis. Acetonitrile is mentioned solely as an organic solvent used in the chemical synthesis and purification processes of the bisphosphonate compounds, including chromatography and solvent extraction steps. There is no evidence or indication in the abstract that acetonitrile itself has any biological or therapeutic relationship with bone metastasis or bone diseases. The role of acetonitrile is purely as a chemical reagent/solvent in the experimental procedures, not as an active compound affecting bone metastasis."
+      },
+      "acetonitrile_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and their analogues, including the synthesis and biological evaluation of a novel compound 2,3,3-Trisphosphonate. Acetonitrile is mentioned solely as an organic solvent used in the chemical synthesis and purification processes, such as chromatography and solvent extraction. There is no evidence or discussion in the abstract linking acetonitrile itself to gastric inflammation or any disease state. While gastric inflammation is mentioned as a potential adverse effect of nitrogen-containing bisphosphonates, this is unrelated to acetonitrile. Therefore, based on the abstract, there is no clear relationship between the compound acetonitrile and gastric inflammation."
+      }
+    },
+    {
+      "ethyl acetate_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the synthesis and biological evaluation of a novel bisphosphonate analogue, 2,3,3-Trisphosphonate (2,3,3-TrisPP), and its effects on bone cells relevant to osteoporosis treatment. Ethyl acetate is mentioned only as a solvent used multiple times in the purification process of 2,3,3-TrisPP. There is no evidence or discussion in the abstract indicating that ethyl acetate itself has any biological effect or relationship with osteoporosis. The focus is on bisphosphonate compounds and their analogues, not on ethyl acetate as a therapeutic or causative agent. Therefore, no clear relationship between ethyl acetate and osteoporosis is established in the abstract."
+      },
+      "ethyl acetate_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in relation to bone diseases including bone metastasis. Ethyl acetate is mentioned only as a solvent used in the purification process of the compound 2,3,3-TrisPP, not as an active compound with biological effects. There is no evidence or indication in the abstract that ethyl acetate itself has any relationship with bone metastasis or its treatment. The biological effects and therapeutic relevance pertain to bisphosphonate compounds, not ethyl acetate."
+      },
+      "ethyl acetate_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and their analogues, including the synthesis and biological evaluation of 2,3,3-Trisphosphonate compounds. Ethyl acetate is mentioned only as a solvent used in the purification process of the compound 2,3,3-TrisPP. There is no evidence or discussion in the abstract linking ethyl acetate itself to gastric inflammation or any biological effect related to this disease. The mention of gastric inflammation is in the context of adverse effects associated with nitrogen-containing bisphosphonates, not ethyl acetate. Therefore, based on the abstract, there is no clear relationship between ethyl acetate and gastric inflammation."
+      }
+    },
+    {
+      "D2O_osteoporosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in relation to osteoporosis and bone resorption. It mentions that both Etidronate and 2,3,3-TrisPP were dissolved in D2O (deuterium oxide) for NMR experiments, but D2O itself is used solely as a solvent medium for these analyses. There is no evidence or indication in the abstract that D2O has any therapeutic or pathological relationship with osteoporosis. The compound D2O is not described as having any biological effect on bone cells or osteoporosis; rather, it is a tool used in the experimental procedures. Therefore, no clear relationship between D2O and osteoporosis is established in the abstract."
+      },
+      "D2O_bone_metastasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and a novel bisphosphonate analogue (2,3,3-TrisPP) in the context of bone diseases including bone metastasis. It mentions that the compounds were dissolved in D2O (deuterium oxide) for NMR experiments, but D2O itself is used solely as a solvent for analytical purposes and is not described as having any therapeutic or pathological role related to bone metastasis. There is no evidence or indication in the abstract that D2O has any biological effect or relationship with bone metastasis. Therefore, no clear relationship between D2O and bone metastasis is established."
+      },
+      "D2O_gastric_inflammation": {
+        "relationship": "N",
+        "reason": "The abstract discusses bisphosphonates and their analogues, including 2,3,3-Trisphosphonate, focusing on their effects on bone cells and bone diseases. It mentions that nitrogen-containing bisphosphonates can cause gastric inflammation as an adverse effect. However, D2O (deuterium oxide) is only mentioned as a solvent used in NMR experiments for dissolving compounds and not as an active compound related to biological effects or disease. There is no evidence or discussion in the abstract linking D2O itself to gastric inflammation or any disease. Therefore, no clear relationship between D2O and gastric inflammation is established based on this abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several chemical compounds including the novel bisphosphonate analogue 2,3,3-Trisphosphonate (also abbreviated as 2,3,3-TrisPP), the medically known bisphosphonate Etidronate (also called Etidronic acid), and Clodronate as a non-nitrogen containing bisphosphonate. Additionally, reagents and solvents used in synthesis and analysis such as dichloromaleic anhydride, triethylphosphite, dichloromethane, acetonitrile, ethyl acetate, and deuterium oxide (D2O) are mentioned by name. These are all specific chemical substances rather than general terms."
+}

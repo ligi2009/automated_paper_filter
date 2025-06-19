@@ -1,0 +1,79 @@
+{
+  "id": 1736,
+  "title": "Unravelling the Potential of Salivary Volatile Metabolites in Oral Diseases. A Review",
+  "Abstract": "Fostered by the advances in the instrumental and analytical fields, in recent years the analysis of volatile organic compounds (VOCs) has emerged as a new frontier in medical diagnostics. VOCs analysis is a non-invasive, rapid and inexpensive strategy with promising potential in clinical diagnostic procedures. Since cellular metabolism is altered by diseases, the resulting metabolic effects on VOCs may serve as biomarkers for any given pathophysiologic condition. Human VOCs are released from biomatrices such as saliva, urine, skin emanations and exhaled breath and are derived from many metabolic pathways. In this review, the potential of VOCs present in saliva will be explored as a monitoring tool for several oral diseases, including gingivitis and periodontal disease, dental caries, and oral cancer. Moreover, the analytical state-of-the-art for salivary volatomics, e.g., the most common extraction techniques along with the current challenges and future perspectives will be addressed unequivocally.",
+  "Disease_List": [
+    "gingivitis",
+    "periodontal disease",
+    "dental caries",
+    "oral cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as gingivitis, periodontal disease, dental caries, and oral cancer as examples of oral diseases for which VOCs analysis in saliva can be used as a monitoring tool.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "gingivitis",
+    "periodontal disease",
+    "dental caries",
+    "oral cancer"
+  ],
+  "UMLS_search_results": {
+    "gingivitis": [
+      {
+        "ui": "C0017574",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017574",
+        "name": "Gingivitis",
+        "mesh_id": "D005891"
+      },
+      {
+        "ui": "C0744403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0744403",
+        "name": "Gum Infection",
+        "mesh_id": "None"
+      }
+    ],
+    "periodontal disease": [
+      {
+        "ui": "C0031090",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031090",
+        "name": "Periodontal Diseases",
+        "mesh_id": "D010510"
+      }
+    ],
+    "dental caries": [
+      {
+        "ui": "C0011334",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011334",
+        "name": "Dental caries",
+        "mesh_id": "D003731"
+      }
+    ],
+    "oral cancer": [
+      {
+        "ui": "C0153381",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153381",
+        "name": "Malignant neoplasm of mouth",
+        "mesh_id": "D009062"
+      },
+      {
+        "ui": "C0220641",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220641",
+        "name": "Lip and Oral Cavity Carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms without mentioning any specific chemical compound names."
+}

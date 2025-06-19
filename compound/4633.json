@@ -1,0 +1,148 @@
+{
+  "id": 4633,
+  "title": "The Role of Oral Microbiota in Intra-Oral Halitosis",
+  "Abstract": "Halitosis is a common ailment concerning 15% to 60% of the human population. Halitosis can be divided into extra-oral halitosis (EOH) and intra-oral halitosis (IOH). The IOH is formed by volatile compounds, which are produced mainly by anaerobic bacteria. To these odorous substances belong volatile sulfur compounds (VSCs), aromatic compounds, amines, short-chain fatty or organic acids, alcohols, aliphatic compounds, aldehydes, and ketones. The most important VSCs are hydrogen sulfide, dimethyl sulfide, dimethyl disulfide, and methyl mercaptan. VSCs can be toxic for human cells even at low concentrations. The oral bacteria most related to halitosis are Actinomyces spp., Bacteroides spp., Dialister spp., Eubacterium spp., Fusobacterium spp., Leptotrichia spp., Peptostreptococcus spp., Porphyromonas spp., Prevotella spp., Selenomonas spp., Solobacterium spp., Tannerella forsythia, and Veillonella spp. Most bacteria that cause halitosis are responsible for periodontitis, but they can also affect the development of oral and digestive tract cancers. Malodorous agents responsible for carcinogenesis are hydrogen sulfide and acetaldehyde.",
+  "Disease_List": [
+    "halitosis",
+    "periodontitis",
+    "oral cancer",
+    "digestive tract cancers"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as halitosis and periodontitis. It also refers to oral and digestive tract cancers, which are specific disease categories. These mentions justify classifying the response as 'Y' for specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "halitosis",
+    "periodontitis",
+    "oral cancer"
+  ],
+  "UMLS_search_results": {
+    "halitosis": [
+      {
+        "ui": "C0018520",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018520",
+        "name": "Halitosis",
+        "mesh_id": "D006209"
+      }
+    ],
+    "periodontitis": [
+      {
+        "ui": "C0031099",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031099",
+        "name": "Periodontitis",
+        "mesh_id": "D010518"
+      }
+    ],
+    "oral cancer": [
+      {
+        "ui": "C0153381",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153381",
+        "name": "Malignant neoplasm of mouth",
+        "mesh_id": "D009062"
+      },
+      {
+        "ui": "C0220641",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220641",
+        "name": "Lip and Oral Cavity Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "digestive tract cancers": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "hydrogen sulfide",
+    "dimethyl sulfide",
+    "dimethyl disulfide",
+    "methyl mercaptan",
+    "acetaldehyde"
+  ],
+  "compound_CID": [
+    {
+      "hydrogen sulfide": 402,
+      "dimethyl sulfide": 1068,
+      "dimethyl disulfide": 12232,
+      "methyl mercaptan": 878,
+      "acetaldehyde": 177
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "hydrogen sulfide_halitosis": {
+        "relationship": "Y",
+        "reason": "The abstract clearly states that halitosis, particularly intra-oral halitosis (IOH), is caused by volatile compounds produced mainly by anaerobic bacteria. Among these volatile sulfur compounds (VSCs), hydrogen sulfide is identified as one of the most important contributors to the odor associated with halitosis. Therefore, there is direct evidence linking hydrogen sulfide to the disease halitosis."
+      },
+      "hydrogen sulfide_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that hydrogen sulfide is one of the most important volatile sulfur compounds produced by anaerobic bacteria involved in intra-oral halitosis. It also mentions that most bacteria responsible for halitosis, which produce hydrogen sulfide, are also responsible for periodontitis. This indicates a relationship between hydrogen sulfide and periodontitis through the bacterial activity that produces this compound and contributes to the disease."
+      },
+      "hydrogen sulfide_oral_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile sulfur compounds, including hydrogen sulfide, are produced by oral bacteria and can be toxic to human cells even at low concentrations. It specifically mentions that bacteria responsible for halitosis and periodontitis can also affect the development of oral cancers. Furthermore, hydrogen sulfide is identified as one of the malodorous agents responsible for carcinogenesis. Therefore, there is evidence in the abstract supporting a relationship between hydrogen sulfide and oral cancer."
+      }
+    },
+    {
+      "dimethyl sulfide_halitosis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that halitosis is caused by volatile compounds produced mainly by anaerobic bacteria, including volatile sulfur compounds (VSCs). Among the most important VSCs listed are hydrogen sulfide, dimethyl sulfide, dimethyl disulfide, and methyl mercaptan. Since dimethyl sulfide is identified as a key volatile sulfur compound involved in halitosis, there is clear evidence of a relationship between dimethyl sulfide and halitosis."
+      },
+      "dimethyl sulfide_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that dimethyl sulfide is one of the key volatile sulfur compounds (VSCs) produced by anaerobic bacteria involved in intra-oral halitosis. It also mentions that most bacteria responsible for halitosis, which produce these VSCs including dimethyl sulfide, are the same bacteria responsible for periodontitis. Therefore, there is evidence of a relationship between dimethyl sulfide and periodontitis through the shared bacterial etiology and production of this compound."
+      },
+      "dimethyl sulfide_oral_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that volatile sulfur compounds (VSCs), including dimethyl sulfide, are produced by oral bacteria and can be toxic to human cells. However, it specifically identifies hydrogen sulfide and acetaldehyde as the malodorous agents responsible for carcinogenesis related to oral and digestive tract cancers. There is no direct evidence or mention of dimethyl sulfide being linked to oral cancer in the abstract."
+      }
+    },
+    {
+      "dimethyl disulfide_halitosis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists dimethyl disulfide as one of the most important volatile sulfur compounds (VSCs) produced by anaerobic bacteria that contribute to intra-oral halitosis (IOH). Since IOH is caused by volatile compounds including VSCs, and dimethyl disulfide is identified among these key compounds, there is clear evidence of a relationship between dimethyl disulfide and halitosis."
+      },
+      "dimethyl disulfide_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that dimethyl disulfide is one of the important volatile sulfur compounds (VSCs) produced by anaerobic bacteria in the oral cavity. It also mentions that most bacteria responsible for producing these compounds and causing halitosis are the same bacteria responsible for periodontitis. Therefore, there is an indirect but clear relationship between dimethyl disulfide and periodontitis through the shared bacterial etiology."
+      },
+      "dimethyl disulfide_oral_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that volatile sulfur compounds (VSCs), including dimethyl disulfide, are produced by oral bacteria and can be toxic to human cells. However, it specifically identifies hydrogen sulfide and acetaldehyde as the malodorous agents responsible for carcinogenesis related to oral and digestive tract cancers. There is no direct evidence or mention in the abstract linking dimethyl disulfide to oral cancer development."
+      }
+    },
+    {
+      "methyl mercaptan_halitosis": {
+        "relationship": "Y",
+        "reason": "The abstract clearly states that methyl mercaptan is one of the most important volatile sulfur compounds (VSCs) produced mainly by anaerobic bacteria in the oral cavity, which are responsible for intra-oral halitosis (IOH). Since halitosis is caused by volatile compounds including VSCs such as methyl mercaptan, there is direct evidence of a relationship between methyl mercaptan and halitosis."
+      },
+      "methyl mercaptan_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that methyl mercaptan is one of the most important volatile sulfur compounds (VSCs) produced by anaerobic bacteria in the oral cavity. It also mentions that most bacteria responsible for producing these VSCs, which cause halitosis, are the same bacteria responsible for periodontitis. Therefore, there is evidence of a relationship between methyl mercaptan and periodontitis through the shared bacterial etiology and production of this compound."
+      },
+      "methyl mercaptan_oral_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses volatile sulfur compounds (VSCs) including methyl mercaptan as contributors to halitosis and notes that VSCs can be toxic to human cells. It also mentions that bacteria causing halitosis may influence the development of oral and digestive tract cancers. However, the abstract specifically identifies hydrogen sulfide and acetaldehyde as the malodorous agents responsible for carcinogenesis, without implicating methyl mercaptan directly in oral cancer development. Therefore, there is no clear evidence in the abstract linking methyl mercaptan to oral cancer."
+      }
+    },
+    {
+      "acetaldehyde_halitosis": {
+        "relationship": "Y",
+        "reason": "The abstract states that halitosis is caused by volatile compounds produced mainly by anaerobic bacteria, including aldehydes. Acetaldehyde, specifically, is mentioned as a malodorous agent responsible for carcinogenesis and is implied to be among the volatile compounds contributing to halitosis. Therefore, there is evidence of a relationship between acetaldehyde and halitosis."
+      },
+      "acetaldehyde_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that most bacteria responsible for halitosis, which produce compounds including acetaldehyde, are also responsible for periodontitis. Additionally, acetaldehyde is mentioned as a malodorous agent involved in carcinogenesis, indicating its biological activity in the oral environment. Therefore, there is evidence suggesting a relationship between acetaldehyde and periodontitis through the shared bacterial sources and their pathogenic effects."
+      },
+      "acetaldehyde_oral_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that malodorous agents responsible for carcinogenesis include hydrogen sulfide and acetaldehyde. It also mentions that bacteria causing halitosis can affect the development of oral and digestive tract cancers. Therefore, there is evidence in the abstract linking acetaldehyde to oral cancer through its role as a carcinogenic malodorous agent."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions volatile sulfur compounds (VSCs) including hydrogen sulfide, dimethyl sulfide, dimethyl disulfide, and methyl mercaptan as key odorous substances related to halitosis. Additionally, acetaldehyde is identified as a malodorous agent responsible for carcinogenesis. These are specific chemical compound names rather than general chemical classes."
+}

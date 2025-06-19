@@ -1,0 +1,41 @@
+{
+  "id": 4205,
+  "title": "Effect of Cigarette Smoke on Gut Microbiota: State of Knowledge",
+  "Abstract": "Cigarette smoke is a representative source of toxic chemical exposures to humans, and the adverse consequences of cigarette smoking are mediated by its effect on both neuronal and immune–inflammatory systems. Cigarette smoking also is a major risk factor for intestinal disorders, such as Crohn’s disease and peptic ulcer. On the other hand, cigarette smoking is protective against developing ulcerative colitis. The effects of cigarette smoking on intestinal disorders include changes in intestinal irrigation and microbiome, increases in permeability of the mucosa, and impaired mucosal immune responses. However, the underlying mechanism linking cigarette smoking with intestinal microbiota dysbiosis is largely unknown. In this communication, we first review the current knowledge about the mechanistic interaction between cigarette smoke and intestinal microbiota dysbiosis, which include the likely actions of nicotine, aldehydes, polycyclic aromatic hydrocarbons, heavy metals, volatile organic compounds and toxic gases, and then reveal the potential mechanisms of the lung–gut cross talk and skin-gut cross talk in regulating the balance of intestinal microbiota and the interrelation of intestinal microbiota dysbiosis and systemic disorders.",
+  "Disease_List": [
+    "Crohn’s disease",
+    "peptic ulcer",
+    "ulcerative colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'Crohn’s disease', 'peptic ulcer', and 'ulcerative colitis' when discussing the effects of cigarette smoking on intestinal disorders. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "peptic ulcer",
+    "ulcerative colitis"
+  ],
+  "UMLS_search_results": {
+    "Crohn’s disease": [],
+    "peptic ulcer": [
+      {
+        "ui": "C0030920",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030920",
+        "name": "Peptic Ulcer",
+        "mesh_id": "D010437"
+      }
+    ],
+    "ulcerative colitis": [
+      {
+        "ui": "C0009324",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009324",
+        "name": "Ulcerative Colitis",
+        "mesh_id": "D003093"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 4519,
+  "title": "Breath analysis for detection and trajectory monitoring of acute respiratory distress syndrome in swine",
+  "Abstract": "Despite the enormous impact on human health, acute respiratory distress syndrome (ARDS) is poorly defined, and its timely diagnosis is difficult, as is tracking the course of the syndrome. The objective of this pilot study was to explore the utility of breath collection and analysis methodologies to detect ARDS through changes in the volatile organic compound (VOC) profiles present in breath. Five male Yorkshire mix swine were studied and ARDS was induced using both direct and indirect lung injury. An automated portable gas chromatography device developed in-house was used for point of care breath analysis and to monitor swine breath hourly, starting from initiation of the experiment until the development of ARDS, which was adjudicated based on the Berlin criteria at the breath sampling points and confirmed by lung biopsy at the end of the experiment. A total of 67 breath samples (chromatograms) were collected and analysed. Through machine learning, principal component analysis and linear discrimination analysis, seven VOC biomarkers were identified that distinguished ARDS. These represent seven of the nine biomarkers found in our breath analysis study of human ARDS, corroborating our findings. We also demonstrated that breath analysis detects changes 1–6 h earlier than the clinical adjudication based on the Berlin criteria. The findings provide proof of concept that breath analysis can be used to identify early changes associated with ARDS pathogenesis in swine. Its clinical application could provide intensive care clinicians with a noninvasive diagnostic tool for early detection and continuous monitoring of ARDS. ARDS, confirmed by lung biopsy, was induced in swine, with breath monitored hourly. Seven VOC markers distinguish ARDS, which are the same as those in human ARDS and can predict ARDS onset ∼3 h earlier than clinical adjudication. https://bit.ly/3zIIIMQ",
+  "Disease_List": [
+    "acute respiratory distress syndrome",
+    "ARDS"
+  ],
+  "Reason": "The abstract explicitly mentions 'acute respiratory distress syndrome (ARDS)' multiple times as the specific disease being studied. The study focuses on detecting ARDS through breath analysis, and the term ARDS is used consistently as a defined disease entity.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "acute respiratory distress syndrome",
+    "ARDS"
+  ],
+  "UMLS_search_results": {
+    "acute respiratory distress syndrome": [
+      {
+        "ui": "C0035222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035222",
+        "name": "Respiratory Distress Syndrome, Adult",
+        "mesh_id": "D012128"
+      },
+      {
+        "ui": "C2887484",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2887484",
+        "name": "Respiratory Distress Syndrome, Acute",
+        "mesh_id": "D012128"
+      }
+    ],
+    "ARDS": [
+      {
+        "ui": "C0035222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035222",
+        "name": "Respiratory Distress Syndrome, Adult",
+        "mesh_id": "D012128"
+      },
+      {
+        "ui": "C2887484",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2887484",
+        "name": "Respiratory Distress Syndrome, Acute",
+        "mesh_id": "D012128"
+      },
+      {
+        "ui": "C0852283",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0852283",
+        "name": "Respiratory Distress Syndrome",
+        "mesh_id": "D012128"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) as biomarkers but does not specify any particular chemical compound names. Therefore, no specific chemical compounds can be identified from the provided text."
+}

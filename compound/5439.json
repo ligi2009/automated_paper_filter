@@ -1,0 +1,57 @@
+{
+  "id": 5439,
+  "title": "Non-Invasive Method of Human Exhaled Breath Analysis for Diabetes Detection Using Bidirectional Long-Short-Term Memory Algorithm",
+  "Abstract": "Volatile organic compounds (VOCs) have the potential to be used as biomarkers for pathophysiological and physical abnormalities associated with several disorders. A promising non-invasive metabolic monitoring method is the Analysis of VOCs in exhaled breath. It may also be used to monitor the development of certain diseases and their early detection. Diabetes is a metabolic disease and a complicated syndrome. The relationship between oxidative stress, inflammatory syndrome, hypertension, and diabetes is complicated. This study describes the creation of an Internet of Things (IoT) based breath analyzer to identify and track diseases using exhaled breath. Diabetic breath biomarkers and breath analysis are the main topics of discussion. A group of 25 diabetic patients and 15 non-diabetic individuals were tested using this system. Data is initially gathered using the wired module and the Cool Term software. The system is created for both wired and wireless devices. A deep learning algorithm analyses the disease characteristics after data collection. It clearly distinguishes between samples with diabetes and those without with 84% accuracy. This technology could detect a non-transmissible or transmissible disease early, preventing infection to others.",
+  "Disease_List": [
+    "Diabetes",
+    "hypertension"
+  ],
+  "Reason": "The abstract explicitly mentions 'Diabetes' multiple times as a specific metabolic disease and discusses diabetic breath biomarkers. It also mentions 'hypertension' in the context of its relationship with diabetes. These are specific disease names rather than general terms, so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Diabetes",
+    "hypertension"
+  ],
+  "UMLS_search_results": {
+    "Diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "hypertension": [
+      {
+        "ui": "C0020538",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020538",
+        "name": "Hypertensive disease",
+        "mesh_id": "D006973"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general and diabetic breath biomarkers but does not mention any specific chemical compound names."
+}

@@ -1,0 +1,212 @@
+{
+  "id": 2730,
+  "title": "Breath Fingerprint of Colorectal Cancer Patients Based on the Gas Chromatography–Mass Spectrometry Analysis",
+  "Abstract": "The human body emits a multitude of volatile organic compounds (VOCs) via tissues and various bodily fluids or exhaled breath. These compounds collectively create a distinctive chemical profile, which can potentially be employed to identify changes in human metabolism associated with colorectal cancer (CRC) and, consequently, facilitate the diagnosis of this disease. The main goal of this study was to investigate and characterize the VOCs’ chemical patterns associated with the breath of CRC patients and controls and identify potential expiratory markers of this disease. For this purpose, gas chromatography–mass spectrometry was applied. Collectively, 1656 distinct compounds were identified in the breath samples provided by 152 subjects. Twenty-two statistically significant VOCs (p-xylene; hexanal; 2-methyl-1,3-dioxolane; 2,2,4-trimethyl-1,3-pentanediol diisobutyrate; hexadecane; nonane; ethylbenzene; cyclohexanone; diethyl phthalate; 6-methyl-5-hepten-2-one; tetrahydro-2H-pyran-2-one; 2-butanone; benzaldehyde; dodecanal; benzothiazole; tetradecane; 1-dodecanol; 1-benzene; 3-methylcyclopentyl acetate; 1-nonene; toluene) were observed at higher concentrations in the exhaled breath of the CRC group. The elevated levels of these VOCs in CRC patients’ breath suggest the potential for these compounds to serve as biomarkers for CRC.",
+  "Disease_List": [
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer (CRC)' multiple times as the specific disease under investigation. The study focuses on identifying volatile organic compounds associated with colorectal cancer patients, making it a clear mention of a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "p-xylene",
+    "hexanal",
+    "2-methyl-1,3-dioxolane",
+    "2,2,4-trimethyl-1,3-pentanediol diisobutyrate",
+    "hexadecane",
+    "nonane",
+    "ethylbenzene",
+    "cyclohexanone",
+    "diethyl phthalate",
+    "6-methyl-5-hepten-2-one",
+    "tetrahydro-2H-pyran-2-one",
+    "2-butanone",
+    "benzaldehyde",
+    "dodecanal",
+    "benzothiazole",
+    "tetradecane",
+    "1-dodecanol",
+    "1-benzene",
+    "3-methylcyclopentyl acetate",
+    "1-nonene",
+    "toluene"
+  ],
+  "compound_CID": [
+    {
+      "p-xylene": 7809,
+      "hexanal": 6184,
+      "2-methyl-1,3-dioxolane": 10342,
+      "2,2,4-trimethyl-1,3-pentanediol diisobutyrate": 23284,
+      "hexadecane": 11006,
+      "nonane": 8141,
+      "ethylbenzene": 7500,
+      "cyclohexanone": 7967,
+      "diethyl phthalate": 6781,
+      "6-methyl-5-hepten-2-one": 9862,
+      "tetrahydro-2H-pyran-2-one": 10953,
+      "2-butanone": 6569,
+      "benzaldehyde": 240,
+      "dodecanal": 8194,
+      "benzothiazole": 7222,
+      "tetradecane": 12389,
+      "1-dodecanol": 8193,
+      "1-benzene": "None",
+      "3-methylcyclopentyl acetate": 57257535,
+      "1-nonene": 31285,
+      "toluene": 1140
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "p-xylene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that p-xylene is one of the 22 volatile organic compounds found at statistically significantly higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This elevation suggests a potential association between p-xylene levels and CRC, indicating that p-xylene may serve as a biomarker for the disease. Therefore, there is evidence of a relationship between p-xylene and colorectal cancer based on the chemical profiling of breath samples."
+      }
+    },
+    {
+      "hexanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that hexanal is one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between hexanal levels and CRC, indicating that hexanal may serve as a potential biomarker for the disease."
+      }
+    },
+    {
+      "2-methyl-1,3-dioxolane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-methyl-1,3-dioxolane was one of the 22 volatile organic compounds found at statistically significantly higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a potential association between 2-methyl-1,3-dioxolane and CRC, indicating it may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "2,2,4-trimethyl-1,3-pentanediol diisobutyrate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2,2,4-trimethyl-1,3-pentanediol diisobutyrate was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a potential association between this compound and CRC, indicating it may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "hexadecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that hexadecane was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between hexadecane levels and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "nonane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that nonane was one of the twenty-two volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between nonane levels and CRC, indicating that nonane may serve as a potential biomarker for the disease."
+      }
+    },
+    {
+      "ethylbenzene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that ethylbenzene was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between ethylbenzene levels and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "cyclohexanone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that cyclohexanone was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a potential association between cyclohexanone levels and CRC, indicating that cyclohexanone may serve as a biomarker for colorectal cancer. Therefore, there is evidence of a relationship between cyclohexanone and colorectal cancer based on the elevated presence of this compound in CRC patients."
+      }
+    },
+    {
+      "diethyl phthalate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that diethyl phthalate was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests an association between elevated diethyl phthalate levels and CRC, indicating its potential as a biomarker for the disease. Therefore, there is evidence of a relationship between diethyl phthalate and colorectal cancer based on the chemical profiling described."
+      }
+    },
+    {
+      "6-methyl-5-hepten-2-one_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 6-methyl-5-hepten-2-one was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a statistically significant association between elevated levels of 6-methyl-5-hepten-2-one and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "tetrahydro-2H-pyran-2-one_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that tetrahydro-2H-pyran-2-one was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between tetrahydro-2H-pyran-2-one and colorectal cancer, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "2-butanone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-butanone was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a statistically significant association between elevated 2-butanone levels and CRC, indicating that 2-butanone may serve as a potential biomarker for colorectal cancer."
+      }
+    },
+    {
+      "benzaldehyde_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that benzaldehyde was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a statistically significant association between elevated benzaldehyde levels and CRC, indicating that benzaldehyde may serve as a potential biomarker for colorectal cancer."
+      }
+    },
+    {
+      "dodecanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that dodecanal was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between dodecanal levels and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "benzothiazole_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that benzothiazole was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between benzothiazole and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "tetradecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that tetradecane is one of the twenty-two volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between tetradecane levels and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "1-dodecanol_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1-dodecanol was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a potential association between 1-dodecanol levels and CRC, indicating that 1-dodecanol could serve as a biomarker for the disease."
+      }
+    },
+    {
+      "1-benzene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1-benzene was among the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between 1-benzene and colorectal cancer, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "3-methylcyclopentyl acetate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 3-methylcyclopentyl acetate was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests a statistically significant association between elevated levels of 3-methylcyclopentyl acetate and CRC, indicating its potential role as a biomarker for the disease. Therefore, there is evidence of a relationship between 3-methylcyclopentyl acetate and colorectal cancer based on the chemical profiling described."
+      }
+    },
+    {
+      "1-nonene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1-nonene was among the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This statistically significant elevation suggests a relationship between 1-nonene and CRC, indicating its potential as a biomarker for the disease."
+      }
+    },
+    {
+      "toluene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that toluene was one of the 22 volatile organic compounds found at higher concentrations in the exhaled breath of colorectal cancer (CRC) patients compared to controls. This suggests an association between elevated toluene levels and CRC, indicating that toluene may serve as a potential biomarker for the disease. Therefore, there is evidence of a relationship between toluene and colorectal cancer based on the chemical profiling of patient breath samples."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically lists 22 volatile organic compounds (VOCs) identified in breath samples from colorectal cancer patients, naming each chemical compound explicitly. These are specific chemical substances rather than general terms, making them relevant for identification."
+}

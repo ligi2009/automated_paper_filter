@@ -1,0 +1,41 @@
+{
+  "id": 348,
+  "title": "Isoprene and its Overall Impacts: Review",
+  "Abstract": "A clean environment is a suitable medium for providing requirements that sustain the organisms living therein. Hence, it is a ‘natural-store house’ to receive and provide the metabolic needs of the biotic and abiotic systems. It also accomplishes the crucial geochemical cycles that maintain their appropriate balance. The metabolites may be quantitatively and qualitatively meagre but cause good and bad impacts. The organisms also contribute to these metabolites. The anthropogenic interference a prime causes of environmental disturbances and renders the environment unsuitable. Isoprene is one of the biogenic and abiogenic volatile organic compounds prominently present in the lower troposphere. Normally, this volatile compound interacts with ozone, hydroxyl and oxides of nitrogen and causes depletion of ozone. Trees that combat unfavorable fluctuations in environmental parameters like high winds, tornadoes, extreme temperature, drought (a complex impact), flood, wild fires, and deficiency of nutrition, experience the influence of isoprene. Mostly the developing countries encounter poor air quality that contains particulate matter, pollutants resulting in respiratory illness, cardiovascular and cancerous ailments. The presence of volatile organic components in human exhaled air indicates their metabolic or the ambient environmental origin. The endogenous organic volatile compounds present in human breath are the biomarkers for the pathophysiological conditions and are of clinical and biomedical significance, specifically during non-invasive estimations. Although, isoprene has attracted researchers but its pathophysiological impacts need more investigations, hence, this presentation to evaluate the effects of isoprene in biosphere.",
+  "Disease_List": [
+    "respiratory illness",
+    "cardiovascular ailments",
+    "cancerous ailments"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease categories such as 'respiratory illness', 'cardiovascular ailments', and 'cancerous ailments'. These are specific disease-related terms rather than general references to disease or health conditions. Therefore, the classification is 'Y' with these diseases listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "respiratory illness"
+  ],
+  "UMLS_search_results": {
+    "respiratory illness": [],
+    "cardiovascular ailments": [],
+    "cancerous ailments": []
+  },
+  "MRCONSO_search_results": {
+    "respiratory illness": [
+      "Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)",
+      "Encourage to avoid smoke, pollutants, and persons with respiratory illnesses"
+    ],
+    "cardiovascular ailments": [],
+    "cancerous ailments": []
+  },
+  "MRCONSO_UMLS_results": {
+    "respiratory illness_via_Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)": [
+      {
+        "ui": "C5915031",
+        "rootSource": "NIC",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5915031",
+        "name": "Determine presence of risk factors for contagion (e.g., age, disabled, low socioeconomic class, crowded housing with poor ventilation, respiratory illness) or increased mortality (e.g., comorbidities, chronic respiratory disease, elderly)",
+        "mesh_id": "None"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": 16,
+  "title": "Indoor environmental quality evaluation in a hot and arid climate: a case study of a higher education office building",
+  "Abstract": "Indoor Environment Quality (IEQ) refers to the overall environmental quality within a building, especially as it relates to the health and comfort of the building’s occupants. It includes several factors such as lighting levels and indoor air quality (IAQ). As humans spend a significant amount of time indoors; particularly at the workplace for up to 12 hours a day, the IEQ of the office greatly affects one’s overall well-being, health with striking effects on productivity. As for IAQ, in severe cases, high levels of carbon dioxide (CO2), particulate matter (PM), and humidity may cause headache, allergy, and asthma. A higher education (HE) office building located in United Arab Emirates University (UAEU) campus has been taken as a case study. Situated in the UAE, this is characterized by an extremely hot-arid climate. The HE building has been monitored using a set of advanced sensor devices to record indoor environmental data such as the measurements of temperature, relative humidity, lux level, particulate matter 2.5/10(PM 2.5/ 10), carbon dioxide (CO2), and total volatile organic compounds (TVOCs). Results of this paper aim to use the onsite numerical assessment and future POE assessment to verify the building’s performance and discover where the operational gaps are. Better facility management strategies will be suggested to enhance the indoor environmental quality (IEQ) as well as more findings will be discussed in this paper.",
+  "Disease_List": [
+    "allergy",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'allergy' and 'asthma' as health effects related to poor indoor air quality (IAQ). These are specific disease names, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "allergy",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "allergy": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C0002111",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002111",
+        "name": "Allergy Specialty",
+        "mesh_id": "D000486"
+      },
+      {
+        "ui": "C0489531",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0489531",
+        "name": "History of allergies",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1314973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1314973",
+        "name": "Response to antigens",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3539909",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3539909",
+        "name": "Allergic disposition",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1527304",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1527304",
+        "name": "Allergic Reaction",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1547542",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547542",
+        "name": "Allergy - Charge Type Reason",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

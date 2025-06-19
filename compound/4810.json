@@ -1,0 +1,117 @@
+{
+  "id": 4810,
+  "title": "Application of Fecal Volatile Organic Compound Analysis in Clinical Practice: Current State and Future Perspectives",
+  "Abstract": "Increasing interest is noticed in the potential of volatile organic compound (VOC) analysis as non-invasive diagnostic biomarker in clinical medical practice. The spectrum of VOCs, originating from (patho)physiological metabolic processes in the human body and detectable in bodily excrements, such as exhaled breath, urine and feces, harbors a magnificent source of information. Thus far, the majority of studies have focused on VOC analysis in exhaled breath, aiming at identification of disease-specific VOC profiles. Recently, an increasing number of studies have evaluated the usability of VOC present in the headspace of feces in the diagnostic work-up of a wide range of gastrointestinal diseases. Promising results have been demonstrated particularly in those diseases in which microbiota alterations are considered to play a significant etiological role, such as colorectal carcinoma, inflammatory bowel disease, irritable bowel syndrome, celiac disease and infectious bowel diseases. In addition, fecal VOC analysis seems to have potential as a diagnostic biomarker for extra-intestinal diseases, including bronchopulmonary dysplasia and sepsis. Different methods for VOC analysis have been used in medical studies, such as gas-chromatography mass spectrometry, selected-ion flow tube-mass spectrometry, ion-mobility spectrometry, and electronic nose devices. In this review, the available literature on the potential of fecal VOCs as diagnostic biomarker, including an overview of relevant VOC detection techniques, is discussed. In addition, future hurdles, which need to be taken prior to implementation of VOC analysis in daily clinical practice, are outlined.",
+  "Disease_List": [
+    "colorectal carcinoma",
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "celiac disease",
+    "infectious bowel diseases",
+    "bronchopulmonary dysplasia",
+    "sepsis"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases by name, including colorectal carcinoma, inflammatory bowel disease, irritable bowel syndrome, celiac disease, infectious bowel diseases, bronchopulmonary dysplasia, and sepsis. These are all specific disease names rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal carcinoma",
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "celiac disease",
+    "bronchopulmonary dysplasia",
+    "sepsis"
+  ],
+  "UMLS_search_results": {
+    "colorectal carcinoma": [
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "irritable bowel syndrome": [
+      {
+        "ui": "C0022104",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022104",
+        "name": "Irritable Bowel Syndrome",
+        "mesh_id": "D043183"
+      }
+    ],
+    "celiac disease": [
+      {
+        "ui": "C1332802",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1332802",
+        "name": "CTLA4 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0007570",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007570",
+        "name": "Celiac Disease",
+        "mesh_id": "D002446"
+      }
+    ],
+    "infectious bowel diseases": [],
+    "bronchopulmonary dysplasia": [
+      {
+        "ui": "C0495402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0495402",
+        "name": "Bronchopulmonary dysplasia of newborn",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0006287",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006287",
+        "name": "Bronchopulmonary Dysplasia",
+        "mesh_id": "D001997"
+      }
+    ],
+    "sepsis": [
+      {
+        "ui": "C0036690",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036690",
+        "name": "Septicemia",
+        "mesh_id": "D018805"
+      },
+      {
+        "ui": "C0243026",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0243026",
+        "name": "Sepsis",
+        "mesh_id": "D018805"
+      },
+      {
+        "ui": "C1090821",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1090821",
+        "name": "Sepsis <Sepsidae>",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms without mentioning any specific chemical compound names."
+}

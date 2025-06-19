@@ -1,0 +1,37 @@
+{
+  "id": 2618,
+  "title": "Using Canine Olfaction to Detect Bovine Respiratory Disease: A Pilot Study",
+  "Abstract": "Bovine respiratory disease (BRD) is the leading cause of morbidity and mortality in feedlot cattle and is a major welfare and economic concern. Identification of BRD-affected cattle using clinical illness scores is problematic, and speed and cost constraints limit the feasibility of many diagnostic approaches. Dogs can rapidly identify humans and animals affected by a variety of diseases based on scent. Canines' olfactory systems can distinguish between patterns of volatile organic compounds produced by diseased and healthy tissue. In this pilot study, two dogs (“Runnels” and “Cheaps”) were trained for 7 months to discriminate between nasal swabs from cattle that developed signs of BRD within 20 days of feedlot arrival and swabs from cattle that did not develop BRD signs within 3 months at the feedlot. Nasal swabs were collected during cattle processing upon arrival to the feedlot and were stored at −80°C. Dogs were presented with sets of one positive and two negative samples and were trained using positive reinforcement to hold their noses over the positive sample. The dogs performed moderately well in the final stage of training, with accuracy for Runnels of 0.817 and Cheaps of 0.647, both greater than the 0.333 expected by chance. During a double-blind detection test, dogs evaluated 123 unique and unfamiliar samples that were presented as 41 sets (3 samples per set), with both the dog handler and data recorder blinded to the positive sample location. Each dog was tested twice on each set of samples. Detection test accuracy was slightly better than chance for Cheaps at 0.451 (95% CI: 0.344–0.559) and was no better than chance for Runnels at 0.390 (95% CI: 0.285–0.496. Overall accuracy was 0.421 (95% CI: 0.345–0.496). When dogs' consensus response on each sample set was considered, accuracy was 0.537 (95% CI: 0.384–0.689). Detection accuracy also varied by sample lot. While dogs showed some ability to discriminate between BRD-affected and healthy cattle using nasal swabs, the complexity of this task suggests that more testing is needed before determining whether dogs could be effective as a screening method for BRD.",
+  "Disease_List": [
+    "Bovine respiratory disease (BRD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Bovine respiratory disease (BRD)' multiple times as the specific disease being studied. This is a clearly named disease affecting feedlot cattle, making the classification 'Y' appropriate.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Bovine respiratory disease (BRD)"
+  ],
+  "UMLS_search_results": {
+    "Bovine respiratory disease (BRD)": []
+  },
+  "MRCONSO_search_results": {
+    "Bovine respiratory disease (BRD)": [
+      "Complex, Bovine Respiratory Disease",
+      "Bovine Respiratory Disease Complex",
+      "Bovine respiratory disease complex",
+      "Bovine respiratory disease complex (disorder)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Bovine respiratory disease (BRD)_via_Complex, Bovine Respiratory Disease": [
+      {
+        "ui": "C1449809",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1449809",
+        "name": "Bovine Respiratory Disease Complex",
+        "mesh_id": "D048090"
+      }
+    ]
+  }
+}

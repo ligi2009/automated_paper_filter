@@ -1,0 +1,50 @@
+{
+  "id": 4680,
+  "title": "Blood Ketone Bodies and Breath Acetone Analysis and Their Correlations in Type 2 Diabetes Mellitus",
+  "Abstract": "Analysis of volatile organic compounds in the breath for disease detection and monitoring has gained momentum and clinical significance due to its rapid test results and non-invasiveness, especially for diabetes mellitus (DM). Studies have suggested that breath gases, including acetone, may be related to simultaneous blood glucose (BG) and blood ketone levels in adults with types 2 and 1 diabetes. Detecting altered concentrations of ketones in the breath, blood and urine may be crucial for the diagnosis and monitoring of diabetes mellitus. This study assesses the efficacy of a simple breath test as a non-invasive means of diabetes monitoring in adults with type 2 diabetes mellitus. Human breath samples were collected in Tedlar™ bags and analyzed by headspace solid-phase microextraction and gas chromatography-mass spectrometry (HS-SPME/GC-MS). The measurements were compared with capillary BG and blood ketone levels (β-hydroxybutyrate and acetoacetate) taken at the same time on a single visit to a routine hospital clinic in 30 subjects with type 2 diabetes and 28 control volunteers. Ketone bodies of diabetic subjects showed a significant increase when compared to the control subjects; however, the ketone levels were was controlled in both diabetic and non-diabetic volunteers. Worthy of note, a statistically significant relationship was found between breath acetone and blood acetoacetate (R = 0.89) and between breath acetone and β-hydroxybutyrate (R = 0.82).",
+  "Disease_List": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'diabetes mellitus', 'type 1 diabetes', and 'type 2 diabetes'. These are clearly named diseases rather than general terms like 'disease' or 'illness'. The study focuses on monitoring and diagnosis related to these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "type 1 diabetes": [
+      {
+        "ui": "C0011854",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011854",
+        "name": "Diabetes Mellitus, Insulin-Dependent",
+        "mesh_id": "D003922"
+      }
+    ],
+    "type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

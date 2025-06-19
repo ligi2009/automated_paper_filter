@@ -1,0 +1,20 @@
+{
+  "id": 3448,
+  "title": "Impact of plant-based natural extracts on pollutants and pathogens in the air",
+  "Abstract": "Introduction: Air pollutants result in a number of health problems. These health setbacks may range from minor respiratory troubles to chronic effects on human health like asthmatic attacks. A product has been developed consisting of plant-based active nano extracts which is a simple, safe and effective solution to poor air quality by reducing pollutants and pathogens in the air. The aim of this paper is to study the impact of this product (in the form of the liquid solution - referred as ‘spray’) in improving the indoor air quality by reducing the PM, HCHO, and TVOC (Total Volatile Organic Compound) and pathogens. Materials and methods: The study was conducted in three phases in indoor environments in India. Phase1 was conducted in a controlled environment in a laboratory to study the impact of spray on air pathogens. Phase2 was conducted indoors in multi-scenario simulations, and Phase3 was done in a school principal room with reception area. Results: The study conducted in three phases supports the effectiveness of the spray to reduce air pathogens and the air pollutants viz., PM2.5, PM10, HCHO, and TVOC in indoor air environments. Conclusion: The spray will be an effective, safe, environment friendly and economical solution to reduce indoor air pollution to safe guard human health. ",
+  "Disease_List": [
+    "asthmatic attacks"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatic attacks' as a specific health condition related to air pollutants. Although it also refers to general health problems and respiratory troubles, 'asthmatic attacks' is a specific disease-related term, justifying a 'Y' classification.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "asthmatic attacks": []
+  },
+  "MRCONSO_search_results": {
+    "asthmatic attacks": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

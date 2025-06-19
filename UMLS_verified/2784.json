@@ -1,0 +1,28 @@
+{
+  "id": 2784,
+  "title": "Significance of Exhaled Breath Test in Clinical Diagnosis: A Special Focus on the Detection of Diabetes Mellitus",
+  "Abstract": "Analysis of volatile organic compounds (VOCs) emanating from human exhaled breath can provide deep insight into the status of various biochemical processes in the human body. VOCs can serve as potential biomarkers of physiological and pathophysiological conditions related to several diseases. Breath VOC analysis, a noninvasive and quick biomonitoring approach, also has potential for the early detection and progress monitoring of several diseases. This paper gives an overview of the major VOCs present in human exhaled breath, possible biochemical pathways of breath VOC generation, diagnostic importance of their analysis, and analytical techniques used in the breath test. Breath analysis relating to diabetes mellitus and its characteristic breath biomarkers is focused on. Finally, some challenges and limitations of the breath test are discussed.",
+  "Disease_List": [
+    "diabetes mellitus"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes mellitus' as a specific disease in the context of breath analysis and its characteristic breath biomarkers. Although it refers to 'several diseases' in general terms, only diabetes mellitus is specifically named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

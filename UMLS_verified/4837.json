@@ -1,0 +1,86 @@
+{
+  "id": 4837,
+  "title": "Volatile organic compounds: A proinflammatory activator in autoimmune diseases",
+  "Abstract": "The etiopathogenesis of inflammatory and autoimmune diseases, including pulmonary disease, atherosclerosis, and rheumatoid arthritis, has been linked to human exposure to volatile organic compounds (VOC) present in the environment. Chronic inflammation due to immune breakdown and malfunctioning of the immune system has been projected to play a major role in the initiation and progression of autoimmune disorders. Macrophages, major phagocytes involved in the regulation of chronic inflammation, are a major target of VOC. Excessive and prolonged activation of immune cells (T and B lymphocytes) and overexpression of the master pro-inflammatory constituents [cytokine and tumor necrosis factor-alpha, together with other mediators (interleukin-6, interleukin-1, and interferon-gamma)] have been shown to play a central role in the pathogenesis of autoimmune inflammatory responses. The function and efficiency of the immune system resulting in immunostimulation and immunosuppression are a result of exogenous and endogenous factors. An autoimmune disorder is a by-product of the overproduction of these inflammatory mediators. Additionally, an excess of these toxicants helps in promoting autoimmunity through alterations in DNA methylation in CD4 T cells. The purpose of this review is to shed light on the possible role of VOC exposure in the onset and progression of autoimmune diseases.",
+  "Disease_List": [
+    "pulmonary disease",
+    "atherosclerosis",
+    "rheumatoid arthritis",
+    "autoimmune disorders",
+    "autoimmune diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'pulmonary disease', 'atherosclerosis', and 'rheumatoid arthritis'. It also refers to 'autoimmune disorders' and 'autoimmune diseases', which are categories of diseases but are commonly accepted as specific disease classifications in medical contexts. Therefore, the classification is 'Y' with these diseases listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pulmonary disease",
+    "atherosclerosis",
+    "rheumatoid arthritis",
+    "autoimmune disorders",
+    "autoimmune diseases"
+  ],
+  "UMLS_search_results": {
+    "pulmonary disease": [
+      {
+        "ui": "C0024115",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024115",
+        "name": "Lung diseases",
+        "mesh_id": "D008171"
+      },
+      {
+        "ui": "C0455540",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0455540",
+        "name": "History of - respiratory disease",
+        "mesh_id": "None"
+      }
+    ],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ],
+    "rheumatoid arthritis": [
+      {
+        "ui": "C0003873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003873",
+        "name": "Rheumatoid Arthritis",
+        "mesh_id": "D001172"
+      }
+    ],
+    "autoimmune disorders": [
+      {
+        "ui": "C0004364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004364",
+        "name": "Autoimmune Diseases",
+        "mesh_id": "D001327"
+      }
+    ],
+    "autoimmune diseases": [
+      {
+        "ui": "C0004364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004364",
+        "name": "Autoimmune Diseases",
+        "mesh_id": "D001327"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

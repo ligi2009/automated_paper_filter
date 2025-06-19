@@ -1,0 +1,53 @@
+{
+  "id": 5003,
+  "title": "Long-term ambient hydrocarbons exposure and incidence of ischemic stroke",
+  "Abstract": "Exposure to air pollutants is known to have adverse effects on human health; however, little is known about the association between hydrocarbons in air and an ischemic stroke (IS) event. We investigated whether long-term exposure to airborne hydrocarbons, including volatile organic compounds, increased IS risk. This retrospective cohort study included 283,666 people aged 40 years or older in Taiwan. Cox proportional hazards regression analysis was used to fit single- and multiple-pollutant models for two targeted pollutants, total hydrocarbons (THC) and nonmethane hydrocarbons (NMHC), and estimated the risk of IS. Before controlling for multiple pollutants, hazard ratios (HRs) of IS with 95% confidence intervals for the overall population were 2.69 (2.64–2.74) at 0.16-ppm increase in THC and 1.62 (1.59–1.66) at 0.11-ppm increase in NMHC. For the multiple-pollutant models controlling for PM2.5, the adjusted HR was 3.64 (3.56–3.72) for THC and 2.21 (2.16–2.26) for NMHC. Our findings suggest that long-term exposure to THC and NMHC may be a risk factor for IS development.",
+  "Disease_List": [
+    "ischemic stroke"
+  ],
+  "Reason": "The abstract explicitly mentions 'ischemic stroke (IS)' as a specific disease. The study investigates the association between exposure to airborne hydrocarbons and the risk of ischemic stroke, clearly identifying it as a disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "ischemic stroke"
+  ],
+  "UMLS_search_results": {
+    "ischemic stroke": [
+      {
+        "ui": "C0948008",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0948008",
+        "name": "Ischemic stroke",
+        "mesh_id": "D000083242"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "total hydrocarbons (THC)",
+    "nonmethane hydrocarbons (NMHC)"
+  ],
+  "compound_CID": [
+    {
+      "total hydrocarbons (THC)": "None",
+      "nonmethane hydrocarbons (NMHC)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "total hydrocarbons (THC)_ischemic_stroke": {
+        "relationship": "Y",
+        "reason": "The abstract presents evidence from a large retrospective cohort study involving 283,666 individuals aged 40 years or older, showing that long-term exposure to total hydrocarbons (THC) is associated with an increased risk of ischemic stroke (IS). The hazard ratios (HRs) indicate a significant positive association: an HR of 2.69 before controlling for multiple pollutants and an even higher adjusted HR of 3.64 after controlling for PM2.5, both with narrow confidence intervals, suggesting a strong and statistically significant relationship. Therefore, the data support that exposure to THC is a risk factor for IS development."
+      }
+    },
+    {
+      "nonmethane hydrocarbons (NMHC)_ischemic_stroke": {
+        "relationship": "Y",
+        "reason": "The abstract reports a retrospective cohort study involving 283,666 individuals, which investigated the association between long-term exposure to airborne hydrocarbons, including nonmethane hydrocarbons (NMHC), and ischemic stroke (IS) risk. The study found that before controlling for multiple pollutants, the hazard ratio (HR) for IS was 1.62 (95% CI: 1.59–1.66) per 0.11-ppm increase in NMHC. After adjusting for PM2.5 and other pollutants, the HR increased to 2.21 (95% CI: 2.16–2.26). These statistically significant elevated HRs indicate that long-term exposure to NMHC is associated with an increased risk of ischemic stroke, supporting a clear relationship between NMHC exposure and IS development."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions total hydrocarbons (THC) and nonmethane hydrocarbons (NMHC) as targeted pollutants studied for their association with ischemic stroke risk. These are specific chemical groups analyzed in the study."
+}

@@ -1,0 +1,35 @@
+{
+  "id": 208,
+  "title": "Canine-Inspired Chemometric Analysis of Volatile Organic Compounds in Urine Headspace to Distinguish Prostate Cancer in Mice and Men",
+  "Abstract": "Simple Summary Volatile organic compounds (VOCs) in urine headspace have been previously shown to be potential biomarkers for prostate cancer. The aim of the current study is to further evaluate urinary VOCs as biomarkers in humans, assess their ability to stratify aggressive tumors, and compare them to the results of murine models of induced prostate cancer. Chemometric analyses were implemented and showed that VOCs in mouse urine were highly dysregulated by prostate cancer and could perfectly distinguish tumor-bearing mice. VOCs in human urine could not only classify any type of prostate cancer with moderate accuracy but could separate aggressive grades with higher sensitivity and specificity. Lastly, there was an overlap in VOC structure and functionality between the mouse and human urine analyses which shows the merit of utilizing murine models for identifying candidate VOC biomarkers for cancer. Abstract Canines can identify prostate cancer with high accuracy by smelling volatile organic compounds (VOCs) in urine. Previous studies have identified VOC biomarkers for prostate cancer utilizing solid phase microextraction (SPME) gas chromatography–mass spectrometry (GC-MS) but have not assessed the ability of VOCs to distinguish aggressive cancers. Additionally, previous investigations have utilized murine models to identify biomarkers but have not determined if the results are translatable to humans. To address these challenges, urine was collected from mice with prostate cancer and men undergoing prostate cancer biopsy and VOCs were analyzed by SPME GC-MS. Prior to analysis, SPME fibers/arrows were compared, and the fibers had enhanced sensitivity toward VOCs with a low molecular weight. The analysis of mouse urine demonstrated that VOCs could distinguish tumor-bearing mice with 100% accuracy. Linear discriminant analysis of six VOCs in human urine distinguished prostate cancer with sensitivity = 75% and specificity = 69%. Another panel of seven VOCs could classify aggressive cancer with sensitivity = 78% and specificity = 85%. These results show that VOCs have moderate accuracy in detecting prostate cancer and a superior ability to stratify aggressive tumors. Furthermore, the overlap in the structure of VOCs identified in humans and mice shows the merit of murine models for identifying biomarker candidates.",
+  "Disease_List": [
+    "prostate cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'prostate cancer' multiple times as the specific disease being studied. It discusses the use of volatile organic compounds (VOCs) in urine as biomarkers for prostate cancer detection and stratification of aggressive tumors. Since 'prostate cancer' is a specific disease name clearly identified in the text, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "prostate cancer"
+  ],
+  "UMLS_search_results": {
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

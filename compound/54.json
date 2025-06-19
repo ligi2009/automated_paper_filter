@@ -1,0 +1,71 @@
+{
+  "id": 54,
+  "title": "Headache symptoms and indoor environmental parameters: Results from the EPA BASE study",
+  "Abstract": "Objective: The objective of this investigation was to determine the prevalence of migraine and headache symptoms in a national sample of US office employees. Also, we explored the association of headache symptoms with indoor environmental parameters of the work place. Background: Sick building syndrome (SBS), which includes headache, is a common global phenomenon, but the underlying environmental cause is uncertain. Materials and Methods: We used data from the 1994–1998 US Environmental Protection Agency's (EPA) Building Assessment and Survey Evaluation, a cross-sectional study of workers employed in 100 public and private office buildings across 25 states. The study used a self-administered questionnaire to assess headache frequency and prevalence of self-reported physician-diagnosed (SRPD) migraine. Indoor environmental parameters (IEP) were collected per EPA protocol from each building over a 1-week period and included carbon dioxide, carbon monoxide, temperature, relative humidity, particulate matter, volatile organic compound, illuminance, and sound level. The standards of American Society of Heating, Refrigerating and Air Conditioning Engineers were used to categorize IEP as either within- or out-of-comfort range for human dwelling. These limits delineate whether a parameter value is safe for human dwelling. Out-of-comfort range IEPs are associated with SBS and other human diseases. SRPD migraine and headache frequency were the primary outcome measures of the study. Multivariate logistic regression analyses were employed for the purpose of assessing the association between the outcome variable and IEPs. Results: Of the 4326 participants, 66% were females and 60% were between 30 and 49 years. Headache frequency during the last 4 weeks was as follows: None in 31%, 1–3 days in 38%, 1–3 days per week in 18%, and every or almost every workday in 8%. Females had higher SRPD migraine prevalence compared to males (27% vs. 11%, P<0.001) and were more likely to report any headache in the last month compared to males (75% vs. 53%, P<0.001). Odds of SRPD migraine were higher (P<0.05) for those exposed to IEP out-of-comfort range, and odds of exposure to out-of-comfort range IEPs were higher in groups who reported higher headache frequencies. Conclusions: Migraine diagnosis and elevated headache frequency are associated with an uncomfortable indoor environment. Periodic assessments and adjustments of IEP may have a beneficial impact on employees who are vulnerable to SBS.",
+  "Disease_List": [
+    "migraine",
+    "sick building syndrome (SBS)"
+  ],
+  "Reason": "The abstract explicitly mentions 'migraine' as a specific disease, including 'self-reported physician-diagnosed (SRPD) migraine' and its prevalence. It also mentions 'sick building syndrome (SBS)', which is a recognized condition associated with environmental factors and symptoms including headache. Therefore, specific disease names are explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "migraine"
+  ],
+  "UMLS_search_results": {
+    "migraine": [
+      {
+        "ui": "C0149931",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149931",
+        "name": "Migraine Disorders",
+        "mesh_id": "D008881"
+      }
+    ],
+    "sick building syndrome (SBS)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon dioxide",
+    "carbon monoxide",
+    "particulate matter",
+    "volatile organic compound"
+  ],
+  "compound_CID": [
+    {
+      "carbon dioxide": 280,
+      "carbon monoxide": 281,
+      "particulate matter": "None",
+      "volatile organic compound": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon dioxide_migraine": {
+        "relationship": "Y",
+        "reason": "The abstract reports that migraine diagnosis and elevated headache frequency are associated with indoor environmental parameters (IEPs) that are out-of-comfort range. Carbon dioxide is one of the IEPs measured in the study. The results indicate that odds of self-reported physician-diagnosed migraine were higher for those exposed to IEPs out-of-comfort range, which includes carbon dioxide levels. Therefore, there is evidence of a relationship between carbon dioxide exposure in indoor environments and migraine prevalence."
+      }
+    },
+    {
+      "carbon monoxide_migraine": {
+        "relationship": "N",
+        "reason": "The abstract investigates the association between indoor environmental parameters (IEPs), including carbon monoxide, and migraine prevalence among office employees. While it reports that migraine diagnosis and headache frequency are associated with IEPs being out-of-comfort range, it does not specify a direct or significant relationship between carbon monoxide levels specifically and migraine. The analysis considers multiple IEPs collectively, and no clear evidence is provided that carbon monoxide alone is linked to migraine in this study."
+      }
+    },
+    {
+      "particulate matter_migraine": {
+        "relationship": "Y",
+        "reason": "The abstract reports that exposure to indoor environmental parameters (IEP) out of the comfort range, which includes particulate matter, is associated with higher odds of self-reported physician-diagnosed migraine. The study found that migraine diagnosis and elevated headache frequency correlate with uncomfortable indoor environments, and particulate matter was one of the measured IEPs. Therefore, there is evidence suggesting a relationship between particulate matter exposure and migraine prevalence."
+      }
+    },
+    {
+      "volatile organic compound_migraine": {
+        "relationship": "Y",
+        "reason": "The abstract reports that migraine diagnosis and elevated headache frequency are associated with an uncomfortable indoor environment, which includes indoor environmental parameters such as volatile organic compounds (VOCs). The study found that odds of self-reported physician-diagnosed migraine were higher for those exposed to indoor environmental parameters out of the comfort range, which includes VOC levels. Therefore, there is evidence of a relationship between exposure to volatile organic compounds and migraine prevalence."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances measured as indoor environmental parameters, including carbon dioxide, carbon monoxide, particulate matter, and volatile organic compounds. These are specific chemical compounds or classes of compounds relevant to the study, whereas general terms like 'chemicals' or 'compounds' are not present."
+}

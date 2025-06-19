@@ -1,0 +1,242 @@
+{
+  "id": 1079,
+  "title": "Air Pollution, Modeling and GIS based Decision Support Systems for Air Quality Risk Assessment",
+  "Abstract": "Air Pollution is a state of the atmosphere with predominant presence of hazardous substances that are harmful to humans and animals. The air-borne pollutants degrade the air quality and constant exposure to polluted air may lead to several health problems such as cardiopulmonary disease, bronchitis, asthma, wheezing and coughing etc. Average composition of the atmosphere below 25 km indicates that nitrogen, oxygen, water vapor, carbon dioxide, methane, nitrous oxide, and ozone are the major constituents and their balance is important to the maintenance of the Earth's biosphere. An imbalance of these constituents for a considerable long time may lead to serious implications of air quality and weather and climate. The pollutants are categorized as primary and secondary, primary pollutants are directly emitted from a source and secondary pollutants result from reaction of primary pollutants in the atmosphere. The primary pollutants are the ash from volcanoes, carbon monoxide and sulfur dioxide emissions from vehicles and factories and combustion of fossil fuels etc whereas secondary pollutants are tropospheric ozone resulting from photolysis of nitrogen oxides and hydrocarbons in the presence of sunlight and smog from a mixture of smoke and sulfur dioxide. The sources of air pollution are classified as natural and anthropogenic. Volcanoes, forest fires and biological decay providing sulfur dioxide and nitrogen oxides, large barren lands providing dust, vegetation producing volatile organic compounds come under natural sources whereas anthropogenic sources are categorized as mobile and stationary sources. Different forms of transportation such as automobiles, trucks, and airplanes come under mobile sources whereas power plants and industrial facilities are the stationary sources. Stationary sources are further classified as point and area sources, wherein a point source refers to a fixed source such as a smokestack or storage tank that emits the pollutant and an area source refers to several small sources affecting the air quality in a region such as dry cleaners, gas stations, auto body paint shops and a community of homes using woodstoves for heating. Air pollutants are also categorized as ‘criteria’ and ‘hazardous’, where the criteria pollutants refer to the commonly",
+  "Disease_List": [
+    "cardiopulmonary disease",
+    "bronchitis",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'cardiopulmonary disease', 'bronchitis', and 'asthma' as health problems caused by exposure to air pollution. These are named diseases rather than general terms like 'disease' or 'illness', so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiopulmonary disease",
+    "bronchitis",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "cardiopulmonary disease": [
+      {
+        "ui": "C0034072",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034072",
+        "name": "Cor pulmonale",
+        "mesh_id": "D011660"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nitrogen",
+    "oxygen",
+    "water vapor",
+    "carbon dioxide",
+    "methane",
+    "nitrous oxide",
+    "ozone",
+    "carbon monoxide",
+    "sulfur dioxide",
+    "nitrogen oxides",
+    "volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "nitrogen": 947,
+      "oxygen": 977,
+      "water vapor": 962,
+      "carbon dioxide": 280,
+      "methane": 297,
+      "nitrous oxide": 948,
+      "ozone": 24823,
+      "carbon monoxide": 281,
+      "sulfur dioxide": 1119,
+      "nitrogen oxides": "None",
+      "volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nitrogen_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, including cardiopulmonary disease. It mentions nitrogen as a major atmospheric constituent essential for maintaining the Earth's biosphere balance. However, it does not indicate that nitrogen itself is a pollutant or directly linked to cardiopulmonary disease. Instead, it highlights nitrogen oxides (NOx), which are different chemical compounds derived from nitrogen, as contributors to secondary pollutants like tropospheric ozone and smog, which can affect health. Therefore, there is no clear evidence in the abstract that elemental nitrogen is related to cardiopulmonary disease."
+      },
+      "nitrogen_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes nitrogen oxides as pollutants, is associated with health problems such as bronchitis. Nitrogen itself is a major atmospheric constituent, but the harmful compounds related to nitrogen, specifically nitrogen oxides, are mentioned as contributors to air pollution. This pollution can lead to respiratory diseases including bronchitis. Therefore, there is evidence of a relationship between nitrogen-related compounds (nitrogen oxides) and bronchitis as part of the broader impact of air pollution on respiratory health."
+      },
+      "nitrogen_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning asthma as one of the health problems caused by exposure to polluted air. It lists nitrogen as a major constituent of the atmosphere and mentions nitrogen oxides as contributors to secondary pollutants like tropospheric ozone and smog, which are harmful. However, the abstract does not provide direct evidence or a clear relationship between elemental nitrogen itself and asthma. Instead, it highlights nitrogen oxides and other pollutants as related to air quality and respiratory issues. Therefore, based on the abstract, there is no clear relationship established between the compound 'nitrogen' and the disease 'asthma'."
+      }
+    },
+    {
+      "oxygen_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, specifically mentioning that exposure to polluted air may lead to cardiopulmonary disease. It lists various air pollutants such as carbon monoxide, sulfur dioxide, nitrogen oxides, and ozone as harmful substances. Oxygen is described as a major constituent of the atmosphere necessary for maintaining the Earth's biosphere, but there is no indication in the abstract that oxygen itself is a pollutant or directly related to causing cardiopulmonary disease. Therefore, based on the abstract, there is no clear evidence of a relationship between oxygen and cardiopulmonary disease."
+      },
+      "oxygen_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning bronchitis as a health problem associated with exposure to polluted air. It lists various air pollutants and their sources but does not indicate any direct relationship between oxygen and bronchitis. Oxygen is described as a major constituent of the atmosphere necessary for maintaining the Earth's biosphere, but no evidence is provided linking oxygen itself to the development or exacerbation of bronchitis."
+      },
+      "oxygen_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, including asthma, and lists various air pollutants and atmospheric constituents such as nitrogen, oxygen, water vapor, carbon dioxide, methane, nitrous oxide, and ozone. However, oxygen is described as a major natural constituent of the atmosphere necessary for maintaining the Earth's biosphere, not as a pollutant or harmful agent. The abstract does not provide any evidence or indication that oxygen itself is related to causing or exacerbating asthma. Instead, it highlights pollutants like sulfur dioxide, nitrogen oxides, carbon monoxide, and ozone as contributors to respiratory diseases including asthma. Therefore, based on the abstract, there is no clear relationship between oxygen and asthma."
+      }
+    },
+    {
+      "water vapor_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes water vapor as a major natural constituent of the atmosphere essential for maintaining the Earth's biosphere balance. It does not identify water vapor as a pollutant or harmful substance. Instead, it highlights other compounds such as carbon monoxide, sulfur dioxide, nitrogen oxides, and secondary pollutants like tropospheric ozone and smog as contributors to air pollution and related health problems including cardiopulmonary disease. Therefore, there is no clear evidence in the abstract linking water vapor to cardiopulmonary disease."
+      },
+      "water vapor_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract describes water vapor as a major natural constituent of the atmosphere essential for maintaining the Earth's biosphere balance. It does not present water vapor as a pollutant or harmful agent. Instead, it identifies various pollutants such as ash, carbon monoxide, sulfur dioxide, nitrogen oxides, and secondary pollutants like tropospheric ozone and smog as contributors to health problems including bronchitis. There is no evidence in the abstract linking water vapor to bronchitis or indicating that water vapor exposure causes or exacerbates bronchitis."
+      },
+      "water vapor_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes water vapor as a major natural constituent of the atmosphere essential for maintaining the Earth's biosphere balance. It does not present water vapor as a pollutant or harmful substance linked to asthma. Instead, asthma and related respiratory issues are associated with exposure to air pollutants such as sulfur dioxide, nitrogen oxides, carbon monoxide, and particulate matter from natural and anthropogenic sources. Water vapor is mentioned only as a normal atmospheric component, with no evidence in the abstract indicating a direct or indirect relationship between water vapor and asthma."
+      }
+    },
+    {
+      "carbon dioxide_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, including cardiopulmonary disease, and lists various air pollutants such as carbon monoxide, sulfur dioxide, nitrogen oxides, and particulate matter as contributors to air pollution-related health problems. While carbon dioxide is mentioned as a major atmospheric constituent important for Earth's biosphere balance, the abstract does not provide evidence or indicate that carbon dioxide itself is a pollutant causing or contributing to cardiopulmonary disease. Therefore, based on the abstract, there is no clear relationship established between carbon dioxide and cardiopulmonary disease."
+      },
+      "carbon dioxide_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning bronchitis as a health problem related to exposure to polluted air. It lists various air pollutants, including primary pollutants like carbon monoxide and sulfur dioxide, and secondary pollutants like tropospheric ozone and smog. Carbon dioxide is mentioned as a major constituent of the atmosphere necessary for Earth's biosphere balance, but it is not identified as a pollutant or linked to bronchitis in the abstract. Therefore, there is no clear evidence in the abstract that carbon dioxide is related to bronchitis."
+      },
+      "carbon dioxide_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning asthma as one of the health problems associated with exposure to polluted air. It lists various air pollutants, including primary pollutants like carbon monoxide and sulfur dioxide, and secondary pollutants like tropospheric ozone and smog. Carbon dioxide is mentioned as a major constituent of the atmosphere important for maintaining the Earth's biosphere, but it is not described as a pollutant or linked directly to asthma or other health problems in the abstract. Therefore, there is no clear evidence in the abstract of a relationship between carbon dioxide and asthma."
+      }
+    },
+    {
+      "methane_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions methane as one of the major constituents of the atmosphere and emphasizes the importance of their balance for maintaining the Earth's biosphere. However, it does not provide any direct or indirect evidence linking methane specifically to cardiopulmonary disease. The abstract discusses air pollution and its association with cardiopulmonary disease, but it primarily focuses on pollutants such as ash, carbon monoxide, sulfur dioxide, nitrogen oxides, and secondary pollutants like tropospheric ozone and smog. Methane is not identified as a pollutant contributing to cardiopulmonary disease in the abstract."
+      },
+      "methane_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions methane as one of the major constituents of the atmosphere and discusses air pollution's general impact on health, including bronchitis. However, it does not provide any specific evidence or direct link between methane exposure and the development or exacerbation of bronchitis. Methane is described as a natural atmospheric component rather than a pollutant causing bronchitis, and the pollutants explicitly linked to bronchitis are primarily those like sulfur dioxide, nitrogen oxides, and particulate matter from combustion sources."
+      },
+      "methane_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions methane as one of the major constituents of the atmosphere and discusses air pollution's impact on health, including asthma. However, it does not provide any specific evidence or direct link between methane itself and asthma. Methane is described as a natural atmospheric component rather than a pollutant causing asthma. The pollutants linked to respiratory issues like asthma are primarily identified as primary pollutants such as carbon monoxide and sulfur dioxide, and secondary pollutants like tropospheric ozone and smog. Therefore, based on the abstract, there is no clear relationship established between methane and asthma."
+      }
+    },
+    {
+      "nitrous oxide_cardiopulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions that air pollution can lead to cardiopulmonary disease and lists various air pollutants and atmospheric constituents, including nitrous oxide as a major atmospheric constituent. However, it does not provide any specific evidence or direct link between nitrous oxide and cardiopulmonary disease. Nitrous oxide is described as a natural component of the atmosphere rather than a pollutant causing health effects. The pollutants associated with health problems are primarily identified as primary pollutants like carbon monoxide and sulfur dioxide, and secondary pollutants like tropospheric ozone and smog. Therefore, based on the abstract, there is no clear relationship established between nitrous oxide and cardiopulmonary disease."
+      },
+      "nitrous oxide_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning bronchitis as a health problem related to exposure to polluted air. It lists nitrous oxide as one of the major atmospheric constituents but does not identify it as a pollutant or directly link nitrous oxide exposure to bronchitis. Instead, the abstract focuses on other pollutants such as sulfur dioxide, nitrogen oxides, carbon monoxide, and particulate matter as contributors to respiratory diseases. Therefore, there is no clear evidence in the abstract establishing a direct relationship between nitrous oxide and bronchitis."
+      },
+      "nitrous oxide_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on health, mentioning asthma as one of the health problems associated with exposure to polluted air. It lists major atmospheric constituents including nitrous oxide but does not provide any specific evidence or direct link between nitrous oxide and asthma. The focus is on general air pollutants and their sources, without establishing a clear relationship between nitrous oxide exposure and asthma development or exacerbation."
+      }
+    },
+    {
+      "ozone_cardiopulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract states that air pollution, which includes pollutants such as ozone, can lead to several health problems including cardiopulmonary disease. It specifically mentions that tropospheric ozone is a secondary pollutant formed in the atmosphere and is part of the air pollution mixture that degrades air quality. Since exposure to polluted air containing ozone is linked to cardiopulmonary disease, there is evidence of a relationship between ozone and cardiopulmonary disease."
+      },
+      "ozone_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes ozone as a major atmospheric constituent and a secondary pollutant formed through photolysis of nitrogen oxides and hydrocarbons, is associated with several health problems including bronchitis. Although the abstract does not explicitly isolate ozone as the sole cause, it clearly links air pollution containing ozone to bronchitis, supporting a relationship between ozone exposure and bronchitis."
+      },
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes ozone as a major atmospheric constituent and a secondary pollutant formed by photolysis of nitrogen oxides and hydrocarbons, is associated with several health problems including asthma. It explicitly lists asthma among the health issues caused by exposure to polluted air, which includes ozone as a key pollutant. Therefore, there is evidence in the abstract supporting a relationship between ozone and asthma."
+      }
+    },
+    {
+      "carbon monoxide_cardiopulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract states that air pollution, which includes primary pollutants such as carbon monoxide emitted from vehicles and factories, can lead to several health problems including cardiopulmonary disease. This indicates a clear relationship between carbon monoxide exposure and the development or exacerbation of cardiopulmonary disease."
+      },
+      "carbon monoxide_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that air pollution, which includes primary pollutants such as carbon monoxide, can lead to several health problems including bronchitis. Carbon monoxide is specifically mentioned as a primary pollutant emitted from vehicles, factories, and combustion of fossil fuels. Since bronchitis is listed among the health problems caused by exposure to air pollution containing carbon monoxide, there is evidence of a relationship between carbon monoxide and bronchitis."
+      },
+      "carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes primary pollutants such as carbon monoxide, is associated with several health problems including asthma. Carbon monoxide is specifically mentioned as a primary pollutant emitted from vehicles and factories. Since asthma is listed among the health problems caused by exposure to polluted air containing such pollutants, there is evidence of a relationship between carbon monoxide exposure and asthma."
+      }
+    },
+    {
+      "sulfur dioxide_cardiopulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes sulfur dioxide as a primary pollutant emitted from vehicles, factories, and combustion of fossil fuels, is associated with several health problems including cardiopulmonary disease. It explicitly mentions that constant exposure to polluted air, which contains sulfur dioxide among other pollutants, may lead to cardiopulmonary disease. Therefore, there is evidence in the abstract supporting a relationship between sulfur dioxide exposure and cardiopulmonary disease."
+      },
+      "sulfur dioxide_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfur dioxide is a primary pollutant emitted from vehicles, factories, and combustion of fossil fuels, and it is a component of smog. It also states that constant exposure to polluted air, which includes sulfur dioxide among other pollutants, may lead to several health problems such as bronchitis. Therefore, there is evidence in the abstract that sulfur dioxide is related to bronchitis as a contributing air pollutant."
+      },
+      "sulfur dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfur dioxide is a primary pollutant emitted from vehicles, factories, and combustion of fossil fuels, and is a component of smog. It also states that constant exposure to polluted air, which includes sulfur dioxide among other pollutants, may lead to several health problems such as asthma. Therefore, there is evidence in the abstract that sulfur dioxide is related to asthma as an air pollutant contributing to respiratory health issues."
+      }
+    },
+    {
+      "nitrogen oxides_cardiopulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract states that air pollution, which includes pollutants such as nitrogen oxides, is harmful to humans and animals and can lead to several health problems including cardiopulmonary disease. Nitrogen oxides are mentioned as components of air pollution, originating from both natural and anthropogenic sources, and are involved in the formation of secondary pollutants like tropospheric ozone. The abstract explicitly links exposure to polluted air containing such pollutants to cardiopulmonary disease, indicating a clear relationship between nitrogen oxides and cardiopulmonary disease."
+      },
+      "nitrogen oxides_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes nitrogen oxides as a component, is associated with several health problems including bronchitis. Nitrogen oxides are mentioned as pollutants emitted from natural and anthropogenic sources and contribute to the formation of secondary pollutants like tropospheric ozone and smog, which degrade air quality. The exposure to such polluted air, containing nitrogen oxides among other pollutants, is linked to respiratory conditions such as bronchitis. Therefore, there is evidence in the abstract supporting a relationship between nitrogen oxides and bronchitis."
+      },
+      "nitrogen oxides_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes nitrogen oxides as a component, is associated with several health problems including asthma. Nitrogen oxides are mentioned as primary pollutants emitted from natural and anthropogenic sources and contribute to the formation of secondary pollutants like tropospheric ozone and smog, which degrade air quality. The exposure to these pollutants is linked to respiratory conditions such as asthma, wheezing, and coughing, demonstrating a clear relationship between nitrogen oxides and asthma."
+      }
+    },
+    {
+      "volatile organic compounds_cardiopulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes volatile organic compounds (VOCs) as natural sources, is associated with several health problems including cardiopulmonary disease. It specifically mentions that exposure to polluted air, which contains VOCs among other pollutants, may lead to cardiopulmonary disease. Therefore, there is evidence in the abstract supporting a relationship between volatile organic compounds and cardiopulmonary disease."
+      },
+      "volatile organic compounds_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes volatile organic compounds (VOCs) as natural sources, is associated with several health problems including bronchitis. It specifically mentions that exposure to polluted air can lead to bronchitis among other respiratory conditions. Since VOCs are identified as contributors to air pollution, there is evidence of a relationship between volatile organic compounds and bronchitis."
+      },
+      "volatile organic compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution, which includes various pollutants such as volatile organic compounds (VOCs) produced by natural sources like vegetation, is associated with several health problems including asthma. Although the abstract does not explicitly isolate VOCs as a direct cause, it groups VOCs as part of the air pollutants contributing to degraded air quality and respiratory conditions such as asthma. Therefore, there is evidence of a relationship between volatile organic compounds and asthma based on their role as air pollutants linked to respiratory health issues."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds that are major constituents of the atmosphere or pollutants, including nitrogen, oxygen, water vapor, carbon dioxide, methane, nitrous oxide, ozone, carbon monoxide, sulfur dioxide, nitrogen oxides, and volatile organic compounds. These are all specific chemical substances relevant to air pollution and atmospheric composition."
+}

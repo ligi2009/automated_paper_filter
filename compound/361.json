@@ -1,0 +1,148 @@
+{
+  "id": 361,
+  "title": "Ab initio investigation of functionalization of titanium carbide Ti3C2 MXenes to tune the selective detection of lung cancer biomarkers",
+  "Abstract": "Selected volatile organic compounds (VOCs), such as benzene (C6H6), cyclohexane (C6H12), isoprene (C5H8), cyclopropanone (C3H4O), propanol (C3H8O), and butyraldehyde butanal (C4H8O), in exhaled human breath can act as indicators or biomarkers of lung cancer diseases. Detection of such VOCs with low density would pave the way for an early diagnosis of the disease and thus early treatment and cure. In the present investigation, the density-functional theory (DFT) is applied to study the detection of the mentioned VOCs on Ti3C2TX MXenes, saturated with the functional groups Tx = O, F, S, and OH. For selectivity, comparative sensing of other interfering air molecules from exhaled breath, such as O2, N2, CO2, and H2O is further undertaken. Three functionalization (Tx = O, F, and S) are found promising for the selective detection of the studied VOCs, in particular Ti3C2O2 MXenes has shown distinct sensor response toward the C5H8, C6H6, C6H12, and C3H4O. The relatively strong physisorption (\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${E}_{ads}\\cong -0.45 to-0.65 {\\text{eV}}$$\\end{document}Eads≅-0.45to-0.65eV), triggered between VOC and MXene due to an enhancement of van der Waals interaction, is found responsible to affect the near Fermi level states, which in turn controls the conductivity and consequently the sensor response. Meanwhile, such intermediate-strength interactions remain moderate to yield small desorption recovery time (of order \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\tau \\cong \\mu {\\text{s}}-{\\text{ms}})$$\\end{document}τ≅μs-ms) using visible light at room temperature. Thus, Ti3C2O2 MXenes are found promising candidate material for reusable biosensor for the early diagnosis of lung cancer diseases through the VOC detection in exhaled breath.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer diseases' as the specific disease related to the detection of volatile organic compounds (VOCs) in exhaled human breath. This is a clear and specific disease name, not a general term, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene",
+    "cyclohexane",
+    "isoprene",
+    "cyclopropanone",
+    "propanol",
+    "butyraldehyde",
+    "butanal",
+    "O2",
+    "N2",
+    "CO2",
+    "H2O",
+    "Ti3C2TX MXenes",
+    "Ti3C2O2 MXenes"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241,
+      "cyclohexane": 8078,
+      "isoprene": 6557,
+      "cyclopropanone": 138404,
+      "propanol": 1031,
+      "butyraldehyde": 261,
+      "butanal": 261,
+      "O2": 977,
+      "N2": 947,
+      "CO2": 280,
+      "H2O": 962,
+      "Ti3C2TX MXenes": "None",
+      "Ti3C2O2 MXenes": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies benzene (C6H6) as one of the volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting benzene among other VOCs for early diagnosis of lung cancer, indicating a relationship between benzene presence and lung cancer disease."
+      }
+    },
+    {
+      "cyclohexane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cyclohexane (C6H12) as one of the selected volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting such VOCs, including cyclohexane, for early diagnosis of lung cancer. Therefore, there is evidence of a relationship between cyclohexane and lung cancer as a biomarker detectable in breath analysis."
+      }
+    },
+    {
+      "isoprene_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies isoprene (C5H8) as one of the volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting isoprene among other VOCs using Ti3C2TX MXenes-based sensors for early diagnosis of lung cancer. This implies a relationship where isoprene levels in breath are associated with lung cancer, supporting its use as a biomarker for the disease."
+      }
+    },
+    {
+      "cyclopropanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cyclopropanone (C3H4O) as one of the volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting such VOCs, including cyclopropanone, for early diagnosis of lung cancer. Therefore, there is evidence of a relationship between cyclopropanone and lung cancer as a biomarker detectable in breath analysis."
+      }
+    },
+    {
+      "propanol_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that propanol (C3H8O) is one of the selected volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting these VOCs, including propanol, for early diagnosis of lung cancer. Therefore, there is evidence of a relationship between propanol and lung cancer as a biomarker used for disease detection."
+      }
+    },
+    {
+      "butyraldehyde_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies butyraldehyde (butanal) as one of the selected volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting such VOCs, including butyraldehyde, for early diagnosis of lung cancer. Therefore, there is evidence of a relationship between butyraldehyde and lung cancer as a biomarker for the disease."
+      }
+    },
+    {
+      "butanal_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies butanal (butyraldehyde) as one of the selected volatile organic compounds (VOCs) present in exhaled human breath that can act as an indicator or biomarker of lung cancer. The study focuses on detecting these VOCs, including butanal, for early diagnosis of lung cancer. Therefore, there is evidence of a relationship between butanal and lung cancer as a biomarker detectable in breath analysis."
+      }
+    },
+    {
+      "O2_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for lung cancer and the detection of these VOCs using Ti3C2TX MXenes sensors. O2 (oxygen) is mentioned only as an interfering air molecule in the context of sensor selectivity and comparative sensing, not as a compound related to lung cancer itself. There is no evidence in the abstract that O2 has a direct relationship with lung cancer; rather, it is considered a background molecule in breath analysis."
+      }
+    },
+    {
+      "N2_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of certain volatile organic compounds (VOCs) in exhaled breath as biomarkers for lung cancer. It mentions compounds such as benzene, cyclohexane, isoprene, cyclopropanone, propanol, and butyraldehyde as indicators of lung cancer. Nitrogen (N2) is mentioned only as an interfering air molecule in the context of sensor selectivity testing, not as a biomarker or causative agent related to lung cancer. Therefore, there is no evidence in the abstract of a direct relationship between N2 and lung cancer."
+      }
+    },
+    {
+      "CO2_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of selected volatile organic compounds (VOCs) in exhaled breath as biomarkers for lung cancer detection. It mentions CO2 only as an interfering air molecule in the context of sensor selectivity, not as a biomarker or causative agent related to lung cancer. There is no evidence in the abstract indicating a direct relationship between CO2 and lung cancer."
+      }
+    },
+    {
+      "H2O_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of volatile organic compounds (VOCs) such as benzene, cyclohexane, isoprene, cyclopropanone, propanol, and butyraldehyde as biomarkers for lung cancer detection via exhaled breath analysis. It mentions H2O (water) only as an interfering air molecule in the context of sensor selectivity, not as a biomarker or causative agent related to lung cancer. There is no evidence in the abstract indicating a direct or indirect relationship between H2O and lung cancer."
+      }
+    },
+    {
+      "Ti3C2TX MXenes_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of Ti3C2TX MXenes, specifically Ti3C2O2 MXenes, as a sensor material for detecting volatile organic compounds (VOCs) in exhaled human breath that are biomarkers of lung cancer. The MXenes interact with these VOCs through physisorption, affecting conductivity and enabling selective detection. This suggests a direct relationship where Ti3C2TX MXenes serve as a promising biosensor material for the early diagnosis of lung cancer by detecting disease-related VOCs."
+      }
+    },
+    {
+      "Ti3C2O2 MXenes_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that Ti3C2O2 MXenes can selectively detect volatile organic compounds (VOCs) in exhaled human breath, which are biomarkers of lung cancer. The study shows that Ti3C2O2 MXenes exhibit a distinct sensor response to specific VOCs associated with lung cancer, indicating its potential use as a biosensor for early diagnosis of lung cancer. Therefore, there is a clear relationship between Ti3C2O2 MXenes and lung cancer in the context of disease detection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several volatile organic compounds (benzene, cyclohexane, isoprene, cyclopropanone, propanol, butyraldehyde, butanal) as biomarkers for lung cancer. It also mentions common air molecules (O2, N2, CO2, H2O) considered for selectivity studies. Additionally, the MXene materials Ti3C2TX and Ti3C2O2 are named as sensor substrates. These are all specific chemical compounds or materials explicitly identified in the text."
+}

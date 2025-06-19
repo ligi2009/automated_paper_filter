@@ -1,0 +1,156 @@
+{
+  "id": 4992,
+  "title": "Phlebotomus perniciosus response to volatile organic compounds of dogs and humans",
+  "Abstract": "The olfactory response of insect vectors such as phlebotomine sand flies is a key facet for investigating their interactions with vertebrate hosts and associated vector-borne pathogens. Such studies are mainly performed by assessing the electrophysiological response and the olfactory behaviour of these arthropods towards volatile organic compounds (VOCs) produced by hosts. Nonetheless, few studies are available for species of the subgenera Lutzomyia and Nyssomyia in South America, leaving a void for Old World sand fly species of the genus Phlebotomus. In this study, we evaluated the olfactory responses of Phlebotomus perniciosus, one of the most important vectors of Leishmania infantum in the Old World. To test the P. perniciosus behavioural response to VOCs, 28 compounds isolated from humans and dogs were assessed using electrophysiological (i.e., electroantennogram, EAG) and behavioural assays (i.e., Y-tube olfactometer). In the EAG trials, 14 compounds (i.e., acetic acid, nonanoic acid, 2-propanol, 2-butanol, pentanal, hexanal, nonanal, trans-2-nonenal, decanal, myrcene, p-cymene, verbenone, 2-ethyl-1-hexanol, and acetonitrile) elicited high antennal responses (i.e., ≥ 0.30 mV) in female sand flies, being those VOCs selected for the behavioural assays. From the 14 compounds tested in the Y-tube olfactometer, nonanal was significantly attractive for P. perniciosus females, whereas myrcene and p-cymene were significantly repellents (p < 0.05). The attraction indexes varied from 0.53 for nonanal (i.e., most attractive) to -0.47 to p-cymene (i.e., most repellent). Overall, our results shed light on the role of olfactory cues routing host seeking behaviour in P. perniciosus, with implications to develop sustainable sand fly monitoring as well as control in leishmaniasis endemic areas.",
+  "Disease_List": [
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'leishmaniasis' as a disease related to the sand fly vector Phlebotomus perniciosus, which is an important vector of Leishmania infantum. This specific disease name is clearly stated, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetic acid",
+    "nonanoic acid",
+    "2-propanol",
+    "2-butanol",
+    "pentanal",
+    "hexanal",
+    "nonanal",
+    "trans-2-nonenal",
+    "decanal",
+    "myrcene",
+    "p-cymene",
+    "verbenone",
+    "2-ethyl-1-hexanol",
+    "acetonitrile"
+  ],
+  "compound_CID": [
+    {
+      "acetic acid": 176,
+      "nonanoic acid": 8158,
+      "2-propanol": 3776,
+      "2-butanol": 6568,
+      "pentanal": 8063,
+      "hexanal": 6184,
+      "nonanal": 31289,
+      "trans-2-nonenal": 5283335,
+      "decanal": 8175,
+      "myrcene": 31253,
+      "p-cymene": 7463,
+      "verbenone": 29025,
+      "2-ethyl-1-hexanol": 7720,
+      "acetonitrile": 6342
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetic acid_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Acetic acid was one of the volatile organic compounds (VOCs) isolated from hosts that elicited a high antennal electrophysiological response in female sand flies, indicating that it is detected by the vector. Although acetic acid was not found to be significantly attractive or repellent in behavioral assays, its role as an olfactory cue suggests it may influence host-seeking behavior of the sand fly vector. Since the vector's behavior directly impacts transmission of leishmaniasis, the compound acetic acid is related to the disease through its effect on the vector's olfactory system."
+      }
+    },
+    {
+      "nonanoic acid_leishmaniasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the olfactory responses of the sand fly Phlebotomus perniciosus, a vector of Leishmania infantum, to various volatile organic compounds (VOCs) including nonanoic acid. While nonanoic acid elicited a high antennal electrophysiological response, it was not reported as significantly attractive or repellent in behavioral assays. The study highlights compounds like nonanal as attractive and others as repellent, but does not provide evidence that nonanoic acid influences sand fly behavior in a way that impacts leishmaniasis transmission or control. Therefore, there is no clear relationship established between nonanoic acid and leishmaniasis based on this abstract."
+      }
+    },
+    {
+      "2-propanol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Among the volatile organic compounds tested, 2-propanol elicited a high antennal electrophysiological response in female sand flies, indicating that it is detected by the vector's olfactory system. Although 2-propanol was not found to be significantly attractive or repellent in behavioral assays, its detection by the vector suggests a relationship between this compound and the vector responsible for transmitting leishmaniasis. Therefore, there is evidence of a relationship between 2-propanol and leishmaniasis through the vector's olfactory response."
+      }
+    },
+    {
+      "2-butanol_leishmaniasis": {
+        "relationship": "N",
+        "reason": "The abstract describes a study investigating the olfactory responses of the sand fly Phlebotomus perniciosus, a vector of Leishmania infantum, to various volatile organic compounds (VOCs) including 2-butanol. While 2-butanol elicited a high antennal electrophysiological response, it was not found to be significantly attractive or repellent in behavioral assays. The study does not provide evidence that 2-butanol has a direct relationship with leishmaniasis itself, but rather that it is one of several VOCs tested for its effect on sand fly behavior. Therefore, there is no clear evidence from this abstract that 2-butanol is related to leishmaniasis beyond its role as a tested olfactory cue."
+      }
+    },
+    {
+      "pentanal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Pentanal is one of the volatile organic compounds (VOCs) isolated from hosts that elicited a high antennal response in female sand flies, indicating that pentanal is detected by the vector. Although pentanal was not found to be significantly attractive or repellent in behavioral assays, its detection by the vector suggests a relationship between pentanal and the vector's host-seeking behavior, which is directly relevant to the transmission of leishmaniasis. Therefore, there is evidence of a relationship between pentanal and leishmaniasis through the vector's olfactory response."
+      }
+    },
+    {
+      "hexanal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Hexanal is one of the volatile organic compounds (VOCs) isolated from hosts that elicited a high antennal response in female sand flies, indicating that it is detected by the vector. Although hexanal was not found to be significantly attractive or repellent in behavioral assays, its detection by the vector suggests a role in host-seeking behavior. Since P. perniciosus is an important vector for leishmaniasis, the interaction between hexanal and the vector implies a relationship between hexanal and leishmaniasis in the context of vector behavior and disease transmission."
+      }
+    },
+    {
+      "nonanal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Nonanal, a volatile organic compound isolated from humans and dogs, elicited a strong antennal response and was found to be significantly attractive to female P. perniciosus sand flies in behavioral assays. This attraction suggests that nonanal plays a role in host-seeking behavior of the sand fly vector, which is directly related to the transmission dynamics of leishmaniasis. Therefore, there is evidence of a relationship between nonanal and leishmaniasis through its influence on the vector's behavior."
+      }
+    },
+    {
+      "trans-2-nonenal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Among the volatile organic compounds tested, trans-2-nonenal elicited a high antennal response in female sand flies, indicating it is detected by the vector. Although trans-2-nonenal was not reported as significantly attractive or repellent in behavioral assays, its strong electrophysiological response suggests it plays a role in the host-seeking behavior of the sand fly vector. Since P. perniciosus is an important vector for leishmaniasis, the interaction between trans-2-nonenal and this vector implies a relationship between the compound and the disease, particularly in the context of vector behavior and potential control strategies."
+      }
+    },
+    {
+      "decanal_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Decanal is one of the volatile organic compounds (VOCs) that elicited a high antennal response in female sand flies, indicating it is detected by the vector. Although decanal was not reported as significantly attractive or repellent in behavioral assays, its detection by the vector suggests it plays a role in the host-seeking behavior of P. perniciosus. Since this vector is directly involved in the transmission of leishmaniasis, the compound decanal is related to the disease through its influence on vector behavior, which has implications for disease monitoring and control."
+      }
+    },
+    {
+      "myrcene_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Myrcene, one of the volatile organic compounds tested, elicited a significant antennal response and was found to be a significant repellent to female sand flies in behavioral assays. This indicates that myrcene influences the behavior of the sand fly vector involved in leishmaniasis transmission, suggesting a relationship between myrcene and the disease through its effect on vector behavior and potential implications for vector control strategies."
+      }
+    },
+    {
+      "p-cymene_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. The compound p-cymene elicited a strong antennal response and was found to be significantly repellent to female sand flies in behavioral assays. This indicates that p-cymene influences the behavior of the sand fly vector involved in leishmaniasis transmission, suggesting a relationship between p-cymene and leishmaniasis through its effect on vector behavior and potential implications for disease control."
+      }
+    },
+    {
+      "verbenone_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Verbenone is listed among the volatile organic compounds (VOCs) that elicited high antennal responses in female sand flies, indicating that it affects the olfactory system of this vector. Although verbenone was not found to be significantly attractive or repellent in behavioral assays, its ability to elicit a strong electrophysiological response suggests it plays a role in the host-seeking behavior of the sand fly vector. Since P. perniciosus is directly involved in the transmission of leishmaniasis, the interaction between verbenone and this vector implies a relationship between the compound and the disease, particularly in the context of vector behavior and potential control strategies."
+      }
+    },
+    {
+      "2-ethyl-1-hexanol_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Among the volatile organic compounds tested, 2-ethyl-1-hexanol elicited a high antennal response in female sand flies, indicating it is detected by the vector. Although 2-ethyl-1-hexanol was not found to be significantly attractive or repellent in behavioral assays, its detection by the vector suggests it plays a role in the host-seeking behavior of P. perniciosus. Since this sand fly species is an important vector for leishmaniasis, the compound 2-ethyl-1-hexanol is related to the disease through its influence on vector behavior, which has implications for disease monitoring and control."
+      }
+    },
+    {
+      "acetonitrile_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on the olfactory responses of Phlebotomus perniciosus, a key vector of Leishmania infantum, the causative agent of leishmaniasis. Acetonitrile is listed among the volatile organic compounds (VOCs) that elicited high antennal responses in female sand flies, indicating that it is detected by the vector's olfactory system. Although acetonitrile was not found to be significantly attractive or repellent in behavioral assays, its detection by the vector suggests a relationship between this compound and the vector responsible for transmitting leishmaniasis. Therefore, there is evidence of a relationship between acetonitrile and leishmaniasis through its interaction with the sand fly vector's olfactory system."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically lists 14 volatile organic compounds (VOCs) tested for olfactory response in Phlebotomus perniciosus sand flies. These compounds are named explicitly and include various acids, alcohols, aldehydes, terpenes, and nitriles, which were identified as eliciting significant electrophysiological and behavioral responses."
+}

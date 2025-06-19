@@ -1,0 +1,20 @@
+{
+  "id": 6264,
+  "title": "Dogs can detect an odor profile associated with Staphylococcus aureus biofilms in cultures and biological samples",
+  "Abstract": "Introduction The study investigated the utilization of odor detection dogs to identify the odor profile of Staphylococcus aureus (S. aureus) biofilms in pure in vitro samples and in in vivo biosamples from animals and humans with S. aureus periprosthetic joint infection (PJI). Biofilms form when bacterial communities aggregate on orthopedic implants leading to recalcitrant infections that are difficult to treat. Identifying PJI biofilm infections is challenging, and traditional microbiological cultures may yield negative results even in the presence of clinical signs. Methods Dogs were trained on pure in vitro S. aureus biofilms and tested on lacrimal fluid samples from an in vivo animal model (rabbits) and human patients with confirmed S. aureus PJI. Results The results demonstrated that dogs achieved a high degree of sensitivity and specificity in detecting the odor profile associated with S. aureus biofilms in rabbit samples. Preliminary results suggest that dogs can recognize S. aureus volatile organic compounds (VOCs) in human lacrimal fluid samples. Discussion Training odor detection dogs on in vitro S. aureus, may provide an alternative to obtaining clinical samples for training and mitigates biosecurity hazards. The findings hold promise for culture-independent diagnostics, enabling early disease detection, and improved antimicrobial stewardship. In conclusion, this research demonstrates that dogs trained on in vitro S. aureus samples can identify the consistent VOC profile of PJI S. aureus biofilm infections. The study opens avenues for further investigations into a retained VOC profile of S. aureus biofilm infection. These advancements could revolutionize infectious disease diagnosis and treatment, leading to better patient outcomes and addressing the global challenge of antimicrobial resistance.",
+  "Disease_List": [
+    "Staphylococcus aureus periprosthetic joint infection (PJI)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Staphylococcus aureus periprosthetic joint infection (PJI)' as a specific disease condition being studied. Although it discusses biofilm infections generally, the specific disease name PJI is clearly identified and is the focus of the research.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Staphylococcus aureus periprosthetic joint infection (PJI)": []
+  },
+  "MRCONSO_search_results": {
+    "Staphylococcus aureus periprosthetic joint infection (PJI)": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

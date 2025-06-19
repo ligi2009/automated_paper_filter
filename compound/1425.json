@@ -1,0 +1,43 @@
+{
+  "id": 1425,
+  "title": "A novel VOC breath tracer method to evaluate indoor respiratory exposures in the near- and far-fields",
+  "Abstract": "Several studies suggest that far-field transmission (> 6 ft) explains the significant number of COVID-19 superspreading outbreaks. Therefore, quantitative evaluation of near- and far-field exposure to emissions from a source is key to better understanding human-to-human airborne infectious disease transmission and associated risks. In this study, we used an environmentally-controlled chamber to measure volatile organic compounds (VOCs) released from a healthy participant who consumed breath mints, which contained unique tracer compounds. Tracer measurements were made at 2.5 ft, 5 ft, 7.5 ft from the participant, as well as in the exhaust plenum of the chamber. We observed that 2.5 ft trials had substantially (~36–44%) higher concentrations than other distances during the first 20 minutes of experiments, highlighting the importance of the near-field relative to the far-field before virus-laden respiratory aerosol plumes are continuously mixed into the far-field. However, for the conditions studied, the concentrations of human-sourced tracers after 20 minutes and approaching the end of the 60-minute trials at 2.5 ft, 5 ft, and 7.5 ft were only ~18%, ~11%, and ~7.5% higher than volume-averaged concentrations, respectively. Our findings highlight the importance of far-field transmission of airborne pathogens including SARS-CoV-2, which need to be considered in public health decision making.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' and 'SARS-CoV-2', both of which are specific disease names related to infectious diseases. COVID-19 is the disease caused by the virus SARS-CoV-2. These mentions justify classifying the response as 'Y' for specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2": [
+      {
+        "ui": "C5203676",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203676",
+        "name": "SARS-CoV-2",
+        "mesh_id": "D000086402"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions 'volatile organic compounds (VOCs)' and 'unique tracer compounds' in breath mints but does not specify any particular chemical compound names."
+}

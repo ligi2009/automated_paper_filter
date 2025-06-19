@@ -1,0 +1,20 @@
+{
+  "id": 2279,
+  "title": "Biocontrol potential of endophytic Trichoderma harzianum AUMC 14897 against Fusarium seedling blight disease in oat",
+  "Abstract": "Background Oat (Avena sativa L.) represents one of the important cereal crops grown in different areas around the world due to its use in human nutrition, food industry, biomaterials, and pharmaceutical industries. Fusarium seedling blight disease (FSBD) represents one of the most dangerous diseases affecting oat cultivation. Endophytic fungi proved to be useful in plant disease management. Therefore, the present study investigated the impact of applied endophytic Trichoderma harzianum AUMC 14897 culture filtrate (CF) on disease severity, plant performance, defense systems, antioxidant activity, and stress-related genes expression in oat plants infected with Fusarium oxysporum. Results The dual culture assay results revealed that T. harzianum is antagonistic against F. oxysporum and could inhibit the growth by 86.6% seven days post inoculation. Scanning electron microscope results showed that the antagonism mechanisms include nutrition, space competition, and mycoparasitism. GC–MS analysis demonstrated the presence of several volatile organic compounds in T. harzianum CF and each component might contribute to its biological activity. In a greenhouse experiment, spraying and irrigation with T. harzianum CF revealed less severe symptoms and slower disease development in the infected oat plants compared to untreated plants. Moreover, T. harzianum CF treatment significantly enhanced the levels of total reducing power, phenolics, flavonoids, chlorophyll, carotenoids, antioxidant enzymes, and stress-related genes expression in F. oxysporum-infected oat plants. Conclusions Our results demonstrated T. harzianum CF has an effective role in controlling FSBD in oat plants as a novel biocontrol agent. Supplementary Information The online version contains supplementary material available at 10.1186/s12870-025-06517-7.",
+  "Disease_List": [
+    "Fusarium seedling blight disease (FSBD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Fusarium seedling blight disease (FSBD)' as a specific disease affecting oat cultivation. It also discusses the infection of oat plants with Fusarium oxysporum, which is the pathogen causing this disease. Therefore, specific disease names are clearly identified.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Fusarium seedling blight disease (FSBD)": []
+  },
+  "MRCONSO_search_results": {
+    "Fusarium seedling blight disease (FSBD)": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

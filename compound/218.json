@@ -1,0 +1,50 @@
+{
+  "id": 218,
+  "title": "Potential role of volatile organic compound breath testing in the Australasian colorectal cancer pathway.",
+  "Abstract": "With colonoscopy resources under pressure and inequitable participation rates in our screening programmes, there is an urgent need to consider trialling new testing technology for the detection of colorectal cancer (CRC) in Australasia. Research has shown that volatile organic compounds (VOCs) emitted from the human body can act as biomarkers for CRC, indicating high sensitivity and specificity for early and late-stage CRC and for adenomatous polyps. Breath-based VOC testing shows promise due to acceptability and ease of sampling via simple hand-held devices. Analysis can occur via mass spectrometry, or via 'e-nose' or sensor techniques. This review summarizes the current state of knowledge in using VOC-based testing for CRC. Adoption of this technique has the potential to improve CRC survival, reduce incidence and reduce colonoscopy burden in Australasia, and positively impact on ethnic disparities in cancer outcomes. Future multicentre trials should be conducted using standardized processes and protocols. This will ensure accuracy and reproducibility under different environmental and physiological conditions, and for different ethnic groups. Studies should be explicitly targeted to various points along the CRC patient pathway.",
+  "Disease_List": [
+    "colorectal cancer",
+    "adenomatous polyps"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer (CRC)' multiple times as a specific disease. It also mentions 'adenomatous polyps,' which are specific precancerous lesions related to colorectal cancer. These are specific disease names rather than general terms like 'disease' or 'illness.' Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer",
+    "adenomatous polyps"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "adenomatous polyps": [
+      {
+        "ui": "C0206677",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206677",
+        "name": "Adenomatous Polyps",
+        "mesh_id": "D018256"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) as biomarkers but does not specify any particular chemical compound names."
+}

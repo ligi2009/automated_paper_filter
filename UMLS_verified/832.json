@@ -1,0 +1,28 @@
+{
+  "id": 832,
+  "title": "Association between urinary volatile organic compound metabolites and sarcopenia in the US general population: a cross-sectional NHANES study from 2011 to 2018",
+  "Abstract": "Volatile organic compound (VOC) is a prevalent form of pollutant that has been linked to various human ailments, yet their connection to sarcopenia remains uncertain. This study seeks to examine the potential association between exposure to mixtures of metabolites of volatile organic compounds (mVOCs) and sarcopenia, while also investigating the potential mediating effects of oxidative stress and inflammation. Data from the 2011–2018 National Health and Nutrition Examination Survey (NHANES) were utilized for the analysis of the relationship between mVOCs and sarcopenia through logistic regression. The least absolute shrinkage and selection operator (LASSO) regression model was employed to identify key mVOCs, while the quantile-g computation model (qgcomp) and bayesian kernel machine regression (BKMR) models were utilized to examine the association between mVOC mixtures and sarcopenia. Potential mediating factors were explored through mediating analysis. Of the 2908 participants included in the study, 246 individuals (8.5%) were found to have sarcopenia. Logistic regression analysis revealed that five urinary VOC metabolites were positively correlated with an increased risk of sarcopenia. The key mVOCs identified through the LASSO method were further analyzed using qgcomp, which showed a 47% average increase in the risk of sarcopenia when exposed to a mixture of mVOCs (OR = 1.47, 95% CI 1.14–1.91). Four mVOCs components (DHBMA, 3HPMA, ATCA and 3,4MHA) have the largest weight. The BKMR results further confirm this joint association. Furthermore, Mediation analysis revealed that inflammation and oxidative stress mediate the relationship between exposure to mVOCs and sarcopenia. In conclusion, our study provides evidence suggesting that VOC exposure is linked to a heightened risk of sarcopenia, with inflammation and oxidative stress potentially serving as mediators in this relationship. It is recommended that additional cohort studies be conducted to validate these findings. Supplementary Information The online version contains supplementary material available at 10.1038/s41598-025-94622-w.",
+  "Disease_List": [
+    "sarcopenia"
+  ],
+  "Reason": "The abstract explicitly mentions 'sarcopenia' multiple times as a specific disease condition being studied in relation to exposure to volatile organic compounds (VOCs). Sarcopenia is a recognized disease characterized by loss of muscle mass and function, thus qualifying as a specific disease name. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "sarcopenia"
+  ],
+  "UMLS_search_results": {
+    "sarcopenia": [
+      {
+        "ui": "C0872084",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0872084",
+        "name": "Sarcopenia",
+        "mesh_id": "D055948"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

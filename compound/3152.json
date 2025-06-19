@@ -1,0 +1,171 @@
+{
+  "id": 3152,
+  "title": "Defensive functions of volatile organic compounds and essential oils from northern white-cedar in China",
+  "Abstract": "Plants are known to emit diverse volatile organic compounds (VOCs), which may function as signaling substances in plant communication with other organisms. Thuja occidentalis, which is widely cultivated throughout China, releases aromatic VOCs into the air in winter and early spring. The relationship of this cultivated plant with its neighboring plants is necessary for the conservation of biodiversity. (−)-α-thujone (60.34 ± 5.58%) was found to be the major component in VOCs from the Shenyang population. The essential oils (EOs) from the Kunming and Shenyang populations included the major components (−)-α-thujone, fenchone, (+)-β-thujone, and (+)-hibaene, identified using GC-MS analyses. (−)-α-thujone and (+)-hibaene were purified and identified by NMR identification. EOs and (−)-α-thujone exhibited valuable phytotoxic activities against seed germination and seedling growth of the plants Taraxacum mongolicum and Arabidopsis thaliana. Moreover, the EOs displayed potent inhibitory activity against pathogenic fungi of maize, including Fusarium graminearum, Curvularia lunata, and Bipolaris maydis, as well as one human fungal pathogen, Candida albicans. Quantitative analyses revealed high concentrations of (−)-α-thujone in the leaves of T. occidentalis individuals from both the Shenyang and Kunming populations. However, (−)-α-thujone (0.18 ± 0.17 μg/g) was only detected in the rhizosphere soil to a distance of 0.5 m from the plant. Taken together, our results suggest that the phytotoxic effects and antifungal activities of the EOs and (−)-α-thujone in T. occidentalis certainly increased the adaptability of this plant to the environment. Nevertheless, low concentrations of released (−)-α-thujone indicated that reasonable distance of T. occidentalis with other plant species will impair the effects of allelochemical of T. occidentalis.",
+  "Disease_List": [
+    "Fusarium graminearum",
+    "Curvularia lunata",
+    "Bipolaris maydis",
+    "Candida albicans"
+  ],
+  "Reason": "The abstract explicitly mentions specific pathogenic fungi: Fusarium graminearum, Curvularia lunata, Bipolaris maydis, and the human fungal pathogen Candida albicans. These are known pathogens associated with diseases in plants and humans, respectively. Therefore, specific disease-related organisms are named, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Fusarium graminearum",
+    "Curvularia lunata",
+    "Bipolaris maydis",
+    "Candida albicans"
+  ],
+  "UMLS_search_results": {
+    "Fusarium graminearum": [
+      {
+        "ui": "C0320167",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0320167",
+        "name": "Fusarium graminearum",
+        "mesh_id": "C000677531"
+      },
+      {
+        "ui": "C4476028",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4476028",
+        "name": "Gibberella zeae allergenic extract",
+        "mesh_id": "None"
+      }
+    ],
+    "Curvularia lunata": [
+      {
+        "ui": "C0320079",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0320079",
+        "name": "Curvularia lunata",
+        "mesh_id": "C000677526"
+      }
+    ],
+    "Bipolaris maydis": [
+      {
+        "ui": "C0997415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0997415",
+        "name": "Bipolaris maydis",
+        "mesh_id": "C000663636"
+      }
+    ],
+    "Candida albicans": [
+      {
+        "ui": "C0348081",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0348081",
+        "name": "Candida albicans antigen",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0717551",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0717551",
+        "name": "Candida albicans allergenic extract",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0006837",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006837",
+        "name": "Candida albicans",
+        "mesh_id": "D002176"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "(−)-α-thujone",
+    "fenchone",
+    "(+)-β-thujone",
+    "(+)-hibaene"
+  ],
+  "compound_CID": [
+    {
+      "(−)-α-thujone": "None",
+      "fenchone": 14525,
+      "(+)-β-thujone": "None",
+      "(+)-hibaene": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "(−)-α-thujone_Fusarium_graminearum": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that (−)-α-thujone, a major component of the essential oils from Thuja occidentalis, exhibits potent inhibitory activity against pathogenic fungi including Fusarium graminearum. This indicates a clear antifungal relationship between (−)-α-thujone and Fusarium graminearum, suggesting that (−)-α-thujone can affect the growth or viability of this fungal pathogen."
+      },
+      "(−)-α-thujone_Curvularia_lunata": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that (−)-α-thujone, a major component of the essential oils from Thuja occidentalis, exhibits potent inhibitory activity against pathogenic fungi including Curvularia lunata. This indicates a clear relationship where (−)-α-thujone has antifungal effects on Curvularia lunata, suggesting its potential role in controlling or affecting this fungal pathogen."
+      },
+      "(−)-α-thujone_Bipolaris_maydis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that (−)-α-thujone, a major component of the essential oils from Thuja occidentalis, exhibits potent inhibitory activity against pathogenic fungi of maize, including Bipolaris maydis. This indicates a clear antifungal relationship between (−)-α-thujone and Bipolaris maydis, suggesting that (−)-α-thujone can affect the growth or viability of this fungal pathogen."
+      },
+      "(−)-α-thujone_Candida_albicans": {
+        "relationship": "Y",
+        "reason": "The abstract reports that essential oils (EOs) from Thuja occidentalis, which contain (−)-α-thujone as a major component, displayed potent inhibitory activity against several pathogenic fungi, including the human fungal pathogen Candida albicans. Additionally, (−)-α-thujone itself exhibited valuable phytotoxic activities and contributed to the antifungal effects observed. This indicates a clear relationship between (−)-α-thujone and Candida albicans, specifically that (−)-α-thujone has antifungal activity against Candida albicans."
+      }
+    },
+    {
+      "fenchone_Fusarium_graminearum": {
+        "relationship": "N",
+        "reason": "The abstract describes the essential oils (EOs) from Thuja occidentalis containing several major components, including fenchone, and notes that these EOs exhibit potent inhibitory activity against the pathogenic fungus Fusarium graminearum. However, the antifungal activity is specifically attributed to the EOs as a whole and to (−)-α-thujone, which was purified and tested individually. There is no direct evidence or specific mention of fenchone alone having an inhibitory or any other relationship with Fusarium graminearum. Therefore, while fenchone is a component of the EOs that show activity, the abstract does not provide clear evidence that fenchone itself is responsible for or related to effects on Fusarium graminearum."
+      },
+      "fenchone_Curvularia_lunata": {
+        "relationship": "N",
+        "reason": "The abstract mentions that essential oils (EOs) from Thuja occidentalis, which include fenchone among other components, displayed potent inhibitory activity against pathogenic fungi including Curvularia lunata. However, the antifungal activity is attributed to the EOs as a whole and specifically to (−)-α-thujone, which was purified and tested for phytotoxic and antifungal activities. There is no direct evidence or specific mention that fenchone alone has a relationship with Curvularia lunata or exhibits antifungal activity against it. Therefore, based on the abstract, there is no clear relationship established between fenchone and Curvularia lunata."
+      },
+      "fenchone_Bipolaris_maydis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that essential oils (EOs) from Thuja occidentalis, which include fenchone among other components, displayed potent inhibitory activity against pathogenic fungi including Bipolaris maydis. However, the antifungal activity is attributed to the EOs as a whole and specifically highlights (−)-α-thujone and (+)-hibaene. There is no direct evidence or specific mention of fenchone alone having an effect on Bipolaris maydis. Therefore, while fenchone is a component of the EOs that inhibit Bipolaris maydis, the abstract does not provide clear evidence of a direct relationship between fenchone itself and Bipolaris maydis."
+      },
+      "fenchone_Candida_albicans": {
+        "relationship": "N",
+        "reason": "The abstract mentions that the essential oils (EOs) from Thuja occidentalis, which include fenchone among other components, displayed potent inhibitory activity against the human fungal pathogen Candida albicans. However, the antifungal activity is attributed to the EOs as a whole and specifically to (−)-α-thujone, which was purified and tested separately. There is no direct evidence or specific mention of fenchone alone exhibiting activity against Candida albicans. Therefore, while fenchone is a component of the EOs that show activity, the abstract does not provide clear evidence of a direct relationship between fenchone itself and Candida albicans."
+      }
+    },
+    {
+      "(+)-β-thujone_Fusarium_graminearum": {
+        "relationship": "N",
+        "reason": "The abstract describes the essential oils (EOs) from Thuja occidentalis containing several compounds including (+)-β-thujone, and reports that these EOs exhibit potent inhibitory activity against the pathogenic fungus Fusarium graminearum. However, the antifungal activity is attributed generally to the EOs and specifically to (−)-α-thujone, which was purified and tested for phytotoxic and antifungal effects. There is no direct evidence or specific mention of (+)-β-thujone alone having antifungal activity against Fusarium graminearum. Therefore, while the EOs containing (+)-β-thujone inhibit Fusarium graminearum, the abstract does not establish a clear relationship between (+)-β-thujone individually and Fusarium graminearum."
+      },
+      "(+)-β-thujone_Curvularia_lunata": {
+        "relationship": "N",
+        "reason": "The abstract mentions that essential oils (EOs) from Thuja occidentalis, which include (+)-β-thujone among other components, displayed potent inhibitory activity against pathogenic fungi including Curvularia lunata. However, the specific antifungal activity is attributed to the EOs as a whole and to (−)-α-thujone specifically, with no direct evidence or specific mention of (+)-β-thujone alone having an effect on Curvularia lunata. Therefore, there is no clear evidence of a direct relationship between (+)-β-thujone and Curvularia lunata based on the abstract."
+      },
+      "(+)-β-thujone_Bipolaris_maydis": {
+        "relationship": "N",
+        "reason": "The abstract describes the antifungal activity of essential oils (EOs) from Thuja occidentalis against several pathogenic fungi, including Bipolaris maydis. While (+)-β-thujone is identified as one of the major components of the EOs, the antifungal activity is specifically attributed to the EOs as a whole and to (−)-α-thujone. There is no direct evidence or specific mention of (+)-β-thujone alone having an effect on Bipolaris maydis. Therefore, based on the abstract, there is no clear relationship established between (+)-β-thujone and Bipolaris maydis."
+      },
+      "(+)-β-thujone_Candida_albicans": {
+        "relationship": "N",
+        "reason": "The abstract reports that essential oils (EOs) from Thuja occidentalis, which contain multiple components including (+)-β-thujone, exhibit potent inhibitory activity against the human fungal pathogen Candida albicans. However, the antifungal activity is specifically attributed to the EOs as a whole and to (−)-α-thujone, which was purified and identified and shown to have phytotoxic and antifungal effects. There is no direct evidence or specific mention of (+)-β-thujone alone having an inhibitory or any other relationship with Candida albicans. Therefore, based on the abstract, there is no clear relationship established between (+)-β-thujone individually and Candida albicans."
+      }
+    },
+    {
+      "(+)-hibaene_Fusarium_graminearum": {
+        "relationship": "N",
+        "reason": "The abstract describes that essential oils (EOs) from Thuja occidentalis, which contain (+)-hibaene among other compounds, exhibit inhibitory activity against the pathogenic fungus Fusarium graminearum. However, the antifungal activity is attributed generally to the EOs and specifically to (−)-α-thujone, which was purified and tested for phytotoxic and antifungal effects. There is no direct evidence or specific mention of (+)-hibaene alone having an effect on Fusarium graminearum. Therefore, while (+)-hibaene is a component of the EOs that show antifungal activity, the abstract does not provide clear evidence of a direct relationship between (+)-hibaene itself and Fusarium graminearum."
+      },
+      "(+)-hibaene_Curvularia_lunata": {
+        "relationship": "N",
+        "reason": "The abstract describes the essential oils (EOs) from Thuja occidentalis containing several compounds including (+)-hibaene and (−)-α-thujone. It reports that the EOs exhibited inhibitory activity against pathogenic fungi including Curvularia lunata. However, the antifungal activity is attributed to the EOs as a whole and specifically to (−)-α-thujone, which was purified and tested for phytotoxic and antifungal activities. There is no direct evidence or specific mention of (+)-hibaene alone having any activity or relationship with Curvularia lunata in the abstract. Therefore, no clear relationship between (+)-hibaene and Curvularia lunata can be established based on the provided information."
+      },
+      "(+)-hibaene_Bipolaris_maydis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that essential oils (EOs) from Thuja occidentalis, which contain (+)-hibaene among other compounds, displayed potent inhibitory activity against pathogenic fungi including Bipolaris maydis. However, the antifungal activity is attributed to the EOs as a whole and specifically to (−)-α-thujone, which was purified and tested for phytotoxic and antifungal activities. There is no direct evidence or specific mention of (+)-hibaene alone having a relationship with Bipolaris maydis in terms of antifungal activity or disease interaction. Therefore, based on the abstract, there is no clear relationship established between (+)-hibaene and Bipolaris maydis."
+      },
+      "(+)-hibaene_Candida_albicans": {
+        "relationship": "N",
+        "reason": "The abstract describes the essential oils (EOs) from Thuja occidentalis containing several compounds including (+)-hibaene and (−)-α-thujone. It reports that the EOs exhibited potent inhibitory activity against the human fungal pathogen Candida albicans. However, the antifungal activity is attributed to the EOs as a whole and specifically to (−)-α-thujone, which was purified and tested separately. There is no direct evidence or specific mention of (+)-hibaene having any antifungal activity or relationship with Candida albicans in the abstract. Therefore, based on the provided information, there is no clear relationship established between (+)-hibaene and Candida albicans."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds (−)-α-thujone, fenchone, (+)-β-thujone, and (+)-hibaene as major components of the volatile organic compounds and essential oils from Thuja occidentalis. These are specific chemical substances identified and analyzed using GC-MS and NMR techniques."
+}

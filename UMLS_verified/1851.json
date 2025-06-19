@@ -1,0 +1,104 @@
+{
+  "id": 1851,
+  "title": "The “olfactory fingerprint”: can diagnostics be improved by combining canine and digital noses?",
+  "Abstract": "Abstract A sniffer (detecting) dog is conventionally defined as an animal trained to use its olfactory perceptions for detecting a vast array of substances, mostly volatile organic compounds (VOCs), including those exceptionally or exclusively generated in humans bearing specific pathologies. Such an extraordinary sniffing performance translates into the capability of detecting compounds close to the femtomolar level, with performance comparable to that of current mass spectrometry-based laboratory applications. Not only can dogs accurately detect “abnormal volatilomes” reflecting something wrong happening to their owners, but they can also perceive visual, vocal and behavioral signals, which altogether would contribute to raise their alertness. Although it seems reasonable to conclude that sniffer dogs could never be considered absolutely “diagnostic” for a given disorder, several lines of evidence attest that they may serve as efficient screening aids for many pathological conditions affecting their human companions. Favorable results have been obtained in trials on cancers, diabetes, seizures, narcolepsy and migraine, whilst interesting evidence is also emerging on the capability of early and accurately identifying patients with infectious diseases. This would lead the way to proposing an “olfactory fingerprint” loop, where evidence that dogs can identify the presence of human pathologies provides implicit proof of the existence of disease-specific volatilomes, which can be studied for developing laboratory techniques. Contextually, the evidence that specific pathologies are associated with abnormal VOC generation may serve as reliable basis for training dogs to detect these compounds, even (or especially) in patients at an asymptomatic phase.",
+  "Disease_List": [
+    "cancers",
+    "diabetes",
+    "seizures",
+    "narcolepsy",
+    "migraine",
+    "infectious diseases"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases and pathological conditions including cancers, diabetes, seizures, narcolepsy, migraine, and infectious diseases. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancers",
+    "diabetes",
+    "seizures",
+    "narcolepsy",
+    "migraine",
+    "infectious diseases"
+  ],
+  "UMLS_search_results": {
+    "cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "seizures": [
+      {
+        "ui": "C0036572",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036572",
+        "name": "Seizures",
+        "mesh_id": "D012640"
+      }
+    ],
+    "narcolepsy": [
+      {
+        "ui": "C0027404",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027404",
+        "name": "Narcolepsy",
+        "mesh_id": "D009290"
+      }
+    ],
+    "migraine": [
+      {
+        "ui": "C0149931",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149931",
+        "name": "Migraine Disorders",
+        "mesh_id": "D008881"
+      }
+    ],
+    "infectious diseases": [
+      {
+        "ui": "C0009450",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009450",
+        "name": "Communicable Diseases",
+        "mesh_id": "D003141"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

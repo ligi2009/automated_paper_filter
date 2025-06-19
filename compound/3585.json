@@ -1,0 +1,63 @@
+{
+  "id": 3585,
+  "title": "Urinary volatile metabolites of amygdala-kindled mice reveal novel biomarkers associated with temporal lobe epilepsy",
+  "Abstract": "Epilepsy is a chronic neurological disorder affecting mammals, including humans. Uncontrolled epilepsy is associated with poor quality of life, accidents, and sudden death. In particular, temporal lobe epilepsy (TLE) is the most common type of pharmacoresistant epilepsy, which easily gets out of control in human adults. The aim of this study was to profile urinary volatile organic compounds (VOCs) in a mouse model of TLE using solid-phase microextraction (SPME) gas chromatography mass spectrometry (GC-MS). Thirteen urinary VOCs exhibited differential abundance between epileptic and control mice, and the corresponding areas under the receiver operating characteristic (ROC) curve were greater than 0.8. Principal component analysis (PCA) based on these 13 VOCs separated epileptic from sham operated-mice, suggesting that all these 13 VOCs are epilepsy biomarkers. Promax rotation and dendrogram analysis concordantly separated the 13 VOCs into three groups. Stepwise linear discriminant analysis extracted methanethiol; disulfide, dimethyl; and 2-butanone as predictors. Based on known metabolic systems, the results suggest that TLE induced by amygdala stimulation could affect both endogenous metabolites and the gut flora. Future work will elucidate the physiological meaning of the VOCs as end-products of metabolic networks and assess the impact of the metabolic background involved in development of TLE.",
+  "Disease_List": [
+    "Epilepsy",
+    "Temporal lobe epilepsy (TLE)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Epilepsy' as a chronic neurological disorder and specifically identifies 'Temporal lobe epilepsy (TLE)' as a subtype. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Epilepsy"
+  ],
+  "UMLS_search_results": {
+    "Epilepsy": [
+      {
+        "ui": "C0014544",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014544",
+        "name": "Epilepsy",
+        "mesh_id": "D004827"
+      }
+    ],
+    "Temporal lobe epilepsy (TLE)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "methanethiol",
+    "disulfide, dimethyl",
+    "2-butanone"
+  ],
+  "compound_CID": [
+    {
+      "methanethiol": 878,
+      "disulfide, dimethyl": 12232,
+      "2-butanone": 6569
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "methanethiol_Epilepsy": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanethiol was identified as one of the urinary volatile organic compounds (VOCs) that differ in abundance between epileptic and control mice in a temporal lobe epilepsy (TLE) mouse model. Methanethiol was extracted as a predictor in stepwise linear discriminant analysis, indicating its potential role as a biomarker associated with epilepsy. The study suggests that TLE affects endogenous metabolites and gut flora, implicating methanethiol in the metabolic changes related to epilepsy. Therefore, there is evidence of a relationship between methanethiol and epilepsy based on its differential presence and predictive value in the disease model."
+      }
+    },
+    {
+      "disulfide, dimethyl_Epilepsy": {
+        "relationship": "Y",
+        "reason": "The abstract reports that disulfide, dimethyl was identified as one of the urinary volatile organic compounds (VOCs) that exhibited differential abundance between epileptic and control mice in a temporal lobe epilepsy (TLE) mouse model. It was extracted as a predictor in stepwise linear discriminant analysis, indicating its potential role as a biomarker associated with epilepsy. This suggests a relationship between disulfide, dimethyl and epilepsy, specifically TLE, as part of metabolic changes linked to the disease."
+      }
+    },
+    {
+      "2-butanone_Epilepsy": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-butanone was identified as one of the urinary volatile organic compounds (VOCs) that exhibited differential abundance between epileptic and control mice in a temporal lobe epilepsy (TLE) mouse model. Furthermore, 2-butanone was extracted as a predictor in stepwise linear discriminant analysis, indicating its potential role as a biomarker associated with epilepsy. This suggests a relationship between 2-butanone and epilepsy, likely reflecting metabolic changes induced by the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions methanethiol, dimethyl disulfide (referred to as disulfide, dimethyl), and 2-butanone as urinary volatile organic compounds (VOCs) that serve as predictors and potential biomarkers in the study of temporal lobe epilepsy (TLE). These are specific chemical compound names identified among the 13 VOCs analyzed."
+}

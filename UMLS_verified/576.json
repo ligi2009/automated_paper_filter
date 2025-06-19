@@ -1,0 +1,39 @@
+{
+  "id": 576,
+  "title": "Discrimination of SARS-CoV-2 infected patient samples by detection dogs: A proof of concept study",
+  "Abstract": "While the world awaits a widely available COVID-19 vaccine, availability of testing is limited in many regions and can be further compounded by shortages of reagents, prolonged processing time and delayed results. One approach to rapid testing is to leverage the volatile organic compound (VOC) signature of SARS-CoV-2 infection. Detection dogs, a biological sensor of VOCs, were utilized to investigate whether SARS-CoV-2 positive urine and saliva patient samples had a unique odor signature. The virus was inactivated in all training samples with either detergent or heat treatment. Using detergent-inactivated urine samples, dogs were initially trained to find samples collected from hospitalized patients confirmed with SARS-CoV-2 infection, while ignoring samples collected from controls. Dogs were then tested on their ability to spontaneously recognize heat-treated urine samples as well as heat-treated saliva from hospitalized SARS-CoV-2 positive patients. Dogs successfully discriminated between infected and uninfected urine samples, regardless of the inactivation protocol, as well as heat-treated saliva samples. Generalization to novel samples was limited, particularly after intensive training with a restricted sample set. A unique odor associated with SARS-CoV-2 infection present in human urine as well as saliva, provides impetus for the development of odor-based screening, either by electronic, chemical, or biological sensing methods. The use of dogs for screening in an operational setting will require training with a large number of novel SARS-CoV-2 positive and confirmed negative samples.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' and 'SARS-CoV-2 infection' as specific diseases. COVID-19 is the disease caused by the SARS-CoV-2 virus, and the study focuses on detecting this infection using dogs. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2 infection": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

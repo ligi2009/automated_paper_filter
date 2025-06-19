@@ -1,0 +1,28 @@
+{
+  "id": 2740,
+  "title": "Optimization of the Electronic Nose Sensor Array for Asthma Detection Based on Genetic Algorithm",
+  "Abstract": "The human body releases several gases and volatile organic compounds through exhaled breath. This compound can be used as markers of lung disease, including asthma. An electronic nose can play a role in determining a patient’s condition. The main problem that often occurs is the selection of appropriate sensors based on their characteristics and performance in detecting various gases to provide an optimal system while still providing high accuracy. Genetic algorithms have a good advantage in applying feature selection problems that can effectively solve noise and collinearity problems through three main genetic operators: crossover, mutation, and selection. This study aims to apply this method to determine the optimal number of gas sensors in identifying healthy people and asthma suspects through an exhaled breath. Several classification methods are combined with selected gas sensor arrays to obtain an optimized electronic nose, including support vector machine (SVM), random forest (RF), extreme gradient boosting (XGBoost), artificial neural network (ANN), one-dimensional convolutional neural network (1D-CNN), long short-term memory (LSTM), gated recurrent unit (GRU), 1D CNN-LSTM, and 1D CNN-GRU. These machine-learning approaches are usually used for electronic nose systems as highly accurate classification methods depending on the parameters. The experimental results showed that the genetic algorithm produced five gas sensors that provided a certain sensor pattern on the exhaled breath from the asthma suspects. Meanwhile, the 1D-CNN model was chosen as a classification method for the asthma dataset with an accuracy of 96.6%, a precision of 96.1%, a recall of 95.5%, and an F1-score of 95.6%.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' as a specific disease name multiple times, including references to 'lung disease, including asthma' and 'asthma suspects.' Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

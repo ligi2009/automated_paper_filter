@@ -1,0 +1,100 @@
+{
+  "id": 5043,
+  "title": "Phytochemical analysis and antimicrobial activity of Chorella vulgaris isolated from Unkal Lake",
+  "Abstract": "Objective: To determine the presence of bioactive molecules and to check their antimicrobial activity from green algae Chlorella vulgaris (AS-3) (C. vulgaris) isolated from Unkal Lake in Dharwad District, Karnataka, India. Methods: Based on the polarity, benzene, chloroform, ethyl acetate, ethanol, hexane, methanol, petroleum ether and distilled water were the solvents used for the preparation of algal extracts using Soxhlet apparatus, which were further subjected to phytochemical analysis and screening of antimicrobial activity. Human pathogens such as Staphylococcus aureus, Corynebacterium, Bacillus subtilis, Streptococcus, Escherichia coli, Salmonella Paratyphi B, Klebsiella pneumoniae, Aerobacter aerogenes, Candida albicans and Aspergillus niger were used for antimicrobial assay. Standard methods were followed for qualitative estimation of phytochemicals. Results: Phytochemical determination of bioactive molecules showed the presence of alkaloids, flavonoids, glycosides, carotenoids, phenols, lignins, saponins, sterols, tannins, reducing sugars, volatile oil, fats, amino acids and carbohydrates. In vitro analysis of organic solvent extracts of C. vulgaris, a green microalgae, showed an activity by suppressing the proliferation of bacterial, fungal and human pathogens. Four extracts (chloroform, ethyl acetate, hexane and methanol) showed effective inhibitory activity against the tested pathogens. Depending on the percentage of bioactive molecules present in each of the organic extracts, different extracts showed different inhibition zone diameters against the pathogens. Among the eight organic extracts used for the study, excellent inhibitory effects were shown by chloroform and methanol extracts. Conclusions: The present study indicates that green algae C. vulgaris is rich in natural compounds which are highly important in pharmacology and nutraceuticals. Although the presence of bioactive molecules is very less in the algae, excellent effect on the microbial pathogens was observed. Article history: Received 3 Aug 2015 Received in revised form 8 Sep 2015 Accepted 15 Mar 2016 Available online 20 May 2016",
+  "Disease_List": [
+    "Staphylococcus aureus infection",
+    "Corynebacterium infection",
+    "Bacillus subtilis infection",
+    "Streptococcus infection",
+    "Escherichia coli infection",
+    "Salmonella Paratyphi B infection",
+    "Klebsiella pneumoniae infection",
+    "Aerobacter aerogenes infection",
+    "Candida albicans infection",
+    "Aspergillus niger infection"
+  ],
+  "Reason": "The abstract explicitly mentions several human pathogens by name, including Staphylococcus aureus, Corynebacterium, Bacillus subtilis, Streptococcus, Escherichia coli, Salmonella Paratyphi B, Klebsiella pneumoniae, Aerobacter aerogenes, Candida albicans, and Aspergillus niger. These pathogens are associated with specific infectious diseases. Although the diseases themselves are not named explicitly, the pathogens are specific and well-known causes of particular diseases, so the classification is 'Y' for specific disease names mentioned in the form of pathogen names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Staphylococcus aureus infection",
+    "Corynebacterium infection",
+    "Streptococcus infection",
+    "Escherichia coli infection",
+    "Klebsiella pneumoniae infection",
+    "Candida albicans infection",
+    "Aspergillus niger infection"
+  ],
+  "UMLS_search_results": {
+    "Staphylococcus aureus infection": [
+      {
+        "ui": "C1318973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1318973",
+        "name": "Staphylococcus aureus infection",
+        "mesh_id": "D013203"
+      }
+    ],
+    "Corynebacterium infection": [
+      {
+        "ui": "C0010153",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010153",
+        "name": "Corynebacterium Infections",
+        "mesh_id": "D003354"
+      }
+    ],
+    "Bacillus subtilis infection": [],
+    "Streptococcus infection": [
+      {
+        "ui": "C0038395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038395",
+        "name": "Streptococcal Infections",
+        "mesh_id": "D013290"
+      }
+    ],
+    "Escherichia coli infection": [
+      {
+        "ui": "C0014836",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014836",
+        "name": "Escherichia coli Infections",
+        "mesh_id": "D004927"
+      }
+    ],
+    "Salmonella Paratyphi B infection": [],
+    "Klebsiella pneumoniae infection": [
+      {
+        "ui": "C0948802",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0948802",
+        "name": "Klebsiella pneumoniae infection",
+        "mesh_id": "None"
+      }
+    ],
+    "Aerobacter aerogenes infection": [],
+    "Candida albicans infection": [
+      {
+        "ui": "C0276680",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276680",
+        "name": "Infection by Candida albicans",
+        "mesh_id": "None"
+      }
+    ],
+    "Aspergillus niger infection": [
+      {
+        "ui": "C0276657",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276657",
+        "name": "Aspergillus niger infection",
+        "mesh_id": "C535390"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

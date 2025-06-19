@@ -1,0 +1,71 @@
+{
+  "id": 5279,
+  "title": "CO2 Laser Photoacoustic Spectrometer for Measuring Acetone in the Breath of Lung Cancer Patients",
+  "Abstract": "A CO2 laser has the advantages of being high in power and having many laser lines in the 9–11 µm infrared region. Thus, a CO2 laser photoacoustic spectrometer (PAS) can have a multi-component measurement capability for many gas compounds that have non-zero absorption coefficients at the laser lines, and therefore can be applied for measuring several volatile organic compounds (VOCs) in the human breath. We have developed a CO2 laser PAS system for detecting acetone in the human breath. Although acetone has small absorption coefficients at the CO2 laser lines, our PAS system was able to obtain strong photoacoustic (PA) signals at several CO2 laser lines, with the strongest one being at the 10P20 line. Since at the 10P20 line, ethylene and ammonia also have significant absorption coefficients, these two gases have to be included in a multi-component measurement with acetone. We obtained the lowest detection limit of our system for the ethylene, acetone, and ammonia are 6 ppbv, 11 ppbv, and 31 ppbv, respectively. We applied our PAS system to measure these three VOCs in the breath of three groups of subjects, i.e., patients with lung cancer disease, patients with other lung diseases, and healthy volunteers.",
+  "Disease_List": [
+    "lung cancer disease",
+    "lung diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer disease' and 'lung diseases' as specific disease names when describing the groups of subjects whose breath was measured. These are specific diseases rather than general terms, so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung diseases"
+  ],
+  "UMLS_search_results": {
+    "lung cancer disease": [],
+    "lung diseases": [
+      {
+        "ui": "C0024115",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024115",
+        "name": "Lung diseases",
+        "mesh_id": "D008171"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "CO2",
+    "acetone",
+    "ethylene",
+    "ammonia"
+  ],
+  "compound_CID": [
+    {
+      "CO2": 280,
+      "acetone": 180,
+      "ethylene": 6325,
+      "ammonia": 222
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "CO2_lung_diseases": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a CO2 laser photoacoustic spectrometer (PAS) system for detecting volatile organic compounds (VOCs) such as acetone, ethylene, and ammonia in human breath. The CO2 laser is used as a tool for measurement and detection, not as a compound causing or related to lung diseases. The study involves patients with lung cancer and other lung diseases, but the relationship is between the VOCs detected and the diseases, not between CO2 itself and lung diseases. Therefore, there is no evidence in the abstract of a direct relationship between the compound CO2 and lung diseases."
+      }
+    },
+    {
+      "acetone_lung_diseases": {
+        "relationship": "N",
+        "reason": "The abstract describes the development and application of a CO2 laser photoacoustic spectrometer system to detect acetone and other volatile organic compounds in human breath. It mentions that measurements were taken from patients with lung cancer, other lung diseases, and healthy volunteers. However, the abstract does not provide any evidence or findings indicating a direct relationship between acetone levels and lung diseases. It only states that acetone was measured in these groups, without discussing any correlation, causation, or diagnostic relevance. Therefore, based on the abstract alone, there is no clear evidence of a relationship between acetone and lung diseases."
+      }
+    },
+    {
+      "ethylene_lung_diseases": {
+        "relationship": "N",
+        "reason": "The abstract describes the development and application of a CO2 laser photoacoustic spectrometer system to measure volatile organic compounds, including ethylene, acetone, and ammonia, in human breath. It mentions that measurements were taken from patients with lung cancer, other lung diseases, and healthy volunteers. However, the abstract does not provide any evidence or discussion indicating a direct relationship between ethylene levels and lung diseases. It only states that ethylene is one of the compounds measured, without linking its presence or concentration to the disease state. Therefore, based on the abstract alone, there is no clear evidence of a relationship between ethylene and lung diseases."
+      }
+    },
+    {
+      "ammonia_lung_diseases": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of a CO2 laser photoacoustic spectrometer system capable of detecting acetone, ethylene, and ammonia in human breath. It mentions that measurements were taken from patients with lung cancer, other lung diseases, and healthy volunteers. However, the abstract does not provide any evidence or findings indicating a direct relationship between ammonia levels and lung diseases. It only states that ammonia is one of the gases measured, without discussing any correlation or causation with lung diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds CO2 (carbon dioxide) as the laser medium, and the gases acetone, ethylene, and ammonia as target analytes detected by the photoacoustic spectrometer. These are specific chemical substances named explicitly, unlike general terms such as 'volatile organic compounds' or 'gas compounds'."
+}

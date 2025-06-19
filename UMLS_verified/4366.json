@@ -1,0 +1,132 @@
+{
+  "id": 4366,
+  "title": "Disease Sniffing: Its Applications in Urology",
+  "Abstract": "Clinical investigations are part of medical study for which an investigator directly interacts with patients in either an outpatient or inpatient setting. However, there is no single test that can definitively diagnose the cause of a person’s symptoms. Tests may be easy or difficult to be carried out. Studies have shown that taught dogs could detect many kinds of tumors including lung, breast, ovarian, bladder, and prostate cancers, through smell. In some cases, involving prostate cancer for example, the dogs had a 99 percent success rate in detecting the disease by sniffing patients’ urine samples. Researchers at Massachusetts Institute of Technology and other institutions have invented a system that can detect the chemical and microbial content of an air sample with greater sensitivity than a dog’s nose. Together with a machinelearning process that can recognize the characteristics of the disease-bearing samples [1]. Other data showed the possibility of differentiating between (Gleason 9) prostate cancer from biopsynegative controls by different methods. Trained canine olfaction, Conventional Gas Chromatography-Mass Spectroscopy (GC-MS), analysis of urine headspace Volatile Organic Compound (VOC) as well as purpose-developed volatile organic compound ANN (Artificial Neural Network) approach, and urinary microbiota profiling on the same samples. The canines were able to detect Gleason 9 prostate cancer versus biopsy-negative controls at a high sensitivity and specificity. Analysis of GC-MS data collected on urinary VOCs was able to identify molecular species differentiating cancer from biopsy-negative controls while further validation is needed. Microbiota profiling did not differentiate prostate cancer from biopsy-negative controls when assessed as a whole, however individual VOCs and microbial species were found to be differentially abundant in the two groups. Combining these data streams allowed workers to train an ANN to imitate canine olfactory diagnosis. The aim was to develop a machinebased olfactory diagnostic tools that define and review what can be detected and achieved by using canine olfaction [2]. Dogs have been shown to have extremely sensitive noses as proven by their use for tracking, bomb detection, and search. However, in contrast to analytical instruments, dogs are subject to fatigue, hunger, and external distractions [3]. Electronic noses (e-noses) is an easy and cheap method for exhaled volatile compound analysis. Many electronic noses are available which differ in material and analytical performance [4]. Dogs can be trained to distinguish patients with bladder cancer based on urine odor more successfully than would be expected by chance alone. This suggests that tumor related volatile compounds are present in urine, reporting a characteristic odor signature distinct from those associated with secondary effects of the tumor, such as bleeding, inflammation, and infection [5]. Nanosensor array was used (a technique developed by NASA to improve the quality of medical diagnosis. It uses a network of nanochemical sensors on a silicon chip combined with a monitoring system, and pressure/flow sensors for real-time chemical and physical properties measurement of human breath for non-invasive and low-cost medical diagnosis.) The aim of its use was to discriminate between breath VOCs that characterize healthy states and the most widespread cancer states: lung, breast, colorectal, and prostate cancers. The reported results could lead to the development of an inexpensive, easyto-use, portable, non-invasive tool that overcomes many of the deficiencies associated with the currently available diagnostic methods for cancer [6].",
+  "Disease_List": [
+    "lung cancer",
+    "breast cancer",
+    "ovarian cancer",
+    "bladder cancer",
+    "prostate cancer",
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases by name, including lung cancer, breast cancer, ovarian cancer, bladder cancer, prostate cancer, and colorectal cancer. These are all specific types of cancer, which are diseases. The text discusses detection methods for these cancers, highlighting their explicit mention rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "breast cancer",
+    "ovarian cancer",
+    "bladder cancer",
+    "prostate cancer",
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ],
+    "ovarian cancer": [
+      {
+        "ui": "C1140680",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1140680",
+        "name": "Malignant neoplasm of ovary",
+        "mesh_id": "D010051"
+      },
+      {
+        "ui": "C0919267",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0919267",
+        "name": "ovarian neoplasm",
+        "mesh_id": "D010051"
+      }
+    ],
+    "bladder cancer": [
+      {
+        "ui": "C0005684",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005684",
+        "name": "Malignant neoplasm of urinary bladder",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ],
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

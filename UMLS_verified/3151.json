@@ -1,0 +1,77 @@
+{
+  "id": 3151,
+  "title": "The Potential Impact of Smog Spell on Humans’ Health Amid COVID-19 Rages",
+  "Abstract": "Rapid and unchecked industrialization and the combustion of fossil fuels have engendered a state of fear in urban settlements. Smog is a visible form of air pollution that arises due to the over-emissions of some primary pollutants like volatile organic compounds (VOCs), hydrocarbons, SO2, NO, and NO2 which further react in the atmosphere and give rise to toxic and carcinogenic secondary smog components. Smog reduces the visibility on roads and results in road accidents and cancellation of flights. Uptake of primary and secondary pollutants of smog is responsible for several deleterious diseases of which respiratory disorders, cardiovascular dysfunction, neurological disorders, and cancer are discussed here. Children and pregnant women are more prone to the hazards of smog. The worsening menace of smog on one hand and occurrence of pandemic i.e., COVID-19 on the other may increase the mortality rate. But the implementation of lockdown during pandemics has favored the atmosphere in some ways, which will be highlighted in the article. On the whole, the focus of this article will be on the dubious relationship between smog and coronavirus.",
+  "Disease_List": [
+    "respiratory disorders",
+    "cardiovascular dysfunction",
+    "neurological disorders",
+    "cancer",
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and conditions such as respiratory disorders, cardiovascular dysfunction, neurological disorders, cancer, and COVID-19. These are named diseases or disease categories rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory disorders",
+    "neurological disorders",
+    "cancer",
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "respiratory disorders": [
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      }
+    ],
+    "cardiovascular dysfunction": [],
+    "neurological disorders": [
+      {
+        "ui": "C0027765",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027765",
+        "name": "nervous system disorder",
+        "mesh_id": "D009422"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,50 @@
+{
+  "id": 6165,
+  "title": "Air pollution exposure and inflammatory bowel disease: a systematic literature review of epidemiological and mechanistic studies",
+  "Abstract": "This systematic literature review investigates the relationship between air pollution exposure and inflammatory bowel disease (IBD), encompassing Crohn's disease (CD) and ulcerative colitis (UC). Despite the growing concern over air pollution's impact on various health outcomes, studies specifically addressing effects on the digestive system, particularly IBD, are relatively rare. This review aims to synthesize the current knowledge on this topic, focusing on the mechanisms underlying these associations and the role of different air pollutants. Following PRISMA guidelines, a systematic literature search of PubMed and Web of Science databases was conducted, yielding 13 epidemiological studies and six mechanistic (toxicological) studies meeting the inclusion criteria. The epidemiological studies examined associations between IBD and various air pollutants, including PM2.5 (particles with an aerodynamic diameter smaller than, or equal to, 2.5 µm), PM10 (particles with an aerodynamic diameter smaller than, or equal to, 10 µm), PM2.5–10 (coarse particles with an aerodynamic diameter in the range of 2.5–10 µm), BC (black carbon), NO2 (nitrogen dioxide), NO (nitrogen monoxide), NOx (nitrogen oxides), N2O (nitrous oxide), CO (carbon monoxide), SO2 (sulfur dioxide), VOC (volatile organic compounds), O3 (ozone), Ox (oxidant capacity), and traffic load. Study methodologies varied among these 13 epidemiological studies, including four cohort studies, two ecological studies, three case-control studies, two studies using two-sample Mendelian randomization, and two longitudinal time-series studies. Eight studies investigated associations with Crohn's disease and ulcerative colitis separately, while five studies analyzed IBD as a whole without distinguishing between CD and UC. Eleven studies found statistically significant associations between air pollution exposure and IBD, although inconsistent results were found in several of these studies. A total number of six mechanistic (toxicological) studies were retrieved. Among these six studies, five were using particulate matter as exposure metric, and one was based on NO2 and O3 as exposure metrics. With a combination of animal, human, and in vitro studies, the results in terms of biological mechanisms indicate that air pollution exposure influences the composition of the gut microbiome, altering metabolic functions within the gut, and creates immunological reactions with inflammation contributing to the development of IBD. Consequently, the results suggest a link between air pollution exposure and both the onset and exacerbation of IBD. However, differences in study design, exposure assessment, and pollutant types make it challenging to draw any firm conclusions. Moreover, the lack of multi-pollutant models in most epidemiological studies makes it difficult to estimate the individual effect of specific air pollutants. This review highlights the need for further research utilizing robust study designs and standardized exposure assessment methods to better understand the impact of air pollution on IBD. By elucidating these associations, policymakers and healthcare professionals can develop effective strategies to mitigate the adverse effects of air pollution on digestive health.",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "ulcerative colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names including 'inflammatory bowel disease (IBD)', 'Crohn's disease (CD)', and 'ulcerative colitis (UC)'. These are well-defined diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "ulcerative colitis"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "Crohn's disease": [
+      {
+        "ui": "C0010346",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010346",
+        "name": "Crohn Disease",
+        "mesh_id": "D003424"
+      }
+    ],
+    "ulcerative colitis": [
+      {
+        "ui": "C0009324",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009324",
+        "name": "Ulcerative Colitis",
+        "mesh_id": "D003093"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

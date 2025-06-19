@@ -1,0 +1,99 @@
+{
+  "id": 3148,
+  "title": "Green synthesis and antitumor activity of (E)-diethyl 2-styrylquinoline-3,4-dicarboxylates",
+  "Abstract": "In this work, a green, efficient and catalyst-free synthesis of a series of structurally novel (E)-diethyl 2-styrylquinoline-3,4-dicarboxylates via a direct olefination reaction between diethyl 2-methylquinoline-3,4-dicarboxylate and various aromatic aldehydes was successfully accomplished by employing eco-friendly 1,3-dimethylurea/l-(+)-tartaric acid (DMU/LTA) as an inexpensive, non-toxic and reusable reaction medium. This methodology has the attractive advantages of mild reaction conditions, simple experimental operation, and the absence of any dangerous catalysts or unsafe volatile organic solvents, with satisfactory to good yields. Subsequently, a primary in vitro evaluation for their anti-proliferative activity against human cancer cell lines A549, HT29 and T24 revealed that the compound with the 3,4,5-trimethoxystyryl moiety exhibited potent anti-tumor activity with IC50 values of 2.38, 4.52 and 9.86 μmol L−1, respectively, thereby being equipotent or even better than the reference cisplatin.",
+  "Disease_List": [
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'human cancer cell lines A549, HT29 and T24' and refers to 'anti-tumor activity,' which directly relates to the disease cancer. Although specific cancer types are not named, the term 'cancer' is explicitly mentioned through the cell lines and anti-cancer activity, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "(E)-diethyl 2-styrylquinoline-3,4-dicarboxylates",
+    "diethyl 2-methylquinoline-3,4-dicarboxylate",
+    "1,3-dimethylurea",
+    "l-(+)-tartaric acid",
+    "3,4,5-trimethoxystyryl moiety",
+    "cisplatin"
+  ],
+  "compound_CID": [
+    {
+      "(E)-diethyl 2-styrylquinoline-3,4-dicarboxylates": "None",
+      "diethyl 2-methylquinoline-3,4-dicarboxylate": "None",
+      "1,3-dimethylurea": 7293,
+      "l-(+)-tartaric acid": 444305,
+      "3,4,5-trimethoxystyryl moiety": "None",
+      "cisplatin": 5460033
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "(E)-diethyl 2-styrylquinoline-3,4-dicarboxylates_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the synthesis of (E)-diethyl 2-styrylquinoline-3,4-dicarboxylates and reports a primary in vitro evaluation of their anti-proliferative activity against human cancer cell lines A549, HT29, and T24. One compound with the 3,4,5-trimethoxystyryl moiety showed potent anti-tumor activity with IC50 values comparable to or better than cisplatin, a known chemotherapy drug. This provides clear evidence of a relationship between (E)-diethyl 2-styrylquinoline-3,4-dicarboxylates and cancer, specifically their potential anti-cancer activity."
+      }
+    },
+    {
+      "diethyl 2-methylquinoline-3,4-dicarboxylate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the synthesis of diethyl 2-styrylquinoline-3,4-dicarboxylates from diethyl 2-methylquinoline-3,4-dicarboxylate and aromatic aldehydes. The resulting compounds were evaluated for anti-proliferative activity against human cancer cell lines and showed potent anti-tumor activity, with some compounds being as effective or better than cisplatin. This indicates that diethyl 2-methylquinoline-3,4-dicarboxylate is a precursor to compounds with demonstrated anti-cancer activity, establishing a relationship between the compound and cancer."
+      }
+    },
+    {
+      "1,3-dimethylurea_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of 1,3-dimethylurea (DMU) as a green, non-toxic, and reusable reaction medium in the synthesis of novel compounds. It does not indicate that 1,3-dimethylurea itself has any direct anti-cancer or carcinogenic activity. Instead, the anti-proliferative (anti-tumor) activity against cancer cell lines is attributed to the synthesized compounds containing the 3,4,5-trimethoxystyryl moiety, not to 1,3-dimethylurea. Therefore, there is no evidence in the abstract of a direct relationship between 1,3-dimethylurea and cancer."
+      }
+    },
+    {
+      "l-(+)-tartaric acid_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of l-(+)-tartaric acid as part of a green, non-toxic, and reusable reaction medium (DMU/LTA) for synthesizing novel compounds. The anti-proliferative activity against cancer cell lines is attributed to the synthesized compound with the 3,4,5-trimethoxystyryl moiety, not to l-(+)-tartaric acid itself. There is no direct evidence or indication that l-(+)-tartaric acid alone has any relationship with cancer or anti-cancer activity in the abstract."
+      }
+    },
+    {
+      "3,4,5-trimethoxystyryl moiety_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the compound containing the 3,4,5-trimethoxystyryl moiety exhibited potent anti-tumor activity in vitro against human cancer cell lines A549, HT29, and T24, with IC50 values indicating strong anti-proliferative effects. This demonstrates a clear relationship between the 3,4,5-trimethoxystyryl moiety and cancer, specifically its potential as an anti-cancer agent."
+      }
+    },
+    {
+      "cisplatin_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that the newly synthesized compounds were evaluated for their anti-proliferative activity against human cancer cell lines and that one compound exhibited potent anti-tumor activity comparable to or better than the reference drug cisplatin. This indicates that cisplatin is used as a reference standard for anti-cancer activity, demonstrating a clear relationship between cisplatin and cancer treatment."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds involved in the synthesis and evaluation process, including the starting material diethyl 2-methylquinoline-3,4-dicarboxylate, the product (E)-diethyl 2-styrylquinoline-3,4-dicarboxylates, the reaction medium components 1,3-dimethylurea and l-(+)-tartaric acid, the active moiety 3,4,5-trimethoxystyryl, and the reference drug cisplatin used for comparison in anti-tumor activity."
+}

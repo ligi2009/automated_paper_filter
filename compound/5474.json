@@ -1,0 +1,93 @@
+{
+  "id": 5474,
+  "title": "High Efficacy of the Volatile Organic Compounds of Streptomyces yanglinensis 3-10 in Suppression of Aspergillus Contamination on Peanut Kernels",
+  "Abstract": "Aspergillus flavus and Aspergillus parasiticus are saprophytic fungi which can infect and contaminate preharvest and postharvest food/feed with production of aflatoxins (B1, B2, and G). They are also an opportunistic pathogen causing aspergillosis diseases of animals and humans. In this study, the volatile organic compounds (VOCs) from Streptomyces yanglinensis 3-10 were found to be able to inhibit mycelial growth, sporulation, conidial germination, and expression of aflatoxin biosynthesis genes in A. flavus and A. parasiticus in vitro. On peanut kernels, the VOCs can also reduce the disease severity and inhibit the aflatoxins production by A. flavus and A. parasiticus under the storage conditions. Scanning electron microscope (SEM) observation showed that high dosage of the VOCs can inhibit conidial germination and colonization by the two species of Aspergillus on peanut kernels. The VOCs also showed suppression of mycelial growth on 18 other plant pathogenic fungi and one Oomycetes organism. By using SPME-GC-MS, 19 major VOCs were detected, like in other Streptomyces, 2-MIB was found as the main volatile component among the detected VOCs. Three standard chemicals, including methyl 2-methylbutyrate (M2M), 2-phenylethanol (2-PE), and β-caryophyllene (β-CA), showed antifungal activity against A. flavus and A. parasiticus. Among them, M2M showed highest inhibitory effect than other two standard compounds against conidial germination of A. flavus and A. parasiticus. To date, this is the first record about the antifungal activity of M2M against A. flavus and A. parasiticus. The VOCs from S. yanglinensis 3-10 did not affect growth of peanut seedlings. In conclusion, our results indicate that S. yanglinensis 3-10 may has a potential to become a promising biofumigant in for control of A. flavus and A. parasiticus.",
+  "Disease_List": [
+    "aspergillosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'aspergillosis diseases of animals and humans,' which is a specific disease caused by Aspergillus species. Although the abstract discusses fungi and aflatoxin contamination, the only specific disease name mentioned is aspergillosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "aspergillosis"
+  ],
+  "UMLS_search_results": {
+    "aspergillosis": [
+      {
+        "ui": "C0004030",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004030",
+        "name": "Aspergillosis",
+        "mesh_id": "D001228"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "aflatoxins B1",
+    "aflatoxins B2",
+    "aflatoxins G",
+    "2-MIB",
+    "methyl 2-methylbutyrate",
+    "2-phenylethanol",
+    "β-caryophyllene"
+  ],
+  "compound_CID": [
+    {
+      "aflatoxins B1": "None",
+      "aflatoxins B2": "None",
+      "aflatoxins G": "None",
+      "2-MIB": "None",
+      "methyl 2-methylbutyrate": 13357,
+      "2-phenylethanol": 6054,
+      "β-caryophyllene": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "aflatoxins B1_aspergillosis": {
+        "relationship": "N",
+        "reason": "The abstract describes Aspergillus flavus and Aspergillus parasiticus as fungi that produce aflatoxins B1, B2, and G, and also as opportunistic pathogens causing aspergillosis. However, the relationship is that the fungi cause aspergillosis and produce aflatoxins B1 as a toxin contaminant, not that aflatoxins B1 themselves cause aspergillosis. The disease aspergillosis is caused by the fungal infection, not directly by the aflatoxins B1 compound. Therefore, there is no clear relationship between aflatoxins B1 and aspergillosis as a disease entity."
+      }
+    },
+    {
+      "aflatoxins B2_aspergillosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Aspergillus flavus and Aspergillus parasiticus produce aflatoxins B1, B2, and G while also acting as opportunistic pathogens causing aspergillosis in animals and humans. This establishes a relationship between aflatoxins B2, produced by these fungi, and the disease aspergillosis caused by the same fungal species. Although the abstract focuses on inhibition of fungal growth and aflatoxin production, it clearly links aflatoxins B2 with the fungi responsible for aspergillosis, implying a relationship between the compound and the disease."
+      }
+    },
+    {
+      "aflatoxins G_aspergillosis": {
+        "relationship": "Y",
+        "reason": "The abstract states that Aspergillus flavus and Aspergillus parasiticus produce aflatoxins B1, B2, and G, and these fungi are opportunistic pathogens causing aspergillosis in animals and humans. This indicates a direct relationship between aflatoxins G (produced by these fungi) and the disease aspergillosis, as the fungi responsible for aspergillosis also produce aflatoxins G."
+      }
+    },
+    {
+      "2-MIB_aspergillosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of volatile organic compounds (VOCs) from Streptomyces yanglinensis 3-10 against Aspergillus flavus and Aspergillus parasiticus, which are pathogens causing aspergillosis. While 2-MIB is identified as the main volatile component among the detected VOCs, the antifungal activity is specifically attributed to other compounds such as methyl 2-methylbutyrate (M2M), 2-phenylethanol (2-PE), and β-caryophyllene (β-CA). There is no direct evidence or mention of 2-MIB having an inhibitory or causative relationship with aspergillosis or the Aspergillus species causing it. Therefore, based on this abstract, there is no clear relationship established between 2-MIB and aspergillosis."
+      }
+    },
+    {
+      "methyl 2-methylbutyrate_aspergillosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that methyl 2-methylbutyrate (M2M) exhibits antifungal activity against Aspergillus flavus and Aspergillus parasiticus, which are opportunistic pathogens causing aspergillosis in animals and humans. Specifically, M2M showed the highest inhibitory effect on conidial germination of these fungi among tested compounds. Since aspergillosis is caused by these Aspergillus species, the antifungal activity of M2M against them indicates a relationship between the compound and the disease, suggesting potential for M2M to help control or prevent aspergillosis."
+      }
+    },
+    {
+      "2-phenylethanol_aspergillosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes that 2-phenylethanol (2-PE), one of the volatile organic compounds (VOCs) produced by Streptomyces yanglinensis 3-10, exhibits antifungal activity against Aspergillus flavus and Aspergillus parasiticus. These Aspergillus species are opportunistic pathogens causing aspergillosis in animals and humans. The antifungal activity of 2-PE against these fungi suggests a relationship where 2-phenylethanol can inhibit the growth and development of the pathogens responsible for aspergillosis, indicating a potential therapeutic or control role in the disease."
+      }
+    },
+    {
+      "β-caryophyllene_aspergillosis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that β-caryophyllene (β-CA), one of the volatile organic compounds (VOCs) produced by Streptomyces yanglinensis 3-10, showed antifungal activity against Aspergillus flavus and Aspergillus parasiticus. These fungi are opportunistic pathogens causing aspergillosis in animals and humans. Therefore, β-caryophyllene exhibits inhibitory effects on fungi responsible for aspergillosis, indicating a relationship between the compound and the disease in terms of potential antifungal treatment or control."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions aflatoxins B1, B2, and G as toxic compounds produced by Aspergillus species. It also identifies 2-MIB as the main volatile organic compound detected from Streptomyces yanglinensis. Additionally, three standard chemicals—methyl 2-methylbutyrate (M2M), 2-phenylethanol (2-PE), and β-caryophyllene (β-CA)—are named and tested for antifungal activity, thus qualifying as specific chemical compounds."
+}

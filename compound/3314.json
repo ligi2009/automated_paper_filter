@@ -1,0 +1,42 @@
+{
+  "id": 3314,
+  "title": "Evaluation of the VOC pollution pattern and emission characteristics during the Beijing resurgence of COVID-19 in summer 2020 based on the measurement of PTR-ToF-MS",
+  "Abstract": "A second wave of coronavirus disease 2019 (COVID-19) infections emerged in Beijing in summer 2020, which provided an opportunity to explore the response of air pollution to reduced human activity. Proton-transfer reaction time-of-flight mass spectrometry (PTR-ToF-MS) coupled with positive matrix factorization (PMF) source apportionment were applied to evaluate the pollution pattern and capture the detailed dynamic emission characteristics of volatile organic compounds (VOCs) during the representative period, with the occurrence of O3 pollution episodes and the Beijing resurgence of COVID-19. The level of anthropogenic VOC was lower than during the same period in previous years due to the pandemic and emission reduction measures. More than two thirds of the days during the observation period were identified as high-O3 days and VOCs exhibited higher mixing ratios and faster consumption rates in the daytime on high-O3 days. The identified VOC emission sources and the corresponding contributions during the whole observation period included: vehicle + fuel (12.41 ± 9.43%), industrial process (9.40 ± 8.65%), solvent usage (19.58 ± 13.46%), biogenic (6.03 ± 5.40%), background + long-lived (5.62 ± 11.37%), and two groups of oxygenated VOC (OVOC) factors (primary emission and secondary formation, 26.14 ± 15.20% and 20.84 ± 14.0%, respectively). Refined dynamic source apportionment results show that the ‘stay at home’ tendency led to decreased emission (−34.47 ± 1.90%) and a weakened morning peak of vehicle + fuel during the Beijing resurgence. However, a growing emission of primary OVOCs (+51.10 ± 8.28%) with similar diurnal variation was observed in the new outbreak and afterwards, which might be related to the enhanced usage of products intended to clean and disinfect. The present study illustrated that more stringent VOC reduction measures towards pandemic products should be carried out to achieve the balanced emission abatement of NO x and VOC when adhering to regular epidemic prevention and control measures.",
+  "Disease_List": [
+    "coronavirus disease 2019 (COVID-19)"
+  ],
+  "Reason": "The abstract explicitly mentions 'coronavirus disease 2019 (COVID-19)' as a specific disease name multiple times, including references to the 'second wave of coronavirus disease 2019 (COVID-19) infections' and the 'Beijing resurgence of COVID-19'. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "coronavirus disease 2019 (COVID-19)"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019 (COVID-19)": []
+  },
+  "MRCONSO_search_results": {
+    "coronavirus disease 2019 (COVID-19)": [
+      "Coronavirus Disease 2019",
+      "Coronavirus disease 2019",
+      "COVID-19 (Coronavirus Disease 2019)",
+      "Coronavirus Disease 2019 Virus",
+      "Coronavirus Disease 2019 Testing"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "coronavirus disease 2019 (COVID-19)_via_Coronavirus Disease 2019": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories of chemical substances such as volatile organic compounds (VOCs), oxygenated VOCs (OVOCs), and nitrogen oxides (NOx), but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,100 @@
+{
+  "id": 3460,
+  "title": "Analysis of volatile organic compounds released from human lung cancer cells and from the urine of tumor-bearing mice",
+  "Abstract": "A potential strategy for the diagnosis of lung cancer is to exploit the distinct metabolic signature of this disease by way of biomarkers found in different sample types. In this study, we investigated whether specific volatile organic compounds (VOCs) could be detected in the culture medium of the lung cancer cell line A549 in addition to the urine of mice implanted with A549 cells. Several VOCs were found at significantly increased or decreased concentrations in the headspace of the A549 cell culture medium as compared with the culture medium of two normal lung cell lines. We also analyzed the urine of mice implanted with A549 cells and several VOCs were also found to be significantly increased or decreased relative to urine obtained from control mice. It was also revealed that seven VOCs were found at increased concentrations in both sample types. These compounds were found to be dimethyl succinate, 2-pentanone, phenol, 2-methylpyrazine, 2-hexanone, 2-butanone and acetophenone. Both sample types produce distinct biomarker profiles, and VOCs have potential to distinguish between true- and false-positive screens for lung cancer.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease being studied, including references to the lung cancer cell line A549 and the potential for biomarkers to diagnose lung cancer. Therefore, it meets the criteria for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "dimethyl succinate",
+    "2-pentanone",
+    "phenol",
+    "2-methylpyrazine",
+    "2-hexanone",
+    "2-butanone",
+    "acetophenone"
+  ],
+  "compound_CID": [
+    {
+      "dimethyl succinate": 7820,
+      "2-pentanone": 7895,
+      "phenol": 996,
+      "2-methylpyrazine": 7976,
+      "2-hexanone": 11583,
+      "2-butanone": 6569,
+      "acetophenone": 7410
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "dimethyl succinate_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that dimethyl succinate was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This indicates that dimethyl succinate is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "2-pentanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-pentanone was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This indicates that 2-pentanone is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "phenol_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that phenol was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This suggests that phenol is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease, indicating a relationship between phenol and lung cancer."
+      }
+    },
+    {
+      "2-methylpyrazine_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-methylpyrazine was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This indicates that 2-methylpyrazine is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "2-hexanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-hexanone was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This suggests that 2-hexanone is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease. Therefore, there is evidence of a relationship between 2-hexanone and lung cancer."
+      }
+    },
+    {
+      "2-butanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-butanone was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This indicates that 2-butanone is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "acetophenone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that acetophenone was found at increased concentrations in both the culture medium of the lung cancer cell line A549 and the urine of mice implanted with A549 cells, compared to controls. This indicates that acetophenone is associated with the metabolic signature of lung cancer and may serve as a biomarker for the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names seven volatile organic compounds (VOCs) detected at increased concentrations in both the lung cancer cell culture medium and urine samples from mice implanted with A549 cells. These named compounds are dimethyl succinate, 2-pentanone, phenol, 2-methylpyrazine, 2-hexanone, 2-butanone, and acetophenone, which are specific chemical substances relevant to the study."
+}

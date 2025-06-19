@@ -1,0 +1,84 @@
+{
+  "id": 1335,
+  "title": "The volatilome signatures of Plasmodium falciparum parasites during the intraerythrocytic development cycle in vitro under exposure to artemisinin drug",
+  "Abstract": "Volatile organic compounds (VOCs) comprise a diverse range of metabolites with high vapour pressure and low boiling points. Although they have received attention, they are a largely unexplored part of the metabolome. Previous studies have shown that malaria infections produce characteristic, definitive, and detectable volatile signatures. Many transcriptional and metabolic differences are observed at different stages of the parasite Intraerythrocytic Developmental Cycle (IDC) as well as when artemisinin-resistant parasites are put under drug pressure. This prompted our research to characterize whether these responses are reflected at a volatile level in malaria during the IDC stages using gas chromatography-mass spectrometry. We investigated whether the resistant P. falciparum parasites would produce their own characteristic volatilome profile compared to near-isogenic wild-type parasite in vitro ; firstly at three different stages of the IDC and secondly in the presence or absence of artemisinin drug treatment. Finally, we explored the VOC profiles from two media environments (Human serum and Albumax) of recently lab-adapted field parasite isolates, from Southeast Asia and West/East Africa, compared to long-term lab-adapted parasites. Recognizable differences were observed between IDC stages, with schizonts having the largest difference between wild type and resistant parasites, and with cyclohexanol and 2,5,5-trimethylheptane only present for resistant schizonts. Artemisinin treatment had little effect on the resistant parasite VOC profile, whilst for the wild type parasites compounds ethylbenzene and nonanal were greatly affected. Lastly, differing culturing conditions had an observable impact on parasite VOC profile and clustering patterns of parasites were specific to geographic origin. The results presented here provide the foundation for future studies on VOC based characterization of P. falciparum strains differing in abilities to tolerate artemisinin.",
+  "Disease_List": [
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'malaria infections' and discusses the parasite Plasmodium falciparum, which causes malaria. Therefore, a specific disease name, 'malaria', is clearly identified in the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "cyclohexanol",
+    "2,5,5-trimethylheptane",
+    "ethylbenzene",
+    "nonanal",
+    "artemisinin"
+  ],
+  "compound_CID": [
+    {
+      "cyclohexanol": 7966,
+      "2,5,5-trimethylheptane": 14478,
+      "ethylbenzene": 7500,
+      "nonanal": 31289,
+      "artemisinin": 68827
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "cyclohexanol_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cyclohexanol is a volatile organic compound specifically present in resistant schizonts of Plasmodium falciparum, the parasite responsible for malaria. This suggests a relationship between cyclohexanol and malaria, particularly in the context of artemisinin-resistant strains during the intraerythrocytic developmental cycle. The presence of cyclohexanol as part of the parasite's volatilome profile implies it is associated with malaria infection and parasite resistance mechanisms."
+      }
+    },
+    {
+      "2,5,5-trimethylheptane_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2,5,5-trimethylheptane is a volatile organic compound specifically present in artemisinin-resistant schizont-stage Plasmodium falciparum parasites, which cause malaria. This suggests a relationship between the compound and malaria, particularly in the context of drug-resistant parasite strains. The presence of this compound as part of the parasite's volatilome profile during infection stages supports a link between 2,5,5-trimethylheptane and malaria."
+      }
+    },
+    {
+      "ethylbenzene_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ethylbenzene is one of the volatile organic compounds (VOCs) whose levels are greatly affected in wild type Plasmodium falciparum parasites during artemisinin drug treatment. Since P. falciparum is the parasite responsible for malaria, and the study focuses on VOC profiles related to malaria infection and parasite stages, this suggests a relationship between ethylbenzene and malaria in the context of parasite metabolism and drug response."
+      }
+    },
+    {
+      "nonanal_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nonanal is one of the volatile organic compounds (VOCs) whose levels are greatly affected in wild type Plasmodium falciparum parasites during artemisinin treatment. Since P. falciparum is the parasite responsible for malaria, and the study focuses on VOC profiles during the malaria parasite's intraerythrocytic developmental cycle, this suggests a relationship between nonanal and malaria. Specifically, nonanal is part of the characteristic volatile signature associated with malaria infection and its response to drug treatment."
+      }
+    },
+    {
+      "artemisinin_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of artemisinin drug treatment on Plasmodium falciparum parasites, which cause malaria. It specifically mentions artemisinin-resistant parasites and the effects of artemisinin treatment on volatile organic compound profiles of wild-type parasites. This indicates a clear relationship between artemisinin as a compound and malaria as the disease, particularly in the context of drug resistance and treatment response."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds by name, including cyclohexanol and 2,5,5-trimethylheptane which were present only in resistant schizonts, ethylbenzene and nonanal which were affected by artemisinin treatment in wild type parasites, and artemisinin itself as the drug used in treatment. These are specific chemical substances rather than general terms."
+}

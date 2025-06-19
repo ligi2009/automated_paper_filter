@@ -1,0 +1,261 @@
+{
+  "id": 2629,
+  "title": "Air Quality Monitoring and Disease Prediction Using IoT and Machine Learning",
+  "Abstract": "Air quality prediction focuses mainly on these industrial areas. Industrial level usage of this project requires expensive sensors and huge amount of power supply. According to the World Health Organization (WHO), major air pollutants include particulate pollution, carbon monoxide (CO), Sulphur-di-oxide (SO2) and nitrogen oxide (NO2). In addition to these mentioned gases, PM or Particulate Matter and VOC or Volatile Organic Compounds components also cause serious threats. Long and short-term exposure to air suspended toxicants has a different toxicological impact on humans. Some of the diseases include asthma, bronchitis, some cardiovascular diseases, and long-term chronic diseases such as cancer, lung damage and in extreme cases diseases like pulmonary fibrosis. In this proposed system, an IoT prototype of a large-scale system which uses high-end and expensive sensors that measures the various air pollutants in the atmosphere is designed. Gas sensors are used in this prototype to record the concentration of the various pollutants that are encountered in the air on a regular basis. The framework uses stored data to train the model using multi-label classification with Random Forest algorithm, XG Boost algorithm in the local system. The real time data obtained using the different sensors is tested and the results obtained would be used to predict the possibilities of diseases such as asthma, lung cancer, ventricular hypertrophy etc. and the Air Quality Index (AQI) are calculated. In addition to this, preventive suggestions are also provided which is merely a cautionary message displayed on our LCD display to vacuum clean the room or mop the room thoroughly. KEYWORDMachine Learning (ML), Internet of Things(IoT),Carbon Monoxide(CO),Nitrogen Oxide (NO), Ammonia(NH3). Manuscript Received November 20, 2020 Darshini Rajasekar, Student, B.Tech, Department of Computer Science & Engineering, Panimalar Engineering College, Anna University, Chennai Tamil Nadu India. (email Id:darshud18@gmail.com) Aravind Sekar, Student, B.Tech, Department of Computer Science & Engineering, Coimbatore Institute of Technology, Anna University, Coimbatore Tamil Nadu India. Magesh Rajasekar, Student, B.Tech, Department of Computer Science & Engineering, Coimbatore Institute of Technology, Anna University, Coimbatore Tamil Nadu India.",
+  "Disease_List": [
+    "asthma",
+    "bronchitis",
+    "cardiovascular diseases",
+    "cancer",
+    "lung damage",
+    "pulmonary fibrosis",
+    "lung cancer",
+    "ventricular hypertrophy"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma, bronchitis, cardiovascular diseases, cancer, lung damage, pulmonary fibrosis, lung cancer, and ventricular hypertrophy. These are all named diseases rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "bronchitis",
+    "cardiovascular diseases",
+    "cancer",
+    "pulmonary fibrosis",
+    "lung cancer",
+    "ventricular hypertrophy"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "lung damage": [],
+    "pulmonary fibrosis": [
+      {
+        "ui": "C0034069",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034069",
+        "name": "Pulmonary Fibrosis",
+        "mesh_id": "D011658"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "ventricular hypertrophy": [
+      {
+        "ui": "C0340279",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0340279",
+        "name": "Ventricular hypertrophy",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon monoxide (CO)",
+    "Sulphur-di-oxide (SO2)",
+    "nitrogen oxide (NO2)",
+    "Ammonia (NH3)"
+  ],
+  "compound_CID": [
+    {
+      "carbon monoxide (CO)": "None",
+      "Sulphur-di-oxide (SO2)": "None",
+      "nitrogen oxide (NO2)": "None",
+      "Ammonia (NH3)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon monoxide (CO)_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide (CO) as one of the major air pollutants and mentions that exposure to air suspended toxicants, including gases like CO, is associated with diseases such as asthma. It further explains that the system developed uses sensors to measure pollutants including CO and predicts the possibility of diseases such as asthma based on pollutant concentrations. This indicates a recognized relationship between carbon monoxide exposure and asthma in the context of air quality and health impact."
+      },
+      "carbon monoxide (CO)_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide (CO) as one of the major air pollutants and mentions that long and short-term exposure to air suspended toxicants, including gases like CO, can lead to respiratory diseases such as bronchitis. Although the abstract does not provide detailed mechanistic evidence, it clearly associates exposure to CO among other pollutants with bronchitis as a health outcome."
+      },
+      "carbon monoxide (CO)_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide (CO) as one of the major air pollutants and mentions that exposure to air suspended toxicants, including these pollutants, is associated with various diseases such as asthma, bronchitis, and some cardiovascular diseases. This indicates a recognized relationship between carbon monoxide exposure and cardiovascular diseases, as CO is listed among the pollutants contributing to these health issues."
+      },
+      "carbon monoxide (CO)_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that long-term exposure to air suspended toxicants, which include major air pollutants such as carbon monoxide (CO), can lead to chronic diseases including cancer. It specifically lists cancer among the diseases associated with exposure to these pollutants. Furthermore, the system described in the abstract aims to predict the possibilities of diseases such as lung cancer based on real-time data of various air pollutants including CO. This indicates an implied relationship between carbon monoxide exposure and cancer risk."
+      },
+      "carbon monoxide (CO)_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide (CO) as one of the major air pollutants and mentions that long-term exposure to air suspended toxicants, including gases like CO, can lead to serious health issues such as lung damage and in extreme cases diseases like pulmonary fibrosis. This indicates a recognized relationship between exposure to carbon monoxide and the development of pulmonary fibrosis."
+      },
+      "carbon monoxide (CO)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide (CO) as one of the major air pollutants and mentions that long-term exposure to air suspended toxicants, including gases like CO, can lead to chronic diseases such as cancer and lung damage. Specifically, the system described in the abstract aims to predict the possibilities of diseases including lung cancer based on real-time data of various pollutants, including CO. This implies an acknowledged relationship between carbon monoxide exposure and lung cancer risk."
+      },
+      "carbon monoxide (CO)_ventricular_hypertrophy": {
+        "relationship": "Y",
+        "reason": "The abstract mentions carbon monoxide (CO) as a major air pollutant and lists ventricular hypertrophy among the diseases for which the system aims to predict possibilities based on air pollutant data. This implies a recognized association between exposure to CO and the risk of ventricular hypertrophy, suggesting a relationship between the compound and the disease."
+      }
+    },
+    {
+      "Sulphur-di-oxide (SO2)_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that exposure to air suspended toxicants, which includes SO2, can lead to various diseases including asthma. The system described in the abstract aims to measure concentrations of pollutants like SO2 and use this data to predict the possibility of diseases such as asthma. This indicates a recognized relationship between SO2 exposure and asthma in the context of air pollution and health impact."
+      },
+      "Sulphur-di-oxide (SO2)_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long and short-term exposure to air suspended toxicants, which include SO2, can lead to various diseases including bronchitis. This indicates a clear relationship between SO2 exposure and the occurrence of bronchitis."
+      },
+      "Sulphur-di-oxide (SO2)_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long and short-term exposure to air suspended toxicants, which include SO2, has toxicological impacts on humans and lists cardiovascular diseases among the diseases caused by such exposure. Therefore, there is evidence in the abstract that exposure to SO2 is related to cardiovascular diseases."
+      },
+      "Sulphur-di-oxide (SO2)_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long-term exposure to air suspended toxicants, which include SO2, can lead to chronic diseases such as cancer and lung damage. Additionally, the system described in the abstract aims to predict the possibilities of diseases including lung cancer based on the concentration of various air pollutants like SO2. Therefore, there is evidence in the abstract suggesting a relationship between SO2 exposure and cancer."
+      },
+      "Sulphur-di-oxide (SO2)_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long-term exposure to air suspended toxicants, which include SO2, can lead to serious health issues such as lung damage and in extreme cases, diseases like pulmonary fibrosis. This indicates a recognized relationship between exposure to SO2 and the development of pulmonary fibrosis."
+      },
+      "Sulphur-di-oxide (SO2)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long and short-term exposure to air suspended toxicants, which include SO2, can lead to various diseases including long-term chronic diseases such as cancer and lung damage. Specifically, the system described in the abstract aims to predict the possibilities of diseases such as lung cancer based on real-time data of air pollutants including SO2. This indicates an implied relationship between SO2 exposure and lung cancer risk."
+      },
+      "Sulphur-di-oxide (SO2)_ventricular_hypertrophy": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Sulphur-di-oxide (SO2) as a major air pollutant and mentions that exposure to air suspended toxicants, including SO2, can lead to various diseases. Specifically, it lists cardiovascular diseases and explicitly includes ventricular hypertrophy as one of the diseases for which the system aims to predict possibilities based on pollutant concentrations. This implies a recognized relationship between SO2 exposure and ventricular hypertrophy within the context of the study."
+      }
+    },
+    {
+      "nitrogen oxide (NO2)_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that exposure to air suspended toxicants, including gases like NO2, is associated with various diseases such as asthma. The system described in the abstract uses sensors to measure pollutants including NO2 and aims to predict the possibility of diseases such as asthma based on pollutant concentrations. This indicates a recognized relationship between nitrogen oxide (NO2) exposure and asthma."
+      },
+      "nitrogen oxide (NO2)_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that exposure to air suspended toxicants, which includes NO2, can lead to various diseases such as asthma and bronchitis. This indicates a recognized relationship between nitrogen oxide (NO2) exposure and the occurrence of bronchitis."
+      },
+      "nitrogen oxide (NO2)_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that exposure to air suspended toxicants, which includes NO2, is associated with several diseases including some cardiovascular diseases. This indicates a recognized relationship between nitrogen oxide (NO2) exposure and cardiovascular diseases."
+      },
+      "nitrogen oxide (NO2)_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as one of the major air pollutants according to the World Health Organization (WHO). It further states that long-term exposure to air suspended toxicants, which include NO2, can lead to chronic diseases such as cancer. Additionally, the system described in the abstract aims to predict the possibility of diseases including lung cancer based on the concentration of various air pollutants like NO2. This indicates a recognized relationship between nitrogen oxide (NO2) exposure and cancer risk."
+      },
+      "nitrogen oxide (NO2)_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as a major air pollutant and mentions that long-term exposure to air suspended toxicants, including gases like NO2, can lead to serious health issues such as lung damage and in extreme cases diseases like pulmonary fibrosis. This indicates a recognized relationship between exposure to nitrogen oxide (NO2) and the development of pulmonary fibrosis."
+      },
+      "nitrogen oxide (NO2)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as a major air pollutant according to the World Health Organization (WHO). It further explains that long and short-term exposure to air suspended toxicants, including gases like NO2, can lead to various diseases such as asthma, bronchitis, cardiovascular diseases, and long-term chronic diseases including cancer and lung damage. Specifically, the system described in the abstract aims to predict the possibilities of diseases such as lung cancer based on real-time data of various air pollutants including nitrogen oxide. This indicates a recognized relationship between nitrogen oxide (NO2) exposure and lung cancer risk."
+      },
+      "nitrogen oxide (NO2)_ventricular_hypertrophy": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide (NO2) as a major air pollutant and mentions that exposure to air suspended toxicants, including NO2, is associated with various diseases such as asthma, lung cancer, and cardiovascular diseases. Specifically, the abstract states that the system predicts the possibility of diseases including ventricular hypertrophy based on real-time data of air pollutants like NO2. This implies a recognized relationship between NO2 exposure and ventricular hypertrophy within the context of the study."
+      }
+    },
+    {
+      "Ammonia (NH3)_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants and their association with diseases including asthma. It mentions major pollutants such as particulate pollution, carbon monoxide, sulfur dioxide, nitrogen oxide, particulate matter, and volatile organic compounds. Although Ammonia (NH3) is listed as a keyword and a compound measured by sensors in the study, the abstract does not provide any specific evidence or direct link between ammonia exposure and asthma. The diseases predicted by the model include asthma, but the abstract does not explicitly state that ammonia is a contributing factor to asthma. Therefore, based on the abstract content, there is no clear relationship established between ammonia and asthma."
+      },
+      "Ammonia (NH3)_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants and their association with diseases such as asthma, bronchitis, cardiovascular diseases, cancer, and lung damage. While it mentions ammonia (NH3) as one of the gases detected by sensors in the proposed air quality monitoring system, it does not provide specific evidence or direct linkage between ammonia exposure and bronchitis. The diseases mentioned in relation to air pollutants are general and not explicitly connected to ammonia in the text. Therefore, based on the abstract content, there is no clear relationship established between ammonia (NH3) and bronchitis."
+      },
+      "Ammonia (NH3)_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants and their association with diseases including asthma, bronchitis, cardiovascular diseases, cancer, and lung damage. While Ammonia (NH3) is mentioned as one of the compounds measured by the sensors in the proposed system, the abstract does not provide any specific evidence or direct link between Ammonia exposure and cardiovascular diseases. The diseases mentioned in relation to air pollutants are general and do not specify Ammonia as a causative or contributing factor for cardiovascular diseases."
+      },
+      "Ammonia (NH3)_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants and their association with diseases including cancer. While it mentions ammonia (NH3) as one of the gases measured by sensors in the proposed system, it does not provide any specific evidence or direct link between ammonia exposure and cancer. The diseases linked to air pollutants in the abstract are generally stated without attributing cancer risk specifically to ammonia. Therefore, based on the abstract content, there is no clear relationship established between ammonia (NH3) and cancer."
+      },
+      "Ammonia (NH3)_pulmonary_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollutants including Ammonia (NH3) and mentions diseases such as asthma, bronchitis, cardiovascular diseases, cancer, lung damage, and pulmonary fibrosis as potential outcomes of exposure to air suspended toxicants. However, it does not provide specific evidence or a direct link between Ammonia (NH3) exposure and pulmonary fibrosis. The focus is on general air quality monitoring and disease prediction using sensor data and machine learning, without establishing a clear relationship between Ammonia and pulmonary fibrosis."
+      },
+      "Ammonia (NH3)_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses various air pollutants including Ammonia (NH3) and mentions diseases such as asthma, bronchitis, cardiovascular diseases, and lung cancer as potential health impacts of air pollution. However, it does not provide specific evidence or a direct link between Ammonia (NH3) exposure and lung cancer. The mention of lung cancer is in the context of general air pollution and not specifically tied to Ammonia. Therefore, based on the abstract content, there is no clear relationship established between Ammonia (NH3) and lung cancer."
+      },
+      "Ammonia (NH3)_ventricular_hypertrophy": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of sensors to measure various air pollutants including Ammonia (NH3) and mentions the prediction of diseases such as asthma, lung cancer, and ventricular hypertrophy based on air quality data. However, it does not provide any specific evidence or detailed explanation linking Ammonia (NH3) exposure directly to ventricular hypertrophy. The mention of ventricular hypertrophy is in the context of disease prediction from air quality data generally, without establishing a clear causal or associative relationship with Ammonia. Therefore, based on the abstract content, there is no clear relationship demonstrated between Ammonia (NH3) and ventricular hypertrophy."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds related to air pollutants, including carbon monoxide (CO), Sulphur-di-oxide (SO2), nitrogen oxide (NO2), and Ammonia (NH3). These are distinct chemical substances identified by their chemical names and formulas, unlike general terms such as particulate matter or volatile organic compounds."
+}

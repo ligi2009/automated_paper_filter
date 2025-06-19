@@ -1,0 +1,42 @@
+{
+  "id": 5057,
+  "title": "An Overview on the Application of Solid Phase Microextraction in the Analysis of Volatile Organic Compounds as Potential Biomarkers of Cancer",
+  "Abstract": "The search for biomarkers of diseases, especially for the early detection of cancer, is one of the most popular research fields in biomedicine. The development of non-invasive screening techniques for the early detection of cancer is one of the greatest scientific challenges of the 21st century. Because various diseases cause to generation of biomarkers in the body, early diagnosis of diseases can be performed by analyzing these biomarkers in all body feces. Detection of volatile organic compounds (VOCs) as biomarkers of the body's metabolic processes is a new frontier in the fast, sensitive, selective and non-invasive analysis and medical diagnosis of human diseases. VOCs as biomarkers in the human body can be distinct and specific to metabolic conditions or diseases. VOCs produced as end products of cellular metabolism and are released through a variety of biological matrices such as breath, blood, saliva, urine and feces. The study of volatile metabolites in the body fluids of the patients is performed to establish \"potential biomarkers\" for early diagnosis and prognosis of the disease. Various genetic, epigenetic, proteomic, and metabolic markers are evaluated for early detection of cancer. One of the promising emerging methods for early detection of cancer is the analysis of VOCs. The purpose of this review is to provide insights for recent research work on the analysis of VOC-biomarker of cancers with extraction by solid phase microextraction (SPME), and how to detect VOCs in different body matrices as a potential biomarker of disease.",
+  "Disease_List": [
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' multiple times as a specific disease for which biomarkers and early detection methods are being researched. Although it also refers to 'diseases' and 'disease' in general terms, 'cancer' is clearly named as a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

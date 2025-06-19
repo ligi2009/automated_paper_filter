@@ -1,0 +1,72 @@
+{
+  "id": 5939,
+  "title": "Real-Time Detection of a Virus Using Detection Dogs",
+  "Abstract": "Viral infections are ubiquitous in humans, animals, and plants. Real-time methods to identify viral infections are limited and do not exist for use in harsh or resource-constrained environments. Previous research identified that tissues produce unique volatile organic compounds (VOC) and demonstrated that VOC concentrations change during pathologic states, including infection, neoplasia, or metabolic disease. Patterns of VOC expression may be pathogen specific and may be associated with an odor that could be used for disease detection. We investigated the ability of two trained dogs to detect cell cultures infected with bovine viral diarrhea virus (BVDV) and to discriminate BVDV-infected cell cultures from uninfected cell cultures and from cell cultures infected with bovine herpes virus 1 (BHV 1) and bovine parainfluenza virus 3 (BPIV 3). Dogs were trained to recognize cell cultures infected with two different biotypes of BVDV propagated in Madin–Darby bovine kidney cells using one of three culture media. For detection trials, one target and seven distractors were presented on a scent wheel by a dog handler unaware of the location of targets and distractors. Detection of BVDV-infected cell cultures by Dog 1 had a diagnostic sensitivity of 0.850 (95% CI: 0.701–0.942), which was lower than Dog 2 (0.967, 95% CI: 0.837–0.994). Both dogs exhibited very high diagnostic specificity (0.981, 95% CI: 0.960–0.993) and (0.993, 95% CI: 0.975–0.999), respectively. These findings demonstrate that trained dogs can differentiate between cultured cells infected with BVDV, BHV1, and BPIV3 and are a realistic real-time mobile pathogen sensing technology for viral pathogens. The ability to discriminate between target and distractor samples plausibly results from expression of unique VOC patterns in virus-infected and -uninfected cells.",
+  "Disease_List": [
+    "bovine viral diarrhea virus (BVDV)",
+    "bovine herpes virus 1 (BHV 1)",
+    "bovine parainfluenza virus 3 (BPIV 3)"
+  ],
+  "Reason": "The abstract explicitly mentions specific viral diseases by name: bovine viral diarrhea virus (BVDV), bovine herpes virus 1 (BHV 1), and bovine parainfluenza virus 3 (BPIV 3). These are specific disease-causing viruses affecting cattle, thus qualifying as specific disease names.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "bovine viral diarrhea virus (BVDV)",
+    "bovine herpes virus 1 (BHV 1)",
+    "bovine parainfluenza virus 3 (BPIV 3)"
+  ],
+  "UMLS_search_results": {
+    "bovine viral diarrhea virus (BVDV)": [],
+    "bovine herpes virus 1 (BHV 1)": [],
+    "bovine parainfluenza virus 3 (BPIV 3)": []
+  },
+  "MRCONSO_search_results": {
+    "bovine viral diarrhea virus (BVDV)": [
+      "Bovine Viral Diarrhea Viruses",
+      "bovine viral diarrhea virus",
+      "Bovine viral diarrhea virus",
+      "p125 protein, bovine viral diarrhea virus",
+      "p125 protein, Bovine viral diarrhea virus 1"
+    ],
+    "bovine herpes virus 1 (BHV 1)": [
+      "bovine herpes virus 1 BICP0"
+    ],
+    "bovine parainfluenza virus 3 (BPIV 3)": [
+      "Bovine parainfluenza virus 3",
+      "Bovine parainfluenza virus 3 (organism)",
+      "Bovine parainfluenza virus 3 Ag:PrThr:Pt:Tiss:Ord:IF",
+      "Bovine parainfluenza virus 3 Ag IF Ql (Tiss)",
+      "Bovine parainfluenza virus 3 Antigen:Presence or Threshold:To identify measures at a point in time:Tissue, unspecified:Ordinal:Immune Fluorescence"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "bovine viral diarrhea virus (BVDV)_via_Bovine Viral Diarrhea Viruses": [
+      {
+        "ui": "C0006063",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006063",
+        "name": "Bovine Viral Diarrhea Viruses",
+        "mesh_id": "D001908"
+      }
+    ],
+    "bovine herpes virus 1 (BHV 1)_via_bovine herpes virus 1 BICP0": [
+      {
+        "ui": "C0253724",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0253724",
+        "name": "bICP0 protein, Bovine herpesvirus 1",
+        "mesh_id": "C086729"
+      }
+    ],
+    "bovine parainfluenza virus 3 (BPIV 3)_via_Bovine parainfluenza virus 3": [
+      {
+        "ui": "C0376421",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376421",
+        "name": "Bovine parainfluenza virus 3",
+        "mesh_id": "D029101"
+      }
+    ]
+  }
+}

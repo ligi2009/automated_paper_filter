@@ -1,0 +1,48 @@
+{
+  "id": 5062,
+  "title": "Health risk assessment of volatile organic compounds exposure near Daegu dyeing industrial complex in South Korea",
+  "Abstract": "BackgroundStudying human health in areas with industrial contamination is a serious and complex issue. In recent years, attention has increasingly focused on the health implications of large industrial complexes. A variety of potential toxic chemicals have been produced during manufacturing processes and activities in industrial complexes in South Korea. A large number of dyeing industries gathered together in Daegu dyeing industrial complex. The residents near the industrial complex could be often exposed to volatile organic compounds. This study aimed to evaluate VOCs levels in the ambient air of DDIC, to assess the impact on human health risks, and to find more convincing evidences to prove these VOCs emitted from DDIC.MethodsAccording to deterministic risk assessment, inhalation was the most important route. Residential indoor, outdoor and personal exposure air VOCs were measured by passive samplers in exposed area and controlled area in different seasons. Satisfaction with ambient environments and self-reported diseases were also obtained by questionnaire survey. The VOCs concentrations in exposed area and controlled area was compared by t-test. The relationships among every VOC were tested by correlation. The values of hazard quotient (HQ) and life cancer risk were estimated.ResultsThe concentrations of measured VOCs were presented, moreover, the variety of concentrations according the distances from the residential settings to the industrial complex site in exposed area. The residential indoor, outdoor, and personal exposure concentrations of toluene, DMF and chloroform in exposed area were significantly higher than the corresponding concentrations in controlled area both in summer and autumn. Toluene, DMF, chloroform and MEK had significantly positive correlations with each other in indoor and outdoor, and even in personal exposure. The HQ for DMF exceeded 1, and the life cancer risk of chloroform was greater than 10− 4 in exposed area. The prevalence of respiratory diseases, anaphylactic diseases and cardiovascular diseases in exposed area were significantly higher than in controlled area.ConclusionsThis study showed that adverse cancer and non-cancer health effects may occur by VOCs emitted from DDIC, and some risk managements are needed. Moreover, this study provides a convenient preliminarily method for pollutants source characteristics.",
+  "Disease_List": [
+    "respiratory diseases",
+    "anaphylactic diseases",
+    "cardiovascular diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific categories of diseases: 'respiratory diseases', 'anaphylactic diseases', and 'cardiovascular diseases'. Although these are broad categories rather than specific named diseases (e.g., asthma, anaphylaxis, heart disease), they are specific disease types rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with these disease categories listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory diseases",
+    "cardiovascular diseases"
+  ],
+  "UMLS_search_results": {
+    "respiratory diseases": [
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      },
+      {
+        "ui": "C0035242",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035242",
+        "name": "Respiratory Tract Diseases",
+        "mesh_id": "D012140"
+      }
+    ],
+    "anaphylactic diseases": [],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

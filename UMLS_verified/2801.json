@@ -1,0 +1,28 @@
+{
+  "id": 2801,
+  "title": "Comparative analysis of volatile organic compounds for the classification and identification of mycobacterial species",
+  "Abstract": "Background Species of Mycobacteriaceae cause serious zoonotic diseases in mammals, for example tuberculosis in humans, dogs, parrots, and elephants (caused by Mycobacterium tuberculosis) and in ruminants and humans (caused by M. bovis and M. caprae). Pulmonary diseases, lymphadenitis, skin diseases, and disseminated diseases can be caused by non-tuberculous mycobacteria (NTM). Diagnosis and differentiation among Mycobacterium species are currently done by culture isolation. The established diagnostic protocols comprise several steps that allow species identification. Detecting volatile organic compounds (VOCs) above bacterial cultures is a promising approach towards accelerating species identification via culture isolation. The aims of this project were to analyse VOCs in the headspace above 13 different species of mycobacteria, to define VOC profiles that are unique for each species, and to compile a set of substances that indicate the presence of growing mycobacteria in general. Materials & methods VOCs were measured in the headspace above 17 different mycobacterial strains, all cultivated on Herrold’s Egg Yolk Medium and above pure media slants that served as controls. For pre-concentration of VOCs, needle-trap micro-extraction was employed. Samples were subsequently analysed using gas chromatography-mass spectrometry. All volatiles were identified and calibrated by analysing pure reference substances. Results More than 130 VOCs were detected in headspace above mycobacteria-inoculated and control slants. Results confirmed significant VOC emissions above all mycobacterial species that had grown well. Concentration changes were measurable in vials with visually assessed bacterial growth and vials without apparent growth. VOCs above mycobacterial cultures could be grouped into substances that were either higher or equally concentrated, lower or equally concentrated, or both as those above control slants. Hence, we were able to identify 17 substances as potential biomarkers of the presence of growing mycobacteria in general. Conclusions This study revealed species-specific VOC profiles for eleven species of mycobacteria that showed visually apparent bacterial growth at the time point of analysis.",
+  "Disease_List": [
+    "tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'tuberculosis' as a specific disease caused by Mycobacterium tuberculosis in humans, dogs, parrots, and elephants, and by M. bovis and M. caprae in ruminants and humans. Although other terms like 'pulmonary diseases,' 'lymphadenitis,' 'skin diseases,' and 'disseminated diseases' are mentioned, these are general disease categories and not specific disease names. Therefore, the classification is 'Y' because tuberculosis is explicitly named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

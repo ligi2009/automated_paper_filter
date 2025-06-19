@@ -1,0 +1,34 @@
+{
+  "id": 2250,
+  "title": "Carotta: Revealing Hidden Confounder Markers in Metabolic Breath Profiles",
+  "Abstract": "Computational breath analysis is a growing research area aiming at identifying volatile organic compounds (VOCs) in human breath to assist medical diagnostics of the next generation. While inexpensive and non-invasive bioanalytical technologies for metabolite detection in exhaled air and bacterial/fungal vapor exist and the first studies on the power of supervised machine learning methods for profiling of the resulting data were conducted, we lack methods to extract hidden data features emerging from confounding factors. Here, we present Carotta, a new cluster analysis framework dedicated to uncovering such hidden substructures by sophisticated unsupervised statistical learning methods. We study the power of transitivity clustering and hierarchical clustering to identify groups of VOCs with similar expression behavior over most patient breath samples and/or groups of patients with a similar VOC intensity pattern. This enables the discovery of dependencies between metabolites. On the one hand, this allows us to eliminate the effect of potential confounding factors hindering disease classification, such as smoking. On the other hand, we may also identify VOCs associated with disease subtypes or concomitant diseases. Carotta is an open source software with an intuitive graphical user interface promoting data handling, analysis and visualization. The back-end is designed to be modular, allowing for easy extensions with plugins in the future, such as new clustering methods and statistics. It does not require much prior knowledge or technical skills to operate. We demonstrate its power and applicability by means of one artificial dataset. We also apply Carotta exemplarily to a real-world example dataset on chronic obstructive pulmonary disease (COPD). While the artificial data are utilized as a proof of concept, we will demonstrate how Carotta finds candidate markers in our real dataset associated with confounders rather than the primary disease (COPD) and bronchial carcinoma (BC). Carotta is publicly available at http://carotta.compbio.sdu.dk [1].",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease (COPD)",
+    "bronchial carcinoma (BC)"
+  ],
+  "Reason": "The abstract explicitly mentions two specific diseases: chronic obstructive pulmonary disease (COPD) and bronchial carcinoma (BC). These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease (COPD)"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "bronchial carcinoma (BC)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms but does not mention any specific chemical compound names."
+}

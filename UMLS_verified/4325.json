@@ -1,0 +1,34 @@
+{
+  "id": 4325,
+  "title": "A Review on Fog and Smog: Impact, Mode of Action and Remedial Measures under COVID-19 Pandemics ",
+  "Abstract": "On 11 March 2020, the World Health Organization (WHO) declared the coronavirus pandemic: the Sars-Cov-2 virus (COVID-19) is a threat to the population’s health. A positive correlation has been observed between the spread of the virus and air pollution, which is one of the greatest challenges of our millennium. COVID-19 could have an air transmission and atmospheric particulate matter could create a suitable environment for transporting the virus at greater distances than those considered for close contact. Smog is formed when pollutants like nitrogen oxide, carbon monoxide and volatile organic compounds that are released from automobiles, industries and burning of rice crop residues (parali) and fossil fuels interact with sunlight (WHO, 2016). In this context, COVID-19 could also have an airborne transmission and particulate matter (PM 10 and PM 2.5 which is Fine particulates of 2.5 micrometer or 10 micrometer less are also among the pollutants found in smog and haze) could act as a carrier through the aerosol, conveying the virus and increasing its spread. It prove a direct correlation between current high air pollution levels and incidence of COVID-19, high pollution levels might also increase the risk of contracting COVID-19. One of the most pressing and urgent problems is that polluted air can severely endanger human health and life. Individual residents who are affected by smog pollution can often do very little to prevent it, but they can apply adaptive and protective measures to reduce their risk. Elderly and people experiencing any cardiac or respiratory illness are more prone to harmful effects of smog (Sierra Vargas et al., 2012). These measures are minimal exposure to outdoor air but if exposure is inescapable than a facemask should be worn. Those people who are affected with cardio-vascular disease and its allied patients should increase the dosage of medication on their physician’s advice to prevent worsening of disease. Supplements and food containing antioxidants like omega 3 fatty acids when added to diet may help against oxidative stress caused by pollutants (Xing et al., 2016). Therefore, it is crucial to minimize the negative effects of smog by wearing mask and reduced the environmental pollution by adopting eco-friendly products.",
+  "Disease_List": [
+    "COVID-19",
+    "cardiac illness",
+    "respiratory illness",
+    "cardio-vascular disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as COVID-19, cardiac illness, respiratory illness, and cardio-vascular disease. COVID-19 is named as a specific viral disease caused by the Sars-Cov-2 virus. Cardiac illness, respiratory illness, and cardio-vascular disease are specific categories of diseases related to the heart and respiratory system, which are explicitly mentioned as conditions that increase vulnerability to smog pollution effects.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "cardiac illness": [],
+    "respiratory illness": [],
+    "cardio-vascular disease": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

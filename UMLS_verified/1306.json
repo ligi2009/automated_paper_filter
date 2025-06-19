@@ -1,0 +1,60 @@
+{
+  "id": 1306,
+  "title": "GC/MS analysis of hypoxic volatile metabolic markers in the MDA-MB-231 breast cancer cell line",
+  "Abstract": "Hypoxia in disease describes persistent low oxygen conditions, observed in a range of pathologies, including cancer. In the discovery of biomarkers in biological models, pathophysiological traits present a source of translatable metabolic products for the diagnosis of disease in humans. Part of the metabolome is represented by its volatile, gaseous fraction; the volatilome. Human volatile profiles, such as those found in breath, are able to diagnose disease, however accurate volatile biomarker discovery is required to target reliable biomarkers to develop new diagnostic tools. Using custom chambers to control oxygen levels and facilitate headspace sampling, the MDA-MB-231 breast cancer cell line was exposed to hypoxia (1% oxygen) for 24 h. The maintenance of hypoxic conditions in the system was successfully validated over this time period. Targeted and untargeted gas chromatography mass spectrometry approaches revealed four significantly altered volatile organic compounds when compared to control cells. Three compounds were actively consumed by cells: methyl chloride, acetone and n-Hexane. Cells under hypoxia also produced significant amounts of styrene. This work presents a novel methodology for identification of volatile metabolisms under controlled gas conditions with novel observations of volatile metabolisms by breast cancer cells.",
+  "Disease_List": [
+    "cancer",
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' and specifically 'breast cancer' as diseases related to the study. These are specific disease names rather than general terms, justifying the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

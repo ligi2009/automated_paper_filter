@@ -1,0 +1,64 @@
+{
+  "id": 1750,
+  "title": "The Association Between Exposure to Acrylamide and Mortalities of Cardiovascular Disease and All-Cause Among People With Hyperglycemia",
+  "Abstract": "Background Acrylamide is a common environmental volatile organic compound that humans are frequently exposed to in their daily lives. However, whether exposure to acrylamide is associated with long-term survival in patients with hyperglycemia remains largely unknown. Methods and Results A total of 3,601 hyperglycemic people were recruited in this study, including 1,247 people with diabetes and 2,354 people with pre-diabetes, who enrolled in the National Health and Nutrition Examination survey (2003–2004, 2005–2006, and 2013–2014). The acrylamide exposure was measured by the serum hemoglobin adduct of acrylamide (HbAA) and glycidamide (HbGA), and the ratio of HbAA and HbGA (HbAA/HbGA) was calculated, which were all categorized into quintiles. The National Death Index was used to identify the participants' death information until 2015. Cox proportional hazards (CPHs) regression models were performed to examine the survival relationship between these biomarkers and mortality. During the 28,652 person-year follow-up, 268 deaths due to the cardiovascular disease (CVD) were documented. After adjustment for multiple confounders, compared with participants in the lowest quintile of HbAA/HbGA, the participants in the highest quintile were more likely to die due to CVD (hazard ratio [HR] = 1.61, 95% CI: 1.09–2.39) and all-cause (HR = 1.59, 95% CI: 1.25–2.01). Moreover, subgroup analysis showed that the highest quintile of HbAA/HbGA in the people with diabetes or pre-diabetes was related to mortalities risk of CVD (HRdiabetes = 1.92, 95% CI: 1.11–3.31; HRpre−diabetes = 1.78, 95% CI: 1.01–3.14) and all-cause mortality (HRdiabetes = 1.81, 95% CI: 1.27–2.58; HRpre−diabetes = 1.59, 95% CI: 1.14–2.20). Additionally, no significant association between the levels of HbAA or HbGA and CVD mortality was observed among people with diabetes or pre-diabetes. Conclusion Higher levels of HbAA/HbGA are associated with greater mortalities of CVD and all-cause among hyperglycemic people.",
+  "Disease_List": [
+    "diabetes",
+    "pre-diabetes",
+    "cardiovascular disease (CVD)"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'diabetes', 'pre-diabetes', and 'cardiovascular disease (CVD)'. These are clearly named diseases rather than general terms. Therefore, the classification is 'Y' for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes",
+    "pre-diabetes",
+    "cardiovascular disease (CVD)"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "pre-diabetes": [
+      {
+        "ui": "C0362046",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0362046",
+        "name": "Prediabetes syndrome",
+        "mesh_id": "D011236"
+      }
+    ],
+    "cardiovascular disease (CVD)": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

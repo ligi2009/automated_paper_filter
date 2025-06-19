@@ -1,0 +1,28 @@
+{
+  "id": 6328,
+  "title": "Stable isotope profiles reveal active production of VOCs from human-associated microbes",
+  "Abstract": "Volatile organic compounds (VOCs) measured from exhaled breath have great promise for the diagnosis of bacterial infections. However, determining human or microbial origin of VOCs detected in breath remains a great challenge. For example, the microbial fermentation product 2,3-butanedione was recently found in the breath of Cystic Fibrosis (CF) patients; parallel culture-independent metagenomic sequencing of the same samples revealed that Streptococcus and Rothia spp. have the genetic capacity to produce 2,3-butanedione. To investigate whether the genetic capacity found in metagenomes translates to bacterial production of a VOC of interest such as 2,3-butanedione, we fed stable isotopes to three bacterial strains isolated from patients: two gram-positive bacteria, Rothia mucilaginosa and Streptococcus salivarius, and a dominant opportunistic gram-negative pathogen, Pseudomonas aeruginosa. Culture headspaces were collected and analyzed using a gas chromatographic system to quantify the abundance of VOCs of interest; mass spectroscopy was used to determine whether the stable isotope label had been incorporated. Our results show that R. mucilaginosa and S. salivarius consumed D-Glucose-13C6 to produce labeled 2,3-butanedione. R. mucilaginosa and S. salivarius also produced labeled acetaldehyde and ethanol when grown with 2H2O. Additionally, we find that P. aeruginosa growth and dimethyl sulfide production are increased when exposed to lactic acid in culture. These results highlight the importance VOCs produced by P. aeruginosa, R. mucilaginosa, and S. salivarius as nutrients and signals in microbial communities, and as potential biomarkers in a CF infection.",
+  "Disease_List": [
+    "Cystic Fibrosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Cystic Fibrosis (CF)' as a specific disease in the context of breath analysis for bacterial infections. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Cystic Fibrosis"
+  ],
+  "UMLS_search_results": {
+    "Cystic Fibrosis": [
+      {
+        "ui": "C0010674",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010674",
+        "name": "Cystic Fibrosis",
+        "mesh_id": "D003550"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

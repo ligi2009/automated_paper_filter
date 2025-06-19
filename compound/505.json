@@ -1,0 +1,166 @@
+{
+  "id": 505,
+  "title": "Release of volatile organic compounds (VOCs) from the lung cancer cell line CALU-1 in vitro",
+  "Abstract": "BackgroundThe aim of this work was to confirm the existence of volatile organic compounds (VOCs) specifically released or consumed by lung cancer cells.Methods50 million cells of the human non-small cell lung cancer (NSCLC) cell line CALU-1 were incubated in a sealed fermenter for 4 h or over night (18 hours). Then air samples from the headspace of the culture vessel were collected and preconcentrated by adsorption on solid sorbents with subsequent thermodesorption and analysis by means of gas chromatography mass spectrometry (GC-MS). Identification of altogether 60 compounds in GCMS measurement was done not only by spectral library match, but also by determination of retention times established with calibration mixtures of the respective pure compounds.ResultsThe results showed a significant increase in the concentrations of 2,3,3-trimethylpentane, 2,3,5-trimethylhexane, 2,4-dimethylheptane and 4-methyloctane in the headspace of CALU-1 cell culture as compared to medium controls after 18 h. Decreased concentrations after 18 h of incubation were found for acetaldehyde, 3-methylbutanal, butyl acetate, acetonitrile, acrolein, methacrolein, 2-methylpropanal, 2-butanone, 2-methoxy-2-methylpropane, 2-ethoxy-2-methylpropane, and hexanal.ConclusionOur findings demonstrate that certain volatile compounds can be cancer-cell derived and thus indicative of the presence of a tumor, whereas other compounds are not released but seem to be consumed by CALU-1 cells.",
+  "Disease_List": [
+    "lung cancer",
+    "non-small cell lung cancer (NSCLC)"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' and specifies the 'non-small cell lung cancer (NSCLC)' cell line CALU-1. These are specific disease names related to cancer, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "non-small cell lung cancer (NSCLC)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2,3,3-trimethylpentane",
+    "2,3,5-trimethylhexane",
+    "2,4-dimethylheptane",
+    "4-methyloctane",
+    "acetaldehyde",
+    "3-methylbutanal",
+    "butyl acetate",
+    "acetonitrile",
+    "acrolein",
+    "methacrolein",
+    "2-methylpropanal",
+    "2-butanone",
+    "2-methoxy-2-methylpropane",
+    "2-ethoxy-2-methylpropane",
+    "hexanal"
+  ],
+  "compound_CID": [
+    {
+      "2,3,3-trimethylpentane": 11215,
+      "2,3,5-trimethylhexane": 14045,
+      "2,4-dimethylheptane": 16656,
+      "4-methyloctane": 16665,
+      "acetaldehyde": 177,
+      "3-methylbutanal": 11552,
+      "butyl acetate": 31272,
+      "acetonitrile": 6342,
+      "acrolein": 7847,
+      "methacrolein": 6562,
+      "2-methylpropanal": 6561,
+      "2-butanone": 6569,
+      "2-methoxy-2-methylpropane": 15413,
+      "2-ethoxy-2-methylpropane": 12512,
+      "hexanal": 6184
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2,3,3-trimethylpentane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the concentration of 2,3,3-trimethylpentane in the headspace of human non-small cell lung cancer (NSCLC) CALU-1 cell cultures compared to controls. This indicates that 2,3,3-trimethylpentane is specifically released by lung cancer cells, suggesting a relationship between this compound and lung cancer as a potential cancer-cell derived volatile organic compound indicative of tumor presence."
+      }
+    },
+    {
+      "2,3,5-trimethylhexane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the concentration of 2,3,5-trimethylhexane in the headspace of human non-small cell lung cancer (NSCLC) CALU-1 cell cultures compared to controls after 18 hours of incubation. This indicates that 2,3,5-trimethylhexane is released by lung cancer cells, suggesting a relationship between this compound and lung cancer. The findings imply that 2,3,5-trimethylhexane could be a cancer-cell derived volatile organic compound indicative of the presence of lung tumors."
+      }
+    },
+    {
+      "2,4-dimethylheptane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the concentration of 2,4-dimethylheptane in the headspace of human non-small cell lung cancer (NSCLC) CALU-1 cell cultures compared to controls after 18 hours. This indicates that 2,4-dimethylheptane is specifically released by lung cancer cells, suggesting a relationship between this compound and lung cancer. The findings support that 2,4-dimethylheptane can be considered a cancer-cell derived volatile organic compound indicative of the presence of lung cancer."
+      }
+    },
+    {
+      "4-methyloctane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the concentration of 4-methyloctane in the headspace of human non-small cell lung cancer (NSCLC) CALU-1 cell cultures compared to controls after 18 hours. This indicates that 4-methyloctane is specifically released by lung cancer cells, suggesting a relationship between this compound and lung cancer. The findings support that 4-methyloctane can be considered a cancer-cell derived volatile organic compound indicative of the presence of lung cancer."
+      }
+    },
+    {
+      "acetaldehyde_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetaldehyde concentrations decreased after incubation with lung cancer cells (CALU-1), suggesting that these cells consume acetaldehyde. This implies a metabolic interaction between acetaldehyde and lung cancer cells, demonstrating a relationship between the compound acetaldehyde and lung cancer."
+      }
+    },
+    {
+      "3-methylbutanal_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 3-methylbutanal shows decreased concentrations in the headspace of the CALU-1 lung cancer cell culture after 18 hours of incubation, indicating that this compound is consumed by lung cancer cells. This suggests a relationship between 3-methylbutanal and lung cancer cells, as its altered presence is linked to the metabolic activity of these cancer cells."
+      }
+    },
+    {
+      "butyl acetate_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that butyl acetate concentrations decreased after incubation with lung cancer cells (CALU-1), suggesting that these cells consume butyl acetate. This implies a metabolic interaction between lung cancer cells and butyl acetate, demonstrating a relationship between the compound and lung cancer."
+      }
+    },
+    {
+      "acetonitrile_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that acetonitrile concentrations decreased after incubation with lung cancer cells (CALU-1), indicating that these cells consume acetonitrile. This suggests a metabolic interaction between lung cancer cells and acetonitrile, implying a relationship between the compound and lung cancer. Although acetonitrile is not released but consumed, its altered levels in the presence of lung cancer cells support a connection relevant to the disease."
+      }
+    },
+    {
+      "acrolein_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acrolein concentrations decreased after incubation with lung cancer cells (CALU-1), suggesting that these cells consume acrolein. This implies a metabolic interaction between lung cancer cells and acrolein, demonstrating a relationship between the compound acrolein and lung cancer."
+      }
+    },
+    {
+      "methacrolein_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methacrolein concentrations decreased after incubation with human non-small cell lung cancer (NSCLC) CALU-1 cells, indicating that these lung cancer cells consume methacrolein. This suggests a relationship between methacrolein and lung cancer cells, as the compound's levels are affected by the presence of lung cancer cells, making methacrolein potentially indicative of lung cancer cell activity."
+      }
+    },
+    {
+      "2-methylpropanal_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 2-methylpropanal decreases after incubation with human non-small cell lung cancer (NSCLC) cells (CALU-1), indicating that these lung cancer cells consume 2-methylpropanal. This suggests a relationship between 2-methylpropanal and lung cancer cells, as the compound's levels are affected by the presence of lung cancer cells, making it indicative of the disease."
+      }
+    },
+    {
+      "2-butanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 2-butanone decreases after incubation with human non-small cell lung cancer (NSCLC) cells (CALU-1), indicating that these lung cancer cells consume 2-butanone. This suggests a relationship between 2-butanone and lung cancer cells, as the compound's levels are affected by the presence of lung cancer cells, making it indicative of the disease."
+      }
+    },
+    {
+      "2-methoxy-2-methylpropane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 2-methoxy-2-methylpropane decreases after incubation with human non-small cell lung cancer (NSCLC) cells (CALU-1), indicating that this compound is consumed by lung cancer cells. This suggests a relationship between 2-methoxy-2-methylpropane and lung cancer, as its altered levels are associated with the presence of lung cancer cells."
+      }
+    },
+    {
+      "2-ethoxy-2-methylpropane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 2-ethoxy-2-methylpropane decreases after incubation with human non-small cell lung cancer (NSCLC) cells (CALU-1), indicating that this compound is consumed by lung cancer cells. This suggests a relationship between 2-ethoxy-2-methylpropane and lung cancer, as its altered levels are associated with the presence of lung cancer cells."
+      }
+    },
+    {
+      "hexanal_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that hexanal is among the volatile organic compounds whose concentration decreases after incubation with lung cancer cells (CALU-1). This suggests that hexanal is consumed by lung cancer cells, demonstrating a relationship between hexanal and lung cancer. Although hexanal is not released but rather consumed, its altered concentration in the presence of lung cancer cells implies it is involved in the metabolic processes of these cells and can be indicative of the presence of lung cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names these chemical compounds as volatile organic compounds detected and analyzed in the headspace of lung cancer cell cultures, indicating their release or consumption by CALU-1 cells."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4855,
+  "title": "Olea europaea L. Root Endophyte Bacillus velezensis OEE1 Counteracts Oomycete and Fungal Harmful Pathogens and Harbours a Large Repertoire of Secreted and Volatile Metabolites and Beneficial Functional Genes",
+  "Abstract": "Oomycete and fungal pathogens, mainly Phytophthora and Fusarium species, are notorious causal agents of huge economic losses and environmental damages. For instance, Phytophthora ramorum, Phytophthora cryptogea, Phytophthora plurivora and Fusarium solani cause significant losses in nurseries and in forest ecosystems. Chemical treatments, while harmful to the environment and human health, have been proved to have little or no impact on these species. Recently, biocontrol bacterial species were used to cope with these pathogens and have shown promising prospects towards sustainable and eco-friendly agricultural practices. Olive trees prone to Phytophthora and Fusarium disease outbreaks are suitable for habitat-adapted symbiotic strategies, to recover oomycetes and fungal pathogen biocontrol agents. Using this strategy, we showed that olive trees-associated microbiome represents a valuable source for microorganisms, promoting plant growth and healthy benefits in addition to being biocontrol agents against oomycete and fungal diseases. Isolation, characterization and screening of root microbiome of olive trees against numerous Phytophthora and other fungal pathogens have led to the identification of the Bacillus velezensis OEE1, with plant growth promotion (PGP) abilities and strong activity against major oomycete and fungal pathogens. Phylogenomic analysis of the strain OEE1 showed that B. velezensis suffers taxonomic imprecision that blurs species delimitation, impacting their biofertilizers’ practical use. Genome mining of several B. velezensis strains available in the GenBank have highlighted a wide array of plant growth promoting rhizobacteria (PGPR) features, metals and antibiotics resistance and the degradation ability of phytotoxic aromatic compounds. Strain OEE1 harbours a large repertoire of secreted and volatile secondary metabolites. Rarefaction analysis of secondary metabolites richness in the B. velezenis genomes, unambiguously documented new secondary metabolites from ongoing genome sequencing efforts that warrants more efforts in order to assess the huge diversity in the species. Comparative genomics indicated that B. velezensis harbours a core genome endowed with PGP features and accessory genome encoding diverse secondary metabolites. Gas Chromatography-Mass Spectrometry (GC-MS) analysis of OEE1 Volatile Organic Compounds (VOCs) and Liquid Chromatography High Resolution Mass Spectrometry (LC-HRMS) analysis of secondary metabolites identified numerous molecules with PGP abilities that are known to interfere with pathogen development. Moreover, B. velezensis OEE1 proved effective in protecting olive trees against F. solani in greenhouse experiments and are able to inhabit olive tree roots. Our strategy provides an effective means for isolation of biocontrol agents against recalcitrant pathogens. Their genomic analysis provides necessary clues towards their efficient implementation as biofertilizers.",
+  "Disease_List": [
+    "Phytophthora disease",
+    "Fusarium disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'Phytophthora disease outbreaks' and 'Fusarium disease outbreaks' affecting olive trees. These are specific diseases caused by the pathogens Phytophthora and Fusarium species, respectively. Although the abstract focuses on the pathogens and biocontrol agents, it clearly names these diseases rather than just general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Phytophthora disease": [],
+    "Fusarium disease": []
+  },
+  "MRCONSO_search_results": {
+    "Phytophthora disease": [],
+    "Fusarium disease": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

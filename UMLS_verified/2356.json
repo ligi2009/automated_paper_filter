@@ -1,0 +1,52 @@
+{
+  "id": 2356,
+  "title": "Toxicokinetics of Major Anthropogenic Indoor Air Pollutants and Their Effects on Human Health: A Review of Literature",
+  "Abstract": "Research studies have shown that about 90% of the time is spent in indoor environments (homes, hospitals, schools, offices, restaurants and subways). During the past decade, many studies have been conducted to assess indoor air quality in school environments. A large number of indoor air pollutants have been measured including volatile organic compounds, nitrogen oxides, sulphur dioxide, carbon dioxide, carbon monoxide, bioaerosols and particulate matters. In most low and medium-income countries, biomass fuel-based cooking and heating is considered to be a significant source of the household as well as ambient air pollution formaldehyde from clipboard and hydrocarbons from paints, cleaners and furnishings (anthropogenic sources). A wide range of acute and chronic diseases are now associated with exposure to air pollution, starting from diabetes mellitus, declining cognitive functions, and obstructive pulmonary diseases, haematopoietic diseases, to cardiovascular disease.",
+  "Disease_List": [
+    "diabetes mellitus",
+    "obstructive pulmonary diseases",
+    "haematopoietic diseases",
+    "cardiovascular disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names associated with exposure to air pollution, including 'diabetes mellitus', 'obstructive pulmonary diseases', 'haematopoietic diseases', and 'cardiovascular disease'. Therefore, the classification is 'Y' for yes.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus",
+    "obstructive pulmonary diseases",
+    "cardiovascular disease"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "obstructive pulmonary diseases": [
+      {
+        "ui": "C0600260",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600260",
+        "name": "Lung Diseases, Obstructive",
+        "mesh_id": "D008173"
+      }
+    ],
+    "haematopoietic diseases": [],
+    "cardiovascular disease": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

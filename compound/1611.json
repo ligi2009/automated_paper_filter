@@ -1,0 +1,42 @@
+{
+  "id": 1611,
+  "title": "Ion Mobility Spectrometry for the Metabolomic Study of Inflammatory Bowel Disease Using the Volatile Organic Compounds Profile in Human Serum and Urine",
+  "Abstract": "Inflammatory bowel disease (IBD) is an immune-mediated disease characterized by chronic mucosal inflammation of the digestive tract. The IBD diagnosis is currently based on the results of imaging, clinical, and histopathological tests. The gold standard diagnostic method is endoscopy, an invasive imaging technique that requires patient sedation and prior bowel preparation and is expensive. In the present work, monitoring the volatile compound fingerprint of serum and urine by headspace gas chromatography-ion mobility spectrometry (HS-GC-IMS) is presented as a rapid and reliable diagnostic complementary test for patients with IBD. The analytical method was optimized and applied for the analysis of serum (118) and urine (123) samples from patients with IBD (in remission and active phase of the disease) and healthy volunteers without IBD. Orthogonal partial least square discriminant analysis was performed using all the integrated markers present in the topographic maps of each sample type, allowing the differentiation between healthy IBD volunteers and IBD patients and between IBD status (remission or active). The individual study of markers allowed the identification and quantification of twelve and six compounds in urine and serum samples, respectively. This information was further used to perform a one-way analysis of variance to compare the different categories.",
+  "Disease_List": [
+    "Inflammatory bowel disease (IBD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Inflammatory bowel disease (IBD)' multiple times as a specific disease. It discusses diagnostic methods and patient samples related to IBD, clearly identifying it as the disease under study.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Inflammatory bowel disease (IBD)"
+  ],
+  "UMLS_search_results": {
+    "Inflammatory bowel disease (IBD)": []
+  },
+  "MRCONSO_search_results": {
+    "Inflammatory bowel disease (IBD)": [
+      "INFLAMMATORY BOWEL DISEASE ULCERATIVE COLITIS",
+      "Inflammatory Bowel Disease, Ulcerative Colitis Type",
+      "INFLAMMATORY BOWEL DISEASE, REGIONAL ENTERITIS",
+      "inflammatory bowel disease - IBD1",
+      "inflammatory bowel disease - IBD1 (diagnosis)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Inflammatory bowel disease (IBD)_via_INFLAMMATORY BOWEL DISEASE ULCERATIVE COLITIS": [
+      {
+        "ui": "C0009324",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009324",
+        "name": "Ulcerative Colitis",
+        "mesh_id": "D003093"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses the analysis of volatile compound fingerprints in serum and urine samples for diagnosing inflammatory bowel disease, but it does not mention any specific chemical compound names."
+}

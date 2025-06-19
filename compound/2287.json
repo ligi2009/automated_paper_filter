@@ -1,0 +1,264 @@
+{
+  "id": 2287,
+  "title": "Environmental and Health Impacts of Air Pollution: A Review",
+  "Abstract": "One of our era's greatest scourges is air pollution, on account not only of its impact on climate change but also its impact on public and individual health due to increasing morbidity and mortality. There are many pollutants that are major factors in disease in humans. Among them, Particulate Matter (PM), particles of variable but very small diameter, penetrate the respiratory system via inhalation, causing respiratory and cardiovascular diseases, reproductive and central nervous system dysfunctions, and cancer. Despite the fact that ozone in the stratosphere plays a protective role against ultraviolet irradiation, it is harmful when in high concentration at ground level, also affecting the respiratory and cardiovascular system. Furthermore, nitrogen oxide, sulfur dioxide, Volatile Organic Compounds (VOCs), dioxins, and polycyclic aromatic hydrocarbons (PAHs) are all considered air pollutants that are harmful to humans. Carbon monoxide can even provoke direct poisoning when breathed in at high levels. Heavy metals such as lead, when absorbed into the human body, can lead to direct poisoning or chronic intoxication, depending on exposure. Diseases occurring from the aforementioned substances include principally respiratory problems such as Chronic Obstructive Pulmonary Disease (COPD), asthma, bronchiolitis, and also lung cancer, cardiovascular events, central nervous system dysfunctions, and cutaneous diseases. Last but not least, climate change resulting from environmental pollution affects the geographical distribution of many infectious diseases, as do natural disasters. The only way to tackle this problem is through public awareness coupled with a multidisciplinary approach by scientific experts; national and international organizations must address the emergence of this threat and propose sustainable solutions.",
+  "Disease_List": [
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "asthma",
+    "bronchiolitis",
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as Chronic Obstructive Pulmonary Disease (COPD), asthma, bronchiolitis, and lung cancer. These are distinct diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic Obstructive Pulmonary Disease (COPD)",
+    "asthma",
+    "bronchiolitis",
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Chronic Obstructive Pulmonary Disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "bronchiolitis": [
+      {
+        "ui": "C0006271",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006271",
+        "name": "Bronchiolitis",
+        "mesh_id": "D001988"
+      },
+      {
+        "ui": "C1744701",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1744701",
+        "name": "Capillary bronchitis",
+        "mesh_id": "None"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Particulate Matter",
+    "ozone",
+    "nitrogen oxide",
+    "sulfur dioxide",
+    "Volatile Organic Compounds",
+    "dioxins",
+    "polycyclic aromatic hydrocarbons",
+    "Carbon monoxide",
+    "lead"
+  ],
+  "compound_CID": [
+    {
+      "Particulate Matter": "None",
+      "ozone": 24823,
+      "nitrogen oxide": "None",
+      "sulfur dioxide": 1119,
+      "Volatile Organic Compounds": "None",
+      "dioxins": "None",
+      "polycyclic aromatic hydrocarbons": "None",
+      "Carbon monoxide": 281,
+      "lead": 5352425
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Particulate Matter_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that Particulate Matter (PM), which consists of very small particles inhaled into the respiratory system, causes respiratory diseases. It further lists Chronic Obstructive Pulmonary Disease (COPD) among the principal respiratory problems resulting from exposure to air pollutants including Particulate Matter. This indicates a clear relationship between Particulate Matter exposure and the development or exacerbation of COPD."
+      },
+      "Particulate Matter_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that Particulate Matter (PM), which consists of very small particles inhaled into the respiratory system, causes respiratory diseases including asthma. It lists asthma among the principal respiratory problems resulting from exposure to PM and other air pollutants, indicating a clear relationship between Particulate Matter and asthma."
+      },
+      "Particulate Matter_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that Particulate Matter (PM), which consists of very small particles inhaled into the respiratory system, causes respiratory diseases. It lists bronchiolitis among the principal respiratory problems associated with exposure to air pollutants including Particulate Matter. Therefore, there is clear evidence in the abstract of a relationship between Particulate Matter and bronchiolitis."
+      },
+      "Particulate Matter_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that Particulate Matter (PM), which consists of very small particles inhaled into the respiratory system, causes various diseases including respiratory and cardiovascular diseases and cancer. It further specifies that diseases resulting from these pollutants include lung cancer. Therefore, there is clear evidence in the abstract of a relationship between Particulate Matter and lung cancer."
+      }
+    },
+    {
+      "ozone_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract states that ozone at ground level is harmful and affects the respiratory system. It lists respiratory diseases, including Chronic Obstructive Pulmonary Disease (COPD), as principal diseases caused by air pollutants such as ozone. Therefore, there is evidence in the abstract indicating a relationship between ozone exposure and COPD."
+      },
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract states that ozone at ground level is harmful and affects the respiratory system. It lists respiratory diseases caused by air pollutants, including asthma. Since ozone is identified as a harmful air pollutant affecting the respiratory system and asthma is specifically mentioned among diseases caused by such pollutants, there is evidence of a relationship between ozone and asthma."
+      },
+      "ozone_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that ozone, when present at high concentrations at ground level, is harmful to the respiratory system. It lists bronchiolitis among the principal respiratory diseases caused by air pollutants, including ozone. This indicates a clear relationship between ozone exposure and the occurrence of bronchiolitis."
+      },
+      "ozone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ozone at ground level is harmful to the respiratory system and lists lung cancer among the diseases caused by air pollutants, including those that affect the respiratory system. While the abstract does not explicitly isolate ozone as a direct cause of lung cancer, it groups ozone with other air pollutants that contribute to respiratory diseases and lung cancer, suggesting a relationship between ozone exposure and lung cancer."
+      }
+    },
+    {
+      "nitrogen oxide_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen oxide as one of the harmful air pollutants and identifies respiratory problems, including Chronic Obstructive Pulmonary Disease (COPD), as diseases principally caused by these substances. This indicates a clear relationship between nitrogen oxide exposure and the development or exacerbation of COPD."
+      },
+      "nitrogen oxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide as one of the harmful air pollutants affecting human health. It explicitly lists asthma among the principal respiratory diseases caused by exposure to these pollutants, including nitrogen oxide. Therefore, there is clear evidence in the abstract of a relationship between nitrogen oxide exposure and asthma."
+      },
+      "nitrogen oxide_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen oxide as one of the harmful air pollutants affecting human health. It further states that diseases caused by these pollutants include respiratory problems such as bronchiolitis. Therefore, there is clear evidence in the abstract linking nitrogen oxide exposure to bronchiolitis."
+      },
+      "nitrogen oxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies nitrogen oxide as one of the harmful air pollutants affecting human health. It explicitly lists lung cancer among the diseases caused by these pollutants, which include nitrogen oxide. Therefore, there is evidence in the abstract supporting a relationship between nitrogen oxide exposure and lung cancer."
+      }
+    },
+    {
+      "sulfur dioxide_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract lists sulfur dioxide as one of the harmful air pollutants affecting human health. It specifically mentions that diseases caused by these pollutants include respiratory problems such as Chronic Obstructive Pulmonary Disease (COPD). Therefore, there is evidence in the abstract that sulfur dioxide is related to COPD."
+      },
+      "sulfur dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists sulfur dioxide among several air pollutants harmful to humans and explicitly mentions respiratory diseases including asthma as principal diseases caused by these substances. This indicates a clear relationship between sulfur dioxide exposure and asthma."
+      },
+      "sulfur dioxide_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract lists sulfur dioxide as one of the harmful air pollutants affecting human health. It specifically mentions that diseases resulting from these pollutants include respiratory problems such as bronchiolitis. Therefore, there is evidence in the abstract that sulfur dioxide is related to bronchiolitis as a contributing air pollutant causing respiratory disease."
+      },
+      "sulfur dioxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists sulfur dioxide among several air pollutants harmful to humans and explicitly mentions that diseases caused by these substances include lung cancer. Although the abstract does not provide detailed mechanistic evidence, it clearly associates sulfur dioxide as one of the pollutants contributing to respiratory diseases including lung cancer."
+      }
+    },
+    {
+      "Volatile Organic Compounds_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Volatile Organic Compounds (VOCs) as harmful air pollutants that contribute to various diseases in humans. It specifically lists respiratory problems, including Chronic Obstructive Pulmonary Disease (COPD), as principal diseases resulting from exposure to these pollutants. Therefore, there is clear evidence in the abstract of a relationship between VOCs and COPD."
+      },
+      "Volatile Organic Compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Volatile Organic Compounds (VOCs) as air pollutants harmful to humans and lists asthma among the principal respiratory diseases caused by these pollutants. This indicates a clear relationship between exposure to VOCs and the occurrence or exacerbation of asthma."
+      },
+      "Volatile Organic Compounds_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists Volatile Organic Compounds (VOCs) as harmful air pollutants and identifies bronchiolitis among the principal respiratory diseases caused by these pollutants. This indicates a clear relationship between exposure to VOCs and the occurrence of bronchiolitis."
+      },
+      "Volatile Organic Compounds_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists Volatile Organic Compounds (VOCs) among air pollutants harmful to humans and states that diseases caused by these pollutants include lung cancer. Although the abstract does not provide detailed mechanistic evidence, it clearly associates VOCs with air pollution-related diseases, including lung cancer, indicating a relationship between VOC exposure and lung cancer."
+      }
+    },
+    {
+      "dioxins_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract lists dioxins among several air pollutants harmful to humans and explicitly mentions that diseases resulting from these substances include respiratory problems such as Chronic Obstructive Pulmonary Disease (COPD). This indicates a clear relationship between exposure to dioxins and the occurrence of COPD."
+      },
+      "dioxins_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists dioxins among several air pollutants harmful to humans and explicitly mentions that diseases resulting from these substances include respiratory problems such as asthma. This indicates a recognized relationship between exposure to dioxins and the occurrence of asthma."
+      },
+      "dioxins_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract lists dioxins among several air pollutants harmful to humans and explicitly mentions bronchiolitis as one of the principal respiratory diseases caused by these substances. This indicates a relationship between exposure to dioxins and the occurrence of bronchiolitis."
+      },
+      "dioxins_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists dioxins among several air pollutants harmful to humans and explicitly mentions that diseases resulting from these substances include lung cancer. This indicates that there is evidence of a relationship between exposure to dioxins and the occurrence of lung cancer."
+      }
+    },
+    {
+      "polycyclic aromatic hydrocarbons_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons (PAHs) as harmful air pollutants and lists respiratory diseases, including Chronic Obstructive Pulmonary Disease (COPD), as principal diseases caused by these pollutants. This indicates a clear relationship between exposure to PAHs and the development or exacerbation of COPD."
+      },
+      "polycyclic aromatic hydrocarbons_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons (PAHs) as harmful air pollutants that contribute to various diseases. It specifically lists respiratory problems, including asthma, as diseases occurring from exposure to these substances. Therefore, there is evidence in the abstract that PAHs are related to asthma."
+      },
+      "polycyclic aromatic hydrocarbons_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons (PAHs) as harmful air pollutants that contribute to various diseases. It specifically lists bronchiolitis among the respiratory problems caused by these pollutants, indicating a clear relationship between exposure to PAHs and the development of bronchiolitis."
+      },
+      "polycyclic aromatic hydrocarbons_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies polycyclic aromatic hydrocarbons (PAHs) as harmful air pollutants and lists lung cancer among the diseases caused by these pollutants. It specifically mentions that diseases resulting from exposure to substances including PAHs principally include respiratory problems and lung cancer, indicating a clear relationship between PAHs and lung cancer."
+      }
+    },
+    {
+      "Carbon monoxide_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies carbon monoxide as one of the air pollutants that can cause direct poisoning at high levels. It also lists respiratory diseases, including Chronic Obstructive Pulmonary Disease (COPD), as principal diseases resulting from exposure to the mentioned pollutants. Therefore, there is evidence in the abstract linking carbon monoxide exposure to COPD."
+      },
+      "Carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract states that carbon monoxide is one of the air pollutants that can cause direct poisoning at high levels. It also lists asthma among the principal respiratory diseases caused by the mentioned air pollutants, which include carbon monoxide. Therefore, there is evidence in the abstract indicating a relationship between carbon monoxide exposure and asthma."
+      },
+      "Carbon monoxide_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that carbon monoxide, when inhaled at high levels, can cause direct poisoning. It also lists bronchiolitis among the principal respiratory diseases caused by air pollutants, including carbon monoxide. This indicates a relationship between carbon monoxide exposure and the occurrence of bronchiolitis."
+      },
+      "Carbon monoxide_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that carbon monoxide can provoke direct poisoning when inhaled at high levels, but it does not provide evidence linking carbon monoxide specifically to lung cancer. While lung cancer is listed among diseases caused by various air pollutants, the abstract attributes lung cancer primarily to particulate matter and other pollutants such as nitrogen oxide, sulfur dioxide, VOCs, dioxins, and PAHs. Therefore, based on the abstract, there is no clear relationship established between carbon monoxide and lung cancer."
+      }
+    },
+    {
+      "lead_Chronic_Obstructive_Pulmonary_Disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract states that heavy metals such as lead, when absorbed into the human body, can cause direct poisoning or chronic intoxication. It also lists diseases caused by the mentioned pollutants, including respiratory problems such as Chronic Obstructive Pulmonary Disease (COPD). This implies a relationship between lead exposure and COPD as part of the respiratory diseases caused by environmental pollutants."
+      },
+      "lead_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that heavy metals such as lead, when absorbed into the human body, can cause direct poisoning or chronic intoxication. It also lists asthma among the principal respiratory diseases caused by the substances discussed, including heavy metals like lead. Therefore, there is evidence in the abstract indicating a relationship between lead exposure and the occurrence of asthma."
+      },
+      "lead_bronchiolitis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies lead as a heavy metal pollutant that can cause direct poisoning or chronic intoxication when absorbed into the human body. It also lists bronchiolitis among the principal respiratory diseases associated with exposure to various air pollutants, including heavy metals like lead. Therefore, there is evidence in the abstract suggesting a relationship between lead exposure and the occurrence of bronchiolitis."
+      },
+      "lead_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract identifies lead as a heavy metal pollutant that can cause direct poisoning or chronic intoxication upon absorption into the human body. It also lists lung cancer among the principal diseases caused by the mentioned pollutants, which include heavy metals such as lead. Therefore, there is evidence in the abstract suggesting a relationship between lead exposure and lung cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances known as air pollutants, including particulate matter, ozone, nitrogen oxide, sulfur dioxide, volatile organic compounds, dioxins, polycyclic aromatic hydrocarbons, carbon monoxide, and the heavy metal lead. These are all specific chemical compounds or classes of compounds identified by name, as opposed to general terms like 'chemicals' or 'compounds'."
+}

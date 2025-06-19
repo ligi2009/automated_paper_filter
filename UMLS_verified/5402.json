@@ -1,0 +1,28 @@
+{
+  "id": 5402,
+  "title": "Were biogenic volatile organic compounds mainly responsible for ozone pollution during the COVID-19 lockdown In Mexico City?",
+  "Abstract": "During the COVID-19 lockdown in Mexico City (March 23 to May 20, 2020), criteria air pollutants decreased their concentration from -19 % (PM10) to -54 % (NO), except for ozone which increased its concentration by +6 % in comparison with the same period of 2019. After the lockdown, the concentration of criteria air pollutants returned to levels before COVID-19, while ozone remained unchanged. As meteorological variables did not modify their trends from 2017 to 2021, all differences in concentration during the lockdown were linked to changes in human activities. The spatial trends during the COVID-19 lockdown were similar to previous years, where the north and center of Mexico City were the most polluted sites, except for ozone which had the highest concentrations in the south and west of the city. During the lockdown, O3 concentration was related to high wind speeds in the direction of green areas, which was attributed to O3 formation from the reaction between biogenic and domestic volatile organic compounds with local NOx emissions. Besides, we did not find evidence that criteria air pollutants were related to COVID-19 spreading. Significant correlations were found only between the number of infections and nitrogen oxides, which may reflect that infected people mobility transmitted the virus in both external and internal spaces. We encourage authorities to pay more attention to other sources besides vehicular for regulation as we demonstrated that although human activities were restricted, pollution could remain at high levels in focused sources.\n \nResumen. Durante el confinamiento por COVID-19 en la Ciudad de México (23 de marzo al 20 de mayo de 2020), los contaminantes atmosféricos criterio disminuyeron su concentración de -19 % (PM10) a -54 % (NO), excepto el ozono que aumentó su concentración +6 %. en comparación con el mismo período de 2019. Después del confinamiento, la concentración de contaminantes atmosféricos criterio volvió a los niveles anteriores al COVID-19, mientras que el ozono se mantuvo sin cambios. Como las variables meteorológicas no modificaron sus tendencias de 2017 a 2021, todas las diferencias de concentración durante el confinamiento estuvieron vinculadas a cambios en las actividades humanas. El análisis espacial mostró tendencias similares a años previos donde el norte y centro de la Ciudad de México fueron los sitios más contaminados excepto ozono, el cual tuvo las concentraciones más elevadas en el sur y oeste de la ciudad. Durante el confinamiento, la concentración de O3 estuvo relacionada con las altas velocidades del viento en dirección a las áreas verdes, lo que se atribuyó a la formación de O3 a partir de la reacción entre los compuestos orgánicos volátiles biogénicos y domésticos y las emisiones locales de NOx. Además, no se encontró evidencia de que los contaminantes atmosféricos criterio estuvieran relacionados con la propagación de COVID-19, ya que solo se encontraron correlaciones significativas entre el número de infecciones y los óxidos de nitrógeno, lo que puede reflejar que la movilidad de las personas infectadas transmitió el virus tanto en espacios externos como internos. Alentamos a las autoridades a prestar más atención a otras fuentes además de los vehículos para la regulación, ya que demostramos que, aunque las actividades humanas estaban restringidas, la contaminación podría permanecer en niveles altos en fuentes focalizadas.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' multiple times in relation to the lockdown period and infection spreading. Therefore, it qualifies as mentioning a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

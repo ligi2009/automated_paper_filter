@@ -1,0 +1,109 @@
+{
+  "id": 674,
+  "title": "Indoor Air Quality and Thermal Comfort in Naturally Ventilated Low-Energy Residential Houses",
+  "Abstract": "The indoor environmental quality (IEQ) and occupant comfort are closely related. The current indoor environmental assessment includes four aspects, namely thermal comfort (TC), indoor air quality (IAQ), visual comfort (VC) and aural comfort (AC). IAQ, as the nature of air in an indoor environment with relation to the occupant health and comfort is not an easily defined concept. In a broad context, it is the result of complex interactions between building, building systems and people. Comparative risk studies performed by the United States Environmental Protection Agency (USEPA) ranked IAQ as one of the 5 top environmental risks to the public health. Over the past decades, exposure to indoor air pollutants increased due to a variety of factors including: construction of tightly sealed buildings, reduction of ventilation rates (for energy saving) and use of synthetic building materials and furnishings as well as chemically formulated personal care products, pesticides and household cleaners. The effect of chemical pollutants on the perceived IAQ was investigated in several studies. The volatile organic compounds (VOCs) were suspected to cause ‘‘sick-building’’ symptoms, like headache, eye and mucous membrane irritation, fatigue and asthmatic symptoms (Redlich et al. 1997). The WHO air quality guidelines exist for major ambient air pollutants such as nitrogen dioxide and ozone, a few organic pollutants including mainly chlorinated and aromatic hydrocarbons (World Health Organization, 2000). The International Agency of Cancer Research recently upgraded formaldehyde to the group 1, known human carcinogen (IARC, 2004). However, there are still inadequate data about health effects of other VOCs. The total amount of VOCs and TVOC was not proven to correlate with symptoms. Investigations of all types of indoor air pollutants for the general air quality monitoring and assessment are complicated. In many studies, it was suggested that the measurement and analysis of the indoor carbon dioxide (CO2) concentration could be useful for understanding the Indoor Air Quality (IAQ) and ventilation effectiveness. Healthy people can tolerate the CO2 level up to 10,000 ppm without serious health effects. An acceptable indoor CO2 level should be kept below 1000 ppm or 650 ppm above the ambient level in order to prevent any accumulation of associated human body odors. The indoor carbon dioxide is relatively easy to measure and its low level in the indoor air usually corresponds to a low level of VOCs.",
+  "Disease_List": [
+    "asthmatic symptoms",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatic symptoms' as a health effect related to volatile organic compounds (VOCs) exposure, which relates to asthma, a specific disease. It also refers to formaldehyde being classified as a known human carcinogen by the International Agency of Cancer Research, implying cancer as a specific disease. Therefore, specific disease names are mentioned, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthmatic symptoms": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "volatile organic compounds",
+    "chlorinated hydrocarbons",
+    "aromatic hydrocarbons",
+    "formaldehyde",
+    "nitrogen dioxide",
+    "ozone",
+    "carbon dioxide"
+  ],
+  "compound_CID": [
+    {
+      "volatile organic compounds": "None",
+      "chlorinated hydrocarbons": "None",
+      "aromatic hydrocarbons": "None",
+      "formaldehyde": 712,
+      "nitrogen dioxide": 3032552,
+      "ozone": 24823,
+      "carbon dioxide": 280
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "volatile organic compounds_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs) are suspected to cause various symptoms related to indoor air quality, and specifically mentions that formaldehyde, a type of VOC, has been classified by the International Agency of Cancer Research (IARC) as a group 1 human carcinogen. Although the abstract notes that there are inadequate data about the health effects of other VOCs, the classification of formaldehyde as a known carcinogen provides evidence of a relationship between certain VOCs and cancer."
+      }
+    },
+    {
+      "chlorinated hydrocarbons_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air quality and mentions chlorinated hydrocarbons as part of organic pollutants included in WHO air quality guidelines. However, it does not provide specific evidence or data linking chlorinated hydrocarbons directly to cancer. While formaldehyde, another VOC, is noted as a known human carcinogen, the abstract states that there are inadequate data about health effects of other VOCs, including chlorinated hydrocarbons. Therefore, based on this abstract, there is no clear evidence of a relationship between chlorinated hydrocarbons and cancer."
+      }
+    },
+    {
+      "aromatic hydrocarbons_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that the World Health Organization air quality guidelines include aromatic hydrocarbons among a few organic pollutants of concern. Additionally, it references the International Agency of Cancer Research (IARC) upgrading formaldehyde to a known human carcinogen, implying that certain VOCs, including aromatic hydrocarbons, are recognized for their potential carcinogenicity. Although the abstract states that data on health effects of other VOCs are still inadequate, the inclusion of aromatic hydrocarbons in WHO guidelines and their classification by IARC suggests an established relationship between aromatic hydrocarbons and cancer."
+      }
+    },
+    {
+      "formaldehyde_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that the International Agency of Cancer Research (IARC) recently upgraded formaldehyde to group 1, which is classified as a known human carcinogen. This classification directly indicates a clear relationship between formaldehyde exposure and cancer risk."
+      }
+    },
+    {
+      "nitrogen dioxide_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air quality and mentions nitrogen dioxide as a major ambient air pollutant with WHO air quality guidelines. However, it does not provide any specific evidence or data linking nitrogen dioxide exposure to cancer. The only carcinogen explicitly mentioned is formaldehyde, which has been classified as a known human carcinogen by IARC. The abstract states that there are inadequate data about health effects of other VOCs and does not establish a relationship between nitrogen dioxide and cancer."
+      }
+    },
+    {
+      "ozone_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air quality and mentions ozone as one of the major ambient air pollutants for which WHO air quality guidelines exist. However, it does not provide any specific evidence or data linking ozone exposure to cancer. The only chemical explicitly identified as a known human carcinogen in the abstract is formaldehyde. The abstract states that there are inadequate data about health effects of other VOCs and does not mention any carcinogenic effects of ozone. Therefore, based on the information provided, there is no clear relationship established between ozone and cancer."
+      }
+    },
+    {
+      "carbon dioxide_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air quality and mentions carbon dioxide (CO2) primarily as an indicator of ventilation effectiveness and indoor air quality. It states that healthy individuals can tolerate CO2 levels up to 10,000 ppm without serious health effects and that acceptable indoor CO2 levels are set to prevent odor accumulation. The abstract does not provide any evidence or mention any direct or indirect relationship between carbon dioxide exposure and cancer. Instead, it highlights other compounds such as formaldehyde as known carcinogens, but explicitly notes inadequate data about health effects of other VOCs and does not implicate CO2 in cancer risk."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to indoor air quality and pollutants, including volatile organic compounds (VOCs), chlorinated and aromatic hydrocarbons, formaldehyde (noted as a known human carcinogen), nitrogen dioxide, ozone, and carbon dioxide (CO2). These are specific named chemical substances rather than general terms."
+}

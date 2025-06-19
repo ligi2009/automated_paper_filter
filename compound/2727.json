@@ -1,0 +1,61 @@
+{
+  "id": 2727,
+  "title": "Cellulose fibers (dominant protecting means/tool) against COVID-19. Facemasks pros, cons, and challenges",
+  "Abstract": "Cellulose materials and related bioresources have been the first-line tools of defense of human health against COVID-19. The alfa cellulose, wood cellulose, and multilayer composite face masks have been used by billions, simultaneously with millions of tons of cellulosic bioresources-based medical specialty, hygiene, and packaging products used to deal with the global disaster. This editorial considers recently available facts and disputes some statements that have appeared in the media during the year 2020 concerning properties and the risks of the masks. According to recent findings, the carbon dioxide concentration increases by 2.3 to 4.3 times inside of the mask, compared to ambient air, and therefore we suppose that there will be also a concentration increase of larger chemical compounds, toxins, volatile organic compounds (VOC), and particles. These quantities should be measured, and the data used in further research aimed at quality improvement.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' in the context of cellulose materials being used as tools of defense against it. Therefore, it qualifies for 'Y' as a specific disease name is mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "alfa cellulose",
+    "wood cellulose",
+    "carbon dioxide"
+  ],
+  "compound_CID": [
+    {
+      "alfa cellulose": "None",
+      "wood cellulose": "None",
+      "carbon dioxide": 280
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "alfa cellulose_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alfa cellulose, as a component of cellulose materials, is used in face masks which have been a first-line defense tool against COVID-19. This suggests a relationship in the context of disease prevention and control, as alfa cellulose-based masks are widely used to mitigate the spread of COVID-19. Although the abstract does not discuss a direct biochemical or pathological interaction between alfa cellulose and the virus, it clearly establishes the use of alfa cellulose-containing products in the management of the disease."
+      }
+    },
+    {
+      "wood cellulose_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that wood cellulose, as a component of face masks, has been widely used as a first-line defense tool against COVID-19. It highlights the role of wood cellulose-based materials in medical and hygiene products aimed at managing the pandemic. Although the abstract also discusses concerns about increased concentrations of carbon dioxide and other compounds inside masks, it clearly establishes a relationship between wood cellulose and COVID-19 through its use in protective equipment designed to reduce disease transmission."
+      }
+    },
+    {
+      "carbon dioxide_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the increase of carbon dioxide concentration inside face masks used during the COVID-19 pandemic but does not provide evidence of a direct relationship between carbon dioxide and COVID-19 disease itself. The focus is on mask usage and potential accumulation of various compounds inside masks, with a suggestion for further research. There is no indication that carbon dioxide influences the disease or its progression."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'alfa cellulose' and 'wood cellulose' as types of cellulose materials, and 'carbon dioxide' as a chemical compound whose concentration increases inside masks. Other terms like 'volatile organic compounds (VOC)' are general categories and not specific chemical names."
+}

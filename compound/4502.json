@@ -1,0 +1,68 @@
+{
+  "id": 4502,
+  "title": "The GacS/GacA two-component system strongly regulates antimicrobial competition mechanisms of Pseudomonas fluorescens MFE01 strain",
+  "Abstract": "ABSTRACT Pseudomonas fluorescens MFE01 is an environmental bacterium characterized by an hyperactive type 6 secretion system (T6SS) and a strong emission of volatile organic compounds (VOCs). In a previous study, a transposition mutant, 3H5, exhibited an inactive T6SS and altered VOC emission. In 3H5, the interruption of trpE gene by the transposon was insufficient to explain these phenotypes. To determine the actual impact of this insertion, a comparative transcriptomic analysis was performed on the two-component system GacS/GacA, known to influence numerous phenotypes in Pseudomonas. The results demonstrated that the gacS gene is less expressed in 3H5 than in MFE01. Phenotypic analysis of a gacS deletion mutant, ΔgacS, confirmed many similarities between ΔgacS and 3H5. Indeed, ΔgacS exhibited an inactive T6SS and an altered VOC emission profile. In-depth analysis of volatilomes and phenotypes correlated with the decrease in gacS transcription, highlighting that the emission of 1-undecene is under the strict control of GacS/GacA. This study confirms that 1-undecene is not the sole volatile molecule responsible for MFE01’s inhibition of Legionella. Moreover, MFE01 has antimicrobial activity against the phytopathogenic oomycetes Phytophthora infestans via hydrogen cyanide (HCN) emission, which is also controlled by GacS. In MFE01, GacS/GacA is also a partial positive regulator of other VOC emission, whose reduced emission in 3H5 coincides with the decrease in gacS transcription. IMPORTANCE Our model strain Pseudomonas fluorescens MFE01 uses an active type VI secretion system (T6SS) and volatile compounds (VCs) to outcompete other microorganisms in the natural environment. By investigating the cellular mechanism regulating the production of these weapons, we identified the two-component system GacS/GacA. Indeed, GacS cellular membrane sensor plays a crucial role in regulating T6SS activity and VC emission. Among the latter, 1-undecene and hydrogen cyanide are strong aerial inhibitors of the Legionella human pathogen and the Phytophtora infestans major plant pest, respectively. The aim is to improve the understanding of the regulation of these volatile molecule emission and the critical role of a global regulator in both plant and human health. Our model strain Pseudomonas fluorescens MFE01 uses an active type VI secretion system (T6SS) and volatile compounds (VCs) to outcompete other microorganisms in the natural environment. By investigating the cellular mechanism regulating the production of these weapons, we identified the two-component system GacS/GacA. Indeed, GacS cellular membrane sensor plays a crucial role in regulating T6SS activity and VC emission. Among the latter, 1-undecene and hydrogen cyanide are strong aerial inhibitors of the Legionella human pathogen and the Phytophtora infestans major plant pest, respectively. The aim is to improve the understanding of the regulation of these volatile molecule emission and the critical role of a global regulator in both plant and human health.",
+  "Disease_List": [
+    "Legionella"
+  ],
+  "Reason": "The abstract explicitly mentions 'Legionella human pathogen,' which refers to a specific disease-causing agent known to cause Legionnaires' disease. Although 'Phytophthora infestans' is mentioned, it is described as a plant pest rather than a human disease. Therefore, the presence of 'Legionella' justifies a 'Y' classification for specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Legionella"
+  ],
+  "UMLS_search_results": {
+    "Legionella": [
+      {
+        "ui": "C0023237",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023237",
+        "name": "Legionella",
+        "mesh_id": "D007875"
+      },
+      {
+        "ui": "C0023240",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023240",
+        "name": "Legionellosis",
+        "mesh_id": "D007876"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "1-undecene",
+    "hydrogen cyanide",
+    "HCN"
+  ],
+  "compound_CID": [
+    {
+      "1-undecene": 13190,
+      "hydrogen cyanide": 768,
+      "HCN": 768
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "1-undecene_Legionella": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that 1-undecene, a volatile organic compound emitted by Pseudomonas fluorescens MFE01, acts as a strong aerial inhibitor of Legionella, a human pathogen. The study highlights that the emission of 1-undecene is regulated by the GacS/GacA two-component system and that 1-undecene contributes to the inhibition of Legionella, although it is not the sole volatile molecule responsible. This indicates a clear relationship between 1-undecene and the disease caused by Legionella."
+      }
+    },
+    {
+      "hydrogen cyanide_Legionella": {
+        "relationship": "N",
+        "reason": "The abstract indicates that hydrogen cyanide (HCN) emitted by Pseudomonas fluorescens MFE01 has antimicrobial activity against the phytopathogenic oomycete Phytophthora infestans, not Legionella. In contrast, 1-undecene and other volatile compounds are described as strong aerial inhibitors of the Legionella human pathogen. Therefore, there is no evidence in the abstract that hydrogen cyanide is related to Legionella inhibition or interaction."
+      }
+    },
+    {
+      "HCN_Legionella": {
+        "relationship": "N",
+        "reason": "The abstract indicates that hydrogen cyanide (HCN) emitted by Pseudomonas fluorescens MFE01 has antimicrobial activity against the phytopathogenic oomycete Phytophthora infestans, not Legionella. In contrast, 1-undecene and hydrogen cyanide are mentioned as strong aerial inhibitors of Legionella and Phytophthora infestans respectively, implying that 1-undecene inhibits Legionella while HCN inhibits Phytophthora infestans. Therefore, there is no clear evidence in the abstract that HCN is related to or inhibits Legionella."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds 1-undecene and hydrogen cyanide (also abbreviated as HCN) as volatile organic compounds emitted by Pseudomonas fluorescens MFE01. These compounds are highlighted for their roles in antimicrobial activity and inhibition of pathogens, making them specific chemical substances of interest in the study."
+}

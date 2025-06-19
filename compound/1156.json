@@ -1,0 +1,116 @@
+{
+  "id": 1156,
+  "title": "Discrimination between the human prostate normal and cancer cell exometabolome by GC-MS",
+  "Abstract": "Serum prostate-specific antigen (PSA) is currently the most used biomarker in clinical practice for prostate cancer (PCa) detection. However, this biomarker has several drawbacks. In this work, an untargeted gas chromatography-mass spectrometry (GC-MS)-based metabolomic profiling of PCa cells was performed to prove the concept that metabolic alterations might differentiate PCa cell lines from normal prostate cell line. For that, we assessed the differences in volatile organic compounds (VOCs) profile in the extracellular medium (exometabolome) of four PCa cell lines and one normal prostate cell line at two pH values (pH 2 and 7) by GC-MS. Multivariate analysis revealed a panel of volatile metabolites that discriminated cancerous from normal prostate cells. The most altered metabolites included ketones, aldehydes and organic acids. Among these, we highlight pentadecane-2-one and decanoic acid, which were significantly increased in PCa compared to normal cells, and cyclohexanone, 4-methylheptan-2-one, 2-methylpentane-1,3-diol, 4-methylbenzaldehyde, 1-(3,5-dimethylfuran-2-yl)ethanone, methyl benzoate and nonanoic acid, which were significantly decreased in PCa cells. The PCa volatilome was markedly influenced by the VOCs extraction pH, though the discriminant capability was similar. Overall, our data suggest that VOCs monitoring has the potential to be used as a PCa screening methodology.",
+  "Disease_List": [
+    "prostate cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'prostate cancer (PCa)' multiple times as the specific disease being studied. The focus is on detecting and differentiating prostate cancer cells from normal prostate cells using metabolomic profiling. Therefore, specific disease names are clearly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "prostate cancer"
+  ],
+  "UMLS_search_results": {
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "pentadecane-2-one",
+    "decanoic acid",
+    "cyclohexanone",
+    "4-methylheptan-2-one",
+    "2-methylpentane-1,3-diol",
+    "4-methylbenzaldehyde",
+    "1-(3,5-dimethylfuran-2-yl)ethanone",
+    "methyl benzoate",
+    "nonanoic acid"
+  ],
+  "compound_CID": [
+    {
+      "pentadecane-2-one": "None",
+      "decanoic acid": 2969,
+      "cyclohexanone": 7967,
+      "4-methylheptan-2-one": 94317,
+      "2-methylpentane-1,3-diol": 61099,
+      "4-methylbenzaldehyde": 7725,
+      "1-(3,5-dimethylfuran-2-yl)ethanone": 579675,
+      "methyl benzoate": 7150,
+      "nonanoic acid": 8158
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "pentadecane-2-one_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that pentadecane-2-one levels were significantly increased in prostate cancer (PCa) cell lines compared to normal prostate cells. This indicates a metabolic alteration associated with PCa involving pentadecane-2-one, suggesting a relationship between this compound and prostate cancer. The study highlights pentadecane-2-one as one of the most altered metabolites in the volatile organic compounds profile of PCa cells, supporting its potential role as a biomarker for PCa detection."
+      }
+    },
+    {
+      "decanoic acid_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that decanoic acid levels were significantly increased in prostate cancer (PCa) cell lines compared to normal prostate cells. This indicates a metabolic alteration involving decanoic acid associated with prostate cancer, suggesting a relationship between the compound and the disease."
+      }
+    },
+    {
+      "cyclohexanone_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that cyclohexanone is one of the volatile organic compounds (VOCs) whose levels are significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration involving cyclohexanone associated with prostate cancer. Therefore, there is evidence of a relationship between cyclohexanone and prostate cancer based on its altered presence in PCa cell metabolomic profiling."
+      }
+    },
+    {
+      "4-methylheptan-2-one_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 4-methylheptan-2-one is one of the volatile organic compounds (VOCs) whose levels are significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration associated with prostate cancer involving this compound. Therefore, there is evidence of a relationship between 4-methylheptan-2-one and prostate cancer, as its altered presence differentiates cancerous from normal prostate cells."
+      }
+    },
+    {
+      "2-methylpentane-1,3-diol_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-methylpentane-1,3-diol is one of the volatile organic compounds (VOCs) that were significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration involving this compound in PCa, suggesting a relationship between 2-methylpentane-1,3-diol levels and prostate cancer. Therefore, there is evidence of a relationship based on the altered presence of this compound in PCa cells."
+      }
+    },
+    {
+      "4-methylbenzaldehyde_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 4-methylbenzaldehyde is one of the volatile organic compounds (VOCs) whose levels were significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration associated with prostate cancer involving 4-methylbenzaldehyde, suggesting a relationship between this compound and the disease. Therefore, there is evidence of a relationship based on the altered presence of 4-methylbenzaldehyde in PCa cells."
+      }
+    },
+    {
+      "1-(3,5-dimethylfuran-2-yl)ethanone_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1-(3,5-dimethylfuran-2-yl)ethanone is one of the volatile organic compounds (VOCs) whose levels were significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration associated with prostate cancer, suggesting a relationship between this compound and the disease. The study highlights that such VOCs can discriminate cancerous from normal prostate cells, supporting the potential use of these metabolites, including 1-(3,5-dimethylfuran-2-yl)ethanone, in PCa screening."
+      }
+    },
+    {
+      "methyl benzoate_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methyl benzoate is one of the volatile organic compounds (VOCs) that were significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration involving methyl benzoate associated with prostate cancer, suggesting a relationship between the compound and the disease. The study highlights that changes in VOC profiles, including methyl benzoate levels, can discriminate cancerous from normal prostate cells, supporting the potential use of these metabolites in PCa screening."
+      }
+    },
+    {
+      "nonanoic acid_prostate_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that nonanoic acid is among the volatile organic compounds (VOCs) that were significantly decreased in prostate cancer (PCa) cells compared to normal prostate cells. This indicates a metabolic alteration involving nonanoic acid associated with prostate cancer, suggesting a relationship between the compound and the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several volatile organic compounds identified by GC-MS analysis that differentiate prostate cancer cells from normal cells. These include ketones, aldehydes, and organic acids with precise chemical names such as pentadecane-2-one, decanoic acid, cyclohexanone, and others, which were highlighted as significantly altered in prostate cancer cells."
+}

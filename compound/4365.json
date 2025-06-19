@@ -1,0 +1,91 @@
+{
+  "id": 4365,
+  "title": "Phytochemical Constituents and Biological Properties of Finger Lime (Citrus australasica F. Muell.) Peel, Pulp and Seeds",
+  "Abstract": "In this work, for the first time, different parts of the Finger Lime (Citrus australasica F. Muell.), such as pulp, peel and seeds, were analyzed by HS-SPME-GC/MS, and NMR techniques in order to describe its volatile and non-volatile chemical profile. The results highlighted the presence of a high number of terpenes with limonene as principal component in all investigated parts (ranging from 40.4% to 62.6%) and molecules belonging to the classes of amino acids, organic acids, carbohydrates, fatty acids, phenols and miscellaneous compounds that followed a different trend between the investigated different parts. In this study, the inhibition of ChEs (AChE and BChE) was evaluated using the spectrophotometric method of Ellman. The results showed that only peel extract weakly inhibited AChE (14%). Based on these data, this extract was further investigated by GC/MS after derivatization. Furthermore, peel extract was chosen to evaluate the in vitro effects on two human glioblastoma cells lines (U87 and LN18). Flow cytometry results showed that citrus extract was more effective in down-regulating the expression of the adhesion molecule CD44. In fact, after 72 h with 400 µg/mL of citrus extract, CD44 expression levels were reduced in both U87 and LN18 glioblastoma cell lines. This was confirmed by immunofluorescence analysis, which also showed a modification of CD44 antigen localization in both U87 and LN18 cell lines. Moreover, wound assay data supported its ability to reduce glioblastoma cell’s motility. The migration ability of U87 cells decreased (85% control vs. 50% at 400 μg/mL), while it was even more pronounced in resistant LN18 cells (93% control vs. 15% at 400 μg/mL). The findings highlighted that citrus peel extract could have an anti-invasive activity for glioma management.",
+  "Disease_List": [
+    "glioblastoma",
+    "glioma"
+  ],
+  "Reason": "The abstract explicitly mentions 'glioblastoma' and 'glioma', which are specific disease names related to brain tumors. The study evaluates the effects of citrus peel extract on human glioblastoma cell lines (U87 and LN18) and discusses its potential anti-invasive activity for glioma management, clearly indicating the focus on these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "glioblastoma",
+    "glioma"
+  ],
+  "UMLS_search_results": {
+    "glioblastoma": [
+      {
+        "ui": "C1621958",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1621958",
+        "name": "Glioblastoma Multiforme",
+        "mesh_id": "D005909"
+      },
+      {
+        "ui": "C0017636",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017636",
+        "name": "Glioblastoma",
+        "mesh_id": "D005909"
+      }
+    ],
+    "glioma": [
+      {
+        "ui": "C0017638",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017638",
+        "name": "Glioma",
+        "mesh_id": "D005910"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "limonene",
+    "AChE",
+    "BChE"
+  ],
+  "compound_CID": [
+    {
+      "limonene": 22311,
+      "AChE": "None",
+      "BChE": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "limonene_glioblastoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where citrus peel extract, containing limonene as the principal component (40.4% to 62.6%), was tested on human glioblastoma cell lines (U87 and LN18). The extract demonstrated biological effects relevant to glioblastoma, including down-regulation of the adhesion molecule CD44, modification of CD44 localization, and significant reduction in glioblastoma cell motility and migration. These findings suggest that limonene-rich citrus peel extract exhibits anti-invasive activity against glioblastoma cells, indicating a relationship between limonene and glioblastoma management."
+      },
+      "limonene_glioma": {
+        "relationship": "N",
+        "reason": "The abstract describes the chemical analysis of Finger Lime extracts, highlighting limonene as a principal component. It reports that the citrus peel extract showed anti-invasive effects on glioblastoma cell lines, including down-regulation of CD44 expression and reduced cell motility. However, the study attributes these effects to the whole citrus peel extract rather than isolating limonene specifically. There is no direct evidence or specific investigation of limonene alone in relation to glioma in the abstract. Therefore, while the extract containing limonene shows potential anti-glioma activity, no clear relationship between limonene itself and glioma is established."
+      }
+    },
+    {
+      "AChE_glioblastoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the evaluation of acetylcholinesterase (AChE) inhibition by citrus peel extract and separately investigates the effects of the same extract on glioblastoma cell lines. While the peel extract weakly inhibited AChE (14%), the anti-invasive effects on glioblastoma cells (U87 and LN18) were attributed to the citrus extract's impact on CD44 expression and cell motility, not directly linked to AChE activity. There is no direct evidence in the abstract that AChE itself is related to glioblastoma or its progression."
+      },
+      "AChE_glioma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the inhibition of acetylcholinesterase (AChE) by citrus peel extract and the extract's effects on glioblastoma cell lines, including reduced CD44 expression and decreased cell motility. However, it does not provide evidence of a direct relationship between AChE itself and glioma. The focus is on the extract's weak inhibition of AChE and its anti-invasive effects on glioma cells, but no causal or mechanistic link between AChE activity and glioma development or progression is established."
+      }
+    },
+    {
+      "BChE_glioblastoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the evaluation of BChE inhibition by citrus peel extract and separately investigates the effects of the same extract on glioblastoma cell lines. However, there is no direct evidence or indication that BChE itself is related to glioblastoma in this study. The anti-invasive effects on glioblastoma cells are attributed to the citrus peel extract as a whole, not specifically to BChE or its inhibition. Therefore, no clear relationship between BChE and glioblastoma is established based on this abstract."
+      },
+      "BChE_glioma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the evaluation of BChE inhibition by citrus peel extract and its effects on glioblastoma cell lines, but it does not provide evidence of a direct relationship between BChE itself and glioma. The study focuses on the inhibitory activity of the extract on cholinesterases (including BChE) and the anti-invasive effects of the extract on glioma cells, particularly through down-regulation of CD44 and reduced cell motility. However, BChE is mentioned only as a target of inhibition by the extract, without establishing a direct link between BChE activity and glioma pathology or progression."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions limonene as the principal terpene component identified in the Finger Lime parts. Additionally, AChE (acetylcholinesterase) and BChE (butyrylcholinesterase) are enzymes evaluated for inhibition, which are specific biochemical entities relevant to the study. Other terms like amino acids, organic acids, carbohydrates, fatty acids, and phenols are general classes rather than specific compounds."
+}

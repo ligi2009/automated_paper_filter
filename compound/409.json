@@ -1,0 +1,55 @@
+{
+  "id": 409,
+  "title": "A Sustainable Indoor Air Quality Monitoring Approach through Potable Living Wall for Closed Confined Spaces: A Way Forward to Fight Covid19",
+  "Abstract": "The COVID-19 pandemic has greatly influenced various aspects of life, part of which has consequently paved the way toward improvements in building design criteria, especially for closed confined spaces. The closed confined spaces are directly proportional to the quantity and quality of the volatile organic compounds (VOCs) present in the atmosphere, from which human beings breathe. In managing the impact produced by VOCs, a practical, sustainable, economical and environmentally friendly concept of indoor living walls has become a prominent feature for improving the indoor air quality (IAQ) of closed confined spaces to efficiently reduce sick building syndrome (SBS) factors. In modification of common practice of ventilation systems, living wall technology leverages the natural ability of plants to purify indoor air quality by reducing air pollutants and allows the recycling of indoor air and the creation of a productive and inspiring environment. In this paper, the concept of a portable living wall through the use of a native plant species locally available in Sindh, Pakistan is introduced. Herein, the portable living concept was assessed by means of the design, construction, and data collection (testing and monitoring) of various environmental parameters carried out before and after the installation of the living wall. The study was monitored for 90 days, and analyses for various types of air pollutants were carried out in the environmental laboratory. During the monitoring period, the parameters humidity, VOCs, hazardous chemicals of concern (HCOC), CO2 and CO showed reductions in their values, with changes observed ranging from 61.5 to 58%, 0.66 to 0.01 ppm, 0.2 to 0.01 ppm, 1070 to 528 ppm and 0.2 to 0.01 ppm, respectively. The outcomes showed noticeable changes in air pollutants coupled with reductions in heating, ventilation and air conditioning (HVAC) energy consumption by up to 25%, mainly due to limited air requirements for ventilation.",
+  "Disease_List": [
+    "COVID-19",
+    "sick building syndrome (SBS)"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19', which is a specific disease caused by the SARS-CoV-2 virus, and 'sick building syndrome (SBS)', which is a recognized health condition related to symptoms experienced in certain indoor environments. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "sick building syndrome (SBS)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "CO2",
+    "CO"
+  ],
+  "compound_CID": [
+    {
+      "CO2": 280,
+      "CO": 104730
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "CO2_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the COVID-19 pandemic on building design and indoor air quality improvements, specifically focusing on reducing air pollutants such as CO2 in closed confined spaces using living wall technology. While CO2 levels were measured and shown to decrease, the abstract does not provide any evidence or direct link between CO2 and COVID-19 disease itself. The relationship described is about environmental air quality management during the pandemic, not a causal or pathological relationship between CO2 and COVID-19."
+      }
+    },
+    {
+      "CO_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of indoor air quality improvements, including reductions in various air pollutants such as CO, in the context of managing indoor environments during the COVID-19 pandemic. However, it does not provide any direct evidence or indication of a relationship between the compound CO (carbon monoxide) and the disease COVID-19 itself. The focus is on environmental factors and air quality management rather than a causal or associative link between CO exposure and COVID-19 disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions carbon dioxide (CO2) and carbon monoxide (CO) as chemical compounds measured during the study. Other terms like VOCs and hazardous chemicals of concern are general categories and do not specify particular chemical compound names."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3041,
+  "title": "A Pilot Study Exploring the Use of Breath Analysis to Differentiate Healthy Cattle from Cattle Experimentally Infected with Mycobacterium bovis",
+  "Abstract": "Bovine tuberculosis, caused by Mycobacterium bovis, is a zoonotic disease of international public health importance. Ante-mortem surveillance is essential for control; however, current surveillance tests are hampered by limitations affecting ease of use or quality of results. There is an emerging interest in human and veterinary medicine in diagnosing disease via identification of volatile organic compounds produced by pathogens and host-pathogen interactions. The objective of this pilot study was to explore application of existing human breath collection and analysis methodologies to cattle as a means to identify M. bovis infection through detection of unique volatile organic compounds or changes in the volatile organic compound profiles present in breath. Breath samples from 23 male Holstein calves (7 non-infected and 16 M. bovis-infected) were collected onto commercially available sorbent cartridges using a mask system at 90 days post-inoculation with M. bovis. Samples were analyzed using gas chromatography-mass spectrometry, and chromatographic data were analyzed using standard analytical chemical and metabolomic analyses, principle components analysis, and a linear discriminant algorithm. The findings provide proof of concept that breath-derived volatile organic compound analysis can be used to differentiate between healthy and M. bovis-infected cattle.",
+  "Disease_List": [
+    "Bovine tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Bovine tuberculosis' as a specific disease caused by Mycobacterium bovis. This is a clearly named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Bovine tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "Bovine tuberculosis": [
+      {
+        "ui": "C0041307",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041307",
+        "name": "Tuberculosis, Bovine",
+        "mesh_id": "D014380"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

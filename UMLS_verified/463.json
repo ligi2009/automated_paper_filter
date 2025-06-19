@@ -1,0 +1,28 @@
+{
+  "id": 463,
+  "title": "A pilot study for the prediction of liver function related scores using breath biomarkers and machine learning",
+  "Abstract": "Volatile organic compounds (VOCs) present in exhaled breath can help in analysing biochemical processes in the human body. Liver diseases can be traced using VOCs as biomarkers for physiological and pathophysiological conditions. In this work, we propose non-invasive and quick breath monitoring approach for early detection and progress monitoring of liver diseases using Isoprene, Limonene, and Dimethyl sulphide (DMS) as potential biomarkers. A pilot study is performed to design a dataset that includes the biomarkers concentration analysed from the breath sample before and after study subjects performed an exercise. A machine learning approach is applied for the prediction of scores for liver function diagnosis. Four regression methods are performed to predict the clinical scores using breath biomarkers data as features set by the machine learning techniques. A significant difference was observed for isoprene concentration (p < 0.01) and for DMS concentration (p < 0.0001) between liver patients and healthy subject’s breath sample. The R-square value between actual clinical score and predicted clinical score is found to be 0.78, 0.82, and 0.85 for CTP score, APRI score, and MELD score, respectively. Our results have shown a promising result with significant different breath profiles between liver patients and healthy volunteers. The use of machine learning for the prediction of scores is found very promising for use of breath biomarkers for liver function diagnosis.",
+  "Disease_List": [
+    "liver diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'liver diseases' multiple times as the specific disease condition being studied. Although it does not specify particular types of liver diseases, 'liver diseases' is a specific disease category mentioned explicitly, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "liver diseases"
+  ],
+  "UMLS_search_results": {
+    "liver diseases": [
+      {
+        "ui": "C0023895",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023895",
+        "name": "Liver diseases",
+        "mesh_id": "D008107"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

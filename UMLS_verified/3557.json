@@ -1,0 +1,39 @@
+{
+  "id": 3557,
+  "title": "In Vitro Evidence for the Efficacy of Manuka Honey and Its Components Against the Major Human Pathogenic Sporothrix Species",
+  "Abstract": "Background/Objectives: While various clinical manifestations occur in sporotrichosis, cutaneous forms predominate. The recommended sporotrichosis treatment is itraconazole, an antifungal with certain restrictions. In recent years, the observation of reduced treatment effectiveness in some patients has arisen, possibly due to Sporothrix spp. resistance mechanisms. Consequently, there is a growing need for alternative therapeutic approaches. This study investigates the antifungal activity of manuka honey (MH) against pathogenic species of the genus Sporothrix. Methods: In this study, we assessed MH antifungal efficacy across concentrations ranging from 5% to 40% against 26 Sporothrix spp. isolates. In addition, its components were evaluated through chromatography and other in vitro techniques. Results: Minimum inhibitory concentrations of MH were found to be 15–40%, 10–15%, and 5–10% for Sporothrix brasiliensis, Sporothrix schenckii, and Sporothrix globosa, respectively. Purified methylglyoxal did not hinder Sporothrix growth. The MH antifungal potential was compromised through treatment with catalase or filtration through a 0.22 µm cellulose membrane. Chromatographic analysis of the volatile organic compounds (VOCs) present in MH identified 40 VOCs, including carbonyl compounds, alcohols, esters, aromatic hydrocarbons, heterocyclic compounds, terpenoids, and carboxylic acids. Additionally, two phenolic compounds were identified as potential markers for the authentication of MH, along with a disaccharide that may contribute to its antifungal activity. Conclusions: MH has demonstrated biological activity against the most significant Sporothrix species with pathogenic impact on humans. This suggests its consideration in future research endeavors focused on novel topical treatments for cutaneous sporotrichosis in both human and animal subjects.",
+  "Disease_List": [
+    "sporotrichosis",
+    "cutaneous sporotrichosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'sporotrichosis' and 'cutaneous sporotrichosis' as specific diseases. Sporotrichosis is a fungal infection caused by Sporothrix species, and the text discusses clinical manifestations, treatment, and antifungal activity against this disease, clearly identifying it as a specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "sporotrichosis",
+    "cutaneous sporotrichosis"
+  ],
+  "UMLS_search_results": {
+    "sporotrichosis": [
+      {
+        "ui": "C0038034",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038034",
+        "name": "Sporotrichosis",
+        "mesh_id": "D013174"
+      }
+    ],
+    "cutaneous sporotrichosis": [
+      {
+        "ui": "C0276726",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276726",
+        "name": "Cutaneous sporotrichosis",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

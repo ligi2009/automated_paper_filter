@@ -1,0 +1,64 @@
+{
+  "id": 5159,
+  "title": "Attraction of phlebotomine sandflies to volatiles from skin odors of individuals residing in an endemic area of tegumentary leishmaniasis",
+  "Abstract": "Background Many studies have investigated what could attract insects of medical importance and a crucial role has lately been attributed to human skin odors. Most of these researches have been concerned with mosquitoes, e.g., vectors of dengue and malaria. Little is known about volatile organic compounds (VOCs) from human skin odors and their effects on leishmania vectors. Objective The present study aimed to identify the VOCs from human skin that can be attractive to female anthropophilic phlebotomine sandflies. Results Forty-two VOCs were identified from skin odors of 33 male volunteers, seven of which were tested in wind tunnel assays employing field-captured phlebotomine sandflies (75.4% identified as Lutzomyia intermedia). Hexane and (E)-oct-3-en-1-ol (octenol) were used as negative and positive controls, respectively. 2-Phenylacetaldehyde (hereafter called phenylacetaldehyde), 6-methylhept-5-en-2-one (also known as sulcatone), nonadecane and icosane were found to activate female phlebotomine sandflies, but only phenylacetaldehyde, 6-methylhepten-5-en-2-one and icosane elicited attraction responses. Conclusions These results suggest that phenylacetaldehyde, 6-methylhepten-5-en-2-one and icosane may be suitable candidates for attractiveness experimentation in the field which can be an important tool to develop strategies concerning human beings protection against phlebotomine sandflies bites and consequently against leishmaniasis.",
+  "Disease_List": [
+    "dengue",
+    "malaria",
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'dengue' and 'malaria' as diseases transmitted by mosquitoes, and 'leishmaniasis' as a disease related to phlebotomine sandflies. These are all named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "dengue",
+    "malaria",
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "dengue": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

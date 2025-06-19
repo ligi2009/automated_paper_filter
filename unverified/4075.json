@@ -1,0 +1,20 @@
+{
+  "id": 4075,
+  "title": "Adjunctive Therapeutic Effects of Forest Bathing Trips on Geriatric Hypertension: Results from an On-Site Experiment in the Cinnamomum camphora Forest Environment in Four Seasons",
+  "Abstract": "Forest bathing is receiving increased attention due to its health benefits for humans. However, knowledge is scarce about the adjunctive therapeutic effects of forest bathing in different seasons on geriatric hypertension. The aim of the current study was to evaluate the antihypertensive effects of forest bathing in a Cinnamomum camphora (C. camphora) forest environment in four seasons. One group of participants with geriatric hypertension was sent to a C. camphora forest to experience a 3 day trip, while, as a control, another group was sent to the urban center. The participants’ blood pressure, blood routine, and blood biochemistry were assessed. The profile of the mood states (POMS) of the participants was assessed before and after the experiment. The air quality, atmospheric environment, and content of volatile organic compounds (VOCs) at the two experimental sites were monitored during the experiment. This experiment was repeated across four seasons. The advantages of the urban forest groups over the control groups were mainly represented by reductions in diastolic blood pressure (DBP), systolic blood pressure (SBP), and heart rate (HR), as well as increased oxygen saturation (SpO2). The antihypertensive effects of forest bathing in the C. camphora forest environment changed with the seasons. Compared with the baseline level, SBP and DBP declined after forest bathing across the whole year, except during winter, whereas SpO2 increased. The effect of forest bathing on lowering blood pressure was particularly pronounced during summer and autumn. The antihypertensive effects of forest bathing in the four seasons were highly consistent with the seasonal dynamics of VOCs and negative air ions (NAIs), which implies that the effect of forest bathing may be attributed to alterations of the atmospheric environment. The antihypertensive effects of C. camphora forest were confirmed in our study, and the results can provide a reference for scheduling bathing trips.",
+  "Disease_List": [
+    "geriatric hypertension"
+  ],
+  "Reason": "The abstract explicitly mentions 'geriatric hypertension' as a specific disease condition being studied in relation to the antihypertensive effects of forest bathing. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "geriatric hypertension": []
+  },
+  "MRCONSO_search_results": {
+    "geriatric hypertension": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

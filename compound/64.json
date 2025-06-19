@@ -1,0 +1,32 @@
+{
+  "id": 64,
+  "title": "Dogs can discriminate between human baseline and psychological stress condition odours",
+  "Abstract": "Previous research suggests that dogs can detect when humans are experiencing stress. This study tested whether baseline and stress odours were distinguishable to dogs, using a double-blind, two-phase, three-alternative forced-choice procedure. Combined breath and sweat samples were obtained from participants at baseline, and after a stress-inducing (mental arithmetic) task. Participants’ stress was validated with self-report and physiological measures recorded via a Biopac MP150 system. Thirty-six participants’ samples were presented to four dogs across 36 sessions (16, 11, 7 and 2 sessions, respectively). Each session consisted of 10 Phase One training trials and 20 Phase Two discrimination trials. In Phase One, the dog was presented with a participant’s stress sample (taken immediately post-task) alongside two blanks (the sample materials without breath or sweat), and was required to identify the stress sample with an alert behaviour. In Phase Two, the dog was presented with the stress sample, the same participant’s baseline sample (taken pre-task), and a blank. Which sample (blank, baseline, or stress) the dog performed their alert behaviour on was measured. If dogs can correctly alert on the stress sample in Phase Two (when the baseline sample was present), it suggests that baseline and stress odours are distinguishable. Performance ranged from 90.00% to 96.88% accuracy with a combined accuracy of 93.75% (N trials = 720). A binomial test (where probability of success on a single trial was 0.33, and alpha was 0.05) showed that the proportion of correct trials was greater than that expected by chance (p < 0.001). Results indicate that the physiological processes associated with an acute psychological stress response produce changes in the volatile organic compounds emanating from breath and/or sweat that are detectable to dogs. These results add to our understanding of human-dog relationships and could have applications to Emotional Support and Post Traumatic Stress Disorder (PTSD) service dogs.",
+  "Disease_List": [
+    "Post Traumatic Stress Disorder (PTSD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Post Traumatic Stress Disorder (PTSD)' as a specific disease name. Although the main focus is on stress detection by dogs, PTSD is clearly named as a related condition where these findings could have applications. Therefore, the classification is 'Y' with PTSD listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Post Traumatic Stress Disorder (PTSD)"
+  ],
+  "UMLS_search_results": {
+    "Post Traumatic Stress Disorder (PTSD)": [
+      {
+        "ui": "C0038436",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038436",
+        "name": "Post-Traumatic Stress Disorder",
+        "mesh_id": "D013313"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds in general terms but does not mention any specific chemical compound names."
+}

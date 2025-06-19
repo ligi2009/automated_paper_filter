@@ -1,0 +1,141 @@
+{
+  "id": 4891,
+  "title": "Metabolomic Analysis of Respiratory Epithelial Lining Fluid in Patients with Chronic Obstructive Pulmonary Disease—A Systematic Review",
+  "Abstract": "Chronic obstructive pulmonary disease (COPD), as the third leading cause of death among adults, is a significant public health problem around the world. However, about 75% of smokers do not develop the disease despite the severe smoking burden. COPD is a heterogeneous disease, and several phenotypes, with differences in their clinical picture and response to treatment, have been distinguished. Metabolomic studies provide information on metabolic pathways, and therefore are a promising tool for understanding disease etiopathogenesis and the development of effective causal treatment. The aim of this systematic review was to analyze the metabolome of the respiratory epithelial lining fluid of patients with COPD, compared to healthy volunteers, refractory smokers, and subjects with other lung diseases. We included observational human studies. Sphingolipids, phosphatidylethanolamines, and sphingomyelins distinguished COPD from non-smokers; volatile organic compounds, lipids, and amino acids distinguished COPD from smokers without the disease. Five volatile organic compounds were correlated with eosinophilia and four were associated with a phenotype with frequent exacerbations. Fatty acids and ornithine metabolism were correlated with the severity of COPD. Metabolomics, by searching for biomarkers and distinguishing metabolic pathways, can allow us to understand the pathophysiology of COPD and the development of its phenotypes.",
+  "Disease_List": [
+    "Chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "Reason": "The abstract explicitly mentions 'Chronic obstructive pulmonary disease (COPD)' multiple times as a specific disease. It discusses COPD as a leading cause of death, its phenotypes, and metabolomic studies related to it. Therefore, specific disease names are clearly identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "UMLS_search_results": {
+    "Chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Sphingolipids",
+    "Phosphatidylethanolamines",
+    "Sphingomyelins",
+    "Volatile organic compounds",
+    "Fatty acids",
+    "Ornithine"
+  ],
+  "compound_CID": [
+    {
+      "Sphingolipids": "None",
+      "Phosphatidylethanolamines": "None",
+      "Sphingomyelins": 5353953,
+      "Volatile organic compounds": "None",
+      "Fatty acids": "None",
+      "Ornithine": 6262
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Sphingolipids_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sphingolipids, along with phosphatidylethanolamines and sphingomyelins, distinguish COPD patients from non-smokers. This suggests that sphingolipids are involved in the metabolic profile associated with COPD, implying a relationship between sphingolipids and the disease. The use of metabolomic studies to identify such compounds supports their relevance in understanding COPD pathophysiology."
+      },
+      "Sphingolipids_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sphingolipids, along with phosphatidylethanolamines and sphingomyelins, distinguished COPD patients from non-smokers. This suggests that sphingolipids are involved in the metabolic profile associated with COPD, implying a relationship between sphingolipids and the disease. The use of metabolomic studies to identify such compounds supports their relevance in understanding COPD pathophysiology."
+      }
+    },
+    {
+      "Phosphatidylethanolamines_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that phosphatidylethanolamines, along with sphingolipids and sphingomyelins, distinguished COPD patients from non-smokers. This suggests that phosphatidylethanolamines are involved in metabolic differences associated with COPD, supporting a relationship between this compound and the disease."
+      },
+      "Phosphatidylethanolamines_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phosphatidylethanolamines, along with sphingolipids and sphingomyelins, distinguished COPD patients from non-smokers. This indicates that phosphatidylethanolamines are metabolically altered or involved in the disease state of COPD, suggesting a relationship between this compound and COPD."
+      }
+    },
+    {
+      "Sphingomyelins_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sphingomyelins, along with sphingolipids and phosphatidylethanolamines, distinguished COPD patients from non-smokers. This suggests that sphingomyelins are metabolically altered in COPD and may be involved in the disease's pathophysiology or serve as biomarkers. Therefore, there is evidence of a relationship between sphingomyelins and chronic obstructive pulmonary disease."
+      },
+      "Sphingomyelins_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sphingomyelins, along with sphingolipids and phosphatidylethanolamines, distinguished COPD patients from non-smokers. This suggests that sphingomyelins are metabolically altered or involved in the disease state of COPD, providing evidence of a relationship between sphingomyelins and COPD."
+      }
+    },
+    {
+      "Volatile organic compounds_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs) distinguish COPD patients from smokers without the disease, suggesting a metabolic difference associated with COPD. Additionally, five VOCs were correlated with eosinophilia and four were associated with a COPD phenotype characterized by frequent exacerbations. This evidence supports a relationship between volatile organic compounds and chronic obstructive pulmonary disease, as VOCs appear to be linked to disease presence and specific clinical phenotypes."
+      },
+      "Volatile organic compounds_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs) distinguish COPD patients from smokers without the disease, suggesting a specific metabolic signature associated with COPD. Additionally, five VOCs were correlated with eosinophilia, and four were associated with a COPD phenotype characterized by frequent exacerbations. These findings provide evidence of a relationship between volatile organic compounds and COPD, highlighting their potential role in the disease's pathophysiology and phenotypic differentiation."
+      }
+    },
+    {
+      "Fatty acids_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fatty acids metabolism is correlated with the severity of chronic obstructive pulmonary disease (COPD). This suggests a relationship between fatty acids and COPD, as changes in fatty acids metabolism are associated with disease severity, implying a role in the disease's pathophysiology."
+      },
+      "Fatty acids_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fatty acids metabolism is correlated with the severity of COPD. This suggests a relationship between fatty acids and COPD, as changes in fatty acids metabolism are associated with disease severity, implying a role in the pathophysiology or progression of COPD."
+      }
+    },
+    {
+      "Ornithine_Chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fatty acids and ornithine metabolism were correlated with the severity of chronic obstructive pulmonary disease (COPD). This suggests a relationship between ornithine and COPD, as changes in ornithine metabolism are associated with disease severity, implying a potential role in the pathophysiology or progression of COPD."
+      },
+      "Ornithine_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fatty acids and ornithine metabolism were correlated with the severity of COPD. This suggests a relationship between ornithine and COPD, as changes in ornithine metabolism are associated with disease severity. Therefore, there is evidence supporting a link between the compound ornithine and COPD."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific classes of chemical compounds such as sphingolipids, phosphatidylethanolamines, sphingomyelins, volatile organic compounds, fatty acids, and ornithine, which are specific chemical substances involved in metabolic pathways related to COPD. General terms like 'compounds' or 'substances' were excluded."
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6325,
+  "title": "Canine Scent Detection in Lung Cancer Screening",
+  "Abstract": "Canines historically have been proven to have great benefits in human medicine. They have a unique ability to detect volatile organic compounds, or VOCs, in several different diseases, which allows them to work efficiently as a medical alert dog or detect the presence of certain diseases in human samples. Early studies have shown efficiency in the ability of canines to detect malignant cells from primary lung tumors in the fluid and breath samples of patients. Lung cancer is the third most common cancer and is the number one cause of cancer-related deaths in the United States. Because of its commonality, The U.S. Preventive Services Task Force developed guidelines for screening high-risk individuals, which includes low-dose CT with proven efficacy. Although effective, it comes with limitations, including increased cost, concern for radiation exposure, and low compliance amongst those who are eligible for screening. Other screening methods have been studied to overcome these deficiencies, including the use of canines trained in medical scent detection. Medical scent canines may prove to be an efficient alternative form of screening to the traditional use of low-dose CT and may be a viable non-imaging screening alternative.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease. It discusses the ability of canines to detect malignant cells from primary lung tumors and refers to lung cancer as the third most common cancer and the leading cause of cancer-related deaths in the United States. Therefore, specific disease names are explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

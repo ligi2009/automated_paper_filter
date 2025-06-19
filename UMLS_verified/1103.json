@@ -1,0 +1,28 @@
+{
+  "id": 1103,
+  "title": "Environmental exposure to volatile organic compounds among workers in Mexico City as assessed by personal monitors and blood concentrations.",
+  "Abstract": "Benzene, an important component in gasoline, is a widely distributed environmental contaminant that has been linked to known health effects in animals and humans, including leukemia. In Mexico City, environmental benzene levels, which may be elevated because of the heavy traffic and the poor emission control devices of older vehicles, may pose a health risk to the population. To assess the potential risk, portable passive monitors and blood concentrations were used to survey three different occupational groups in Mexico City. Passive monitors measured the personal exposure of 45 workers to benzene, ethylbenzene, toluene, o-xylene and m-/p-xylene during a work shift. Blood concentrations of the above volatile organic compounds (VOCs), methyl tert-butyl ether, and styrene were measured at the beginning and the end of a work shift. Passive monitors showed significantly higher (p > 0.0001) benzene exposure levels among service station attendants (median = 330 microg/m3; range 130-770) as compared to street vendors (median = 62 microg/m3; range 49-180) and office workers (median = 44 microg/m3, range 32-67). Baseline blood benzene levels (BBLs) for these groups were higher than those reported for similar populations from Western countries (median = 0.63 microg/L, n = 24 for service station attendants; median = 0.30 microg/L, n = 6 for street vendors; and median = 0.17 microgr;g/L, n = 7 for office workers). Nonsmoking office workers who were nonoccupationally exposed to VOCs had BBLs that were more than five times higher than those observed in a nonsmoking U.S. population. BBLs of participants did not increase during the work shift, suggesting that because the participants were chronically exposed to benzene, complex pharmacokinetic mechanisms were involved. Our results highlight the need for more complete studies to assess the potential benefits of setting environmental standards for benzene and other VOCs in Mexico. ImagesFigure 1",
+  "Disease_List": [
+    "leukemia"
+  ],
+  "Reason": "The abstract explicitly mentions 'leukemia' as a known health effect linked to benzene exposure. Leukemia is a specific disease name, which justifies the classification as 'Y'. Other terms like 'health effects' are general, but the presence of 'leukemia' meets the criteria for specific disease mention.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "leukemia"
+  ],
+  "UMLS_search_results": {
+    "leukemia": [
+      {
+        "ui": "C0023418",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023418",
+        "name": "leukemia",
+        "mesh_id": "D007938"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

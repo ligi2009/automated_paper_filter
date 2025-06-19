@@ -1,0 +1,39 @@
+{
+  "id": 5741,
+  "title": "Insights into malaria pathogenesis gained from host metabolomics",
+  "Abstract": "Introduction Malaria is a devastating disease caused by the protozoan parasite Plasmodium. The most common Plasmodium species that infect humans are Plasmodium falciparum and Plasmodium vivax, which together cause the vast amount of the disease’s morbidity and mortality worldwide [1]. From a clinical perspective, Plasmodium causes a spectrum of disease ranging from asymptomatic to severe. From a biochemical perspective, malaria involves an interconnection of host and parasite through a shared resource environment, resulting in the exchange of nutrients and signaling molecules. Within the bloodstream of Plasmodium-infected hosts, perturbations in the levels of various metabolites occur, including amino acids, lipids, fatty acids, sugars, and heme metabolites [2]. Metabolomics is a robust tool to study host–pathogen interactions. In-depth analysis of metabolism and the associated by-products and pathways can be viewed in snapshots of time, and the biochemical fingerprints contribute greatly to our understanding of the complex interaction between hosts and pathogen [3]. Metabolomics utilizes methods such as nuclear magnetic resonance (NMR) spectroscopy, liquid chromatography–mass spectrometry (LC–MS), or gas chromatography–mass spectrometry (GC–MS) to identify small weight molecules known as metabolites. Analyses can be performed on biological fluids and tissues (e.g., plasma and urine), volatile organic compounds (VOCs, e.g., odor from breath or skin), and cell cultures as either untargeted or targeted, the former outputting a vast dataset based on chemical features (e.g., mass-to-charge ratio) and the latter including chemical annotations based on reference compounds. Metabolite results can be further analyzed for biochemical involvement using publicly available databases such as Malaria Parasite Metabolic Pathways (MPMP) [4] and Kyoto Encyclopedia of Genes and Genomes (KEGG) [5], to name a few. Within the past several years, numerous published works have emerged that employ metabolomics methodology toward the goal of better understanding malaria infection. These metabolome studies have both confirmed previous biological findings that were determined through careful molecular and cellular experimental work as well as shed light on new findings for which the biological underpinnings are still unclear. Prior reviews have provided an overview of the metabolism of Plasmodium from a host–parasite interaction viewpoint [6,7] as well as covering how host metabolites may contribute to malaria transmission [8]. Here, this review aims to summarize the status of our knowledge about metabolic fluctuations that occur in the host during malaria infection that may relate to malaria pathogenesis, immunity, and diagnosis. In particular, we focus on amino acid, lipid and fatty acid, and red blood cell (RBC)-related alterations in the bloodstream of hosts during malaria infection and how this compares to other diseases. We also discuss metabolites produced by the parasite and by the gut microbiota, PLOS PATHOGENS",
+  "Disease_List": [
+    "Malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'Malaria' multiple times as a specific disease caused by the protozoan parasite Plasmodium. It discusses the clinical and biochemical aspects of malaria infection, including the species Plasmodium falciparum and Plasmodium vivax that cause the disease. Therefore, it clearly names a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Malaria"
+  ],
+  "UMLS_search_results": {
+    "Malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses general classes of metabolites such as amino acids, lipids, fatty acids, sugars, and heme metabolites, but does not mention any specific chemical compound names."
+}

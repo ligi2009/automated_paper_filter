@@ -1,0 +1,109 @@
+{
+  "id": 5051,
+  "title": "On the Fate of VOCs During the Spring 2020 COVID‐19 Lockdowns in Europe: A Study Based on the AirBase Data",
+  "Abstract": "The rapid spread of the SARS‐CoV‐2 virus lead many European governments to issue stay‐at‐home orders for the sake of controlling its impacts on the health systems. The associated decrease in human activities and therefore emissions provided a unique opportunity for a real world laboratory for atmospheric scientists. The impact on primary emissions, that is, NO2 ${\\text{NO}}_{2}$ , has been vastly studied but its consequences on secondary pollutants, O3 ${\\mathrm{O}}_{3}$ and secondary organic aerosol, have been reported to a lesser degree and the understanding is more limited. One reason is the chronic imbalance in the attention dedicated to volatile organic compounds. In the present study, we report on the evolution of volatile organic compounds under lockdown conditions in Europe by analyzing the concentrations relayed to the Airbase service of the European Environmental Agency. Subsetting was performed to account for human activity and the influence of meteorology. Traffic or urban stations exhibited the most important reduction in benzene and, more substantially, toluene concentrations. Xylenes, trimethylbenzenes, and ethylbenzene also decreased under lockdown conditions, though less when the synoptic conditions were associated with slow flows. Acyclic alkenes evidenced no change or increased slightly, whereas n‐alkanes increased. The evolution of the relative importance of the sources was investigated by means of diagnostic ratios (toluene to benzene and benzene to toluene to ethylbenzene) and exhibited a shift from traffic toward biomass/biofuel/coal burning, indicating a possible increase in the domestic use of solvents.",
+  "Disease_List": [
+    "SARS-CoV-2"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV-2', which is the virus responsible for COVID-19, a specific disease. Although the focus of the abstract is on atmospheric science and emissions during lockdown, the mention of SARS-CoV-2 directly relates to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "SARS-CoV-2"
+  ],
+  "UMLS_search_results": {
+    "SARS-CoV-2": [
+      {
+        "ui": "C5203676",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203676",
+        "name": "SARS-CoV-2",
+        "mesh_id": "D000086402"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "NO2",
+    "O3",
+    "benzene",
+    "toluene",
+    "xylenes",
+    "trimethylbenzenes",
+    "ethylbenzene",
+    "acyclic alkenes",
+    "n-alkanes"
+  ],
+  "compound_CID": [
+    {
+      "NO2": "None",
+      "O3": 24823,
+      "benzene": 241,
+      "toluene": 1140,
+      "xylenes": "None",
+      "trimethylbenzenes": 10686,
+      "ethylbenzene": 7500,
+      "acyclic alkenes": "None",
+      "n-alkanes": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "NO2_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the SARS-CoV-2 pandemic and associated lockdowns on atmospheric emissions, specifically noting a decrease in NO2 emissions due to reduced human activities such as traffic. However, it does not provide evidence of a direct relationship between NO2 and the disease SARS-CoV-2 itself. The focus is on environmental changes resulting from measures to control the virus spread, rather than on NO2 influencing the disease or vice versa."
+      }
+    },
+    {
+      "O3_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the SARS-CoV-2 pandemic and associated lockdowns on atmospheric pollutants, including O3 (ozone). It focuses on changes in emissions and concentrations of various volatile organic compounds and secondary pollutants like O3 due to reduced human activity. However, it does not provide evidence of a direct relationship between O3 and the disease SARS-CoV-2 itself, such as O3 influencing infection rates, disease severity, or pathophysiology. The relationship described is environmental and indirect, related to changes in air quality during the pandemic rather than a direct chemical-disease interaction."
+      }
+    },
+    {
+      "benzene_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric emissions, specifically noting reductions in benzene concentrations due to decreased human activities such as traffic. However, it does not provide any evidence or indication of a direct relationship between benzene exposure and the disease SARS-CoV-2 itself. The focus is on environmental changes during the pandemic rather than any causal or associative link between benzene and SARS-CoV-2 infection or pathology."
+      }
+    },
+    {
+      "toluene_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric volatile organic compounds, including toluene, noting a reduction in toluene concentrations due to decreased traffic and changes in human activity. However, it does not provide any evidence or indication of a direct relationship between toluene and SARS-CoV-2 disease itself. The focus is on environmental emissions and air quality changes during the pandemic, not on toluene's role in the disease pathology, transmission, or treatment."
+      }
+    },
+    {
+      "xylenes_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric volatile organic compounds, including xylenes. It reports a decrease in xylenes concentrations due to reduced human activities such as traffic. However, the abstract does not provide any evidence or indication of a direct or indirect relationship between xylenes and the disease SARS-CoV-2 itself. The focus is on environmental changes during the pandemic, not on xylenes affecting the disease or vice versa."
+      }
+    },
+    {
+      "trimethylbenzenes_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric emissions, including a decrease in concentrations of volatile organic compounds such as trimethylbenzenes. However, it does not provide any evidence or indication of a direct relationship between trimethylbenzenes and the disease SARS-CoV-2 itself. The focus is on environmental changes due to reduced human activity during the pandemic, not on any causal or pathological link between the compound and the virus."
+      }
+    },
+    {
+      "ethylbenzene_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric emissions, including a decrease in ethylbenzene concentrations due to reduced human activities such as traffic. However, it does not provide any evidence of a direct relationship between ethylbenzene and the disease SARS-CoV-2 itself. The focus is on environmental changes and air quality rather than any causal or pathological link between the compound and the virus."
+      }
+    },
+    {
+      "acyclic alkenes_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the SARS-CoV-2 pandemic lockdown on atmospheric emissions and volatile organic compounds, including acyclic alkenes. It reports changes in concentrations of various compounds during lockdown but does not provide any evidence or indication of a direct or indirect relationship between acyclic alkenes and the disease SARS-CoV-2 itself. The focus is on environmental and atmospheric chemistry changes rather than any biological or pathological link between the compound and the virus."
+      }
+    },
+    {
+      "n-alkanes_SARS-CoV-2": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of SARS-CoV-2 lockdown measures on atmospheric emissions, including changes in concentrations of various volatile organic compounds such as n-alkanes. It reports that n-alkanes increased during lockdown, likely due to shifts in emission sources from traffic to domestic biomass/biofuel/coal burning. However, the abstract does not provide any evidence or indication of a direct or indirect relationship between n-alkanes and the disease SARS-CoV-2 itself. The focus is on environmental changes related to human activity during the pandemic, not on the compound's role in the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions nitrogen dioxide (NO2) and ozone (O3) as primary and secondary pollutants. It also details various volatile organic compounds including benzene, toluene, xylenes, trimethylbenzenes, ethylbenzene, acyclic alkenes, and n-alkanes, which were analyzed for their concentration changes during lockdown conditions."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1122,
+  "title": "High-selectivity terahertz metamaterial nitric oxide sensor based on ZnTiO3 perovskite membrane",
+  "Abstract": "Human exhaled gases contain a wide range of volatile organic compounds, offering the potential for detecting physiological, cardiovascular, and endocrine disorders. For instance, nitric oxide (NO) concentration can be indicative of chronic obstructive pulmonary disease. Analyzing exhaled gases provides a noninvasive approach to disease detection without posing any risks to individuals. While electronic sensors have been developed over the past two decades for NO detection at high temperatures, few studies have explored optical detection in the ultraviolet to visible light range, which may have adverse effects on the skin. In this study, we designed a split-ring resonator metamaterial tailored for operation within the terahertz (THz) frequency range. Specifically, the metamaterial was designed to resonate at the NO frequency of 0.257 THz. To enhance gas absorption capacity, we incorporated a composite film layer consisting of ZnTiO3 and reduced graphene oxide onto the metamaterial. By sintering ZnTiO3 powder at different temperatures, we achieved an increase in component sensitivity (ΔT/T) from 2% to 16.4%. Overall, the proposed metamaterial holds promise for both physical monitoring applications and the development of wearable electronic devices.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'chronic obstructive pulmonary disease' as an example of a disease that can be indicated by nitric oxide concentration in exhaled gases. This is a specific disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

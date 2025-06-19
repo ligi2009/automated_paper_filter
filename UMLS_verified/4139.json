@@ -1,0 +1,59 @@
+{
+  "id": 4139,
+  "title": "SMOG: Causes, Effects and Preventions",
+  "Abstract": "Dear Editor, Recently many cities of Pakistan have been struck by the havoc of smog. Smog is formed when pollutants like nitrogen oxide, carbon monoxide and volatile organic compounds that are released from automobiles, industries and burning of fossil fuels interact with sunlight. These photochemical reactions usually occur in summers and leads to the development of ground level ozone or bad ozone (O 3 ) which is an important smog causing pollutant. This ozone adversely affects human health specially respiratory and cardiovascular system and is among the cause of premature deaths. 1 Fine particulates of 2.5 micrometer or less are also among the pollutants found in smog and haze. 2 Mechanism behind the damaging effect of ozone on cardiopulmonary system is explained to be due to high oxidizing power of ozone that forms free radicals exposing body to oxidative stress. Also, ozone and fine particulate air pollution are found to cause acute arterial vasoconstriction normally. 2 Moreover, Ozone causes reduction in vital capacity and forced expiratory volume in 1s, increase in lung resistance along with worsening of asthma in summers. It increases the release of allergens from pollens leading to respiratory allergy symptoms 3 and making the respiratory problems even worse. Reactive oxygen species like hydroxyl and superoxide anion radicals produced in body by ozone and other pollutants increases the susceptibility of cancer in a person due to mutagenic properties of reactive oxygen species and their damaging effect on body cells. 3 Knowledge about Secondary preventive measures that one should take during smog must be spread as it will help people to cope up from the situation in a better way next time. These measures are minimal exposure to outdoor air but if exposure is inescapable than a facemask should be worn. Elderly and people experiencing any cardiac or respiratory illness are more prone to harmful effects of smog. These patients should increase the dosage of medication on their physician’s advice to prevent worsening of disease. Supplements and food containing antioxidants like omega 3 fatty acids when added to diet may help against oxidative stress caused by pollutants. 4 Steps should be taken to avoid the recurrence of this calamity. Media campaign for public awareness regarding the sources of pollutants causing smog should be launched. Banning deforestation and promotion of tree implantation is required nationwide as trees transpire and decreases temperature by cooling effect which indirectly prevents photochemical reactions to occur and minimizing the formation of air pollutants. 3 Recycling of solid waste is a good alternative to open burning of waste and garbage. Using low emission, low carbon fuels and combustion free power sources like wind and solar powerare important for primary prevention as these are safer for health and are also low cost and energy efficient. 1",
+  "Disease_List": [
+    "asthma",
+    "respiratory allergy symptoms",
+    "cancer",
+    "cardiac illness",
+    "respiratory illness"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma and cancer. It also refers to respiratory allergy symptoms and cardiac and respiratory illnesses, which are specific health conditions related to diseases. Therefore, the classification is 'Y' for yes, with the listed diseases identified from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory allergy symptoms": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiac illness": [],
+    "respiratory illness": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

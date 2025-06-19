@@ -1,0 +1,39 @@
+{
+  "id": 4742,
+  "title": "Photoacoustic Spectroscopy for the Determination of Lung Cancer Biomarkers—A Preliminary Investigation",
+  "Abstract": "With 1.6 million deaths per year, lung cancer is one of the leading causes of death worldwide. One reason for this high number is the absence of a preventive medical examination method. Many diagnoses occur in a late cancer stage with a low survival rate. An early detection could significantly decrease the mortality. In recent decades, certain substances in human breath have been linked to certain diseases. Different studies show that it is possible to distinguish between lung cancer patients and a healthy control group by analyzing the volatile organic compounds (VOCs) in their breath. We developed a sensor based on photoacoustic spectroscopy for six of the most relevant VOCs linked to lung cancer. As a radiation source, the sensor uses an optical-parametric oscillator (OPO) in a wavelength region from 3.2 µm to 3.5 µm. The limits of detection for a single substance range between 5 ppb and 142 ppb. We also measured high resolution absorption spectra of the biomarkers compared to the data currently available from the National Institute of Standards and Technology (NIST) database, which is the basis of any selective spectroscopic detection. Future lung cancer screening devices could be based on the further development of this sensor.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as a specific disease. It discusses the high mortality rate of lung cancer, the challenges in early detection, and the development of a sensor to detect biomarkers linked to lung cancer. Therefore, it clearly names a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) linked to lung cancer but does not specify any particular chemical compound names. General terms like VOCs and biomarkers are used without naming specific substances."
+}

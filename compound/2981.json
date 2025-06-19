@@ -1,0 +1,63 @@
+{
+  "id": 2981,
+  "title": "Monitoring, Human Health Risk Assessment and Optimized Management for Typical Pollutants in Indoor Air from Random Families of University Staff, Wuhan City, China",
+  "Abstract": "In this study, 31 workers at a university were randomly selected for indoor environmental monitoring in Wuhan. Two indicators, formaldehyde and total volatile organic compounds (TVOC), and using 139 monitoring points, monitored the indoor environment (including home and workplace) as well as the interior space of the main furniture. This study carried out the environmental quality assessment for TVOC based on the dB index method and the health risk assessment of indoor formaldehyde for the university staff receptors and, then focused on health risk in home environment to carry out detailed environmental health management. The results showed that TVOC in the three types of home spaces exceeded about 80% of the national standard. The excessive formaldehyde ratios for kitchens (79%), bedrooms (77%) and living rooms (74%) were calculated. Formaldehyde health risks all exceeded the United States Environmental Protection Agency, (USEPA) acceptable risk threshold. The formaldehyde concentrations in workplaces were about 0.03 mg·m −3 . While the risk contribution of the home environment to the total average health risk (0.0014, whether male and female) is about 96%. For the adapted and unadapted persons, 90% and 55% of the monitoring points were located within the long-term tolerable range of TVOC decibel application, respectively. Long-term exposure to such an environment can lead to the Sick Building Syndrome (SBS). On the other hand, through comparison of the concentration of pollutants in the interior spaces of furniture and home spaces, it was determined tentatively that the pollutants were mainly concentrated in rarely used furniture. In summary, the air pollution in the studied homes of university staff was much serious than that in workplaces, which showed a need to manage TVOC and formaldehyde pollution by the three means: the purchase of green products, removal of internal pollution from furniture, and creating a good indoor volatile diffusion environment to create a healthy home environment.",
+  "Disease_List": [
+    "Sick Building Syndrome (SBS)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Sick Building Syndrome (SBS)' as a health condition resulting from long-term exposure to indoor air pollutants such as formaldehyde and TVOC. This is a specific disease name rather than a general term, so the classification is 'Y'. No other specific diseases are named.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Sick Building Syndrome (SBS)"
+  ],
+  "UMLS_search_results": {
+    "Sick Building Syndrome (SBS)": []
+  },
+  "MRCONSO_search_results": {
+    "Sick Building Syndrome (SBS)": [
+      "Sick Building Syndrome",
+      "Sick building syndrome",
+      "sick building syndrome",
+      "Sick building syndrome (disorder)",
+      "sick building syndrome (diagnosis)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Sick Building Syndrome (SBS)_via_Sick Building Syndrome": [
+      {
+        "ui": "C0037050",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0037050",
+        "name": "Sick Building Syndrome",
+        "mesh_id": "D018877"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "formaldehyde",
+    "total volatile organic compounds (TVOC)"
+  ],
+  "compound_CID": [
+    {
+      "formaldehyde": 712,
+      "total volatile organic compounds (TVOC)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "formaldehyde_Sick_Building_Syndrome_(SBS)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that formaldehyde concentrations in home environments frequently exceed acceptable risk thresholds and contribute significantly to indoor air pollution. It also states that long-term exposure to such environments, characterized by elevated levels of formaldehyde and total volatile organic compounds (TVOC), can lead to Sick Building Syndrome (SBS). Therefore, there is evidence of a relationship between formaldehyde exposure and the development of SBS as described in the study."
+      }
+    },
+    {
+      "total volatile organic compounds (TVOC)_Sick_Building_Syndrome_(SBS)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that total volatile organic compounds (TVOC) levels in home environments exceeded national standards in about 80% of cases, and it explicitly states that long-term exposure to such an environment can lead to Sick Building Syndrome (SBS). This suggests a direct relationship between elevated TVOC levels and the occurrence of SBS. The study emphasizes the need to manage TVOC pollution to create a healthy indoor environment, further supporting the link between TVOC and SBS."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions formaldehyde and total volatile organic compounds (TVOC) as the chemical substances monitored and assessed for health risks in indoor environments. These are specific chemical compound names relevant to the study."
+}

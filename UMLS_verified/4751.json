@@ -1,0 +1,35 @@
+{
+  "id": 4751,
+  "title": "Tin, Titanium, Tantalum, Vanadium and Niobium Oxide Based Sensors to Detect Colorectal Cancer Exhalations in Blood Samples",
+  "Abstract": "User-friendly, low-cost equipment for preventive screening of severe or deadly pathologies are one of the most sought devices by the National Health Services, as they allow early disease detection and treatment, often avoiding its degeneration. In recent years more and more research groups are developing devices aimed at these goals employing gas sensors. Here, nanostructured chemoresistive metal oxide (MOX) sensors were employed in a patented prototype aimed to detect volatile organic compounds (VOCs), exhaled by blood samples collected from patients affected by colorectal cancer and from healthy subjects as a control. Four sensors, carefully selected after many years of laboratory tests on biological samples (cultured cells, human stools, human biopsies, etc.), were based here on various percentages of tin, tungsten, titanium, niobium, tantalum and vanadium oxides. Sensor voltage responses were statistically analyzed also with the receiver operating characteristic (ROC) curves, that allowed the identification of the cut-off discriminating between healthy and tumor affected subjects for each sensor, leading to an estimate of sensitivity and specificity parameters. ROC analysis demonstrated that sensors employing tin and titanium oxides decorated with gold nanoparticles gave sensitivities up to 80% yet with a specificity of 70%.",
+  "Disease_List": [
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' as a specific disease being detected using the described sensors. Although general terms like 'disease' and 'pathologies' are used, the presence of the specific disease name 'colorectal cancer' justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

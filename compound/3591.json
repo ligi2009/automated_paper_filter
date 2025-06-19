@@ -1,0 +1,148 @@
+{
+  "id": 3591,
+  "title": "Molecular analysis of volatile metabolites released specifically by staphylococcus aureus and pseudomonas aeruginosa",
+  "Abstract": "The routinely used microbiological diagnosis of ventilator associated pneumonia (VAP) is time consuming and often requires invasive methods for collection of human specimens (e.g. bronchoscopy). Therefore, it is of utmost interest to develop a non-invasive method for the early detection of bacterial infection in ventilated patients, preferably allowing the identification of the specific pathogens. The present work is an attempt to identify pathogen-derived volatile biomarkers in breath that can be used for early and non- invasive diagnosis of ventilator associated pneumonia (VAP). For this purpose, in vitro experiments with bacteria most frequently found in VAP patients, i.e. Staphylococcus aureus and Pseudomonas aeruginosa, were performed to investigate the release or consumption of volatile organic compounds (VOCs). Headspace samples were collected and preconcentrated on multibed sorption tubes at different time points and subsequently analyzed with gas chromatography mass spectrometry (GC-MS). As many as 32 and 37 volatile metabolites were released by S. aureus and P. aeruginosa, respectively. Distinct differences in the bacteria-specific VOC profiles were found, especially with regard to aldehydes (e.g. acetaldehyde, 3-methylbutanal), which were taken up only by P. aeruginosa but released by S. aureus. Differences in concentration profiles were also found for acids (e.g. isovaleric acid), ketones (e.g. acetoin, 2-nonanone), hydrocarbons (e.g. 2-butene, 1,10-undecadiene), alcohols (e.g. 2-methyl-1-propanol, 2-butanol), esters (e.g. ethyl formate, methyl 2-methylbutyrate), volatile sulfur compounds (VSCs, e.g. dimethylsulfide) and volatile nitrogen compounds (VNCs, e.g. 3-methylpyrrole). Importantly, a significant VOC release was found already 1.5 hours after culture start, corresponding to cell numbers of ~8*106 [CFUs/ml]. The results obtained provide strong evidence that the detection and perhaps even identification of bacteria could be achieved by determination of characteristic volatile metabolites, supporting the clinical use of breath-gas analysis as non-invasive method for early detection of bacterial lung infections.",
+  "Disease_List": [
+    "ventilator associated pneumonia (VAP)"
+  ],
+  "Reason": "The abstract explicitly mentions 'ventilator associated pneumonia (VAP)' multiple times as a specific disease. It focuses on diagnosing this particular disease through detection of bacterial pathogens and their volatile biomarkers. Although it also mentions bacterial species, these are not diseases but pathogens. Therefore, the classification is Y with 'ventilator associated pneumonia (VAP)' as the specific disease named.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "ventilator associated pneumonia (VAP)"
+  ],
+  "UMLS_search_results": {
+    "ventilator associated pneumonia (VAP)": []
+  },
+  "MRCONSO_search_results": {
+    "ventilator associated pneumonia (VAP)": [
+      "Ventilator associated pneumonia",
+      "VAP - ventilator associated pneumonia"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "ventilator associated pneumonia (VAP)_via_Ventilator associated pneumonia": [
+      {
+        "ui": "C1701940",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1701940",
+        "name": "Pneumonia, Ventilator-Associated",
+        "mesh_id": "D053717"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "acetaldehyde",
+    "3-methylbutanal",
+    "isovaleric acid",
+    "acetoin",
+    "2-nonanone",
+    "2-butene",
+    "1,10-undecadiene",
+    "2-methyl-1-propanol",
+    "2-butanol",
+    "ethyl formate",
+    "methyl 2-methylbutyrate",
+    "dimethylsulfide",
+    "3-methylpyrrole"
+  ],
+  "compound_CID": [
+    {
+      "acetaldehyde": 177,
+      "3-methylbutanal": 11552,
+      "isovaleric acid": 10430,
+      "acetoin": 179,
+      "2-nonanone": 13187,
+      "2-butene": 62695,
+      "1,10-undecadiene": 139543,
+      "2-methyl-1-propanol": 6560,
+      "2-butanol": 6568,
+      "ethyl formate": 8025,
+      "methyl 2-methylbutyrate": 13357,
+      "dimethylsulfide": 1068,
+      "3-methylpyrrole": 12023
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetaldehyde_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between acetaldehyde and ventilator associated pneumonia (VAP) through the identification of acetaldehyde as a volatile organic compound (VOC) associated with bacteria commonly found in VAP patients. Specifically, acetaldehyde is mentioned as an aldehyde that is released by Staphylococcus aureus and taken up by Pseudomonas aeruginosa, both of which are frequent pathogens in VAP. The study highlights that these bacteria produce distinct VOC profiles, including acetaldehyde, which can be detected in breath samples. This suggests that acetaldehyde is involved in the bacterial metabolic processes related to VAP and could serve as a biomarker for early, non-invasive diagnosis of the infection. Therefore, there is evidence supporting a relationship between acetaldehyde and VAP in the context of bacterial infection and diagnosis."
+      }
+    },
+    {
+      "3-methylbutanal_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or consumed by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. It highlights that 3-methylbutanal, an aldehyde, is released by S. aureus but taken up by P. aeruginosa. Since these bacteria are frequently found in VAP patients and the VOC profiles including 3-methylbutanal differ between them, the compound is linked to the bacterial activity involved in VAP. This suggests that 3-methylbutanal is related to VAP through its association with pathogen-specific volatile biomarkers, supporting its potential use in non-invasive early detection of VAP."
+      }
+    },
+    {
+      "isovaleric acid_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Isovaleric acid is mentioned as one of the acids showing differences in concentration profiles between these bacteria. Since these bacteria are key pathogens in VAP and isovaleric acid is part of their VOC profile, there is evidence of a relationship between isovaleric acid and VAP. The detection of isovaleric acid as a bacterial metabolite supports its potential use as a biomarker for early, non-invasive diagnosis of VAP."
+      }
+    },
+    {
+      "acetoin_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Acetoin, a ketone, is mentioned as one of the VOCs with differing concentration profiles between these bacteria. Since these bacteria are frequent pathogens in VAP and acetoin is part of their volatile metabolite profile, there is evidence that acetoin is related to VAP through its association with the bacterial pathogens causing the disease. The study supports the potential use of acetoin detection in breath analysis as a non-invasive method for early diagnosis of bacterial lung infections including VAP."
+      }
+    },
+    {
+      "2-nonanone_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the VOCs identified, 2-nonanone, a ketone, is mentioned as one of the compounds with differing concentration profiles between these bacteria. This indicates that 2-nonanone is a bacterial metabolite linked to pathogens involved in VAP. Therefore, there is evidence of a relationship between 2-nonanone and VAP, as the compound is part of the volatile biomarkers potentially useful for early, non-invasive diagnosis of bacterial lung infections including VAP."
+      }
+    },
+    {
+      "2-butene_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the hydrocarbons identified in the bacterial VOC profiles is 2-butene. The presence of 2-butene as a volatile metabolite released by these pathogens suggests a relationship between this compound and VAP, as it may serve as a biomarker for early, non-invasive detection of bacterial infection in ventilated patients. Therefore, there is evidence supporting a relationship between 2-butene and VAP in the context of bacterial VOC emissions used for diagnosis."
+      }
+    },
+    {
+      "1,10-undecadiene_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the hydrocarbons identified in the VOC profiles, 1,10-undecadiene is mentioned as one of the compounds with differing concentration profiles between these bacteria. This indicates that 1,10-undecadiene is a bacterial metabolite linked to pathogens involved in VAP. Therefore, there is evidence of a relationship between 1,10-undecadiene and VAP, as this compound may serve as a biomarker for early, non-invasive detection of bacterial infection in ventilated patients."
+      }
+    },
+    {
+      "2-methyl-1-propanol_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the VOCs identified, 2-methyl-1-propanol, an alcohol, was noted as one of the compounds with differing concentration profiles between these bacteria. The detection of such VOCs, including 2-methyl-1-propanol, in breath samples could serve as non-invasive biomarkers for early diagnosis of bacterial lung infections like VAP. Therefore, there is evidence of a relationship between 2-methyl-1-propanol and VAP in the context of its potential use as a biomarker for bacterial infection associated with this disease."
+      }
+    },
+    {
+      "2-butanol_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes the identification of volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the alcohols listed as part of the bacteria-specific VOC profiles is 2-butanol. This indicates that 2-butanol is a volatile metabolite released by these pathogens in vitro. Since these bacteria are frequently found in VAP patients and the study aims to use VOCs for early, non-invasive diagnosis of VAP, the presence of 2-butanol as a bacterial metabolite suggests a relationship between 2-butanol and VAP in the context of breath-based detection of infection."
+      }
+    },
+    {
+      "ethyl formate_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Ethyl formate is mentioned as one of the esters detected among the VOCs released by these bacteria. Since these VOCs, including ethyl formate, are produced by pathogens involved in VAP and can be detected in breath samples, there is evidence of a relationship between ethyl formate and VAP in the context of using ethyl formate as a biomarker for early, non-invasive diagnosis of the disease."
+      }
+    },
+    {
+      "methyl 2-methylbutyrate_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the VOCs identified, methyl 2-methylbutyrate, an ester, was detected as part of the bacteria-specific VOC profiles. The presence of methyl 2-methylbutyrate in the headspace samples from bacterial cultures linked to VAP suggests that this compound is associated with the bacterial pathogens causing VAP. Therefore, there is evidence of a relationship between methyl 2-methylbutyrate and VAP, as it may serve as a volatile biomarker for early and non-invasive diagnosis of the disease."
+      }
+    },
+    {
+      "dimethylsulfide_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes the investigation of volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), specifically Staphylococcus aureus and Pseudomonas aeruginosa. Among the VOCs identified, volatile sulfur compounds (VSCs) such as dimethylsulfide were detected as part of the bacteria-specific VOC profiles. This indicates that dimethylsulfide is released by these pathogens involved in VAP. Therefore, there is evidence of a relationship between dimethylsulfide and VAP, as the compound serves as a potential biomarker for the bacterial infections causing the disease."
+      }
+    },
+    {
+      "3-methylpyrrole_ventilator_associated_pneumonia_(VAP)": {
+        "relationship": "Y",
+        "reason": "The abstract describes the identification of volatile organic compounds (VOCs) released by bacteria commonly associated with ventilator associated pneumonia (VAP), including Staphylococcus aureus and Pseudomonas aeruginosa. Among the VOCs detected, 3-methylpyrrole, a volatile nitrogen compound, was specifically mentioned as being released by these bacteria. Since these bacteria are the primary pathogens in VAP and 3-methylpyrrole is part of their VOC profile, there is evidence of a relationship between 3-methylpyrrole and VAP. The detection of 3-methylpyrrole in breath could potentially serve as a non-invasive biomarker for early diagnosis of VAP."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as volatile organic compounds (VOCs) released or consumed by the bacteria Staphylococcus aureus and Pseudomonas aeruginosa. These named compounds are identified as aldehydes, acids, ketones, hydrocarbons, alcohols, esters, volatile sulfur compounds, and volatile nitrogen compounds relevant to the study of bacterial volatile biomarkers."
+}

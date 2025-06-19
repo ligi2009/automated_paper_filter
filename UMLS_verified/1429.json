@@ -1,0 +1,28 @@
+{
+  "id": 1429,
+  "title": "Breath Tests in Respiratory and Critical Care Medicine: From Research to Practice in Current Perspectives",
+  "Abstract": "Today, exhaled nitric oxide has been studied the most, and most researches have now focusd on asthma. More than a thousand different volatile organic compounds have been observed in low concentrations in normal human breath. Alkanes and methylalkanes, the majority of breath volatile organic compounds, have been increasingly used by physicians as a novel method to diagnose many diseases without discomforts of invasive procedures. None of the individual exhaled volatile organic compound alone is specific for disease. Exhaled breath analysis techniques may be available to diagnose and monitor the diseases in home setting when their sensitivity and specificity are improved in the future.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' as a specific disease that has been the focus of research related to exhaled nitric oxide. Although it also refers to 'many diseases' in general terms, only 'asthma' is named specifically.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

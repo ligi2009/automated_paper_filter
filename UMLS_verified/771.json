@@ -1,0 +1,106 @@
+{
+  "id": 771,
+  "title": "Machine Learning Analysis of Electronic Nose in a Transdiagnostic Community Sample With a Streamlined Data Collection Approach: No Links Between Volatile Organic Compounds and Psychiatric Symptoms",
+  "Abstract": "Non-intrusive, easy-to-use and pragmatic collection of biological processes is warranted to evaluate potential biomarkers of psychiatric symptoms. Prior work with relatively modest sample sizes suggests that under highly-controlled sampling conditions, volatile organic compounds extracted from the human breath (exhalome), often measured by an electronic nose (“e-nose”), may be related to physical and mental health. The present study utilized a streamlined data collection approach and attempted to replicate and extend prior e-nose links to mental health in a standard research setting within large transdiagnostic community dataset (N = 1207; 746 females; 18–61 years) who completed a screening visit at the Laureate Institute for Brain Research between 07/2016 and 05/2018. Factor analysis was used to obtain latent exhalome variables, and machine learning approaches were employed using these latent variables to predict three types of symptoms independent of each other (depression, anxiety, and substance use disorder) within separate training and a test sets. After adjusting for age, gender, body mass index, and smoking status, the best fitting algorithm produced by the training set accounted for nearly 0% of the test set’s variance. In each case the standard error included the zero line, indicating that models were not predictive of clinical symptoms. Although some sample variance was predicted, findings did not generalize to out-of-sample data. Based on these findings, we conclude that the exhalome, as measured by the e-nose within a less-controlled environment than previously reported, is not able to provide clinically useful assessments of current depression, anxiety or substance use severity.",
+  "Disease_List": [
+    "depression",
+    "anxiety",
+    "substance use disorder"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names: 'depression', 'anxiety', and 'substance use disorder'. These are recognized psychiatric disorders and thus qualify as specific diseases. The study attempts to predict symptoms related to these diseases using exhalome data.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "depression",
+    "anxiety",
+    "substance use disorder"
+  ],
+  "UMLS_search_results": {
+    "depression": [
+      {
+        "ui": "C4085311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4085311",
+        "name": "Depression - recess",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0460137",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0460137",
+        "name": "Depression - motion",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011570",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011570",
+        "name": "Mental Depression",
+        "mesh_id": "D003863"
+      },
+      {
+        "ui": "C0812393",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0812393",
+        "name": "Cancer patients and suicide and depression",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011581",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011581",
+        "name": "Depressive disorder",
+        "mesh_id": "D003866"
+      },
+      {
+        "ui": "C1579931",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1579931",
+        "name": "Depressed - symptom",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0344315",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0344315",
+        "name": "Depressed mood",
+        "mesh_id": "None"
+      }
+    ],
+    "anxiety": [
+      {
+        "ui": "C0003467",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003467",
+        "name": "Anxiety",
+        "mesh_id": "D001007"
+      },
+      {
+        "ui": "C0003469",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003469",
+        "name": "Anxiety Disorders",
+        "mesh_id": "D001008"
+      },
+      {
+        "ui": "C0860603",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0860603",
+        "name": "Anxiety symptoms",
+        "mesh_id": "None"
+      }
+    ],
+    "substance use disorder": [
+      {
+        "ui": "C0038586",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038586",
+        "name": "Substance Use Disorders",
+        "mesh_id": "D019966"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

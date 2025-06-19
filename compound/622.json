@@ -1,0 +1,32 @@
+{
+  "id": 622,
+  "title": "Diagnostic performance of eNose technology in COVID-19 patients after hospitalization",
+  "Abstract": "Background Volatile organic compounds (VOCs) produced by human cells reflect metabolic and pathophysiological processes which can be detected with the use of electronic nose (eNose) technology. Analysis of exhaled breath may potentially play an important role in diagnosing COVID-19 and stratification of patients based on pulmonary function or chest CT. Methods Breath profiles of COVID-19 patients were collected with an eNose device (SpiroNose) 3 months after discharge from the Leiden University Medical Centre and matched with breath profiles from healthy individuals for analysis. Principal component analysis was performed with leave-one-out cross validation and visualised with receiver operating characteristics. COVID-19 patients were stratified in subgroups with a normal pulmonary diffusion capacity versus patients with an impaired pulmonary diffusion capacity (DLCOc < 80% of predicted) and in subgroups with a normal chest CT versus patients with COVID-19 related chest CT abnormalities. Results The breath profiles of 135 COVID-19 patients were analysed and matched with 174 healthy controls. The SpiroNose differentiated between COVID-19 after hospitalization and healthy controls with an AUC of 0.893 (95-CI, 0.851–0.934). There was no difference in VOCs patterns in subgroups of COVID-19 patients based on diffusion capacity or chest CT. Conclusions COVID-19 patients have a breath profile distinguishable from healthy individuals shortly after hospitalization which can be detected using eNose technology. This may suggest ongoing inflammation or a common repair mechanism. The eNose could not differentiate between subgroups of COVID-19 patients based on pulmonary diffusion capacity or chest CT.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' multiple times, including in the context of diagnosis, patient stratification, and analysis of breath profiles. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names."
+}

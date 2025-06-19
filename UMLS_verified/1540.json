@@ -1,0 +1,28 @@
+{
+  "id": 1540,
+  "title": "Asthma Identification Using Gas Sensors and Support Vector Machine",
+  "Abstract": "The exhaled breath analysis is a procedure of measuring several types of gases that aim to identify various diseases in the human body. The purpose of this study is to analyze the gases contained in the exhaled breath in order to recognize healthy and asthma subjects with varying severity. An electronic nose consisting of seven gas sensors equipped with the Support Vector Machine classification method is used to analyze the gases to determine the patient's condition. Non-linear binary classification is used to identify healthy and asthma subjects, whereas the multiclass classification is applied to recognize the subjects of asthma with different severity. The result of this study showed that the system provided a low accuracy to distinguish the subjects of asthma with varying severity. This system can only differentiate between partially controlled and uncontrolled asthma subjects with good accuracy. However, this system can provide high sensitivity, specificity, and accuracy to distinguish between healthy and asthma subjects. The use of five gas sensors in the electronic nose system has the best accuracy in the classification results of 89.5%. The gases of carbon monoxide, nitric oxide, volatile organic compounds, hydrogen, and carbon dioxide contained in the exhaled breath are the dominant indications as biomarkers of asthma.The performance of electronic nose was highly dependent on the ability of sensor array to analyze gas type in the sample. Therefore, in further study we will employ the sensors having higher sensitivity to detect lower concentration of the marker gases.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' multiple times as a specific disease being studied and analyzed using exhaled breath gases. It discusses distinguishing between healthy subjects and asthma subjects, as well as asthma severity levels, which clearly identifies asthma as the specific disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

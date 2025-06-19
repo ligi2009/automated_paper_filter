@@ -1,0 +1,30 @@
+{
+  "id": 1088,
+  "title": "A systematic review of US state environmental legislation and regulation with regards to the prevention of neurodevelopmental disabilities and asthma",
+  "Abstract": "BackgroundWhile much attention is focused on national policies intended to protect human health from environmental hazards, states can also prevent environmentally mediated disease through legislation and regulation. However, relatively few analyses have examined the extent to which states protect children from chemical factors in the environment.MethodsUsing Lexis Nexis and other secondary sources, we systematically reviewed environmental regulation and legislation in the fifty states and the District of Columbia as of July 2007 intended to protect children against neurodevelopmental disabilities and asthma.ResultsStates rarely address children specifically in environmental regulation and legislation, though many state regulations go far to limit children's exposures to environmental hazards. Northeast and Midwest states have implemented model regulation of mercury emissions, and regulations in five states set exposure limits to volatile organic compound emissions that are more stringent than US Environmental Protection Agency standards.DiscussionDifferences in state environmental regulation and legislation are likely to lead to differences in exposure, and thus to impacts on children's health. The need for further study should not inhibit other states and the federal government from pursuing the model regulation and legislation we identified to prevent diseases of environmental origin in children.",
+  "Disease_List": [
+    "neurodevelopmental disabilities",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'neurodevelopmental disabilities' and 'asthma' as specific diseases or health conditions that the environmental regulations aim to protect children from. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "neurodevelopmental disabilities": [],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

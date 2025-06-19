@@ -1,0 +1,64 @@
+{
+  "id": 6303,
+  "title": "EFFECTS OF VOLATILE ORGANIC ALKILNYTRITIS COMPOUNDS ON THE ORGANISM AND THE POSSIBILITY OF THEIR FORENSIC CHEMICAL DETECTING",
+  "Abstract": "The article reviews and summarizes theoretical issues related to the abuse of inhalants, provides data on the pharmacological and toxic effects, the legal status of the substances under study, the chemical analysis of alkyl nitrites. The risk to human health is associated with the ability of alkyl nitrites to cause methemoglobin, changes in organs and systems, including myocardial dystrophy, chronic inflammation of the upper respiratory tract.\n\nThe use of isopropyl nitrite can cause damage to the retina, maculapathy. ”Poppers” is a subgroup of volatile substances – alkyl nitrites, represented by compounds or mixtures and contain more than one alkyl nitrite, mainly: butyl nitrite, isobutyl nitrite or amyl nitrite, isopentyl nitrite, or 2-methyl butyl nitrite.\n\nOn the Internet market they are presented under the following slang names: amyls, hardware, liquid gold, locker room, rock hard, rush, snapper, TNT .\n\nChemico-toxicological analysis is carried out by chromatography methods – the vapor phase analysis with identification on a flame-ionization or mass-selective detector is used. Blood, in cases of deadly intoxication, lung tissue are the best objects.\n\nOne of the signs of using alkyl nitrites is the formation of methemoglobin, the definition of which has an important diagnostic value. Joint detection of metabolites of alkyl nitrites and methemoglobin may indicate the possible use of alkyl nitrites. The legal status of alkyl nitrites in most countries varies from free use to medical prescription sales.\n\nIn the Republic of Kazakhstan, alkyl nitrites are not under the control of the law “On Narcotic Drugs, Psychotropic Substances, Their Analogues and Precursors, and Measures to Counteract Their Illicit Circulation and Abuse”. Their abuse is a concern because of their detrimental health effects.\n\nKey words: alkyl nitrite, toxicomania, poppers, methemoglobinemia, maculopathy, forensic expertise, research, chemical analysis.",
+  "Disease_List": [
+    "methemoglobinemia",
+    "maculopathy",
+    "myocardial dystrophy",
+    "chronic inflammation of the upper respiratory tract"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'methemoglobinemia', 'maculopathy', 'myocardial dystrophy', and 'chronic inflammation of the upper respiratory tract' as health effects associated with alkyl nitrite abuse. These are specific medical conditions rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "methemoglobinemia",
+    "maculopathy"
+  ],
+  "UMLS_search_results": {
+    "methemoglobinemia": [
+      {
+        "ui": "C0025637",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0025637",
+        "name": "Methemoglobinemia",
+        "mesh_id": "D008708"
+      },
+      {
+        "ui": "C5700167",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5700167",
+        "name": "Methemoglobin above reference range (finding)",
+        "mesh_id": "None"
+      }
+    ],
+    "maculopathy": [
+      {
+        "ui": "C4551715",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4551715",
+        "name": "Pigmentary retinopathy",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0730362",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0730362",
+        "name": "Disorder of macula of retina",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024437",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024437",
+        "name": "Macular degeneration",
+        "mesh_id": "D008268"
+      }
+    ],
+    "myocardial dystrophy": [],
+    "chronic inflammation of the upper respiratory tract": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

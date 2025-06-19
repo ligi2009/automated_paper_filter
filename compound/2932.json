@@ -1,0 +1,69 @@
+{
+  "id": 2932,
+  "title": "Detection of isoprene traces in exhaled breath by using photonic crystals as a biomarker for chronic liver fibrosis disease",
+  "Abstract": "\n Detection of blood-carried volatile organic compounds (VOCs) existing in the exhaled breath of human is an attractive research point for noninvasive diagnosis of diseases. In this research, we introduce a novel application of photonic crystals (PCs) for the detection of isoprene traces in the exhaled breath as a biomarker for liver fibrosis. This idea is introduced for the first time according to the best of our knowledge. The proposed sensor structure is a one-dimensional (1D) PC constructed from a multilayer stack of two dielectric materials covered with an air cavity layer filled with the dry exhaled breath (DEB) and a thin metallic layer of Au is attached on the top surface. Hence, the proposed sensor is configured as, [prism/Au/air cavity/(GaN/SiO2)10]. The transfer matrix method and the Drude model are adopted to calculate the numerical simulations and reflection spectra of the design. The essential key for sensing isoprene levels is the resonant optical Tamm plasmon (TP) states within the photonic bandgap. The obtained numerical results are promising such as high sensitivity (S) of 0.321 nm/ppm or 278720 nm/RIU. This technique can be reducing the risk of infection during the taking of blood samples by syringe. Also, it can prevent the pain of patients. Finally, this work opens the door for the detection of many diseases by analyzing the breaths of patients based on photonic crystals.",
+  "Disease_List": [
+    "liver fibrosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'liver fibrosis' as a specific disease for which isoprene traces in exhaled breath are used as a biomarker. Although it refers generally to 'diseases' in the context of breath analysis, the only specific disease named is liver fibrosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "liver fibrosis"
+  ],
+  "UMLS_search_results": {
+    "liver fibrosis": [
+      {
+        "ui": "C0239946",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0239946",
+        "name": "Fibrosis, Liver",
+        "mesh_id": "D008103"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "isoprene",
+    "Au",
+    "GaN",
+    "SiO2"
+  ],
+  "compound_CID": [
+    {
+      "isoprene": 6557,
+      "Au": 23985,
+      "GaN": 5496571,
+      "SiO2": 24261
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "isoprene_liver_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract presents isoprene as a biomarker detectable in exhaled breath for liver fibrosis. It introduces a novel photonic crystal-based sensor designed specifically to detect isoprene traces, indicating that isoprene levels correlate with the presence of liver fibrosis. This suggests a relationship where isoprene can be used for noninvasive diagnosis of liver fibrosis."
+      }
+    },
+    {
+      "Au_liver_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a thin metallic layer of Au (gold) as part of a sensor structure for detecting isoprene in exhaled breath, which serves as a biomarker for liver fibrosis. However, Au is used here solely as a component of the sensor device and not as a compound causing, treating, or directly related to liver fibrosis. There is no evidence in the abstract that Au itself has a biological or pathological relationship with liver fibrosis."
+      }
+    },
+    {
+      "GaN_liver_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a photonic crystal sensor structure that includes GaN as one of the dielectric materials in a multilayer stack for detecting isoprene in exhaled breath, which serves as a biomarker for liver fibrosis. However, GaN itself is not indicated as causing, treating, or directly related to liver fibrosis. Instead, GaN is part of the sensor's construction material used for noninvasive detection of a biomarker associated with liver fibrosis. Therefore, there is no evidence of a direct relationship between the compound GaN and the disease liver fibrosis."
+      }
+    },
+    {
+      "SiO2_liver_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a photonic crystal sensor incorporating SiO2 as a dielectric material layer for detecting isoprene in exhaled breath, which serves as a biomarker for liver fibrosis. However, SiO2 itself is not implicated as a causative or related compound to liver fibrosis; it is merely a component of the sensor structure. The relationship is between isoprene levels and liver fibrosis, not between SiO2 and liver fibrosis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions isoprene as the target volatile organic compound biomarker for liver fibrosis detection. Au (gold) is mentioned as a thin metallic layer in the sensor structure. GaN (gallium nitride) and SiO2 (silicon dioxide) are the dielectric materials used in the multilayer photonic crystal stack. These are all specific chemical compounds or elements relevant to the study."
+}

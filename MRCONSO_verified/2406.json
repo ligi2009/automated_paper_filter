@@ -1,0 +1,38 @@
+{
+  "id": 2406,
+  "title": "A Complete Pipeline for Untargeted Urinary Volatolomic Profiling with Sorptive Extraction and Dual Polar and Nonpolar Column Methodologies Coupled with Gas Chromatography Time-of-Flight Mass Spectrometry",
+  "Abstract": "Volatolomics offers an opportunity for noninvasive detection and monitoring of human disease. While gas chromatography–mass spectrometry (GC–MS) remains the technique of choice for analyzing volatile organic compounds (VOCs), barriers to wider adoption in clinical practice still exist, including: sample preparation and introduction techniques, VOC extraction, throughput, volatolome coverage, biological interpretation, and quality control (QC). Therefore, we developed a complete pipeline for untargeted urinary volatolomic profiling. We optimized a novel extraction technique using HiSorb sorptive extraction, which exhibited high analytical performance and throughput. We achieved a broader VOC coverage by using HiSorb coupled with a set of complementary chromatographic methods and time-of-flight mass spectrometry. Furthermore, we developed a data preprocessing strategy by evaluating internal standard normalization, batch correction, and we adopted strict QC measures including removal of nonlinearly responding, irreproducible, or contaminated metabolic features, ensuring the acquisition of high-quality data. The applicability of this pipeline was evaluated in a clinical cohort consisting of pancreatic ductal adenocarcinoma (PDAC) patients (n = 28) and controls (n = 33), identifying four urinary candidate biomarkers (2-pentanone, hexanal, 3-hexanone, and p-cymene), which can successfully discriminate the cancer and noncancer subjects. This study presents an optimized, high-throughput, and quality-controlled pipeline for untargeted urinary volatolomic profiling. Use of the pipeline to discriminate PDAC from control subjects provides proof of principal of its clinical utility and potential for application in future biomarker discovery studies.",
+  "Disease_List": [
+    "pancreatic ductal adenocarcinoma (PDAC)"
+  ],
+  "Reason": "The abstract explicitly mentions 'pancreatic ductal adenocarcinoma (PDAC)' as a specific disease. The study involves a clinical cohort of PDAC patients and controls, and the pipeline developed is used to discriminate PDAC from noncancer subjects, indicating a clear focus on this specific disease.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "pancreatic ductal adenocarcinoma (PDAC)"
+  ],
+  "UMLS_search_results": {
+    "pancreatic ductal adenocarcinoma (PDAC)": []
+  },
+  "MRCONSO_search_results": {
+    "pancreatic ductal adenocarcinoma (PDAC)": [
+      "Pancreatic Ductal Adenocarcinoma",
+      "Pancreatic ductal adenocarcinoma",
+      "PDAC - pancreatic ductal adenocarcinoma",
+      "Mouse Pancreatic Ductal Adenocarcinoma",
+      "Hamster Pancreatic Ductal Adenocarcinoma"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "pancreatic ductal adenocarcinoma (PDAC)_via_Pancreatic Ductal Adenocarcinoma": [
+      {
+        "ui": "C1335302",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1335302",
+        "name": "Pancreatic Ductal Adenocarcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  }
+}

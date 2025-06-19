@@ -1,0 +1,93 @@
+{
+  "id": 4973,
+  "title": "Detection of Sub-Clinical Mastitis Using Prototype Electronic -Nose",
+  "Abstract": "Nowadays, traditional testing methods and expensive import detection devices restrict the requirements of fresh milk from agriculture, which is contrary to the improvement of fresh milk quality. The main illness of dairy livestock is mastitis. There are two types of mastitis. One is a clinical and another sub-clinical. Clinical mastitis is easily detected by its medical signs and the quality of milk but sub-clinical mastitis shows no pain. The other hand subcategory mulch results in more financial loss compared to the experimental form. It can be diagnosed with a variety of medical research, and the somatic Cell Count (SCC) is acknowledged as a major indicator. However, the SCC's decision with traditional methods is time consuming and laborious. So the quick field detection technique is a powerful tool to reduce this field. The proposed system is a MSP430 based monitoring unit. The volatility of volatile organic compounds (VOCs) in raw milk headspaces vary drastically when contaminated with bacterial metabolism. The key focus on the ability of the electronic nose (e-nose) system with TGS sensor to break the milks to a limit value with somatic cell counts (SCC). Milk samples are stored from dairy farms. The cow's milk enters the food chain by accidentally mixed milk in sub-clinical mastectomy, causing a threat to human health, such as diarrhea, tuberculosis, scarlet fever, and Q-fever. Major component analysis (PCA) was used to describe the difference between non-mastitis (N-M) / mastitis (M) patterns in conformity with sensor reactions",
+  "Disease_List": [
+    "mastitis",
+    "diarrhea",
+    "tuberculosis",
+    "scarlet fever",
+    "Q-fever"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases: 'mastitis' (including clinical and sub-clinical types) as the main illness of dairy livestock, and human health threats such as 'diarrhea', 'tuberculosis', 'scarlet fever', and 'Q-fever'. These are all specific disease names rather than general terms, so the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "mastitis",
+    "diarrhea",
+    "tuberculosis",
+    "scarlet fever",
+    "Q-fever"
+  ],
+  "UMLS_search_results": {
+    "mastitis": [
+      {
+        "ui": "C0024894",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024894",
+        "name": "Mastitis",
+        "mesh_id": "D008413"
+      },
+      {
+        "ui": "C3495439",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3495439",
+        "name": "Inflammatory disorder of breast",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3668816",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3668816",
+        "name": "Inflammation of non-human mammary gland",
+        "mesh_id": "None"
+      }
+    ],
+    "diarrhea": [
+      {
+        "ui": "C2169706",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2169706",
+        "name": "rectal discharge diarrhea (physical finding)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011991",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011991",
+        "name": "Diarrhea",
+        "mesh_id": "D003967"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "scarlet fever": [
+      {
+        "ui": "C0036285",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036285",
+        "name": "Scarlet Fever",
+        "mesh_id": "D012541"
+      }
+    ],
+    "Q-fever": [
+      {
+        "ui": "C0034362",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034362",
+        "name": "Q Fever",
+        "mesh_id": "D011778"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

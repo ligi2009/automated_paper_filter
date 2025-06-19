@@ -1,0 +1,83 @@
+{
+  "id": 3996,
+  "title": "Preparation and Gas Sensing Properties of In2O3/Au Nanorods for Detection of Volatile Organic Compounds in Exhaled Breath",
+  "Abstract": "A series of In2O3/Au nanorods (NRs) were fabricated and characterized by scanning electron microscope (SEM), transmission electron microscope (TEM), X–ray diffractometer (XRD) and X–ray photoelectron spectroscopy (XPS). The length to diameter ratios of In2O3/Au NRs was periodically modulated in the range of 2.9–4.5 through controlling the initial content of indium salt and reaction time. Their gas sensing properties to volatile organic compounds (VOCs) were carefully studied and then applied in exhaled breath detection. The results demonstrate that In2O3/Au NRs gas sensor can effectively detect acetone at 250 °C and ethanol at 400 °C. The corresponding actual detection limit is as low as 0.1 ppm to acetone and 0.05 ppm to ethanol, respectively. Moreover, by using humidity compensation method, In2O3/Au NRs gas sensor can clearly distinguish the acetone and ethanol biomarkers in human breath. The main reason of the enhanced gas sensing properties was attributed to the “spillover effects” between Au and In2O3 NRs. The excellent sensing performance indicates that In2O3/Au NRs is a promising functional material to actual application in monitoring and detecting diabetes and safe driving area in a noninvasive and more accurate way.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes' as a disease that can be monitored and detected using the In2O3/Au NRs gas sensor. Although other terms like 'volatile organic compounds' and 'biomarkers' are mentioned, only 'diabetes' is a specific disease name explicitly stated.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "In2O3",
+    "Au",
+    "acetone",
+    "ethanol"
+  ],
+  "compound_CID": [
+    {
+      "In2O3": "None",
+      "Au": 23985,
+      "acetone": 180,
+      "ethanol": 702
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "In2O3_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the fabrication and characterization of In2O3/Au nanorods used as gas sensors for detecting volatile organic compounds, specifically acetone and ethanol, in exhaled breath. It highlights that the In2O3/Au nanorods can effectively detect acetone, a known biomarker for diabetes, with high sensitivity and selectivity. The sensor's ability to distinguish acetone in human breath suggests its application in noninvasive monitoring and detection of diabetes. Therefore, there is evidence of a relationship between In2O3 and diabetes through its use in breath-based diabetes detection."
+      }
+    },
+    {
+      "Au_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of In2O3/Au nanorods as gas sensors capable of detecting acetone and ethanol biomarkers in human breath. Acetone in breath is a known biomarker for diabetes. The sensor's ability to detect acetone at very low concentrations and distinguish it from other compounds suggests that the Au-containing nanorods have a functional role in monitoring diabetes noninvasively. Therefore, there is evidence of a relationship between the compound Au (as part of the nanorods) and diabetes through its application in diabetes biomarker detection."
+      }
+    },
+    {
+      "acetone_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of In2O3/Au nanorods gas sensors that can effectively detect acetone in human breath at very low concentrations. It specifically mentions that these sensors can distinguish acetone biomarkers in human breath and highlights their potential application in monitoring and detecting diabetes in a noninvasive and accurate manner. Since acetone is identified as a biomarker detectable by the sensor for diabetes monitoring, there is evidence of a relationship between acetone and diabetes in the context of disease detection."
+      }
+    },
+    {
+      "ethanol_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of In2O3/Au nanorods as gas sensors capable of detecting ethanol and acetone in human breath. It specifically mentions that these sensors can distinguish ethanol and acetone biomarkers and highlights their application in monitoring and detecting diabetes noninvasively. Since acetone is a known biomarker for diabetes and ethanol detection is part of the sensor's capability, the abstract implies a relationship between ethanol detection and diabetes monitoring, supporting the existence of a relationship between ethanol and diabetes in the context of breath biomarkers."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions indium oxide (In2O3) and gold (Au) as components of the nanorods studied. It also identifies acetone and ethanol as the volatile organic compounds detected by the gas sensor. These are specific chemical compounds named in the text."
+}

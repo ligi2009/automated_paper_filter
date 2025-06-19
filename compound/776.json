@@ -1,0 +1,217 @@
+{
+  "id": 776,
+  "title": "Effect of rhizosphere inoculation with Bacillus strains and phytopathogens on the contents of volatiles and human health-related compounds in tomato fruits",
+  "Abstract": "Tomato (Solanum lycopersicon L., Solanales: Solanaceae) is a highly consumed fruit worldwide. Tomato quality is determined by several attributes, including color, nutritional value and flavor (Vogel et al., 2010) and is highly dependent on cultivar (Vieira et al., 2019), climatic conditions and the production system used. Tomatoes are rich in human health-related compounds, especially carotenoids and phenols, which greatly contribute to their well-known antioxidant capacity (Ligor et al., 2014; Ha et al., 2015; Pellicanò et al., 2020). The beneficial effects of fresh tomato, tomato products, tomato carotenoids and phenols on the prevention of several cancer forms, cardiovascular diseases, age-related macular degeneration and other chronic diseases have been demonstrated (Zanfini et al., 2010; CervantesPaz et al., 2012; Pesaresi et al., 2014). These beneficial effects have mainly been attributed to the antioxidant capacity of tomatoes, which contributes to preventing an excess of free radicals in human cells. High levels of free radicals in cells are involved in the pathogenesis of many different diseases (Zanfini et al., 2010; Mukherjee et al., 2017). Thus, the carotenoid and phenol contents are important quality attributes of tomato fruits. On the other hand, carotenoids are also precursors of volatile compounds (VOCs) involved in the aroma of tomato fruits (El Hadi et al., 2013). The volatiles derived from carotenoids are highly biosynthesized at advanced ripening stages (López-Vidal et al., 2014; Su et al., 2015). The flavor of tomatoes is a product of the interaction of sugars, organic acids, and ~400 VOCs, with 20-30 of them being significant contributors to tomato aroma. These VOCs are synthetized not only from carotenoids but also from lipids, amino acids, lignin, phenols and terpenes (Vogel et al., 2010; Dávila-Aviña et al., 2011). Several studies have demonstrated that the profile of human health-related compounds and VOCs in tomatoes can be affected by diverse preand postharvesting factors, mainly including geographic origin, environmental factors, cultivation practices, harvest time, storage conditions, genotype and ripening stage (Dávila-Aviña et al., 2011; Rambla et al., 2015). Recently, literature has demonstrated that the interaction between plants and microorganisms, either pathogenic or antagonistic, can alter the quality of tomatoes; however, little literature is available in this regard (Ordookhani et al., 2010; Ordookhani & Zare 2011; Parewa et al., 2014), since previous Effect of rhizosphere inoculation with Bacillus strains and phytopathogens on the contents of volatiles and human health-related compounds in tomato fruits",
+  "Disease_List": [
+    "cancer",
+    "cardiovascular diseases",
+    "age-related macular degeneration"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'cancer', 'cardiovascular diseases', and 'age-related macular degeneration' when discussing the beneficial effects of tomato compounds on the prevention of these diseases. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "cardiovascular diseases",
+    "age-related macular degeneration"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "age-related macular degeneration": [
+      {
+        "ui": "C0242383",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242383",
+        "name": "Age related macular degeneration",
+        "mesh_id": "D008268"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carotenoids",
+    "phenols",
+    "volatile organic compounds (VOCs)",
+    "sugars",
+    "organic acids",
+    "lipids",
+    "amino acids",
+    "lignin",
+    "terpenes"
+  ],
+  "compound_CID": [
+    {
+      "carotenoids": "None",
+      "phenols": "None",
+      "volatile organic compounds (VOCs)": "None",
+      "sugars": "None",
+      "organic acids": "None",
+      "lipids": "None",
+      "amino acids": 169449957,
+      "lignin": 175586,
+      "terpenes": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carotenoids_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between carotenoids and cancer by stating that tomato carotenoids have beneficial effects on the prevention of several cancer forms. This effect is mainly attributed to the antioxidant capacity of carotenoids, which helps prevent an excess of free radicals in human cells. Since high levels of free radicals are involved in the pathogenesis of many diseases including cancer, the antioxidant properties of carotenoids contribute to cancer prevention."
+      },
+      "carotenoids_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract states that tomatoes are rich in carotenoids, which contribute significantly to their antioxidant capacity. It further mentions that the beneficial effects of tomato carotenoids on the prevention of several diseases, including cardiovascular diseases, have been demonstrated. These effects are mainly attributed to the antioxidant properties of carotenoids, which help prevent excess free radicals involved in the pathogenesis of many diseases, including cardiovascular diseases. Therefore, there is evidence of a relationship between carotenoids and cardiovascular diseases based on the abstract."
+      },
+      "carotenoids_age-related_macular_degeneration": {
+        "relationship": "Y",
+        "reason": "The abstract states that tomato carotenoids have beneficial effects on the prevention of several chronic diseases, including age-related macular degeneration. This relationship is attributed mainly to the antioxidant capacity of carotenoids, which helps prevent excess free radicals in human cells, a factor involved in the pathogenesis of many diseases. Therefore, there is evidence in the abstract supporting a relationship between carotenoids and age-related macular degeneration."
+      }
+    },
+    {
+      "phenols_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that tomatoes are rich in phenols, which contribute to their antioxidant capacity. It further mentions that the beneficial effects of tomato phenols on the prevention of several cancer forms have been demonstrated. This suggests a positive relationship between phenols and cancer prevention, likely due to their antioxidant properties that help prevent excess free radicals involved in disease pathogenesis."
+      },
+      "phenols_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract states that tomatoes are rich in phenols, which contribute to their antioxidant capacity. It further mentions that the beneficial effects of tomato phenols on the prevention of several diseases, including cardiovascular diseases, have been demonstrated. This suggests a positive relationship between phenols and cardiovascular disease prevention, primarily attributed to their antioxidant properties that help prevent excess free radicals involved in disease pathogenesis."
+      },
+      "phenols_age-related_macular_degeneration": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenols, which are present in tomatoes, have beneficial effects on the prevention of several diseases including age-related macular degeneration. These effects are mainly attributed to the antioxidant capacity of phenols, which helps prevent excess free radicals in human cells. Since high levels of free radicals are involved in the pathogenesis of many diseases, including age-related macular degeneration, the antioxidant properties of phenols suggest a protective relationship."
+      }
+    },
+    {
+      "volatile organic compounds (VOCs)_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of compounds found in tomatoes, such as carotenoids and phenols, which have antioxidant properties and contribute to the prevention of several cancer forms. It also mentions that carotenoids are precursors of volatile organic compounds (VOCs) involved in tomato aroma. However, the abstract does not provide any evidence or indication that VOCs themselves have a direct relationship with cancer, either as a cause or preventive agent. The focus is on carotenoids and phenols for cancer prevention, while VOCs are described only in the context of flavor and aroma. Therefore, based on the abstract, there is no clear relationship established between VOCs and cancer."
+      },
+      "volatile organic compounds (VOCs)_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the beneficial effects of tomato compounds such as carotenoids and phenols on cardiovascular diseases, attributing these benefits mainly to their antioxidant capacity. It mentions that carotenoids are precursors of volatile organic compounds (VOCs) involved in tomato aroma, but does not provide any evidence or direct link between VOCs themselves and cardiovascular diseases. The focus is on the antioxidant compounds rather than VOCs in relation to disease prevention. Therefore, based on the abstract, there is no clear relationship established between VOCs and cardiovascular diseases."
+      },
+      "volatile organic compounds (VOCs)_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the beneficial effects of tomato compounds such as carotenoids and phenols on age-related macular degeneration (AMD), attributing these effects mainly to their antioxidant capacity. It also explains that volatile organic compounds (VOCs) in tomatoes are derived from carotenoids and other precursors and contribute to tomato aroma and flavor. However, the abstract does not provide any evidence or mention a direct relationship between VOCs themselves and age-related macular degeneration. The health benefits related to AMD are linked to carotenoids and phenols, not VOCs. Therefore, based on the abstract, there is no clear relationship established between VOCs and age-related macular degeneration."
+      }
+    },
+    {
+      "sugars_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have antioxidant properties linked to the prevention of several cancer forms. While sugars are mentioned as contributors to tomato flavor in combination with organic acids and volatile compounds, there is no evidence or mention in the abstract of sugars having a direct or indirect relationship with cancer prevention or causation. The beneficial effects on cancer are attributed specifically to antioxidant compounds like carotenoids and phenols, not sugars."
+      },
+      "sugars_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato compounds such as carotenoids and phenols and their beneficial effects on cardiovascular diseases, mainly due to their antioxidant capacity. While sugars are mentioned as contributors to tomato flavor and aroma, there is no evidence or mention in the abstract linking sugars specifically to cardiovascular diseases or their prevention. Therefore, based on the abstract content, there is no clear relationship established between sugars and cardiovascular diseases."
+      },
+      "sugars_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato consumption and the prevention of age-related macular degeneration (AMD), attributing the beneficial effects primarily to carotenoids and phenols due to their antioxidant capacity. While sugars are mentioned as contributors to tomato flavor and aroma, there is no evidence or indication in the abstract that sugars themselves have a direct or indirect relationship with AMD. The health-related benefits linked to AMD prevention are specifically associated with antioxidant compounds, not sugars."
+      }
+    },
+    {
+      "organic acids_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato compounds such as carotenoids and phenols and their beneficial effects on cancer prevention, attributing these effects mainly to their antioxidant capacity. While organic acids are mentioned as contributors to tomato flavor along with sugars and volatile organic compounds, there is no mention or evidence in the abstract linking organic acids specifically to cancer or its prevention. Therefore, based on the abstract content, there is no clear relationship established between organic acids and cancer."
+      },
+      "organic acids_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato consumption and cardiovascular diseases, attributing beneficial effects mainly to carotenoids and phenols due to their antioxidant capacity. While organic acids are mentioned as contributors to tomato flavor along with sugars and volatile organic compounds, there is no direct evidence or discussion in the abstract linking organic acids specifically to cardiovascular diseases or their prevention. Therefore, based on the abstract content, there is no clear relationship established between organic acids and cardiovascular diseases."
+      },
+      "organic acids_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato consumption and the prevention of age-related macular degeneration (AMD), attributing beneficial effects mainly to carotenoids and phenols due to their antioxidant capacity. While organic acids are mentioned as contributors to tomato flavor and aroma, there is no evidence or indication in the abstract that organic acids themselves have a direct or indirect relationship with age-related macular degeneration. The health-related benefits linked to AMD prevention are specifically associated with carotenoids and phenols, not organic acids."
+      }
+    },
+    {
+      "lipids_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have demonstrated effects in preventing several forms of cancer due to their antioxidant capacity. While lipids are mentioned as one of the sources for volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or discussion in the abstract linking lipids themselves to cancer prevention or causation. Therefore, based on the abstract content, there is no clear relationship established between lipids and cancer."
+      },
+      "lipids_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato compounds such as carotenoids and phenols and their beneficial effects on cardiovascular diseases, mainly due to their antioxidant capacity. While it mentions that volatile organic compounds (VOCs) contributing to tomato aroma are synthesized from various precursors including lipids, there is no direct evidence or mention of lipids themselves having a relationship with cardiovascular diseases in the abstract. Therefore, based on the provided abstract, there is no clear relationship established between lipids and cardiovascular diseases."
+      },
+      "lipids_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato compounds such as carotenoids and phenols and their beneficial effects on age-related macular degeneration (AMD), attributing these effects mainly to antioxidant capacity. While lipids are mentioned as precursors of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention in the abstract linking lipids themselves to age-related macular degeneration. Therefore, based on the abstract, there is no clear relationship established between lipids and AMD."
+      }
+    },
+    {
+      "amino acids_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have demonstrated effects in preventing several forms of cancer due to their antioxidant capacity. Amino acids are mentioned only in the context of being precursors for volatile organic compounds (VOCs) that contribute to tomato aroma and flavor. There is no direct or indirect evidence in the abstract linking amino acids themselves to cancer prevention or causation. Therefore, based on the abstract, there is no clear relationship established between amino acids and cancer."
+      },
+      "amino acids_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato consumption and cardiovascular diseases, attributing beneficial effects mainly to carotenoids and phenols due to their antioxidant capacity. While amino acids are mentioned as precursors of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention of amino acids themselves having a relationship with cardiovascular diseases in the abstract. Therefore, based on the provided abstract, there is no clear relationship established between amino acids and cardiovascular diseases."
+      },
+      "amino acids_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato consumption and the prevention of age-related macular degeneration (AMD), attributing beneficial effects mainly to carotenoids and phenols due to their antioxidant capacity. While amino acids are mentioned as precursors of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention of amino acids themselves having a relationship with AMD in the abstract. Therefore, based on the provided abstract, there is no clear relationship established between amino acids and age-related macular degeneration."
+      }
+    },
+    {
+      "lignin_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have been linked to the prevention of several cancer forms due to their antioxidant capacity. Lignin is mentioned only as one of the sources for volatile organic compounds (VOCs) contributing to tomato aroma, without any direct or indirect evidence linking lignin itself to cancer prevention or causation. Therefore, based on the abstract, there is no clear relationship established between lignin and cancer."
+      },
+      "lignin_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have been linked to the prevention of cardiovascular diseases due to their antioxidant properties. While lignin is mentioned as one of the sources of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention of lignin itself having a relationship with cardiovascular diseases. The beneficial effects on cardiovascular diseases are attributed to carotenoids and phenols, not lignin."
+      },
+      "lignin_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between tomato compounds such as carotenoids and phenols and their beneficial effects on age-related macular degeneration (AMD) due to their antioxidant capacity. While lignin is mentioned as one of the sources of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention of lignin itself having a relationship with age-related macular degeneration. The beneficial effects on AMD are attributed specifically to carotenoids and phenols, not lignin."
+      }
+    },
+    {
+      "terpenes_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health benefits of tomatoes, particularly focusing on carotenoids and phenols, which have demonstrated effects in preventing several forms of cancer due to their antioxidant capacity. Terpenes are mentioned only as one of the sources of volatile organic compounds (VOCs) contributing to tomato aroma, but there is no direct evidence or discussion in the abstract linking terpenes specifically to cancer prevention or causation. Therefore, based on the abstract content, there is no clear relationship established between terpenes and cancer."
+      },
+      "terpenes_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses the beneficial effects of tomato compounds such as carotenoids and phenols on cardiovascular diseases, attributing these effects mainly to their antioxidant capacity. While terpenes are mentioned as one of the sources of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention in the abstract linking terpenes specifically to cardiovascular diseases or their prevention. Therefore, based on the abstract, there is no clear relationship established between terpenes and cardiovascular diseases."
+      },
+      "terpenes_age-related_macular_degeneration": {
+        "relationship": "N",
+        "reason": "The abstract discusses the beneficial effects of tomato compounds, particularly carotenoids and phenols, on age-related macular degeneration (AMD) due to their antioxidant capacity. While terpenes are mentioned as one of the sources of volatile organic compounds (VOCs) contributing to tomato aroma, there is no direct evidence or mention of terpenes having a relationship with AMD in the abstract. The health benefits related to AMD are attributed mainly to carotenoids and phenols, not terpenes."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific classes of chemical compounds such as carotenoids and phenols, which are directly named and linked to tomato quality and health benefits. It also refers to volatile organic compounds (VOCs) derived from carotenoids and other precursors like sugars, organic acids, lipids, amino acids, lignin, and terpenes that contribute to tomato aroma and flavor. These are specific chemical compound classes rather than general terms."
+}

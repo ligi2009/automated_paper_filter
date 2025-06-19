@@ -1,0 +1,127 @@
+{
+  "id": 2486,
+  "title": "EXOCRINE PANCREATIC CANCER AND LIVING NEAR TO WASTE SITES CONTAINING HAZARDOUS ORGANIC CHEMICALS, NEW YORK STATE, USA – AN 18-YEAR POPULATION-BASED STUDY",
+  "Abstract": "Objectives: The etiology of exocrine pancreatic cancer (EPC) remains unknown except for family history and smoking. Despite recent medical advances, rates of pancreatic cancer incidence and mortality are increasing. Although existing evidence suggests a potentially causal relationship between environmental chemical exposures and pancreatic cancer, whether residential exposure impacts pancreatic cancer rates remains unknown. Material and Methods: The authors identified 28 941 patients diagnosed with exocrine pancreatic cancer in New York State exclusive of New York City for the years 1996–2013. Descriptive statistics and negative binomial regression were used in this ecological study to compare pancreatic cancer hospitalization rates among patients who lived in zip codes with hazardous waste sites (HWSs) containing persistent organic pollutants (POPs) and volatile organic pollutants (VOCs) compared with clean zip codes with no identified hazardous waste sites. The authors assessed the effect of selected known and suspected human carcinogens on the EPC hospitalization rates by subgroup analyses. Results: Compared with the clean sites, the pancreatic cancer hospital discharge rate in the “VOCs without POPs” and “VOCs and POPs” sites, after adjustment for potential confounders were 1.06 (95% CI: 1.03–1.09) and 1.05 (95% CI: 1.01–1.08), respectively. In the analysis by specific chemicals, rate ratios (RR) for the benzene (RR = 1.12) and ethylbenzene (RR = 1.34) in the non-chlorinated VOCs group, trichloroethylene (RR = 1.07) and tetrachloroethylene (RR = 1.11) in the chlorinated VOCs group, chlorinated pesticides (RR = 1.11) and PCBs (RR = 1.05) in the POPs groups were statistically significant (p-values <0.05) compared with clean sites. Conclusions: Residential exposure to both volatile and semi-volatile organic compounds coming from identified HWSs is associated with elevated risk of being hospitalized for exocrine pancreatic cancer. The authors attribute the exposure to inhalation. These results are important because while the exposures are much lower than seen in occupational settings, residential exposure in continuous, and the authors have identified several specific chemicals showing significant associations.",
+  "Disease_List": [
+    "exocrine pancreatic cancer",
+    "pancreatic cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'exocrine pancreatic cancer' and 'pancreatic cancer' multiple times as specific diseases under study. These are specific disease names rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "exocrine pancreatic cancer",
+    "pancreatic cancer"
+  ],
+  "UMLS_search_results": {
+    "exocrine pancreatic cancer": [
+      {
+        "ui": "C0346648",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346648",
+        "name": "Malignant tumor of exocrine pancreas",
+        "mesh_id": "None"
+      }
+    ],
+    "pancreatic cancer": [
+      {
+        "ui": "C0346647",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346647",
+        "name": "Malignant neoplasm of pancreas",
+        "mesh_id": "D010190"
+      },
+      {
+        "ui": "C0235974",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0235974",
+        "name": "Pancreatic carcinoma",
+        "mesh_id": "D010190"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene",
+    "ethylbenzene",
+    "trichloroethylene",
+    "tetrachloroethylene",
+    "chlorinated pesticides",
+    "PCBs"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241,
+      "ethylbenzene": 7500,
+      "trichloroethylene": 6575,
+      "tetrachloroethylene": 31373,
+      "chlorinated pesticides": "None",
+      "PCBs": 6636
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to benzene, a volatile organic compound, and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio for benzene exposure was 1.12 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites. This suggests that benzene exposure from hazardous waste sites is linked to a higher risk of EPC, supporting a relationship between benzene and exocrine pancreatic cancer."
+      },
+      "benzene_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to benzene, a volatile organic compound, and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio for benzene exposure was 1.12 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites. This suggests that benzene exposure is linked to a higher risk of pancreatic cancer in the studied population."
+      }
+    },
+    {
+      "ethylbenzene_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to ethylbenzene, a volatile organic compound, and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio for ethylbenzene exposure was 1.34 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites without hazardous waste. This suggests that ethylbenzene exposure is linked to a higher risk of EPC, supporting a relationship between the compound and the disease."
+      },
+      "ethylbenzene_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to ethylbenzene, a volatile organic compound, and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio for ethylbenzene exposure was 1.34 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites. This suggests that ethylbenzene exposure is linked to a higher risk of pancreatic cancer in the studied population."
+      }
+    },
+    {
+      "trichloroethylene_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to trichloroethylene, a chlorinated volatile organic compound (VOC), and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio (RR) for trichloroethylene exposure was 1.07 with a p-value <0.05, indicating a modest but significant elevated risk compared to clean sites without hazardous waste. The study controlled for potential confounders and found that exposure to trichloroethylene from hazardous waste sites is linked to higher EPC hospitalization rates, suggesting a relationship between this compound and the disease."
+      },
+      "trichloroethylene_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to trichloroethylene, a chlorinated volatile organic compound (VOC), and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio (RR) for trichloroethylene exposure was 1.07 with a p-value < 0.05, indicating a positive relationship. The study controlled for potential confounders and found that living in areas with hazardous waste sites containing trichloroethylene was linked to a modest but significant elevation in pancreatic cancer risk. Therefore, there is evidence supporting a relationship between trichloroethylene exposure and pancreatic cancer."
+      }
+    },
+    {
+      "tetrachloroethylene_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to tetrachloroethylene, a chlorinated volatile organic compound (VOC), and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio (RR) for tetrachloroethylene exposure was 1.11 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites without hazardous waste. This suggests that exposure to tetrachloroethylene is linked to a higher risk of EPC, supporting a relationship between the compound and the disease."
+      },
+      "tetrachloroethylene_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to tetrachloroethylene, a chlorinated volatile organic compound (VOC), and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio for tetrachloroethylene exposure was 1.11 with a p-value <0.05, indicating a meaningful elevated risk compared to clean sites. This suggests that tetrachloroethylene exposure is linked to a higher risk of pancreatic cancer in the studied population."
+      }
+    },
+    {
+      "chlorinated pesticides_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to chlorinated pesticides and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio (RR) for chlorinated pesticides was 1.11 with a p-value <0.05, indicating a meaningful elevation in risk compared to clean sites. This suggests that exposure to chlorinated pesticides, as part of persistent organic pollutants (POPs) from hazardous waste sites, is linked to a higher risk of EPC. The study attributes this exposure primarily to inhalation in residential settings, highlighting a potential environmental risk factor for EPC."
+      },
+      "chlorinated pesticides_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to chlorinated pesticides and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio for chlorinated pesticides was 1.11 with a p-value less than 0.05, indicating a meaningful positive relationship. This suggests that exposure to chlorinated pesticides, even at residential levels, is linked to an elevated risk of pancreatic cancer."
+      }
+    },
+    {
+      "PCBs_exocrine_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to PCBs, which are persistent organic pollutants (POPs), and increased hospitalization rates for exocrine pancreatic cancer (EPC). Specifically, the rate ratio for PCBs was 1.05 with a p-value <0.05, indicating a positive relationship after adjustment for potential confounders. This suggests that exposure to PCBs from hazardous waste sites is linked to a higher risk of EPC, supporting evidence of a relationship between PCBs and exocrine pancreatic cancer."
+      },
+      "PCBs_pancreatic_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between residential exposure to PCBs, which are persistent organic pollutants (POPs), and increased hospitalization rates for exocrine pancreatic cancer. Specifically, the rate ratio for PCBs was 1.05 with a p-value <0.05, indicating a positive relationship. The study controlled for potential confounders and found that living in areas with hazardous waste sites containing PCBs was linked to a higher risk of pancreatic cancer hospitalization, suggesting that PCBs exposure may contribute to the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions benzene, ethylbenzene, trichloroethylene, tetrachloroethylene, chlorinated pesticides, and PCBs as chemical compounds associated with increased pancreatic cancer hospitalization rates. These are specific chemical names rather than general terms."
+}

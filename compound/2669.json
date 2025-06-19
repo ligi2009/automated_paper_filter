@@ -1,0 +1,61 @@
+{
+  "id": 2669,
+  "title": "Can scent-detection dogs detect the stress associated with trauma cue exposure in people with trauma histories? A proof-of-concept study",
+  "Abstract": "Introduction Post-traumatic stress disorder (PTSD) is an impairing mental health condition with high prevalence among military and general populations alike. PTSD service dogs are a complementary and alternative intervention needing scientific validation. We investigated whether dogs can detect putative stress-related volatile organic compounds (VOCs) in the breath of people with trauma histories (54% with PTSD) exposed to personalized trauma cues. Methods Breath samples were collected from 26 humans over 40 experimental sessions during a calm (control breath sample) and stressed state induced by trauma cue exposure (target breath sample). Two scent detection canines were presented with the samples in a two alternative forced choice (2AFC) discrimination and yes/no detection task. The 2AFC task assessed the dogs' ability to discriminate between the two states within the breath samples of one individual. The detection task determined their ability to generalize the target odour across different individuals and different stressful events of one individual. Signal Detection Theory was applied to assess dogs' sensitivity, specificity, precision, and response bias. Results The dogs performed at ∼90% accuracy across all sample sets in the discrimination experiment, and at 74% and 81% accuracy, respectively, in the detection experiment. Further analysis of dog olfactory performance in relation to human donor self-reported emotional responses to trauma cue exposure suggested the dogs may have been detecting distinct endocrine stress markers. One dog's performance correlated with the human donors' self-reported fear responses and the other dog's performance correlated with the human donors' self-reported shame responses. Based on these correlations between dog performance and donor self-report measures, we speculate that the VOCs each dog was detecting likely originated from the sympathetico-adreno-medullary axis (SAM; adrenaline, noradrenaline) in the case of the first dog and the hypothalamo-pituitary-adrenal axis (HPA; glucocorticoids) in the case of the second dog. Conclusion Our proof-of-concept study is the first to demonstrate that some dogs can detect putative VOCs emitted by people with trauma histories when experiencing distress theoretically associated with the intrusion and arousal/reactivity symptoms of PTSD. Results have potential to improve the effectiveness and training protocol of PTSD service dogs with a focus on enhancing their alert function.",
+  "Disease_List": [
+    "Post-traumatic stress disorder (PTSD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Post-traumatic stress disorder (PTSD)' multiple times as a specific mental health condition being studied. PTSD is a well-defined disease, and the study focuses on detecting stress-related compounds in individuals with PTSD. Therefore, the classification is 'Y' with PTSD listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Post-traumatic stress disorder (PTSD)"
+  ],
+  "UMLS_search_results": {
+    "Post-traumatic stress disorder (PTSD)": [
+      {
+        "ui": "C0038436",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038436",
+        "name": "Post-Traumatic Stress Disorder",
+        "mesh_id": "D013313"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "adrenaline",
+    "noradrenaline",
+    "glucocorticoids"
+  ],
+  "compound_CID": [
+    {
+      "adrenaline": 5816,
+      "noradrenaline": 439260,
+      "glucocorticoids": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "adrenaline_Post-traumatic_stress_disorder_(PTSD)": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence suggesting a relationship between adrenaline and PTSD. It describes a study where dogs detected volatile organic compounds (VOCs) in the breath of individuals with trauma histories, many of whom had PTSD, during stress induced by trauma cues. The dogs' detection performance correlated with emotional responses linked to the activation of the sympathetico-adreno-medullary (SAM) axis, which involves adrenaline. This implies that adrenaline-related VOCs are emitted during PTSD-related distress, indicating a biochemical link between adrenaline and PTSD symptoms."
+      }
+    },
+    {
+      "noradrenaline_Post-traumatic_stress_disorder_(PTSD)": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence suggesting a relationship between noradrenaline and PTSD. It describes a study where dogs detected volatile organic compounds (VOCs) in the breath of individuals with trauma histories, including those with PTSD, during stress induced by trauma cues. The dogs' detection performance correlated with self-reported emotional responses linked to the sympathetico-adreno-medullary axis (SAM), which includes noradrenaline. This implies that noradrenaline-related VOCs are emitted during PTSD-related distress, indicating a biochemical connection between noradrenaline and PTSD symptoms."
+      }
+    },
+    {
+      "glucocorticoids_Post-traumatic_stress_disorder_(PTSD)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where dogs detected volatile organic compounds (VOCs) in the breath of individuals with trauma histories, including those with PTSD, during stress induced by trauma cues. The study speculates that some VOCs detected by one dog likely originated from the hypothalamo-pituitary-adrenal (HPA) axis, specifically glucocorticoids, which are stress hormones. This suggests a biochemical link between glucocorticoids and PTSD-related stress responses, indicating a relationship between glucocorticoids and PTSD."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions adrenaline and noradrenaline as compounds related to the sympathetico-adreno-medullary axis (SAM), and glucocorticoids related to the hypothalamo-pituitary-adrenal axis (HPA). These are specific chemical compounds implicated as volatile organic compounds (VOCs) that dogs may detect in the breath of people with trauma histories."
+}

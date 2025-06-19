@@ -1,0 +1,28 @@
+{
+  "id": 5474,
+  "title": "High Efficacy of the Volatile Organic Compounds of Streptomyces yanglinensis 3-10 in Suppression of Aspergillus Contamination on Peanut Kernels",
+  "Abstract": "Aspergillus flavus and Aspergillus parasiticus are saprophytic fungi which can infect and contaminate preharvest and postharvest food/feed with production of aflatoxins (B1, B2, and G). They are also an opportunistic pathogen causing aspergillosis diseases of animals and humans. In this study, the volatile organic compounds (VOCs) from Streptomyces yanglinensis 3-10 were found to be able to inhibit mycelial growth, sporulation, conidial germination, and expression of aflatoxin biosynthesis genes in A. flavus and A. parasiticus in vitro. On peanut kernels, the VOCs can also reduce the disease severity and inhibit the aflatoxins production by A. flavus and A. parasiticus under the storage conditions. Scanning electron microscope (SEM) observation showed that high dosage of the VOCs can inhibit conidial germination and colonization by the two species of Aspergillus on peanut kernels. The VOCs also showed suppression of mycelial growth on 18 other plant pathogenic fungi and one Oomycetes organism. By using SPME-GC-MS, 19 major VOCs were detected, like in other Streptomyces, 2-MIB was found as the main volatile component among the detected VOCs. Three standard chemicals, including methyl 2-methylbutyrate (M2M), 2-phenylethanol (2-PE), and β-caryophyllene (β-CA), showed antifungal activity against A. flavus and A. parasiticus. Among them, M2M showed highest inhibitory effect than other two standard compounds against conidial germination of A. flavus and A. parasiticus. To date, this is the first record about the antifungal activity of M2M against A. flavus and A. parasiticus. The VOCs from S. yanglinensis 3-10 did not affect growth of peanut seedlings. In conclusion, our results indicate that S. yanglinensis 3-10 may has a potential to become a promising biofumigant in for control of A. flavus and A. parasiticus.",
+  "Disease_List": [
+    "aspergillosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'aspergillosis diseases of animals and humans,' which is a specific disease caused by Aspergillus species. Although the abstract discusses fungi and aflatoxin contamination, the only specific disease name mentioned is aspergillosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "aspergillosis"
+  ],
+  "UMLS_search_results": {
+    "aspergillosis": [
+      {
+        "ui": "C0004030",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004030",
+        "name": "Aspergillosis",
+        "mesh_id": "D001228"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

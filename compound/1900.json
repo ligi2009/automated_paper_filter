@@ -1,0 +1,190 @@
+{
+  "id": 1900,
+  "title": "Association between serum cotinine and volatile organic compounds (VOCs) in adults living with HIV, HBV, or HCV (NHANES 2005–2018)",
+  "Abstract": "Although people all know that nicotine in tobacco smoke is the key to cause health damage, they ignore the synergistic effect of a large number of Volatile Organic Compounds (VOCs) produced by incomplete tobacco combustion on nicotine or cotinine metabolism. Our aim is to investigate the association between serum VOCs and cotinine in smokers infected with HIV, HBV or HCV. National Health and Nutrition Examination Survey (NHANES 2005–2018) database, including 13,652 nationally representative subjects’ sociodemographic characteristics and serological indicators, was used in this study. Smokers living with human immunodeficiency virus (HIV), hepatitis B virus (HBV) or hepatitis C virus (HCV) were compared to non-infected population. The correlation between VOCs and cotinine as well as the effects of VOCs on cotinine metabolism were analyzed by Spearman correlation analysis and multivariable logistic regression analysis, respectively. Among HIV, HBV, or HCV infected smokers with the largest exposure dose to tobacco, the intensity of the association between VOCs and cotinine was the strongest. The results of multivariable binary logistic regression showed that high concentrations of 1,2-Dichlorobenzene (OR:1.036, CI:1.009–1.124), Benzene (OR:1.478, CI:1.036–2.292), Carbon Tetrachloride (OR:1.576, CI:1.275–2.085) and 2,5-Dimethylfuran (OR:1.091, CI:1.030–1.157) in blood might be independent risk factors leading to the increase of serum metabolite cotinine in smokers.",
+  "Disease_List": [
+    "HIV",
+    "HBV",
+    "HCV"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: human immunodeficiency virus (HIV), hepatitis B virus (HBV), and hepatitis C virus (HCV). These are well-known specific diseases rather than general health conditions. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "HIV",
+    "HBV",
+    "HCV"
+  ],
+  "UMLS_search_results": {
+    "HIV": [
+      {
+        "ui": "C0019682",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019682",
+        "name": "HIV",
+        "mesh_id": "D006678"
+      },
+      {
+        "ui": "C0019693",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019693",
+        "name": "HIV Infections",
+        "mesh_id": "D015658"
+      },
+      {
+        "ui": "C0086413",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0086413",
+        "name": "HIV Vaccine",
+        "mesh_id": "D016915"
+      }
+    ],
+    "HBV": [
+      {
+        "ui": "C0019169",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019169",
+        "name": "hepatitis B virus",
+        "mesh_id": "D006515"
+      },
+      {
+        "ui": "C0019163",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019163",
+        "name": "Hepatitis B",
+        "mesh_id": "D006509"
+      }
+    ],
+    "HCV": [
+      {
+        "ui": "C0079500",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079500",
+        "name": "Hepatitis C-Like Viruses",
+        "mesh_id": "D016174"
+      },
+      {
+        "ui": "C0220847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220847",
+        "name": "hepatitis C virus",
+        "mesh_id": "D016174"
+      },
+      {
+        "ui": "C0019196",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019196",
+        "name": "Hepatitis C",
+        "mesh_id": "D006526"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nicotine",
+    "cotinine",
+    "1,2-Dichlorobenzene",
+    "Benzene",
+    "Carbon Tetrachloride",
+    "2,5-Dimethylfuran"
+  ],
+  "compound_CID": [
+    {
+      "nicotine": 89594,
+      "cotinine": 854019,
+      "1,2-Dichlorobenzene": 7239,
+      "Benzene": 241,
+      "Carbon Tetrachloride": 5943,
+      "2,5-Dimethylfuran": 12266
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nicotine_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the metabolism of nicotine's metabolite cotinine in smokers infected with HIV, indicating a focus on the interaction between tobacco-related compounds and HIV-infected individuals. It highlights that among HIV-infected smokers, there is a strong association between volatile organic compounds (VOCs) and cotinine levels, suggesting that tobacco smoke components, including nicotine metabolism, are relevant in the context of HIV infection. Although the study does not directly state that nicotine causes or worsens HIV, it provides evidence of a relationship between nicotine metabolism and HIV infection status, implying an interaction or association."
+      },
+      "nicotine_HBV": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between volatile organic compounds (VOCs) and cotinine metabolism in smokers infected with HIV, HBV, or HCV. While it highlights that smokers with these infections have a strong association between VOCs and cotinine levels, it does not provide direct evidence linking nicotine itself to HBV infection or disease progression. The focus is on VOCs affecting cotinine metabolism rather than nicotine causing or influencing HBV. Therefore, there is no clear evidence of a direct relationship between nicotine and HBV based on this abstract."
+      },
+      "nicotine_HCV": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between volatile organic compounds (VOCs) and cotinine metabolism in smokers infected with HIV, HBV, or HCV. While nicotine is mentioned as a key harmful component in tobacco smoke and cotinine is a metabolite of nicotine, the study focuses on the association between VOCs and cotinine levels rather than a direct relationship between nicotine and HCV. There is no clear evidence in the abstract indicating a direct relationship between nicotine itself and HCV infection or disease progression."
+      }
+    },
+    {
+      "cotinine_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the association between serum volatile organic compounds (VOCs) and cotinine levels in smokers infected with HIV, HBV, or HCV compared to non-infected individuals. It specifically notes that among HIV-infected smokers, the association between VOCs and cotinine was strongest, and certain VOCs were identified as independent risk factors for increased serum cotinine levels. This indicates a relationship between cotinine metabolism and HIV infection status in smokers, suggesting that cotinine levels and metabolism are influenced in the context of HIV infection."
+      },
+      "cotinine_HBV": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that among smokers infected with HBV, there is a strong association between volatile organic compounds (VOCs) and cotinine levels. Specifically, the study found that high concentrations of certain VOCs are independent risk factors leading to increased serum cotinine levels in smokers, including those infected with HBV. This suggests a relationship between cotinine metabolism and HBV infection in the context of tobacco smoke exposure."
+      },
+      "cotinine_HCV": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the association between serum volatile organic compounds (VOCs) and cotinine levels in smokers infected with HIV, HBV, or HCV. It reports that among smokers infected with these viruses, including HCV, there is a strong association between VOCs and cotinine levels. Furthermore, certain VOCs are identified as independent risk factors for increased serum cotinine levels in smokers. This indicates a relationship between cotinine metabolism and HCV infection status in smokers, suggesting that cotinine levels are influenced in the context of HCV infection."
+      }
+    },
+    {
+      "1,2-Dichlorobenzene_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, there is a strong association between volatile organic compounds (VOCs) and cotinine levels. Specifically, high concentrations of 1,2-Dichlorobenzene in blood are identified as an independent risk factor associated with increased serum cotinine levels in smokers. Since the study focuses on smokers living with HIV and finds a significant relationship involving 1,2-Dichlorobenzene, this indicates a relationship between the compound and the disease context of HIV infection."
+      },
+      "1,2-Dichlorobenzene_HBV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HBV, there is a strong association between volatile organic compounds (VOCs) and cotinine levels. Specifically, multivariable logistic regression analysis identified high concentrations of 1,2-Dichlorobenzene in blood as an independent risk factor associated with increased serum cotinine levels in smokers. Since the study population includes HBV-infected smokers and the compound 1,2-Dichlorobenzene is linked to changes in cotinine metabolism in this group, there is evidence of a relationship between 1,2-Dichlorobenzene exposure and HBV-infected individuals."
+      },
+      "1,2-Dichlorobenzene_HCV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, HBV, or HCV, high concentrations of 1,2-Dichlorobenzene in blood are associated with an increase in serum cotinine levels, with an odds ratio of 1.036 (CI: 1.009–1.124). This suggests that 1,2-Dichlorobenzene may act as an independent risk factor influencing cotinine metabolism in smokers infected with HCV, indicating a relationship between the compound and the disease context."
+      }
+    },
+    {
+      "Benzene_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, there is a strong association between exposure to volatile organic compounds (VOCs), including Benzene, and increased serum cotinine levels. Specifically, multivariable logistic regression analysis identified high blood concentrations of Benzene as an independent risk factor associated with increased cotinine metabolism in smokers living with HIV. This indicates a relationship between Benzene exposure and HIV-infected individuals in the context of tobacco smoke metabolism, suggesting Benzene's relevance to the disease state or its metabolic environment."
+      },
+      "Benzene_HBV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HBV, there is a strong association between volatile organic compounds (VOCs) including Benzene and serum cotinine levels. Specifically, multivariable logistic regression analysis showed that high concentrations of Benzene in blood might be an independent risk factor leading to increased serum cotinine in smokers. This suggests a relationship between Benzene exposure and metabolic changes in HBV-infected individuals, indicating evidence of a relationship between Benzene and HBV in the context of smokers."
+      },
+      "Benzene_HCV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, HBV, or HCV, there is a strong association between volatile organic compounds (VOCs) including Benzene and serum cotinine levels. Specifically, multivariable logistic regression analysis showed that high concentrations of Benzene in blood might be an independent risk factor leading to increased serum cotinine in smokers infected with these viruses, including HCV. This indicates a relationship between Benzene exposure and the disease context of HCV infection."
+      }
+    },
+    {
+      "Carbon Tetrachloride_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, high concentrations of Carbon Tetrachloride in blood might be an independent risk factor leading to increased serum metabolite cotinine. This indicates a significant association between Carbon Tetrachloride exposure and metabolic changes in smokers living with HIV, suggesting a relationship between the compound and the disease context."
+      },
+      "Carbon Tetrachloride_HBV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HBV, high concentrations of Carbon Tetrachloride in blood are associated with an increased level of serum cotinine, a metabolite of nicotine. The multivariable logistic regression analysis showed that Carbon Tetrachloride (OR:1.576, CI:1.275–2.085) might be an independent risk factor influencing cotinine metabolism in these individuals. This indicates a relationship between Carbon Tetrachloride exposure and metabolic changes in smokers with HBV, suggesting a link between the compound and the disease context."
+      },
+      "Carbon Tetrachloride_HCV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, HBV, or HCV, high concentrations of Carbon Tetrachloride in blood are associated with an increased level of serum cotinine, a metabolite of nicotine. Specifically, multivariable logistic regression analysis showed that Carbon Tetrachloride (OR:1.576, CI:1.275–2.085) might be an independent risk factor influencing cotinine metabolism in these infected smokers. Since the study includes HCV-infected smokers and identifies Carbon Tetrachloride as a risk factor affecting cotinine metabolism in this group, there is evidence of a relationship between Carbon Tetrachloride and HCV in the context of tobacco exposure and metabolism."
+      }
+    },
+    {
+      "2,5-Dimethylfuran_HIV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, there is a strong association between volatile organic compounds (VOCs) and cotinine metabolism. Specifically, 2,5-Dimethylfuran is identified with an odds ratio (OR:1.091, CI:1.030–1.157) as an independent risk factor associated with increased serum cotinine levels in smokers. Since the study focuses on smokers infected with HIV and highlights 2,5-Dimethylfuran's role in this population, it indicates a relationship between 2,5-Dimethylfuran exposure and HIV-infected individuals in the context of cotinine metabolism."
+      },
+      "2,5-Dimethylfuran_HBV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, HBV, or HCV, there is a strong association between volatile organic compounds (VOCs) and cotinine levels. Specifically, multivariable logistic regression analysis identified high blood concentrations of 2,5-Dimethylfuran as an independent risk factor associated with increased serum cotinine levels in smokers. Since the study includes HBV-infected smokers and highlights 2,5-Dimethylfuran's role in this population, there is evidence of a relationship between 2,5-Dimethylfuran exposure and HBV in the context of smoking and cotinine metabolism."
+      },
+      "2,5-Dimethylfuran_HCV": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among smokers infected with HIV, HBV, or HCV, high concentrations of 2,5-Dimethylfuran in blood are associated with an increase in serum cotinine levels, which is a metabolite of nicotine. The multivariable logistic regression analysis showed that 2,5-Dimethylfuran (OR:1.091, CI:1.030–1.157) might be an independent risk factor influencing cotinine metabolism in these infected smokers, including those with HCV. This indicates a relationship between 2,5-Dimethylfuran exposure and metabolic changes in smokers with HCV."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions nicotine and cotinine as key metabolites related to tobacco smoke exposure. Additionally, it identifies specific volatile organic compounds including 1,2-Dichlorobenzene, Benzene, Carbon Tetrachloride, and 2,5-Dimethylfuran as chemicals found in blood that may influence cotinine metabolism in smokers."
+}

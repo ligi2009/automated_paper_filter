@@ -1,0 +1,42 @@
+{
+  "id": 721,
+  "title": "Chemical Tomography of Cancer Organoids and Cyto‐Proteo‐Genomic Development Stages Through Chemical Communication Signals",
+  "Abstract": "Organoids mimic human organ function, offering insights into development and disease. However, non‐destructive, real‐time monitoring is lacking, as traditional methods are often costly, destructive, and low‐throughput. In this article, a non‐destructive chemical tomographic strategy is presented for decoding cyto‐proteo‐genomics of organoid using volatile signaling molecules, hereby, Volatile Organic Compounds (VOCs), to indicate metabolic activity and development of organoids. Combining a hierarchical design of graphene‐based sensor arrays with AI‐driven analysis, this method maps VOC spatiotemporal distribution and generate detailed digital profiles of organoid morphology and proteo‐genomic features. Lens‐ and label‐free, it avoids phototoxicity, distortion, and environmental disruption. Results from testing organoids with the reported chemical tomography approach demonstrate effective differentiation between cyto‐proteo‐genomic profiles of normal and diseased states, particularly during dynamic transitions such as epithelial‐mesenchymal transition (EMT). Additionally, the reported approach identifies key VOC‐related biochemical pathways, metabolic markers, and pathways associated with cancerous transformations such as aromatic acid degradation and lipid metabolism. This real‐time, non‐destructive approach captures subtle genetic and structural variations with high sensitivity and specificity, providing a robust platform for multi‐omics integration and advancing cancer biomarker discovery.",
+  "Disease_List": [
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancerous transformations' and 'cancer biomarker discovery,' which are specific references to the disease cancer. Although other terms like 'diseased states' and 'epithelial-mesenchymal transition (EMT)' are mentioned, they are general or process-related and not specific disease names. Therefore, the presence of 'cancer' justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,53 @@
+{
+  "id": 5112,
+  "title": "Adverse effects of electronic cigarettes on the disease-naive oral microbiome",
+  "Abstract": "E-cigarettes increase risk for oral diseases by shifting health-compatible ecosystems to virulence-rich communities. Six percent of Americans, including 3 million high schoolers, use e-cigarettes, which contain potentially toxic substances, volatile organic compounds, and metals. We present the first human study on the effects of e-cigarette exposure in the oral cavity. By interrogating both immunoinflammatory responses and microbial functional dynamics, we discovered pathogen overrepresentation, higher virulence signatures, and a brisk proinflammatory signal in clinically healthy e-cigarette users, equivalent to patients with severe periodontitis. Using RNA sequencing and confocal and electron microscopy to validate these findings, we demonstrate that the carbon-rich glycol/glycerol vehicle is an important catalyst in transforming biofilm architecture within 24 hours of exposure. Last, a machine-learning classifier trained on the metagenomic signatures of e-cigarettes identified as e-cigarette users both those individuals who used e-cigarettes to quit smoking, and those who use both e-cigarettes and cigarettes. The present study questions the safety of e-cigarettes and the harm reduction narrative promoted by advertising campaigns.",
+  "Disease_List": [
+    "periodontitis"
+  ],
+  "Reason": "The abstract explicitly mentions 'severe periodontitis' as a specific disease when comparing the proinflammatory signal in e-cigarette users to patients with this condition. Although it discusses 'oral diseases' generally, 'periodontitis' is the only specific disease name mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "periodontitis"
+  ],
+  "UMLS_search_results": {
+    "periodontitis": [
+      {
+        "ui": "C0031099",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031099",
+        "name": "Periodontitis",
+        "mesh_id": "D010518"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "glycol",
+    "glycerol"
+  ],
+  "compound_CID": [
+    {
+      "glycol": 174,
+      "glycerol": 753
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "glycol_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that e-cigarette use, which involves exposure to a carbon-rich glycol/glycerol vehicle, leads to changes in the oral biofilm architecture and a proinflammatory response similar to that seen in severe periodontitis. Specifically, the glycol component is identified as an important catalyst in transforming biofilm within 24 hours of exposure, contributing to pathogen overrepresentation and higher virulence signatures. These findings suggest a direct relationship between glycol exposure and the development or exacerbation of periodontitis."
+      }
+    },
+    {
+      "glycerol_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that the carbon-rich glycol/glycerol vehicle in e-cigarettes acts as an important catalyst in transforming biofilm architecture within 24 hours of exposure. This transformation is associated with pathogen overrepresentation, higher virulence signatures, and a proinflammatory response in the oral cavity, which are comparable to those observed in patients with severe periodontitis. Therefore, there is evidence suggesting that glycerol contributes to changes in the oral environment that are linked to periodontitis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'glycol' and 'glycerol' as chemical compounds forming the carbon-rich vehicle in e-cigarettes, which play a role in transforming biofilm architecture. No other specific chemical compound names are identified."
+}

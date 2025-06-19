@@ -1,0 +1,39 @@
+{
+  "id": 6085,
+  "title": "A review on electronic nose for diagnosis and monitoring treatment response in lung cancer",
+  "Abstract": "Lung cancer is one of the common malignancies with high mortality rate and a poor prognosis. Most lung cancer cases are diagnosed at an advanced stage either due to limited resources of infrastructure, trained human resources, or delay in clinical suspicion. Low-dose computed tomography has emerged as a screening tool for lung cancer detection but this may not be a feasible option for most developing countries. Electronic nose is a unique non-invasive device that has been developed for lung cancer diagnosis and monitoring response by exhaled breath analysis of volatile organic compounds. The breath-print have been shown to differ not only among lung cancer and other respiratory diseases, but also between various types of lung cancer. Hence, we postulate that the breath-print analysis by electronic nose could be a potential biomarker for the early detection of lung cancer along with monitoring treatment response in a resource-limited setting. In this review, we have consolidated the current published literature suggesting the use of an electronic nose in the diagnosis and monitoring treatment response of lung cancer.",
+  "Disease_List": [
+    "Lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as a specific disease. It discusses lung cancer diagnosis, screening, and monitoring, which clearly identifies it as a specific disease name rather than a general term.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds in general but does not mention any specific chemical compound names."
+}

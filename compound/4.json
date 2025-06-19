@@ -1,0 +1,180 @@
+{
+  "id": 4,
+  "title": "Atmospheric Pollution Interventions in the Environment: Effects on Biotic and Abiotic Factors, Their Monitoring and Control",
+  "Abstract": "Atmosphere is polluted for all living, non-living entities. Concentrations of atmospheric pollutants like PM2.5, PM10, CO, CO2, NO, NO2, and volatile organic compounds (VOC) are increasing abruptly due to anthropogenic activities (fossil fuels combustion, industrial activities, and power generation etc.). These pollutants are causing soil (microbial diversity disturbance, soil structure), plants (germination, growth, and biochemistry), and human health (asthma, liver, and lungs disorders to cancers) interventions. All the effects of these pollutants on soil, plants, animals, and microbes needed to be discussed briefly. Different strategies and technologies (HOPES, IOT, TEMPO and TNGAPMS) are used in the world to reduce the pollutant emission at source or when in the atmosphere and also discussed here. All gaseous emissions control mechanisms for major exhaust gases from toxic to less toxic form or environmental friendly form are major concern. Heavy metals present in dust and volatile organic compounds are converted into less toxic forms and their techniques are discussed briefly.",
+  "Disease_List": [
+    "asthma",
+    "liver disorders",
+    "lungs disorders",
+    "cancers"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to human health effects caused by atmospheric pollutants, including 'asthma', 'liver disorders', 'lungs disorders', and 'cancers'. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "liver disorders",
+    "cancers"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "liver disorders": [
+      {
+        "ui": "C0023895",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023895",
+        "name": "Liver diseases",
+        "mesh_id": "D008107"
+      }
+    ],
+    "lungs disorders": [],
+    "cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "PM2.5",
+    "PM10",
+    "CO",
+    "CO2",
+    "NO",
+    "NO2",
+    "volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "PM2.5": "None",
+      "PM10": "None",
+      "CO": 104730,
+      "CO2": 280,
+      "NO": 24822,
+      "NO2": "None",
+      "volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "PM2.5_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM2.5 are increasing due to anthropogenic activities and that these pollutants are causing human health issues such as asthma. This indicates a clear relationship between PM2.5 exposure and asthma as a health outcome."
+      },
+      "PM2.5_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM2.5 are causing human health issues such as liver disorders. This indicates a direct relationship between exposure to PM2.5 and liver disorders as part of the health interventions caused by these pollutants."
+      },
+      "PM2.5_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM2.5 are causing human health interventions ranging from asthma and liver and lung disorders to cancers. This indicates a clear relationship between PM2.5 exposure and the occurrence of cancers as part of the health effects caused by these pollutants."
+      }
+    },
+    {
+      "PM10_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM10 are increasing due to anthropogenic activities and that these pollutants are causing human health issues such as asthma. This indicates a clear relationship between PM10 exposure and asthma as part of the health interventions caused by air pollution."
+      },
+      "PM10_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM10 are causing human health issues such as liver disorders. This indicates a relationship between PM10 exposure and liver disorders as part of the broader health impacts of air pollution."
+      },
+      "PM10_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including PM10 are increasing due to anthropogenic activities and that these pollutants cause health interventions in humans ranging from asthma and liver and lung disorders to cancers. This indicates a clear relationship between PM10 exposure and the occurrence of cancers as part of the health effects caused by these pollutants."
+      }
+    },
+    {
+      "CO_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including CO (carbon monoxide) are increasing due to anthropogenic activities and that these pollutants are causing human health issues such as asthma. This indicates a relationship between CO exposure and asthma as part of the broader impact of air pollution on respiratory health."
+      },
+      "CO_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including CO (carbon monoxide) are increasing due to anthropogenic activities and are causing health interventions including liver disorders. This indicates a recognized relationship between CO exposure and liver disorders as part of the broader health impacts of air pollution."
+      },
+      "CO_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including CO (carbon monoxide) are increasing due to anthropogenic activities and that these pollutants are causing various human health issues, including cancers. This indicates a recognized relationship between CO exposure and cancer development as part of the broader impact of air pollution on human health."
+      }
+    },
+    {
+      "CO2_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that atmospheric pollutants including CO2 are increasing due to anthropogenic activities and that these pollutants are causing health interventions in humans, specifically mentioning asthma among other disorders. Although the abstract does not detail the exact mechanism or strength of the relationship, it clearly associates CO2 as one of the pollutants contributing to asthma, implying a relationship between CO2 exposure and asthma."
+      },
+      "CO2_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that atmospheric pollutants including CO2 are increasing due to anthropogenic activities and that these pollutants are causing health interventions including liver disorders. Although the abstract does not provide detailed mechanistic evidence specifically linking CO2 to liver disorders, it groups CO2 among pollutants associated with adverse health effects including liver disorders, indicating a recognized relationship."
+      },
+      "CO2_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that atmospheric pollutants including CO2 are increasing due to anthropogenic activities and that these pollutants cause various health issues in humans, ranging from asthma and liver and lung disorders to cancers. Although the abstract does not specify the exact mechanism or direct causation between CO2 and cancers, it groups CO2 with other pollutants that are linked to cancer, indicating an implied relationship between CO2 exposure and cancer risk."
+      }
+    },
+    {
+      "NO_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO are increasing due to anthropogenic activities and that these pollutants are causing human health issues such as asthma. This indicates a relationship between NO exposure and asthma as part of the broader impact of air pollution on respiratory health."
+      },
+      "NO_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO are increasing due to anthropogenic activities and that these pollutants are causing human health issues including liver disorders. This indicates a relationship between NO exposure and liver disorders as part of the broader impact of air pollution on human health."
+      },
+      "NO_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO are increasing due to anthropogenic activities and that these pollutants are causing human health issues ranging from asthma and liver and lung disorders to cancers. This indicates a recognized relationship between NO as a pollutant and the occurrence of cancers."
+      }
+    },
+    {
+      "NO2_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO2 are increasing due to anthropogenic activities and that these pollutants are causing human health issues such as asthma. This indicates a clear relationship between NO2 exposure and asthma as a health outcome."
+      },
+      "NO2_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO2 are increasing due to anthropogenic activities and that these pollutants are causing health interventions including liver disorders in humans. Therefore, there is evidence in the abstract indicating a relationship between NO2 exposure and liver disorders."
+      },
+      "NO2_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that atmospheric pollutants including NO2 are increasing due to anthropogenic activities and that these pollutants cause health interventions in humans, ranging from asthma and liver and lung disorders to cancers. This indicates a clear relationship between NO2 exposure and the occurrence of cancers as part of the health effects caused by these pollutants."
+      }
+    },
+    {
+      "volatile organic compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that volatile organic compounds (VOCs), as part of atmospheric pollutants, are increasing due to anthropogenic activities and are causing health interventions including asthma. This indicates a clear relationship between exposure to VOCs and the occurrence or exacerbation of asthma."
+      },
+      "volatile organic compounds_liver_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that volatile organic compounds (VOCs), as part of atmospheric pollutants, are associated with human health effects including liver disorders. This indicates a recognized relationship between exposure to VOCs and liver-related health issues."
+      },
+      "volatile organic compounds_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that volatile organic compounds (VOCs), as atmospheric pollutants, contribute to human health issues including cancers. It states that these pollutants, resulting from anthropogenic activities, cause interventions in human health ranging from asthma and liver and lung disorders to cancers, indicating a clear relationship between VOC exposure and cancer development."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific atmospheric pollutants by their chemical names or well-known abbreviations: particulate matter sizes PM2.5 and PM10, carbon monoxide (CO), carbon dioxide (CO2), nitric oxide (NO), nitrogen dioxide (NO2), and volatile organic compounds (VOC). These are specific chemical substances relevant to air pollution and are explicitly named in the text."
+}

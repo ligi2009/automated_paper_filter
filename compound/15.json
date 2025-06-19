@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "title": "A Clinical Breathomics Dataset",
+  "Abstract": "This study entailed a comprehensive GC‒MS analysis conducted on 121 patient samples to generate a clinical breathomics dataset. Breath molecules, indicative of diverse conditions such as psychological and pathological states and the microbiome, were of particular interest due to their non-invasive nature. The highlighted noninvasive approach for detecting these breath molecules significantly enhances diagnostic and monitoring capacities. This dataset cataloged volatile organic compounds (VOCs) from the breath of individuals with asthma, bronchiectasis, and chronic obstructive pulmonary disease. Uniform and consistent sample collection protocols were strictly adhered to during the accumulation of this extensive dataset, ensuring its reliability. It encapsulates extensive human clinical breath molecule data pertinent to three specific diseases. This consequential clinical breathomics dataset is a crucial resource for researchers and clinicians in identifying and exploring important compounds within the patient’s breath, thereby augmenting future diagnostic and therapeutic initiatives.",
+  "Disease_List": [
+    "asthma",
+    "bronchiectasis",
+    "chronic obstructive pulmonary disease"
+  ],
+  "Reason": "The abstract explicitly mentions three specific diseases: asthma, bronchiectasis, and chronic obstructive pulmonary disease. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "bronchiectasis",
+    "chronic obstructive pulmonary disease"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "bronchiectasis": [
+      {
+        "ui": "C0006267",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006267",
+        "name": "Bronchiectasis",
+        "mesh_id": "D001987"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names."
+}

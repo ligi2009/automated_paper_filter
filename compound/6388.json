@@ -1,0 +1,141 @@
+{
+  "id": 6388,
+  "title": "VOC breath profile in spontaneously breathing awake swine during Influenza A infection",
+  "Abstract": "Influenza is one of the most common causes of virus diseases worldwide. Virus detection requires determination of Influenza RNA in the upper respiratory tract. Efficient screening is not possible in this way. Analysis of volatile organic compounds (VOCs) in breath holds promise for non-invasive and fast monitoring of disease progression. Breath VOC profiles of 14 (3 controls and 11 infected animals) swine were repeatedly analyzed during a complete infection cycle of Influenza A under high safety conditions. Breath VOCs were pre-concentrated by means of needle trap micro-extraction and analysed by gas chromatography mass spectrometry before infection, during virus presence in the nasal cavity, and after recovery. Six VOCs could be related to disease progression: acetaldehyde, propanal, n-propyl acetate, methyl methacrylate, styrene and 1,1-dipropoxypropane. As early as on day four after inoculation, when animals were tested positive for Influenza A, differentiation between control and infected animals was possible. VOC based information on virus infection could enable early detection of Influenza A. As VOC analysis is completely non-invasive it has potential for large scale screening purposes. In a perspective, breath analysis may offer a novel tool for Influenza monitoring in human medicine, animal health control or border protection.",
+  "Disease_List": [
+    "Influenza",
+    "Influenza A"
+  ],
+  "Reason": "The abstract explicitly mentions 'Influenza' and 'Influenza A' as specific diseases caused by viruses. These are named diseases rather than general terms like 'disease' or 'illness'. The study focuses on detecting Influenza A virus infection in swine, highlighting these specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Influenza",
+    "Influenza A"
+  ],
+  "UMLS_search_results": {
+    "Influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ],
+    "Influenza A": [
+      {
+        "ui": "C2062441",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2062441",
+        "name": "influenza A",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0879696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0879696",
+        "name": "Influenza virus A Ab:PrThr:Pt:Ser:Ord",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0016627",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0016627",
+        "name": "Influenza in Birds",
+        "mesh_id": "D005585"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetaldehyde",
+    "propanal",
+    "n-propyl acetate",
+    "methyl methacrylate",
+    "styrene",
+    "1,1-dipropoxypropane"
+  ],
+  "compound_CID": [
+    {
+      "acetaldehyde": 177,
+      "propanal": 527,
+      "n-propyl acetate": 7997,
+      "methyl methacrylate": 6658,
+      "styrene": 7501,
+      "1,1-dipropoxypropane": 521219
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetaldehyde_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetaldehyde is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. The study found that acetaldehyde levels could differentiate between infected and control animals as early as day four after inoculation, when the animals tested positive for Influenza A. This suggests a clear relationship between acetaldehyde presence in breath and Influenza infection, supporting its potential use as a non-invasive biomarker for early detection and monitoring of the disease."
+      },
+      "acetaldehyde_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between acetaldehyde and Influenza A by identifying acetaldehyde as one of six volatile organic compounds (VOCs) related to disease progression in swine infected with Influenza A. Breath VOC profiles, including acetaldehyde levels, were analyzed before infection, during virus presence, and after recovery, showing that acetaldehyde levels could differentiate between infected and control animals as early as day four after inoculation. This indicates that acetaldehyde is associated with the presence and progression of Influenza A infection."
+      }
+    },
+    {
+      "propanal_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study analyzing volatile organic compounds (VOCs) in the breath of swine infected with Influenza A. Among the six VOCs related to disease progression, propanal is specifically mentioned. The presence and changes in propanal levels in breath were associated with the infection status, allowing differentiation between infected and control animals as early as day four after inoculation. This indicates a clear relationship between propanal and Influenza infection, suggesting that propanal can serve as a biomarker for monitoring Influenza progression."
+      },
+      "propanal_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract reports that propanal is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. The study demonstrated that breath VOC profiles, including propanal, could differentiate between infected and control animals as early as day four after inoculation, indicating a clear association between propanal presence and Influenza A infection. This suggests that propanal is linked to the disease state and may serve as a non-invasive biomarker for monitoring Influenza A."
+      }
+    },
+    {
+      "n-propyl acetate_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract reports that n-propyl acetate is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. The study demonstrated that breath VOC profiles, including n-propyl acetate, could differentiate between infected and control animals as early as day four after inoculation, indicating a clear association between n-propyl acetate presence and Influenza infection status. This suggests that n-propyl acetate is linked to the disease process and could serve as a non-invasive biomarker for Influenza monitoring."
+      },
+      "n-propyl acetate_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study analyzing volatile organic compounds (VOCs) in the breath of swine infected with Influenza A. Among the six VOCs identified as related to disease progression is n-propyl acetate. The presence and changes in n-propyl acetate levels in breath samples correlated with the infection status, allowing differentiation between infected and control animals as early as day four after inoculation. This indicates a clear relationship between n-propyl acetate and Influenza A infection, suggesting its potential use as a non-invasive biomarker for early detection and monitoring of the disease."
+      }
+    },
+    {
+      "methyl methacrylate_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methyl methacrylate is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. The study found that breath VOC profiles, including methyl methacrylate, could differentiate infected animals from controls as early as day four after inoculation, indicating a clear association between methyl methacrylate presence and Influenza infection status. Therefore, there is evidence of a relationship between methyl methacrylate and Influenza based on its role as a biomarker in breath analysis during the disease course."
+      },
+      "methyl methacrylate_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methyl methacrylate is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. The study found that breath VOC profiles, including methyl methacrylate, changed during the infection cycle, allowing differentiation between infected and control animals as early as day four after inoculation. This indicates a clear relationship between methyl methacrylate presence in breath and Influenza A infection, suggesting its potential use as a non-invasive biomarker for disease monitoring."
+      }
+    },
+    {
+      "styrene_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract reports that styrene is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. Styrene was detected and analyzed during the infection cycle, and its presence helped differentiate between infected and control animals as early as day four after inoculation. This indicates a clear relationship between styrene and Influenza, as styrene levels in breath correlate with disease presence and progression."
+      },
+      "styrene_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract reports that styrene is one of six volatile organic compounds (VOCs) whose levels in breath were related to the progression of Influenza A infection in swine. Styrene was detected and associated with disease progression during the infection cycle, indicating a measurable relationship between styrene presence in breath and Influenza A infection status. This suggests that styrene can serve as a biomarker for Influenza A, supporting a clear relationship between the compound styrene and the disease Influenza A."
+      }
+    },
+    {
+      "1,1-dipropoxypropane_Influenza": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study analyzing volatile organic compounds (VOCs) in the breath of swine infected with Influenza A. Among the six VOCs identified as related to disease progression is 1,1-dipropoxypropane. The presence and changes in this compound's levels in breath samples correlated with infection status, allowing differentiation between infected and control animals as early as day four after inoculation. This indicates a clear relationship between 1,1-dipropoxypropane and Influenza infection, suggesting its potential as a non-invasive biomarker for monitoring the disease."
+      },
+      "1,1-dipropoxypropane_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1,1-dipropoxypropane is one of six volatile organic compounds (VOCs) whose presence in breath correlates with the progression of Influenza A infection in swine. The compound was detected during the infection cycle and allowed differentiation between infected and control animals as early as day four after inoculation, indicating a clear relationship between 1,1-dipropoxypropane levels and Influenza A infection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions six volatile organic compounds (VOCs) related to disease progression in Influenza A infection: acetaldehyde, propanal, n-propyl acetate, methyl methacrylate, styrene, and 1,1-dipropoxypropane. These are distinct chemical compound names identified in the breath analysis."
+}

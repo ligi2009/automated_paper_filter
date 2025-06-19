@@ -1,0 +1,238 @@
+{
+  "id": 583,
+  "title": "Air pollution exposure—the (in)visible risk factor for respiratory diseases",
+  "Abstract": "There is increasing interest in understanding the role of air pollution as one of the greatest threats to human health worldwide. Nine of 10 individuals breathe air with polluted compounds that have a great impact on lung tissue. The nature of the relationship is complex, and new or updated data are constantly being reported in the literature. The goal of our review was to summarize the most important air pollutants and their impact on the main respiratory diseases (chronic obstructive pulmonary disease, asthma, lung cancer, idiopathic pulmonary fibrosis, respiratory infections, bronchiectasis, tuberculosis) to reduce both short- and the long-term exposure consequences. We considered the most important air pollutants, including sulfur dioxide, nitrogen dioxide, carbon monoxide, volatile organic compounds, ozone, particulate matter and biomass smoke, and observed their impact on pulmonary pathologies. We focused on respiratory pathologies, because air pollution potentiates the increase in respiratory diseases, and the evidence that air pollutants have a detrimental effect is growing. It is imperative to constantly improve policy initiatives on air quality in both high- and low-income countries.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease",
+    "asthma",
+    "lung cancer",
+    "idiopathic pulmonary fibrosis",
+    "respiratory infections",
+    "bronchiectasis",
+    "tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions several specific respiratory diseases by name, including chronic obstructive pulmonary disease, asthma, lung cancer, idiopathic pulmonary fibrosis, respiratory infections, bronchiectasis, and tuberculosis. These are all specific disease names rather than general terms, so the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease",
+    "asthma",
+    "lung cancer",
+    "idiopathic pulmonary fibrosis",
+    "respiratory infections",
+    "bronchiectasis",
+    "tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "idiopathic pulmonary fibrosis": [
+      {
+        "ui": "C1800706",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1800706",
+        "name": "Idiopathic Pulmonary Fibrosis",
+        "mesh_id": "D054990"
+      }
+    ],
+    "respiratory infections": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "bronchiectasis": [
+      {
+        "ui": "C0006267",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006267",
+        "name": "Bronchiectasis",
+        "mesh_id": "D001987"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "sulfur dioxide",
+    "nitrogen dioxide",
+    "carbon monoxide",
+    "ozone"
+  ],
+  "compound_CID": [
+    {
+      "sulfur dioxide": 1119,
+      "nitrogen dioxide": 3032552,
+      "carbon monoxide": 281,
+      "ozone": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "sulfur dioxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of major air pollutants, including sulfur dioxide, on respiratory diseases such as chronic obstructive pulmonary disease (COPD). It highlights that air pollution, with sulfur dioxide as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases including COPD. Therefore, there is evidence of a relationship between sulfur dioxide exposure and COPD."
+      },
+      "sulfur dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on major respiratory diseases such as asthma. It highlights that air pollution, with sulfur dioxide as one of the key pollutants, has a detrimental effect on respiratory pathologies and potentiates the increase in respiratory diseases including asthma. Therefore, there is evidence of a relationship between sulfur dioxide exposure and asthma."
+      },
+      "sulfur dioxide_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on multiple respiratory diseases such as lung cancer. However, it does not provide specific evidence or detailed data directly linking sulfur dioxide to lung cancer. The relationship is described as complex and evolving, with general acknowledgment that air pollutants negatively affect respiratory health, but no clear or direct evidence of sulfur dioxide causing lung cancer is presented in this abstract."
+      },
+      "sulfur dioxide_idiopathic_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on multiple respiratory diseases, explicitly listing idiopathic pulmonary fibrosis among the diseases affected. It highlights that air pollution, which includes sulfur dioxide, has a detrimental effect on lung tissue and respiratory pathologies, suggesting a relationship between sulfur dioxide exposure and idiopathic pulmonary fibrosis."
+      },
+      "sulfur dioxide_respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on multiple respiratory diseases, explicitly listing respiratory infections among them. It highlights that air pollution, with sulfur dioxide as one of the key pollutants, potentiates the increase in respiratory diseases and that evidence of detrimental effects on respiratory pathologies is growing. Therefore, there is evidence of a relationship between sulfur dioxide exposure and respiratory infections."
+      },
+      "sulfur dioxide_bronchiectasis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on multiple respiratory diseases, explicitly listing bronchiectasis among them. It highlights that air pollution, with sulfur dioxide as a key pollutant, has a detrimental effect on respiratory pathologies and contributes to the increase in respiratory diseases. Therefore, there is evidence of a relationship between sulfur dioxide exposure and bronchiectasis."
+      },
+      "sulfur dioxide_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including sulfur dioxide, on multiple respiratory diseases, explicitly listing tuberculosis among them. It indicates that air pollution, with sulfur dioxide as one of the key pollutants, has a detrimental effect on respiratory diseases and potentiates their increase. Therefore, there is evidence of a relationship between sulfur dioxide exposure and tuberculosis as part of the broader impact of air pollution on respiratory health."
+      }
+    },
+    {
+      "nitrogen dioxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on major respiratory diseases such as chronic obstructive pulmonary disease (COPD). It highlights that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases including COPD. Therefore, there is evidence of a relationship between nitrogen dioxide exposure and chronic obstructive pulmonary disease."
+      },
+      "nitrogen dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on major respiratory diseases such as asthma. It highlights that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases including asthma. Therefore, there is evidence of a relationship between nitrogen dioxide exposure and asthma."
+      },
+      "nitrogen dioxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on respiratory diseases such as lung cancer. It highlights that air pollution, which includes nitrogen dioxide, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases, including lung cancer. Although the relationship is described as complex, the evidence of nitrogen dioxide's impact on lung cancer is implied by its inclusion among key pollutants affecting pulmonary pathologies."
+      },
+      "nitrogen dioxide_idiopathic_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on multiple respiratory diseases, explicitly listing idiopathic pulmonary fibrosis among them. It highlights that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on lung tissue and respiratory pathologies, suggesting a relationship between nitrogen dioxide exposure and idiopathic pulmonary fibrosis."
+      },
+      "nitrogen dioxide_respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on respiratory diseases such as respiratory infections. It highlights that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases. Therefore, there is evidence of a relationship between nitrogen dioxide exposure and respiratory infections."
+      },
+      "nitrogen dioxide_bronchiectasis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on multiple respiratory diseases, explicitly listing bronchiectasis among them. It highlights that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on respiratory pathologies, including bronchiectasis. Therefore, there is evidence of a relationship between nitrogen dioxide exposure and bronchiectasis based on the abstract."
+      },
+      "nitrogen dioxide_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including nitrogen dioxide, on multiple respiratory diseases, explicitly listing tuberculosis among them. It indicates that air pollution, with nitrogen dioxide as one of the key pollutants, has a detrimental effect on respiratory pathologies, including tuberculosis. Therefore, there is evidence of a relationship between nitrogen dioxide exposure and tuberculosis as part of the broader impact of air pollution on respiratory diseases."
+      }
+    },
+    {
+      "carbon monoxide_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on major respiratory diseases such as chronic obstructive pulmonary disease (COPD). It highlights that air pollution, which includes carbon monoxide, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases like COPD. Therefore, there is evidence of a relationship between carbon monoxide exposure and COPD as part of the broader impact of air pollution on respiratory health."
+      },
+      "carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on major respiratory diseases such as asthma. It highlights that air pollution, which includes carbon monoxide, potentiates the increase in respiratory diseases and has a detrimental effect on lung tissue. Therefore, there is evidence of a relationship between carbon monoxide exposure and asthma as part of the broader impact of air pollution on respiratory health."
+      },
+      "carbon monoxide_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on respiratory diseases such as lung cancer. However, it does not provide specific evidence or detailed data directly linking carbon monoxide to lung cancer. The relationship is described as complex and evolving, but no clear or direct association between carbon monoxide exposure and lung cancer is established in the abstract."
+      },
+      "carbon monoxide_idiopathic_pulmonary_fibrosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on multiple respiratory diseases such as idiopathic pulmonary fibrosis (IPF). However, it does not provide specific evidence or detailed data linking carbon monoxide directly to the development or exacerbation of IPF. The relationship is mentioned in a general context of air pollution affecting respiratory diseases, but no clear or direct association between carbon monoxide and idiopathic pulmonary fibrosis is established in the abstract."
+      },
+      "carbon monoxide_respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on respiratory diseases such as respiratory infections. It highlights that air pollution, which includes carbon monoxide, potentiates the increase in respiratory diseases and has a detrimental effect on pulmonary pathologies. Therefore, there is evidence of a relationship between carbon monoxide exposure and respiratory infections."
+      },
+      "carbon monoxide_bronchiectasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on multiple respiratory diseases such as bronchiectasis. However, it does not provide specific evidence or detailed information establishing a direct relationship between carbon monoxide exposure and bronchiectasis. The mention is general, indicating that air pollution as a whole affects respiratory diseases, but no clear or specific link to carbon monoxide and bronchiectasis is described."
+      },
+      "carbon monoxide_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including carbon monoxide, on respiratory diseases such as tuberculosis. It highlights that air pollution, which includes carbon monoxide, potentiates the increase in respiratory diseases and has a detrimental effect on pulmonary pathologies. Therefore, there is evidence of a relationship between carbon monoxide exposure and tuberculosis as part of the broader impact of air pollution on respiratory health."
+      }
+    },
+    {
+      "ozone_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on major respiratory diseases such as chronic obstructive pulmonary disease (COPD). It highlights that air pollution, with ozone as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases including COPD. Therefore, there is evidence of a relationship between ozone exposure and COPD."
+      },
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on major respiratory diseases such as asthma. It highlights that air pollution, with ozone as one of the key pollutants, has a detrimental effect on lung tissue and potentiates the increase in respiratory diseases including asthma. Therefore, there is evidence of a relationship between ozone exposure and asthma."
+      },
+      "ozone_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on multiple respiratory diseases such as chronic obstructive pulmonary disease, asthma, lung cancer, and others. However, it does not provide specific evidence or detailed data linking ozone directly to lung cancer. The relationship is described as complex and under ongoing study, but no clear or direct evidence of a relationship between ozone and lung cancer is presented in this abstract."
+      },
+      "ozone_idiopathic_pulmonary_fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on multiple respiratory diseases, explicitly listing idiopathic pulmonary fibrosis among the diseases affected. It highlights that air pollution, with ozone as one of the key pollutants, has a detrimental effect on lung tissue and respiratory pathologies, implying a relationship between ozone exposure and idiopathic pulmonary fibrosis."
+      },
+      "ozone_respiratory_infections": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on multiple respiratory diseases, explicitly listing respiratory infections among them. It highlights that air pollution, which includes ozone, potentiates the increase in respiratory diseases and that evidence of detrimental effects of air pollutants on respiratory pathologies is growing. Therefore, there is evidence of a relationship between ozone and respiratory infections based on the abstract."
+      },
+      "ozone_bronchiectasis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on multiple respiratory diseases, explicitly listing bronchiectasis among the diseases affected. It highlights that air pollution, with ozone as one of the key pollutants, has a detrimental effect on respiratory pathologies, including bronchiectasis. Therefore, there is evidence of a relationship between ozone exposure and bronchiectasis based on the abstract."
+      },
+      "ozone_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the impact of various air pollutants, including ozone, on multiple respiratory diseases, explicitly listing tuberculosis among them. It indicates that air pollution, with ozone as one of the key pollutants, has a detrimental effect on respiratory pathologies, including tuberculosis. Although the exact nature of the relationship is described as complex and evolving, the abstract provides evidence that ozone is implicated in influencing tuberculosis outcomes through its role in air pollution affecting lung health."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions sulfur dioxide, nitrogen dioxide, carbon monoxide, and ozone as important air pollutants impacting respiratory diseases. Other terms like volatile organic compounds, particulate matter, and biomass smoke are general categories rather than specific chemical compounds."
+}

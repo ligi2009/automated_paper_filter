@@ -1,0 +1,57 @@
+{
+  "id": 4463,
+  "title": "Ozone Pollution: A Major Health Hazard Worldwide",
+  "Abstract": "Oxides of nitrogen (NOx) and volatile organic compounds (VOCs) released into the atmosphere can react in the presence of solar irradiation, leading to ozone formation in the troposphere. Historically, before clean air regulations were implemented to control NOx and VOCs, ozone concentrations were high enough to exert acute effects such as eye and nose irritation, respiratory disease emergencies, and lung function impairment. At or above current regulatory standards, day-to-day variations in ozone concentrations have been positively associated with asthma incidence and daily non-accidental mortality rate. Emerging evidence has shown that both short-term and long-term exposures to ozone, at concentrations below the current regulatory standards, were associated with increased mortality due to respiratory and cardiovascular diseases. The pathophysiology to support the epidemiologic associations between mortality and morbidity and ozone centers at the chemical and toxicological property of ozone as a strong oxidant, being able to induce oxidative damages to cells and the lining fluids of the airways, and immune-inflammatory responses within and beyond the lung. These new findings add substantially to the existing challenges in controlling ozone pollution. For example, in the United States in 2016, 90% of non-compliance to the national ambient air quality standards was due to ozone whereas only 10% was due to particulate matter and other regulated pollutants. Climate change, through creating atmospheric conditions favoring ozone formation, has been and will continue to increase ozone concentrations in many parts of world. Worldwide, ozone is responsible for several hundreds of thousands of premature deaths and tens of millions of asthma-related emergency room visits annually. To combat ozone pollution globally, more aggressive reductions in fossil fuel consumption are needed to cut NOx and VOCs as well as greenhouse gas emissions. Meanwhile, preventive and therapeutic strategies are needed to alleviate the detrimental effects of ozone especially in more susceptible individuals. Interventional trials in humans are needed to evaluate the efficacy of antioxidants and ozone-scavenging compounds that have shown promising results in animal studies.",
+  "Disease_List": [
+    "asthma",
+    "respiratory disease",
+    "cardiovascular diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'asthma', 'respiratory disease', and 'cardiovascular diseases'. These are named diseases rather than general terms. The mention of 'asthma incidence', 'respiratory disease emergencies', and 'mortality due to respiratory and cardiovascular diseases' clearly identifies these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "respiratory disease",
+    "cardiovascular diseases"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory disease": [
+      {
+        "ui": "C0035242",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035242",
+        "name": "Respiratory Tract Diseases",
+        "mesh_id": "D012140"
+      },
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

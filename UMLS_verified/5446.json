@@ -1,0 +1,34 @@
+{
+  "id": 5446,
+  "title": "Determination of volatile organic compounds exhaled by cell lines derived from hematological malignancies",
+  "Abstract": "Background: The gas human exhaled contains many volatile organic compounds (VOCs), which is related to the health status of body. Analysis of VOCs has been proposed as a noninvasive diagnostic tool for certain cancers. Detailed research on the VOCs in gas exhaled by cell can characterize cell type specific metabolites and may be helpful to detect the cancer markers in clinical practice. Methods: Solid-phase microextraction (SPME) gas chromatography–mass spectrometry was used to detect VOCs in the headspace of tissue culture flask in non-Hodgkin’s lymphoma (NHL) cell line JEKO and acute mononuclear leukemia cell line SHI-1, to elaborate the characteristic gaseous biomarkers of hematological malignancies. While macrophage cells and lymphocytic cells were acted as control. The blank group was only the RPMI 1640 medium containing 10% fetal calf serum that without cells. Results: Comparing with control group, the concentration of dimethyl sulfide, 2,4-dimethylheptane, methylbenzene, o-xylene, dodecane, and 1,3-di-tert-butylbenzene in JEKO cells was relatively higher, while the concentration of ethanol, hexanal, and benzaldehyde was lower. In SHI-1 cells, the levels of 2,4-dimethylheptane, benzene, 4-methyldecane, chloroform, 3,7-dimethyl dodecane, and hexadecane were significantly elevated, but the levels of hexanol and cyclohexanol were distinctly reduced. Conclusions: This pilot study revealed that the malignant hematological cells could change the components of VOCs in the cell culture flask in a cell type-specific pattern. The traits of VOCs in our setting offered new strategy for hematological malignancies tracing, and would act as potential biomarkers in diagnosis of malignant hematological diseases.",
+  "Disease_List": [
+    "non-Hodgkin’s lymphoma",
+    "acute mononuclear leukemia",
+    "hematological malignancies",
+    "malignant hematological diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'non-Hodgkin’s lymphoma' and 'acute mononuclear leukemia'. It also refers to 'hematological malignancies' and 'malignant hematological diseases', which are broader disease categories but still specific to types of blood cancers. Therefore, the classification is 'Y' because specific disease names are clearly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hematological malignancies"
+  ],
+  "UMLS_search_results": {
+    "non-Hodgkin’s lymphoma": [],
+    "acute mononuclear leukemia": [],
+    "hematological malignancies": [
+      {
+        "ui": "C0376545",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376545",
+        "name": "Hematologic Neoplasms",
+        "mesh_id": "D019337"
+      }
+    ],
+    "malignant hematological diseases": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

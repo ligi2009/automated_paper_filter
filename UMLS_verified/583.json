@@ -1,0 +1,101 @@
+{
+  "id": 583,
+  "title": "Air pollution exposure—the (in)visible risk factor for respiratory diseases",
+  "Abstract": "There is increasing interest in understanding the role of air pollution as one of the greatest threats to human health worldwide. Nine of 10 individuals breathe air with polluted compounds that have a great impact on lung tissue. The nature of the relationship is complex, and new or updated data are constantly being reported in the literature. The goal of our review was to summarize the most important air pollutants and their impact on the main respiratory diseases (chronic obstructive pulmonary disease, asthma, lung cancer, idiopathic pulmonary fibrosis, respiratory infections, bronchiectasis, tuberculosis) to reduce both short- and the long-term exposure consequences. We considered the most important air pollutants, including sulfur dioxide, nitrogen dioxide, carbon monoxide, volatile organic compounds, ozone, particulate matter and biomass smoke, and observed their impact on pulmonary pathologies. We focused on respiratory pathologies, because air pollution potentiates the increase in respiratory diseases, and the evidence that air pollutants have a detrimental effect is growing. It is imperative to constantly improve policy initiatives on air quality in both high- and low-income countries.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease",
+    "asthma",
+    "lung cancer",
+    "idiopathic pulmonary fibrosis",
+    "respiratory infections",
+    "bronchiectasis",
+    "tuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions several specific respiratory diseases by name, including chronic obstructive pulmonary disease, asthma, lung cancer, idiopathic pulmonary fibrosis, respiratory infections, bronchiectasis, and tuberculosis. These are all specific disease names rather than general terms, so the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease",
+    "asthma",
+    "lung cancer",
+    "idiopathic pulmonary fibrosis",
+    "respiratory infections",
+    "bronchiectasis",
+    "tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "idiopathic pulmonary fibrosis": [
+      {
+        "ui": "C1800706",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1800706",
+        "name": "Idiopathic Pulmonary Fibrosis",
+        "mesh_id": "D054990"
+      }
+    ],
+    "respiratory infections": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "bronchiectasis": [
+      {
+        "ui": "C0006267",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006267",
+        "name": "Bronchiectasis",
+        "mesh_id": "D001987"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

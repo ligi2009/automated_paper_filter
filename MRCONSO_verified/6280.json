@@ -1,0 +1,36 @@
+{
+  "id": 6280,
+  "title": "Biomonitoring: Developing a Beehive Air Volatiles Profile as an Indicator of Environmental Contamination Using a Sustainable In-Field Technique",
+  "Abstract": "The wellbeing of the honey bee colonies and the health of humans are connected in numerous ways. Therefore, ensuring the wellbeing of bees is a crucial component of fostering sustainability and ecological harmony. The colony collapse disorder (CCD) phenomenon was first reported in 2006 when the majority of bee colonies in Europe died out, due to an increase in infections, contamination of hives with agrochemical pesticides, and persistent organic pollutants (POPs). Only 6 years after the emergence of CCD, more than 6.5 million premature deaths were reported, as a consequence of persistent human exposure to air pollution. The insect species such as the honey bee Apis mellifera L. and the air matrix inside the beehive can be used as tools in biomonitoring, instead of traditional monitoring methods. This may have advantages in terms of cost-effective bioindicators of the environmental health status, showing the ability to record spatial and temporal pollutant variations. In this study, we present the sustainable in-field usage of the portable membrane inlet mass spectrometry (MIMS) instrument for an instant and effective determination of the level of environmental pollution by analytical identification of hive atmosphere volatile organic compound (VOC) contaminants, polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), monocyclic aromatic hydrocarbons (BTEX) compounds, and pesticides. The samples were taken from hives located in urbanized and rural regions, highlighting variations in contamination. The MIMS results were benchmarked against a conventional laboratory sampling technique, such as GC-MS.",
+  "Disease_List": [
+    "colony collapse disorder (CCD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'colony collapse disorder (CCD)', which is a specific disease affecting honey bee colonies. Although it discusses general health impacts on humans, no specific human diseases are named. The mention of CCD qualifies the response as 'Y' with the disease listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "colony collapse disorder (CCD)"
+  ],
+  "UMLS_search_results": {
+    "colony collapse disorder (CCD)": []
+  },
+  "MRCONSO_search_results": {
+    "colony collapse disorder (CCD)": [
+      "Colony Collapse Disorder",
+      "Colony Collapse Disorders",
+      "Colony collapse disorder of honeybees"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "colony collapse disorder (CCD)_via_Colony Collapse Disorder": [
+      {
+        "ui": "C2717864",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2717864",
+        "name": "Colony Collapse Disorder",
+        "mesh_id": "D056631"
+      }
+    ]
+  }
+}

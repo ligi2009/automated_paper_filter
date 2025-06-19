@@ -1,0 +1,237 @@
+{
+  "id": 5871,
+  "title": "The Antioxidants Glutathione, Ascorbic Acid and Uric Acid Maintain Butyrate Production by Human Gut Clostridia in The Presence of Oxygen In Vitro",
+  "Abstract": "Uncontrolled oxidative stress, reported in Salmonella and HIV infections, colorectal cancer or severe acute malnutrition, has been associated with anaerobic gut microbiome alteration, impaired butyrate production, mucosal immunity dysregulation and disruption of host-bacterial mutualism. However, the role of major antioxidant molecules in the human body, such as glutathione, ascorbic acid and uric acid, has been neglected in this context. Here, we performed an in vitro metabolomics study of the 3 most odorous anaerobic microbes isolated from the human gut in our laboratory (Clostridium sporogenes, Clostridium subterminale and Romboutsia lituseburensis) when grown in anaerobiosis or in aerobiosis with these 3 antioxidant molecules via gas and liquid chromatography-mass spectrometry (GC/MS and LC/MS). There was no growth or volatile organic compound production in aerobic cultures without the 3 antioxidant molecules. In anaerobiosis, the major metabolic products of the bacteria were thiols, alcohols and short-chain fatty acid esters. The production of alkanes, cycloheptatriene and, paradoxically, increased butyrate production, was observed in the cultures grown in aerobiosis with the 3 antioxidant molecules. The qualitative shift suggests specific molecular mechanisms that remain to be elucidated. The increased production of butyrate, but also isobutyrate and isovalerate in vitro suggests that these 3 antioxidant molecules contributed to the maintenance and active resilience of host-bacterial mutualism against mucosal oxygen and uncontrolled oxidative stress in vivo.",
+  "Disease_List": [
+    "Salmonella infection",
+    "HIV infection",
+    "colorectal cancer",
+    "severe acute malnutrition"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases including 'Salmonella infection', 'HIV infection', 'colorectal cancer', and 'severe acute malnutrition'. These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted directly from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Salmonella infection",
+    "HIV infection",
+    "colorectal cancer",
+    "severe acute malnutrition"
+  ],
+  "UMLS_search_results": {
+    "Salmonella infection": [
+      {
+        "ui": "C0036117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0036117",
+        "name": "Salmonella infections",
+        "mesh_id": "D012480"
+      }
+    ],
+    "HIV infection": [
+      {
+        "ui": "C0019693",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019693",
+        "name": "HIV Infections",
+        "mesh_id": "D015658"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "severe acute malnutrition": [
+      {
+        "ui": "C4042945",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4042945",
+        "name": "Severe Acute Malnutrition",
+        "mesh_id": "D000067011"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "glutathione",
+    "ascorbic acid",
+    "uric acid",
+    "butyrate",
+    "isobutyrate",
+    "isovalerate",
+    "alkanes",
+    "cycloheptatriene"
+  ],
+  "compound_CID": [
+    {
+      "glutathione": 124886,
+      "ascorbic acid": 54670067,
+      "uric acid": 1175,
+      "butyrate": 5222465,
+      "isobutyrate": 165337,
+      "isovalerate": 3587356,
+      "alkanes": "None",
+      "cycloheptatriene": 11000
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "glutathione_Salmonella_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses uncontrolled oxidative stress in Salmonella infections and highlights the role of major antioxidant molecules, including glutathione, in maintaining host-bacterial mutualism and mucosal immunity. Although the study focuses on anaerobic gut microbes and their metabolism in the presence of antioxidant molecules like glutathione, it implies that glutathione contributes to resilience against oxidative stress associated with Salmonella infection. Therefore, there is evidence suggesting a relationship between glutathione and Salmonella infection through its antioxidant role in mitigating oxidative stress and supporting mucosal immunity."
+      },
+      "glutathione_HIV_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that uncontrolled oxidative stress is reported in HIV infections and that major antioxidant molecules, including glutathione, play a role in counteracting oxidative stress. Although the study focuses on the effects of glutathione and other antioxidants on anaerobic gut microbes in vitro, it suggests that these antioxidants contribute to maintaining host-bacterial mutualism and mucosal immunity under oxidative stress conditions, which are relevant in HIV infection. Therefore, there is evidence of a relationship between glutathione and HIV infection through its role in managing oxidative stress associated with the disease."
+      },
+      "glutathione_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses uncontrolled oxidative stress as a factor reported in colorectal cancer and highlights the role of major antioxidant molecules, including glutathione, in maintaining host-bacterial mutualism and mucosal immunity. Although the study focuses on in vitro metabolomics of gut microbes with antioxidant molecules, it implies that glutathione contributes to resilience against oxidative stress, which is associated with colorectal cancer. Therefore, there is evidence suggesting a relationship between glutathione and colorectal cancer through its antioxidant role in mitigating oxidative stress linked to the disease."
+      },
+      "glutathione_severe_acute_malnutrition": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that severe acute malnutrition is associated with uncontrolled oxidative stress, which affects gut microbiome and mucosal immunity. It highlights the role of major antioxidant molecules, including glutathione, in maintaining host-bacterial mutualism and resilience against oxidative stress. The in vitro study showed that the presence of glutathione (along with other antioxidants) supports bacterial growth and metabolic activity under aerobic conditions, suggesting that glutathione contributes to counteracting oxidative stress linked to severe acute malnutrition. Therefore, there is evidence of a relationship between glutathione and severe acute malnutrition through its antioxidant role."
+      }
+    },
+    {
+      "ascorbic acid_Salmonella_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of antioxidant molecules including ascorbic acid in relation to oxidative stress and gut microbiome alterations associated with Salmonella infection. However, it does not provide direct evidence or specific findings linking ascorbic acid to the treatment, prevention, or modulation of Salmonella infection itself. The study focuses on in vitro effects of antioxidants on anaerobic gut microbes and their metabolic products, suggesting a potential role in maintaining host-bacterial mutualism and resilience against oxidative stress, but does not establish a clear relationship between ascorbic acid and Salmonella infection."
+      },
+      "ascorbic acid_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in HIV infection and mentions ascorbic acid as one of the major antioxidant molecules studied in vitro with anaerobic gut microbes. However, it does not provide direct evidence or specific findings linking ascorbic acid to the treatment, prevention, or modulation of HIV infection itself. The focus is on the role of antioxidants in maintaining host-bacterial mutualism and microbial metabolism under oxidative stress conditions, rather than a direct relationship between ascorbic acid and HIV infection."
+      },
+      "ascorbic acid_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of antioxidant molecules including ascorbic acid in maintaining host-bacterial mutualism and resilience against oxidative stress, which is associated with colorectal cancer. However, it does not provide direct evidence or specific findings linking ascorbic acid to the prevention, causation, or treatment of colorectal cancer. The focus is on in vitro effects of antioxidants on gut microbes and their metabolic products, without establishing a clear relationship between ascorbic acid and colorectal cancer."
+      },
+      "ascorbic acid_severe_acute_malnutrition": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that severe acute malnutrition is associated with uncontrolled oxidative stress and disruption of host-bacterial mutualism. It highlights that major antioxidant molecules, including ascorbic acid, have been neglected in this context. The study shows that in the presence of antioxidant molecules such as ascorbic acid, there is increased production of butyrate and other metabolites by anaerobic gut microbes, which suggests that ascorbic acid contributes to maintaining and supporting host-bacterial mutualism and resilience against oxidative stress. This implies a potential beneficial relationship between ascorbic acid and the pathological processes involved in severe acute malnutrition."
+      }
+    },
+    {
+      "uric acid_Salmonella_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of antioxidant molecules including uric acid in the context of oxidative stress related to Salmonella infection and other conditions. However, it focuses on in vitro studies of anaerobic gut microbes and their metabolic products in the presence of antioxidants, without providing direct evidence of a relationship between uric acid and Salmonella infection itself. The study highlights potential contributions of antioxidants to host-bacterial mutualism and oxidative stress resilience but does not establish a clear or direct link between uric acid and the disease Salmonella infection."
+      },
+      "uric acid_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract mentions that uncontrolled oxidative stress is reported in HIV infections and that major antioxidant molecules including uric acid have been neglected in this context. The study focuses on the role of antioxidant molecules like uric acid in modulating gut microbiome metabolism under anaerobic and aerobic conditions. However, there is no direct evidence or specific findings presented in the abstract linking uric acid to HIV infection itself. The relationship between uric acid and HIV infection is not clearly established or discussed beyond the general context of oxidative stress."
+      },
+      "uric acid_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in colorectal cancer and the role of antioxidant molecules including uric acid in maintaining host-bacterial mutualism and mucosal immunity. However, it does not provide direct evidence or findings linking uric acid specifically to the development, progression, or prevention of colorectal cancer. The focus is on in vitro effects of antioxidants on gut microbes and their metabolic products, without establishing a clear relationship between uric acid levels or activity and colorectal cancer."
+      },
+      "uric acid_severe_acute_malnutrition": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in severe acute malnutrition and mentions uric acid as one of the major antioxidant molecules studied in vitro with anaerobic gut microbes. However, it does not provide direct evidence or findings linking uric acid specifically to severe acute malnutrition. Instead, it focuses on the role of antioxidant molecules, including uric acid, in maintaining host-bacterial mutualism and microbial metabolism under oxidative stress conditions. There is no clear or direct relationship established between uric acid levels or activity and severe acute malnutrition in the abstract."
+      }
+    },
+    {
+      "butyrate_Salmonella_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that uncontrolled oxidative stress is reported in Salmonella infections and is associated with impaired butyrate production, mucosal immunity dysregulation, and disruption of host-bacterial mutualism. It also describes increased butyrate production in vitro under certain conditions that may contribute to maintaining host-bacterial mutualism and resilience against oxidative stress in vivo. This suggests a relationship where butyrate production is linked to the pathophysiology of Salmonella infection, particularly in the context of oxidative stress and mucosal immunity."
+      },
+      "butyrate_HIV_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that uncontrolled oxidative stress is reported in HIV infections and is associated with impaired butyrate production. It also discusses how antioxidant molecules can increase butyrate production in vitro, suggesting that butyrate levels are relevant in the context of HIV infection. Therefore, there is evidence of a relationship between butyrate and HIV infection, particularly in terms of mucosal immunity dysregulation and host-bacterial mutualism affected by oxidative stress in HIV."
+      },
+      "butyrate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that colorectal cancer is associated with uncontrolled oxidative stress and anaerobic gut microbiome alteration, which includes impaired butyrate production. It also describes that increased butyrate production was observed under certain conditions that support host-bacterial mutualism and mucosal immunity. This suggests a relationship where butyrate production is linked to the pathophysiology of colorectal cancer, implying that butyrate plays a role in the disease context."
+      },
+      "butyrate_severe_acute_malnutrition": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions severe acute malnutrition as a condition associated with uncontrolled oxidative stress, anaerobic gut microbiome alteration, impaired butyrate production, mucosal immunity dysregulation, and disruption of host-bacterial mutualism. It further discusses butyrate production by gut microbes and its increase under certain antioxidant conditions, suggesting that butyrate plays a role in maintaining host-bacterial mutualism and mucosal health. Therefore, there is evidence linking butyrate production impairment and severe acute malnutrition, indicating a relationship between the compound butyrate and the disease severe acute malnutrition."
+      }
+    },
+    {
+      "isobutyrate_Salmonella_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses Salmonella infection in the context of oxidative stress and gut microbiome alterations, including impaired butyrate production and mucosal immunity dysregulation. It highlights that antioxidant molecules contribute to maintaining host-bacterial mutualism and resilience against oxidative stress. Specifically, the study observed increased production of butyrate, isobutyrate, and isovalerate in vitro when antioxidant molecules were present, suggesting that isobutyrate production is linked to mechanisms that support mucosal health and bacterial mutualism during conditions relevant to Salmonella infection. Therefore, there is evidence of a relationship between isobutyrate and Salmonella infection through its role in gut microbiome metabolism and mucosal immunity under oxidative stress conditions associated with the infection."
+      },
+      "isobutyrate_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in HIV infection and its association with gut microbiome alterations and butyrate production. It mentions increased production of isobutyrate in vitro in the presence of antioxidant molecules, suggesting a role in maintaining host-bacterial mutualism and resilience against oxidative stress. However, there is no direct evidence or specific mention of a relationship between isobutyrate and HIV infection itself. The connection is indirect and based on general gut microbiome and oxidative stress context rather than a clear, established relationship."
+      },
+      "isobutyrate_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of oxidative stress in colorectal cancer and mentions alterations in the gut microbiome and butyrate production. It specifically notes increased production of butyrate, isobutyrate, and isovalerate in vitro in the presence of antioxidant molecules, suggesting a role in maintaining host-bacterial mutualism and resilience against oxidative stress. However, the abstract does not provide direct evidence linking isobutyrate to colorectal cancer pathogenesis, progression, or prevention. Instead, isobutyrate is mentioned as part of a metabolic profile associated with gut microbial activity under certain conditions, without a clear causal or correlative relationship to colorectal cancer. Therefore, there is no clear relationship established between isobutyrate and colorectal cancer based on this abstract."
+      },
+      "isobutyrate_severe_acute_malnutrition": {
+        "relationship": "Y",
+        "reason": "The abstract discusses severe acute malnutrition in the context of uncontrolled oxidative stress and its association with anaerobic gut microbiome alteration and impaired butyrate production. It further reports that in vitro studies showed increased production of butyrate, isobutyrate, and isovalerate by gut microbes in the presence of antioxidant molecules, suggesting these compounds contribute to maintaining host-bacterial mutualism and resilience against oxidative stress. This implies a relationship between isobutyrate and severe acute malnutrition through the modulation of gut microbiome metabolism and oxidative stress mechanisms."
+      }
+    },
+    {
+      "isovalerate_Salmonella_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses Salmonella infection in the context of oxidative stress and gut microbiome alterations. It highlights that in vitro studies showed increased production of isovalerate (along with butyrate and isobutyrate) by anaerobic gut microbes when antioxidant molecules are present. This suggests that isovalerate production is linked to the maintenance and resilience of host-bacterial mutualism during conditions relevant to Salmonella infection. Therefore, there is evidence of a relationship between isovalerate and Salmonella infection through its role in gut microbial metabolism and mucosal immunity under oxidative stress conditions associated with the disease."
+      },
+      "isovalerate_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in HIV infection and its association with gut microbiome alterations and antioxidant molecules. It mentions that isovalerate production increased in vitro in the presence of certain antioxidant molecules, suggesting a role in maintaining host-bacterial mutualism under oxidative stress. However, there is no direct evidence or specific mention of a relationship between isovalerate and HIV infection itself. The connection is indirect and related to general gut microbiome metabolism rather than a direct link between isovalerate and HIV infection."
+      },
+      "isovalerate_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in colorectal cancer and its association with gut microbiome alterations and antioxidant molecules. It mentions that isovalerate production increased in vitro in the presence of antioxidant molecules, suggesting a role in maintaining host-bacterial mutualism and resilience against oxidative stress. However, the abstract does not provide direct evidence linking isovalerate to the development, progression, or treatment of colorectal cancer. The relationship described is indirect and related to microbiome metabolism rather than a clear causal or associative link between isovalerate and colorectal cancer."
+      },
+      "isovalerate_severe_acute_malnutrition": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that severe acute malnutrition is associated with uncontrolled oxidative stress and anaerobic gut microbiome alteration. It further reports that in vitro studies showed increased production of isovalerate (along with butyrate and isobutyrate) by anaerobic gut microbes in the presence of antioxidant molecules. This suggests that isovalerate production is linked to mechanisms that maintain host-bacterial mutualism and mucosal resilience under oxidative stress conditions relevant to severe acute malnutrition. Therefore, there is evidence of a relationship between isovalerate and severe acute malnutrition through its role in gut microbiome metabolism and oxidative stress response."
+      }
+    },
+    {
+      "alkanes_Salmonella_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in Salmonella infection and the metabolic activity of certain anaerobic gut microbes under different conditions, including the production of alkanes in the presence of antioxidant molecules. However, it does not provide direct evidence linking alkanes to Salmonella infection itself. The mention of alkanes is related to bacterial metabolism in vitro and not to a pathological or causal relationship with Salmonella infection. Therefore, no clear relationship between alkanes and Salmonella infection is established in the abstract."
+      },
+      "alkanes_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in HIV infection and other conditions, and describes an in vitro study of anaerobic gut microbes producing various metabolites including alkanes under certain conditions. However, it does not provide any direct evidence or indication of a relationship between alkanes and HIV infection. The mention of alkanes is limited to bacterial metabolic products in vitro and does not link alkanes to the pathophysiology, treatment, or progression of HIV infection."
+      },
+      "alkanes_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in colorectal cancer and its association with gut microbiome alterations and antioxidant molecules. It mentions that alkanes were produced in vitro by certain gut bacteria under specific conditions involving antioxidants, but it does not provide any evidence linking alkanes directly to colorectal cancer. The focus is on antioxidant molecules and bacterial metabolites like butyrate rather than alkanes as related to colorectal cancer. Therefore, there is no clear relationship established between alkanes and colorectal cancer in this abstract."
+      },
+      "alkanes_severe_acute_malnutrition": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in severe acute malnutrition and its association with gut microbiome alterations and antioxidant molecules. It mentions that alkanes were produced in vitro by anaerobic gut microbes grown in the presence of antioxidant molecules, but does not provide any direct evidence linking alkanes to severe acute malnutrition. The focus is on antioxidant molecules and their role in maintaining host-bacterial mutualism and resilience against oxidative stress, without establishing a clear relationship between alkanes and the disease."
+      }
+    },
+    {
+      "cycloheptatriene_Salmonella_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in Salmonella infection and other conditions, and the role of antioxidant molecules in modulating gut microbiome metabolism. Cycloheptatriene is mentioned as a metabolic product produced by certain anaerobic gut microbes under specific culture conditions with antioxidants. However, there is no direct evidence or mention of cycloheptatriene having a role in Salmonella infection, nor is there any indication that cycloheptatriene influences or is influenced by Salmonella infection specifically. The relationship described is between antioxidant molecules, gut microbiome metabolism, and oxidative stress, without linking cycloheptatriene directly to Salmonella infection."
+      },
+      "cycloheptatriene_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the metabolic products of certain anaerobic gut microbes under different conditions and mentions the production of cycloheptatriene in cultures grown with antioxidant molecules. While HIV infection is mentioned in the context of oxidative stress and gut microbiome alteration, there is no direct evidence or specific link presented between cycloheptatriene and HIV infection. The compound cycloheptatriene is only noted as a metabolic product in vitro, without any stated role or effect related to HIV infection."
+      },
+      "cycloheptatriene_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses oxidative stress in colorectal cancer and its association with gut microbiome alterations and antioxidant molecules. It mentions that cycloheptatriene is produced by certain anaerobic gut bacteria in vitro under specific conditions involving antioxidant molecules. However, there is no direct evidence or indication in the abstract that cycloheptatriene itself has a relationship with colorectal cancer, either as a cause, effect, or biomarker. The focus is on oxidative stress, antioxidant molecules, and butyrate production rather than on cycloheptatriene's role in colorectal cancer."
+      },
+      "cycloheptatriene_severe_acute_malnutrition": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of oxidative stress in severe acute malnutrition and the metabolic activity of certain anaerobic gut microbes under different conditions. Cycloheptatriene is mentioned as a metabolic product produced in vitro by these microbes when grown aerobically with antioxidant molecules. However, there is no direct evidence or discussion linking cycloheptatriene itself to severe acute malnutrition. The focus is on oxidative stress, antioxidant molecules, and butyrate production in relation to the disease, not on cycloheptatriene as a causative or associated compound."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the antioxidant molecules glutathione, ascorbic acid, and uric acid studied for their role in bacterial growth and metabolism. It also identifies metabolic products such as butyrate, isobutyrate, isovalerate, alkanes, and cycloheptatriene produced by the anaerobic microbes, which are specific chemical compounds relevant to the study."
+}

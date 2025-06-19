@@ -1,0 +1,44 @@
+{
+  "id": 2547,
+  "title": "Diagnostic Application of Volatile Organic Compounds as Potential Biomarkers for Detecting Digestive Neoplasia: A Systematic Review",
+  "Abstract": "Volatile organic compounds (VOCs) are part of the exhaled breath that were proposed as non-invasive breath biomarkers via different human discharge products like saliva, breath, urine, blood, or tissues. Particularly, due to the non-invasive approach, VOCs were considered as potential biomarkers for non-invasive early cancer detection. We herein aimed to review the data over VOCs utility in digestive neoplasia as early diagnosis or monitoring biomarkers. A systematic literature search was done using MEDLINE via PubMed, Cochrane Library, and Thomson Reuters’ Web of Science Core Collection. We identified sixteen articles that were included in the final analysis. Based on the current knowledge, we cannot identify a single VOC as a specific non-invasive biomarker for digestive neoplasia. Several combinations of up to twelve VOCs seem promising for accurately detecting some neoplasia types. A combination of different VOCs breath expression are promising tools for digestive neoplasia screening.",
+  "Disease_List": [
+    "digestive neoplasia",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'digestive neoplasia' and 'cancer' as specific disease names. Although 'cancer' is a broad term, it is a specific disease category, and 'digestive neoplasia' refers to tumors in the digestive system, which are specific disease conditions. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "digestive neoplasia": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

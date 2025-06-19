@@ -1,0 +1,61 @@
+{
+  "id": 4027,
+  "title": "Using Volatile Organic Compounds to Investigate the Effect of Oral Iron Supplementation on the Human Intestinal Metabolome",
+  "Abstract": "Patients with iron deficiency anaemia are treated with oral iron supplementation, which is known to cause gastrointestinal side effects by likely interacting with the gut microbiome. To better study this impact on the microbiome, we investigated oral iron-driven changes in volatile organic compounds (VOCs) in the faecal metabolome. Stool samples from patients with iron deficiency anaemia were collected pre- and post-treatment (n = 45 and 32, respectively). Faecal headspace gas analysis was performed by gas chromatography–mass spectrometry and the changes in VOCs determined. We found that the abundance of short-chain fatty acids and esters fell, while aldehydes increased, after treatment. These changes in pre- vs. post-iron VOCs resemble those reported when the gut is inflamed. Our study shows that iron changes the intestinal metabolome, we suggest by altering the structure of the gut microbial community.",
+  "Disease_List": [
+    "iron deficiency anaemia"
+  ],
+  "Reason": "The abstract explicitly mentions 'iron deficiency anaemia' as a specific disease affecting the patients studied. This is a well-defined medical condition, not a general term, thus classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "iron deficiency anaemia"
+  ],
+  "UMLS_search_results": {
+    "iron deficiency anaemia": [
+      {
+        "ui": "C0162316",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0162316",
+        "name": "Iron deficiency anemia",
+        "mesh_id": "D018798"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "short-chain fatty acids",
+    "esters",
+    "aldehydes"
+  ],
+  "compound_CID": [
+    {
+      "short-chain fatty acids": "None",
+      "esters": "None",
+      "aldehydes": 712
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "short-chain fatty acids_iron_deficiency_anaemia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that patients with iron deficiency anaemia undergoing oral iron supplementation experience changes in the gut microbiome and faecal metabolome, specifically noting a decrease in the abundance of short-chain fatty acids after treatment. This suggests a relationship between short-chain fatty acids and iron deficiency anaemia, as the disease and its treatment impact the levels of these compounds, likely through alterations in the gut microbial community."
+      }
+    },
+    {
+      "esters_iron_deficiency_anaemia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that in patients with iron deficiency anaemia undergoing oral iron supplementation, there is a notable change in the abundance of esters in the faecal metabolome. Specifically, the abundance of esters decreases after treatment. This suggests a relationship between esters and iron deficiency anaemia, as the disease treatment impacts ester levels, likely through alterations in the gut microbiome and intestinal metabolome."
+      }
+    },
+    {
+      "aldehydes_iron_deficiency_anaemia": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study on patients with iron deficiency anaemia undergoing oral iron supplementation. It reports that after treatment, the levels of aldehydes in the faecal metabolome increased. This indicates a relationship between aldehydes and iron deficiency anaemia in the context of treatment, as the disease state and its management are associated with changes in aldehyde levels. The increase in aldehydes is linked to alterations in the gut microbiome and intestinal metabolome caused by iron supplementation in these patients."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific classes of chemical compounds detected in the faecal metabolome analysis, including short-chain fatty acids, esters, and aldehydes, which are specific types of volatile organic compounds affected by oral iron supplementation."
+}

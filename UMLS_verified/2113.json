@@ -1,0 +1,82 @@
+{
+  "id": 2113,
+  "title": "Wildfires ignite concern.",
+  "Abstract": "Every year in the United States wildfires destroy hundreds of homes and cause millions of dollars in damage. From January through May of this year, for example, 2,702 wildfires scorched 198,228 acres in Florida amidst one of the worst droughts in a century. Although wildfires can actually be good for the environment, helping it to stay healthy and restore itself, they can have harmful human consequences, both directly and indirectly. People in close proximity to a wildfire, such as firefighters, can suffer respiratory problems and burns, and in rare instances are killed. In addition, people living near a fire's burn who are predisposed to environmental health problems such as asthma and emphysema may be affected. Perhaps more importantly for those living downwind, forest fire smoke contains many contaminants that in the long term can, depending on the length of the exposure, produce both acute and chronic effects in humans. Wildfires are characterized as brush and forest fires that commonly happen in relatively undeveloped areas. But as Craig Allen, a research ecolo-gist with the U.S. Geological Survey in Los Alamos, New Mexico, points out, \" More and more people are living in what were once remote areas, and that's putting them closer to woodlands and the threat of wildfires. \" According to a 1994 scientific study prepared for the Fire and Aviation Management division of the U.S. Department of Agriculture Forest Service, contaminants of forest fire smoke can include carbon monoxide, hydrocarbons, benzo[a]pyrene, nitrogen oxides, volatile oxygenated organic compounds , acids, ketones, alcohols, and aldehy-des, among other chemicals. Chronic exposure can lead to allergies, bronchitis, and emphysema, while acute exposure can cause impaired judgment, eye and respiratory irritation , and even death. But although some gases commonly released in burning, such as methane and ethylene, have been shown to be carcinogenic in tests on laboratory animals , no scientific evidence exists to show that wildfires can increase these gases to dangerous levels in the environment. In addition to their human health effects and obvious damage to the landscapes they burn, wildfires can have other unwelcome environmental effects as well. They affect water quality by destroying vegetation and dead plant matter that slows stormwater runoff; runoff and erosion can increase by an order of magnitude after a wildfire. The extra sediment and ash can also affect aquatic habitats and occasionally kill fish by cutting off the oxygen supply. Furthermore, the threat exists …",
+  "Disease_List": [
+    "asthma",
+    "emphysema",
+    "allergies",
+    "bronchitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma, emphysema, allergies, and bronchitis in the context of health effects caused or exacerbated by wildfire smoke exposure. These are named diseases rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "emphysema",
+    "allergies",
+    "bronchitis"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "emphysema": [
+      {
+        "ui": "C0034067",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034067",
+        "name": "Pulmonary Emphysema",
+        "mesh_id": "D011656"
+      },
+      {
+        "ui": "C0013990",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013990",
+        "name": "Pathological accumulation of air in tissues",
+        "mesh_id": "D004646"
+      }
+    ],
+    "allergies": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1717415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1717415",
+        "name": "Allergies:Find:Pt:^Patient:Ord",
+        "mesh_id": "None"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

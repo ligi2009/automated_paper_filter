@@ -1,0 +1,64 @@
+{
+  "id": 6469,
+  "title": "Indoor Air Pollution and the Health of Vulnerable Groups: A Systematic Review Focused on Particulate Matter (PM), Volatile Organic Compounds (VOCs) and Their Effects on Children and People with Pre-Existing Lung Disease",
+  "Abstract": "Air pollution affects health, but much of the focus to this point has been on outdoor air. Higher indoor pollution is anticipated due to increasingly energy-efficient and less leaky buildings together with more indoor activities. Studies of indoor air pollution focusing on children and people with respiratory disease from the database Web of Science (1991–2021) were systemically reviewed according to the PRISMA guidelines, with 69 studies included in the final selection. Emissions from building materials affected indoor air quality, and ventilation also had an influence. The main indoor air pollutants are Volatile Organic Compounds (VOCs) and Particulate Matter (PM). PM sources included smoking, cooking, heating, candles, and insecticides, whereas sources of coarse particles were pets, housework and human movements. VOC sources included household products, cleaning agents, glue, personal care products, building materials and vehicle emissions. Formaldehyde levels were particularly high in new houses. Personal exposure related to both indoor and outdoor pollutant levels, highlighting home characteristics and air exchange rates as important factors. Temperature, humidity, educational level, air purifiers and time near sources were also related to personal exposure. There was an association between PM and Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma and symptoms of chronic obstructive pulmonary disease (COPD) patients. High VOCs were associated with upper airways and asthma symptoms and cancer. Effective interventional studies for PM in the future might focus on human behavior together with air purifiers and increased ventilation, whereas VOC interventions might center more on building materials and household products, alongside purification and ventilation.",
+  "Disease_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease (COPD)",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'childhood asthma', 'chronic obstructive pulmonary disease (COPD)', and 'cancer' in relation to exposure to indoor air pollutants. These are clearly named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease (COPD)",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

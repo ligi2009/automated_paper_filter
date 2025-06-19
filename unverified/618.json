@@ -1,0 +1,26 @@
+{
+  "id": 618,
+  "title": "Chemical Composition Profiling and Antifungal Activity of Saffron Petal Extract",
+  "Abstract": "Numerous fungal plant pathogens can infect fresh fruits and vegetables during transit and storage conditions. The resulting infections were mainly controlled by synthetic fungicides, but their application has many drawbacks associated with the threatened environment and human health. Therefore, the use of natural plants with antimicrobial potential could be a promising alternative to overcome the side effects of fungicides. In this regard, this study aimed at evaluating the antifungal activity potential of saffron petal extract (SPE) against three mains important fungal pathogens: Rhizopus stolonifer, Penicillium digitatum and Botritys cinerea, which cause rot decay on the tomato, orange and apple fruits, respectively. In addition, the organic composition of SPE was characterized by attenuated total reflection Fourier transform infrared (ATR-FT-IR) spectroscopy and its biochemical, and gas chromatography-mass spectrometry (GC-MS) analyses were carried out. The obtained results highlighted an increased inhibition rate of the mycelial growth and spore germination of the three pathogenic fungi with increasing SPE concentrations. The mycelial growth and spore germination were completely inhibited at 10% of the SPE for Rhizopus stolonifer and Penicillium digitatum and at 5% for B. cinerea. Interestingly, the in vivo test showed the complete suppression of Rhizopus rot by the SPE at 10%, and a significant reduction of the severity of grey mold disease (37.19%) and green mold, when applied at 5 and 10%, respectively. The FT-IR spectra showed characteristic peaks and a variety of functional groups, which confirmed that SPE contains phenolic and flavonoid components. In addition, The average value of the total phenolic content, flavonoid content and half-maximal inhibitory concentration (IC50) were 3.09 ± 0.012 mg GAE/g DW, 0.92 ± 0.004 mg QE/g DW and 235.15 ± 2.12 µg/mL, respectively. A volatile analysis showed that the most dominant component in the saffron petal is 2(5H)-Furanone (92.10%). Taken together, it was concluded that SPE could be used as an alternative to antioxidant and antifungal compounds for the control of postharvest diseases in fruits.",
+  "Disease_List": [
+    "Rhizopus rot",
+    "grey mold disease",
+    "green mold"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases caused by fungal pathogens, including 'Rhizopus rot', 'grey mold disease', and 'green mold'. These are named diseases affecting fruits, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Rhizopus rot": [],
+    "grey mold disease": [],
+    "green mold": []
+  },
+  "MRCONSO_search_results": {
+    "Rhizopus rot": [],
+    "grey mold disease": [],
+    "green mold": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

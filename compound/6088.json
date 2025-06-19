@@ -1,0 +1,114 @@
+{
+  "id": 6088,
+  "title": "Reduction of formaldehyde in ambient air through application of special acrylic co-polymer in paint-and-lacquer coatings",
+  "Abstract": "Application of modern coatings in interior decoration is becoming increasingly popular. With their help, new decorative effects are created and implemented, which contribute to the desired aesthetic pleasure. The development of the chemical industry allows to produce a wide range of decorative coatings, paints and water-based enamels, as well as other finishing building materials that are widely used by designers and craftsmen in the design of premises. As a result, manufacturing companies face a clear challenge in creating safe materials for human health. It is known that the use of preservatives, plasticizers and opalescent additives in coatings are a source of harmful volatile organic compounds (VOCs), in particular phenol-formaldehyde resins, which provoke dangerous human diseases, and formaldehyde itself (H2–C=O) is a carcinogen and can cause lungs, nasopharyngeal cancer and cause acute myeloid leukemia. Formulation models of coatings based on PRIMAL™ SF-208 ER acrylic copolymer dispersion have been developed, which, among the required operational and quality characteristics, have the ability to reduce the content of formaldehyde. There is defined the regularity of the increase in the amount of phenol-formaldehyde absorbed by the paint from the ambient air from the increase in the quantitative content of the dispersion in the paint.",
+  "Disease_List": [
+    "lungs cancer",
+    "nasopharyngeal cancer",
+    "acute myeloid leukemia"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to exposure to formaldehyde and phenol-formaldehyde resins, including 'lungs cancer', 'nasopharyngeal cancer', and 'acute myeloid leukemia'. These are specific disease names rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lungs cancer",
+    "nasopharyngeal cancer",
+    "acute myeloid leukemia"
+  ],
+  "UMLS_search_results": {
+    "lungs cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      }
+    ],
+    "nasopharyngeal cancer": [
+      {
+        "ui": "C0153392",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153392",
+        "name": "Malignant neoplasm of nasopharynx",
+        "mesh_id": "D009303"
+      },
+      {
+        "ui": "C2931822",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2931822",
+        "name": "Nasopharyngeal carcinoma",
+        "mesh_id": "D000077274"
+      }
+    ],
+    "acute myeloid leukemia": [
+      {
+        "ui": "C0023467",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023467",
+        "name": "Leukemia, Myelocytic, Acute",
+        "mesh_id": "D015470"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "phenol-formaldehyde resins",
+    "formaldehyde",
+    "PRIMAL™ SF-208 ER acrylic copolymer dispersion"
+  ],
+  "compound_CID": [
+    {
+      "phenol-formaldehyde resins": "None",
+      "formaldehyde": 712,
+      "PRIMAL™ SF-208 ER acrylic copolymer dispersion": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "phenol-formaldehyde resins_lungs_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenol-formaldehyde resins are a source of harmful volatile organic compounds (VOCs) and that formaldehyde, a component related to these resins, is a carcinogen known to cause lung cancer. This indicates a relationship between phenol-formaldehyde resins exposure and the risk of developing lung cancer."
+      },
+      "phenol-formaldehyde resins_nasopharyngeal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenol-formaldehyde resins are a source of harmful volatile organic compounds, including formaldehyde, which is identified as a carcinogen capable of causing nasopharyngeal cancer. This indicates a relationship between exposure to phenol-formaldehyde resins and the risk of developing nasopharyngeal cancer due to the formaldehyde they release."
+      },
+      "phenol-formaldehyde resins_acute_myeloid_leukemia": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenol-formaldehyde resins are a source of harmful volatile organic compounds, including formaldehyde, which is identified as a carcinogen capable of causing acute myeloid leukemia. This indicates a relationship between exposure to phenol-formaldehyde resins and the risk of developing acute myeloid leukemia due to the formaldehyde content."
+      }
+    },
+    {
+      "formaldehyde_lungs_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that formaldehyde is a carcinogen and can cause lung cancer, among other diseases. It highlights that formaldehyde, present in phenol-formaldehyde resins used in coatings, is a source of harmful volatile organic compounds that provoke dangerous human diseases including lung cancer. Therefore, there is clear evidence in the abstract of a relationship between formaldehyde exposure and lung cancer."
+      },
+      "formaldehyde_nasopharyngeal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that formaldehyde is a carcinogen and can cause nasopharyngeal cancer. It highlights that phenol-formaldehyde resins and formaldehyde itself are sources of harmful volatile organic compounds that provoke dangerous human diseases, including nasopharyngeal cancer. Therefore, there is clear evidence in the abstract of a relationship between formaldehyde exposure and nasopharyngeal cancer."
+      },
+      "formaldehyde_acute_myeloid_leukemia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that formaldehyde is a carcinogen and can cause acute myeloid leukemia. It highlights that phenol-formaldehyde resins and formaldehyde itself are sources of harmful volatile organic compounds that provoke dangerous human diseases, including acute myeloid leukemia. Therefore, there is clear evidence in the abstract of a relationship between formaldehyde exposure and the development of acute myeloid leukemia."
+      }
+    },
+    {
+      "PRIMAL™ SF-208 ER acrylic copolymer dispersion_lungs_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses that formaldehyde is a carcinogen linked to lung cancer and that coatings containing phenol-formaldehyde resins can release harmful VOCs including formaldehyde. However, it states that formulations based on PRIMAL™ SF-208 ER acrylic copolymer dispersion have been developed to reduce the content of formaldehyde in coatings. There is no direct evidence or indication in the abstract that PRIMAL™ SF-208 ER acrylic copolymer dispersion itself causes lung cancer; rather, it appears to be used to lower harmful formaldehyde levels, potentially reducing cancer risk."
+      },
+      "PRIMAL™ SF-208 ER acrylic copolymer dispersion_nasopharyngeal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that formaldehyde, a known carcinogen, can cause nasopharyngeal cancer. However, PRIMAL™ SF-208 ER acrylic copolymer dispersion is described as a component used in coatings that helps reduce the content of formaldehyde. There is no evidence in the abstract that PRIMAL™ SF-208 ER itself causes nasopharyngeal cancer; rather, it appears to contribute to lowering exposure to harmful formaldehyde. Therefore, no clear relationship between PRIMAL™ SF-208 ER acrylic copolymer dispersion and nasopharyngeal cancer is established."
+      },
+      "PRIMAL™ SF-208 ER acrylic copolymer dispersion_acute_myeloid_leukemia": {
+        "relationship": "N",
+        "reason": "The abstract indicates that formaldehyde is a carcinogen that can cause acute myeloid leukemia. However, PRIMAL™ SF-208 ER acrylic copolymer dispersion is described as a component used in coatings that helps reduce the content of formaldehyde. There is no evidence in the abstract that PRIMAL™ SF-208 ER acrylic copolymer dispersion itself causes acute myeloid leukemia; rather, it appears to contribute to lowering a known carcinogen associated with the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions phenol-formaldehyde resins and formaldehyde as chemical compounds related to harmful VOCs in coatings. Additionally, PRIMAL™ SF-208 ER acrylic copolymer dispersion is identified as a specific chemical formulation used in coatings."
+}

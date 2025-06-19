@@ -1,0 +1,28 @@
+{
+  "id": 3694,
+  "title": "Photocatalysis for Air Treatment Processes: Current Technologies and Future Applications for the Removal of Organic Pollutants and Viruses",
+  "Abstract": "Photocatalysis for air treatment or photocatalytic oxidation (PCO) is a relatively new technology which requires titanium dioxide (TiO2) and a source of light (Visible or near-UV) to degrade pollutants contained in air streams. Present approaches for the photodegradation of indoor pollutants in air streams aim to eliminate volatile organic compounds (VOCs) and viruses, which are both toxic and harmful to human health. Photocatalysis for air treatment is an inexpensive and innovative green process. Additionally, it is a technology with a reduced environmental footprint when compared to other conventional air treatments which demand significant energy, require the disposal of used materials, and release CO2 and other greenhouse gases to the environment. This review discusses the most current and relevant information on photocatalysis for air treatment. This article also provides a critical review of (1) the most commonly used TiO2-based semiconductors, (2) the experimental syntheses and the various photocatalytic organic species degradation conversions, (3) the developed kinetics and computational fluid dynamics (CFD) and (4) the proposed Quantum Yields (QYs) and Photocatalytic Thermodynamic Efficiency Factors (PTEFs). Furthermore, this article contains important information on significant factors affecting the photocatalytic degradation of organic pollutants, such as reactor designs and type of photoreactor irradiation. Overall, this review describes state-of-the-art photocatalysis for air treatment to eliminate harmful indoor organic molecules, reviewing as well the potential applications for the inactivation of SARS-CoV2 (COVID-19) viruses.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV2 (COVID-19) viruses,' which is a specific disease name. Although the main focus is on photocatalysis for air treatment and pollutant degradation, the mention of COVID-19 clearly identifies a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

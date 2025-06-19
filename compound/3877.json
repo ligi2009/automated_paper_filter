@@ -1,0 +1,76 @@
+{
+  "id": 3877,
+  "title": "Graphene/polyaniline electrodeposited needle trap device for the determination of volatile organic compounds in human exhaled breath vapor and A549 cell",
+  "Abstract": "In this work, a graphene/polyaniline (G/PANI) electrodeposited coating was introduced as a novel extraction phase of needle trap microextraction (NTME). The needle trap coating was prepared by in situ electrodepositing G/PANI on the inner surface of a 21-gauge stainless steel needle, and utilized for the dynamic extraction of volatile organic compounds (VOCs) from human exhaled breath vapor (EBV) and headspace gas in cell lines. The coating exhibited enhanced mechanical stability, long lifespan, large specific surface area and good biocompatibility. The parameters for the extraction and analysis of analytes including extraction mode, sampling temperature, sampling speed, desorption parameters (temperature and time) were evaluated and optimized. The extraction performance of the needle trap was also compared with three commercially available SPME fibers. Low detection limits (0.002–0.003 μg L−1) and good linearity (R2 ≥ 0.9905) were obtained for the analysis of eight VOCs. The developed needle trap microextraction-gas chromatography-mass spectrometry (NTME-GC-MS) method has been successfully applied to the analysis of VOCs from human exhaled breath and lung cancer cell lines (A549) with good recovery (70–120%) and acceptable reproducibility (relative standard deviation: intra-day 4.8–15.3%, inter-day, 4.2–14.3%). The proposed method is simple, sensitive and environmentally friendly, it provides a new possibility for the determination of VOCs of exhaled breath both in vivo and in vitro.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer cell lines (A549)', which is a specific disease name. Although the main focus is on the extraction method and analysis of volatile organic compounds, the mention of 'lung cancer' clearly identifies a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "graphene",
+    "polyaniline",
+    "volatile organic compounds",
+    "VOCs"
+  ],
+  "compound_CID": [
+    {
+      "graphene": 5462310,
+      "polyaniline": "None",
+      "volatile organic compounds": "None",
+      "VOCs": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "graphene_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a graphene/polyaniline (G/PANI) coating as part of a needle trap microextraction method for analyzing volatile organic compounds (VOCs) from human exhaled breath and lung cancer cell lines. The graphene compound is used as a component of the extraction device, highlighting its mechanical stability, surface area, and biocompatibility for analytical purposes. There is no evidence or indication in the abstract that graphene itself is related to causing, preventing, or influencing lung cancer. Instead, graphene is utilized as a tool in the detection and analysis of VOCs associated with lung cancer cells."
+      }
+    },
+    {
+      "polyaniline_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a graphene/polyaniline (G/PANI) coating as a novel extraction phase in needle trap microextraction for analyzing volatile organic compounds (VOCs) from human exhaled breath and lung cancer cell lines. Polyaniline is used here as a component of the extraction device, not as a compound causing or related to lung cancer. There is no evidence in the abstract that polyaniline itself is linked to lung cancer; rather, it is part of a tool to detect VOCs associated with lung cancer. Therefore, no clear relationship between polyaniline and lung cancer is indicated."
+      }
+    },
+    {
+      "volatile organic compounds_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes a novel method for extracting and analyzing volatile organic compounds (VOCs) from human exhaled breath and lung cancer cell lines using a graphene/polyaniline coated needle trap microextraction technique. While VOCs are analyzed in the context of lung cancer cell lines, the abstract focuses on the development and validation of the analytical method rather than establishing or discussing a direct causal or associative relationship between VOCs and lung cancer. There is no explicit evidence or conclusion presented in the abstract that links VOCs as a cause, risk factor, or biomarker definitively associated with lung cancer. Therefore, based on this abstract alone, there is no clear relationship established between volatile organic compounds and lung cancer."
+      }
+    },
+    {
+      "VOCs_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes a novel method for extracting and analyzing volatile organic compounds (VOCs) from human exhaled breath and lung cancer cell lines using a graphene/polyaniline coated needle trap microextraction technique. While VOCs were successfully detected and analyzed in samples related to lung cancer cells, the abstract does not provide evidence or discussion indicating a causal or associative relationship between VOCs and lung cancer. Instead, it focuses on the analytical method's performance and application. Therefore, based on this abstract alone, there is no clear evidence of a relationship between VOCs and lung cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions graphene and polyaniline as components of the electrodeposited coating. It also refers to volatile organic compounds (VOCs) as the analytes extracted and analyzed. Although VOCs is a general class, it is a specific term used to describe a defined group of chemical compounds relevant to the study."
+}

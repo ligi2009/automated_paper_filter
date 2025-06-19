@@ -1,0 +1,28 @@
+{
+  "id": 2945,
+  "title": "Model Evaluation of Secondary Chemistry due to Disinfection of Indoor Air with Germicidal Ultraviolet Lamps",
+  "Abstract": "Air disinfection using germicidal ultraviolet light (GUV) has received increasing attention during the COVID-19 pandemic. GUV uses UVC lamps to inactivate microorganisms, but it also initiates photochemistry in air. However, GUV's indoor-air-quality impact has not been investigated in detail. Here, we model the chemistry initiated by GUV at 254 (\"GUV254\") or 222 nm (\"GUV222\") in a typical indoor setting for different ventilation levels. Our analysis shows that GUV254, usually installed in the upper room, can significantly photolyze O3, generating OH radicals that oxidize indoor volatile organic compounds (VOCs) into more oxidized VOCs. Secondary organic aerosol (SOA) is also formed as a VOC-oxidation product. GUV254-induced SOA formation is of the order of 0.1-1 mu g/m3 for the cases studied here. GUV222 (described by some as harmless to humans and thus applicable for the whole room) with the same effective virus-removal rate makes a smaller indoor-air-quality impact at mid-to-high ventilation rates. This is mainly because of the lower UV irradiance needed and also less efficient OH-generating O3 photolysis than GUV254. GUV222 has a higher impact than GUV254 under poor ventilation due to a small but significant photochemical production of O3 at 222 nm, which does not occur with GUV254.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19 pandemic' as a specific disease name. Although the main focus is on air disinfection and indoor air quality, the mention of COVID-19 is a clear reference to a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

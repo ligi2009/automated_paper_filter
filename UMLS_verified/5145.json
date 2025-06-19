@@ -1,0 +1,37 @@
+{
+  "id": 5145,
+  "title": "LC-MS/MS Based Volatile Organic Compound Biomarkers Analysis for Early Detection of Lung Cancer",
+  "Abstract": "Simple Summary In our work, we described and proposed a novel LC-MS/MS based approach for early lung cancer screening based on the VOC marker. Through this approach, two key volatile organic compounds (VOCs) used in the early screening and diagnosis of lung cancer were determined as 3-hydroxy-2-butanone and 2-pentanone. 3-hydroxy-2-butanone in the human body was found for the first time to be derived from the sugar metabolism of oral bacteria and we found a correlation between the bacteria that metabolize 3-hydroxy-2-butanone and lung cancer. Abstract (1) Background: lung cancer is the world’s deadliest cancer, but early diagnosis helps to improve the cure rate and thus reduce the mortality rate. Annual low-dose computed tomography (LD-CT) screening is an efficient lung cancer-screening program for a high-risk population. However, LD-CT has often been characterized by a higher degree of false-positive results. To meet these challenges, a volatolomic approach, in particular, the breath volatile organic compounds (VOCs) fingerprint analysis, has recently received increased attention for its application in early lung cancer screening thanks to its convenience, non-invasiveness, and being well tolerated by patients. (2) Methods: a LC-MS/MS-based volatolomics analysis was carried out according to P/N 5046800 standard based breath analysis of VOC as novel cancer biomarkers for distinguishing early-stage lung cancer from the healthy control group. The discriminatory accuracy of identified VOCs was assessed using subject work characterization and a random forest risk prediction model. (3) Results: the proposed technique has good performance compared with existing approaches, the differences between the exhaled VOCs of the early lung cancer patients before operation, three to seven days after the operation, as well as four to six weeks after operation under fasting and 1 h after the meal were compared with the healthy controls. The results showed that only 1 h after a meal, the concentration of seven VOCs, including 3-hydroxy-2-butanone (TG-4), glycolaldehyde (TG-7), 2-pentanone (TG-8), acrolein (TG-11), nonaldehyde (TG-19), decanal (TG-20), and crotonaldehyde (TG-22), differ significantly between lung cancer patients and control, with the invasive adenocarcinoma of the lung (IAC) having the most significant difference. (4) Conclusions: this novel, non-invasive approach can improve the detection rate of early lung cancer, and LC-MS/MS-based breath analysis could be a promising method for clinical application.",
+  "Disease_List": [
+    "lung cancer",
+    "invasive adenocarcinoma of the lung (IAC)"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the primary disease focus of the study. Additionally, it specifies a subtype called 'invasive adenocarcinoma of the lung (IAC)', which is a specific form of lung cancer. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "invasive adenocarcinoma of the lung (IAC)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

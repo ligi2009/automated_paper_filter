@@ -1,0 +1,61 @@
+{
+  "id": 1374,
+  "title": "Characterization of occupational exposures to cleaning products used for common cleaning tasks-a pilot study of hospital cleaners",
+  "Abstract": "BackgroundIn recent years, cleaning has been identified as an occupational risk because of an increased incidence of reported respiratory effects, such as asthma and asthma-like symptoms among cleaning workers. Due to the lack of systematic occupational hygiene analyses and workplace exposure data, it is not clear which cleaning-related exposures induce or aggravate asthma and other respiratory effects. Currently, there is a need for systematic evaluation of cleaning products ingredients and their exposures in the workplace. The objectives of this work were to: a) identify cleaning products' ingredients of concern with respect to respiratory and skin irritation and sensitization; and b) assess the potential for inhalation and dermal exposures to these ingredients during common cleaning tasks.MethodsWe prioritized ingredients of concern in cleaning products commonly used in several hospitals in Massachusetts. Methods included workplace interviews, reviews of product Materials Safety Data Sheets and the scientific literature on adverse health effects to humans, reviews of physico-chemical properties of cleaning ingredients, and occupational hygiene observational analyses. Furthermore, the potential for exposure in the workplace was assessed by conducting qualitative assessment of airborne exposures and semi-quantitative assessment of dermal exposures.ResultsCleaning products used for common cleaning tasks were mixtures of many chemicals, including respiratory and dermal irritants and sensitizers. Examples of ingredients of concern include quaternary ammonium compounds, 2-butoxyethanol, and ethanolamines. Cleaning workers are at risk of acute and chronic inhalation exposures to volatile organic compounds (VOC) vapors and aerosols generated from product spraying, and dermal exposures mostly through hands.ConclusionCleaning products are mixtures of many chemical ingredients that may impact workers' health through air and dermal exposures. Because cleaning exposures are a function of product formulations and product application procedures, a combination of product evaluation with workplace exposure assessment is critical in developing strategies for protecting workers from cleaning hazards. Our task based assessment methods allowed classification of tasks in different exposure categories, a strategy that can be employed by epidemiological investigations related to cleaning. The methods presented here can be used by occupational and environmental health practitioners to identify intervention strategies.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' and 'asthma-like symptoms' as specific respiratory diseases reported among cleaning workers. These are specific disease names rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "quaternary ammonium compounds",
+    "2-butoxyethanol",
+    "ethanolamines"
+  ],
+  "compound_CID": [
+    {
+      "quaternary ammonium compounds": "None",
+      "2-butoxyethanol": 8133,
+      "ethanolamines": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "quaternary ammonium compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cleaning products as occupational risks associated with increased incidence of respiratory effects, including asthma and asthma-like symptoms among cleaning workers. It specifically lists quaternary ammonium compounds as examples of ingredients of concern that act as respiratory and dermal irritants and sensitizers. This suggests that exposure to quaternary ammonium compounds in cleaning products may induce or aggravate asthma, indicating a relationship between the compound and the disease."
+      }
+    },
+    {
+      "2-butoxyethanol_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cleaning products as occupational risks associated with increased incidence of respiratory effects, including asthma and asthma-like symptoms among cleaning workers. It specifically lists 2-butoxyethanol as one of the ingredients of concern in cleaning products that are respiratory irritants and sensitizers. The exposure to volatile organic compounds like 2-butoxyethanol through inhalation is highlighted as a risk factor for respiratory health effects. Although the abstract does not provide direct causal evidence, it clearly associates 2-butoxyethanol exposure with respiratory irritation and sensitization, which are relevant to asthma development or aggravation."
+      }
+    },
+    {
+      "ethanolamines_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cleaning products as occupational risks associated with increased incidence of respiratory effects, including asthma and asthma-like symptoms among cleaning workers. Ethanolamines are specifically mentioned as one of the ingredients of concern in cleaning products that can act as respiratory irritants and sensitizers. Although the abstract does not provide direct causal evidence, it implies that exposure to ethanolamines through inhalation or dermal contact during cleaning tasks may contribute to respiratory issues such as asthma. Therefore, there is evidence of a relationship between ethanolamines and asthma in the context of occupational exposure."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'quaternary ammonium compounds', '2-butoxyethanol', and 'ethanolamines' as ingredients of concern in cleaning products related to respiratory and skin irritation and sensitization. These are specific chemical compound names identified in the text."
+}

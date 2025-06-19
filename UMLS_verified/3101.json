@@ -1,0 +1,28 @@
+{
+  "id": 3101,
+  "title": "Exploiting the Richness of Environmental Waterborne Bacterial Species to Find Natural Legionella pneumophila Competitors",
+  "Abstract": "Legionella pneumophila is one of the most tracked waterborne pathogens and remains an important threat to human health. Despite the use of biocides, L. pneumophila is able to persist in engineered water systems with the help of multispecies biofilms and phagocytic protists. For few years now, high-throughput sequencing methods have enabled a better understanding of microbial communities in freshwater environments. Those unexplored and complex communities compete for nutrients using antagonistic molecules as war weapons. Up to now, few of these molecules were characterized in regards of L. pneumophila sensitivity. In this context, we established, from five freshwater environments, a vast collection of culturable bacteria and investigated their ability to inhibit the growth of L. pneumophila. All bacterial isolates were classified within 4 phyla, namely Proteobacteria (179/273), Bacteroidetes (48/273), Firmicutes (43/273), and Actinobacteria (3/273) according to 16S rRNA coding sequences. Aeromonas, Bacillus, Flavobacterium, and Pseudomonas were the most abundant genera (154/273). Among the 273 isolates, 178 (65.2%) were shown to be active against L. pneumophila including 137 isolates of the four previously cited main genera. Additionally, other less represented genera depicted anti-Legionella activity such as Acinetobacter, Kluyvera, Rahnella, or Sphingobacterium. Furthermore, various inhibition diameters were observed among active isolates, ranging from 0.4 to 9 cm. Such variability suggests the presence of numerous and diverse natural compounds in the microenvironment of L. pneumophila. These molecules include both diffusible secreted compounds and volatile organic compounds, the latter being mainly produced by Pseudomonas strains. Altogether, this work sheds light on unexplored freshwater bacterial communities that could be relevant for the biological control of L. pneumophila in manmade water systems.",
+  "Disease_List": [
+    "Legionnaires' disease"
+  ],
+  "Reason": "The abstract explicitly mentions Legionella pneumophila, which is the bacterium responsible for Legionnaires' disease, a specific disease. Although the disease name 'Legionnaires' disease' is not directly stated, the mention of L. pneumophila as a waterborne pathogen and threat to human health clearly relates to this specific disease. Therefore, the classification is Y with Legionnaires' disease inferred from the pathogen mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Legionnaires' disease"
+  ],
+  "UMLS_search_results": {
+    "Legionnaires' disease": [
+      {
+        "ui": "C0023241",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023241",
+        "name": "Legionnaires' Disease",
+        "mesh_id": "D007877"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

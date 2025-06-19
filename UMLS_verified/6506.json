@@ -1,0 +1,57 @@
+{
+  "id": 6506,
+  "title": "Exposure to particulate matter (PM2.5) and volatile organic compounds (VOCs), and self-reported health symptoms among fish smokers: A case study in the Western Region of Ghana",
+  "Abstract": "The study aimed to assess the concentrations of particulate matter (PM2.5) and volatile organic compounds (VOCs) produced from the burning of biomass fuel from the smoking of fish. It also sought to determine the proportion of fish smokers reporting health symptoms associated with exposure to these pollutants. A cross-sectional study was conducted among fish smokers at Abuesi in the Western Region of Ghana. Systematic sampling was employed to choose 60 smokehouses for PM2.5 and VOC monitoring. A total of 434 fish smokers were also randomly sampled for the study. Measurements were taken at indoor, outdoor and control locations. The highest concentration of PM2.5 was recorded in the indoor environment. The mean concentration of PM2.5 between the indoor and control environment was significantly different unlike between the outdoor and control environments. The concentration of VOCs systematically varied across indoor, outdoor and control locations. The most reported disease symptoms were eye infection, cough, and headaches. There was a strong positive association between the number of years spent smoking fish and the frequency of eye problems reported by fish smokers. The study demonstrated that fish smokers inside the smokehouse or smoking rooms are exposed to higher PM2.5 and VOC levels which are detrimental to their health. There is therefore the need for further studies to explore other energy sources which may have a lesser negative effect on human health.",
+  "Disease_List": [
+    "eye infection",
+    "cough",
+    "headaches"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease symptoms such as 'eye infection', 'cough', and 'headaches' reported by fish smokers. These are specific health conditions related to diseases or symptoms, thus classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "eye infection",
+    "cough",
+    "headaches"
+  ],
+  "UMLS_search_results": {
+    "eye infection": [
+      {
+        "ui": "C0015403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0015403",
+        "name": "Eye Infection",
+        "mesh_id": "D015817"
+      }
+    ],
+    "cough": [
+      {
+        "ui": "C0010200",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010200",
+        "name": "Coughing",
+        "mesh_id": "D003371"
+      },
+      {
+        "ui": "C3815497",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3815497",
+        "name": "Cough (guaifenesin)",
+        "mesh_id": "None"
+      }
+    ],
+    "headaches": [
+      {
+        "ui": "C0018681",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018681",
+        "name": "Headache",
+        "mesh_id": "D006261"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

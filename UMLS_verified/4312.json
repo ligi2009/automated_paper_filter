@@ -1,0 +1,30 @@
+{
+  "id": 4312,
+  "title": "A Systematic Review and Meta-Analysis: Volatile Organic Compound Analysis in the Detection of Hepatobiliary and Pancreatic Cancers",
+  "Abstract": "Simple Summary Hepatobiliary cancers are notoriously difficult to detect, frequently leading to diagnosis in later stages of disease when curative treatment is not an option. The currently used biomarkers such as AFP (alpha-fetoprotein) and CA19.9 lack sensitivity and specificity. Hence, there is an unmet need for an alternative biomarker. Volatile organic compounds are produced by numerous tissues in the human body and subsequently excreted in breath, urine, blood, faeces, bile and saliva. Various analytical methods can be deployed to measure the concentration of these compounds in the bodily fluids. These are non-invasive and several studies have shown high patient acceptability. In light of this, we systematically reviewed the evidence available so far on the usefulness of volatile organic compounds in the detection of hepatobiliary and pancreatic cancers. Our review confirms that volatile organic compounds can be used, either alone or in combination with other biomarkers for the early diagnosis of hepatobiliary and pancreatic cancers. Abstract Background: Hepatobiliary cancers are notoriously difficult to detect, frequently leading to diagnosis in later stages of disease when curative treatment is not an option. The currently used biomarkers such as AFP (alpha-fetoprotein) and CA19.9 lack sensitivity and specificity. Hence, there is an unmet need for an alternative biomarker. Aim: To evaluate the diagnostic accuracy of volatile organic compounds (VOCs) for the detection of hepatobiliary and pancreatic cancers. Methods: A systematic review of VOCs’ use in the detection of hepatobiliary and pancreatic cancers was performed. A meta-analysis was performed using the software R. Heterogeneity was explored through meta-regression analysis. Results: A total of 18 studies looking at 2296 patients were evaluated. Pooled sensitivity and specificity of VOCs for the detection of hepatobiliary and pancreatic cancer were 0.79 (95% CI, 0.72−0.85) and 0.81 (97.5% CI, 0.76−0.85), respectively. The area under the curve was 0.86. Meta-regression analysis showed that the sample media used contributed to heterogeneity. Bile-based VOCs showed the highest precision values, although urine and breath are preferred for their feasibility. Conclusions: Volatile organic compounds have the potential to be used as an adjunct tool to aid in the early diagnosis of hepatobiliary cancers.",
+  "Disease_List": [
+    "hepatobiliary cancers",
+    "pancreatic cancers"
+  ],
+  "Reason": "The abstract explicitly mentions 'hepatobiliary cancers' and 'pancreatic cancers' as specific disease names. These are clearly identified types of cancers, not general terms, and are the focus of the diagnostic evaluation discussed in the abstract.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pancreatic cancers"
+  ],
+  "UMLS_search_results": {
+    "hepatobiliary cancers": [],
+    "pancreatic cancers": [
+      {
+        "ui": "C0346647",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346647",
+        "name": "Malignant neoplasm of pancreas",
+        "mesh_id": "D010190"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2781,
+  "title": "Antifungal activity of bio-active cell-free culture extracts and volatile organic compounds (VOCs) synthesised by endophytic fungal isolates of Garden Nasturtium",
+  "Abstract": "Antimicrobial resistance in fungal pathogens (both human and plant) is increasing alarmingly, leading to massive economic crises. The existing anti-fungal agents are becoming ineffective, and the situation worsens on a logarithmic scale. Novel antifungals from unique natural sources are highly sought to cope sustainably with the situation. Metabolites from endophytic microbes are the best-fitted alternatives in this case. Endophytes are the untapped sources of ‘plants’ internal microbial population’ and are promising sources of effective bio-therapeutic agents. Fungal endophytes were isolated from Tropaeolum majus and checked for antifungal activity against selected plant and human pathogens. Bioactive metabolites were identified through chromatographic techniques. The mode of action of those metabolites was evaluated through various spectroscopic techniques. The production of antifungal metabolite was optimized also. In particular VOCs (volatile organic compounds) of TML9 were tested in vitro for their anti-phytopathogenic activity. Ethyl acetate (EA) extract of cell-free culture components of Colletotrichum aenigma TML3 exhibited broad-spectrum antifungal activity against four species of Candida and the major constituents reported were 6-pentyl-2H-pyran-2-one, 2-Nonanone, 1 propanol 2-amino. The volatile metabolites, trans-ocimene, geraniol, and 4-terpinyl acetate, produced from Curvularia lunata TML9, inhibited the growth of some selected phyto pathogens. EA extract hampered the biofilm formation, minimised the haemolytic effect, and blocked the transformation of Candida albicans (MTCC 4748) from yeast to hyphal form with a Minimum Fungicidal Concentration (MFC) of 200–600 µg mL−1. Central carbohydrate metabolism, ergosterol synthesis, and membrane permeability were adversely affected and caused the lethal leakage of necessary macromolecules of C. albicans. Volatile metabolites inhibited the growth of phytopathogens i.e., Rhizoctonia solani, Alternaria alternata, Botrytis cinerea, Cercospora beticola, Penicillium digitatum, Aspergillus fumigatus, Ceratocystis ulmi, Pythium ultimum up to 89% with an IC50 value of 21.3–69.6 µL 50 mL−1 and caused leakage of soluble proteins and other intracellular molecules. Citrusy sweet odor volatiles of TML9 cultured in wheat-husk minimised the infections of Penicillium digitatum (green mold), in VOC-exposed sweet oranges (Citrus sinensis). Volatile and non-volatile antifungal metabolites of these two T. majus endophytes hold agricultural and pharmaceutical interests. Metabolites of TML3 have strong anti-Candida activity and require further assessment for therapeutic applications. Also, volatile metabolites of TML9 can be further studied as a source of antifungals. The present investigational outcomes bio-prospects the efficacy of fungal endophytes of Garden Nasturtium.",
+  "Disease_List": [
+    "Candida albicans infection",
+    "green mold"
+  ],
+  "Reason": "The abstract explicitly mentions 'Candida albicans', a specific fungal pathogen known to cause candidiasis in humans, which is a specific disease. It also refers to 'green mold' caused by Penicillium digitatum, a specific plant disease affecting sweet oranges. These are specific disease names rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Candida albicans infection"
+  ],
+  "UMLS_search_results": {
+    "Candida albicans infection": [
+      {
+        "ui": "C0276680",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276680",
+        "name": "Infection by Candida albicans",
+        "mesh_id": "None"
+      }
+    ],
+    "green mold": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

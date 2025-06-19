@@ -1,0 +1,164 @@
+{
+  "id": 553,
+  "title": "Analysis on Ambient Volatile Organic Compounds and their Human Gene Targets",
+  "Abstract": "Although some ambient Volatile Organic Compounds (VOCs) have been recognized to influence human health, the functional basis and underlying molecular mechanisms remain obscure. Here, the ambient VOCs and corresponding human genes response to the VOCs (HGRV) were analyzed integratedly from several aspects. (1) Firstly, through identifying composition and connectivity of functional groups within VOCs, we found that there is significant bias in the co-occurrence patterns among the top five frequent groups (respectively methyl, carbon-carbon double bond, benzene ring, chlorine and ethylene). For instances, co-occurrence of chlorine and benzene are considerably frequent, whereas the connection between chlorine and methyl/ethylene occurred rarely. (2) Then, by examining the screened HGRV, it was unveiled that four genes (respectively, IL6, BCL2, FOS and PTGS2) may act as “hub/hotspots” in response to VOCs. And four types of VOCs (respectively, Acetaldehyde, Butyraldehyde, Formaldehyde and Styrene) were found to be shared stimulators of the hubs. (3) Moreover, three dominant function categories were detected, respectively, response to lipopolysaccharide, response to molecule of bacterial origin and response to oxidative stress. (4) Further, the results disclosed that three most significant pathways are IL-17 signaling pathway, TNF signaling pathway and Rheumatoid arthritis. These three most significantly enriched pathways in HGRV are primarily associated with immune diseases and cancer. (5) Subsequently, by analyzing the diseases potentially associated with HGRV, the results revealed that 50 kinds of diseases might be significantly associated with HGRV. Among them, top 3 significant diseases are Immune system diseases, Cancers and Allergies and autoimmune diseases respectively. And these top 3 diseases might be induced by 13 common VOC species, such as Benzene, Chlorobenzene and Formaldehyde. Thus, the above ﬁndings could be useful for advancing our understanding of mechanisms related to diseases by VOCs exposure and development of control strategies to limit their damage or attenuate their sequelae.",
+  "Disease_List": [
+    "Rheumatoid arthritis",
+    "Immune system diseases",
+    "Cancers",
+    "Allergies and autoimmune diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'Rheumatoid arthritis' and broader but named disease categories like 'Immune system diseases', 'Cancers', and 'Allergies and autoimmune diseases'. These are specific disease names or well-defined disease categories rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Rheumatoid arthritis",
+    "Immune system diseases",
+    "Cancers"
+  ],
+  "UMLS_search_results": {
+    "Rheumatoid arthritis": [
+      {
+        "ui": "C0003873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003873",
+        "name": "Rheumatoid Arthritis",
+        "mesh_id": "D001172"
+      }
+    ],
+    "Immune system diseases": [
+      {
+        "ui": "C0021053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021053",
+        "name": "Immune System Diseases",
+        "mesh_id": "D007154"
+      }
+    ],
+    "Cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ],
+    "Allergies and autoimmune diseases": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Acetaldehyde",
+    "Butyraldehyde",
+    "Formaldehyde",
+    "Styrene",
+    "Benzene",
+    "Chlorobenzene"
+  ],
+  "compound_CID": [
+    {
+      "Acetaldehyde": 177,
+      "Butyraldehyde": 261,
+      "Formaldehyde": 712,
+      "Styrene": 7501,
+      "Benzene": 241,
+      "Chlorobenzene": 7964
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Acetaldehyde_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Acetaldehyde as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the Rheumatoid arthritis pathway is one of the three most significant pathways enriched in the human genes response to VOCs (HGRV). This suggests a molecular link between exposure to Acetaldehyde and pathways implicated in Rheumatoid arthritis. Although the abstract does not explicitly state a direct causal relationship, the enrichment of Rheumatoid arthritis pathways in response to VOCs including Acetaldehyde indicates evidence of a relationship between Acetaldehyde exposure and Rheumatoid arthritis."
+      },
+      "Acetaldehyde_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Acetaldehyde as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the most significant enriched pathways related to these gene responses include immune-related pathways such as the IL-17 and TNF signaling pathways, as well as Rheumatoid arthritis, which is an immune system disease. Additionally, the analysis of diseases potentially associated with the human genes responsive to VOCs (HGRV) indicates that Immune system diseases are among the top three significant diseases linked to VOC exposure. Although the abstract explicitly mentions Benzene, Chlorobenzene, and Formaldehyde as VOCs inducing these diseases, Acetaldehyde is included among the VOCs stimulating the hub genes involved in immune responses. Therefore, there is evidence supporting a relationship between Acetaldehyde exposure and Immune system diseases."
+      },
+      "Acetaldehyde_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Acetaldehyde as one of the four types of VOCs that act as shared stimulators of key human genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further states that the most significant enriched pathways related to these gene responses are associated with immune diseases and cancer. Additionally, the analysis of diseases potentially associated with the human genes responsive to VOCs (HGRV) reveals that cancers are among the top three significant diseases linked to VOC exposure. Although Acetaldehyde is not explicitly listed among the 13 common VOC species inducing the top diseases, it is included as a stimulator of the hub genes implicated in pathways associated with cancer, supporting a relationship between Acetaldehyde exposure and cancers."
+      }
+    },
+    {
+      "Butyraldehyde_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Butyraldehyde as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the Rheumatoid arthritis pathway is among the three most significant pathways enriched in the human genes response to VOCs (HGRV). This suggests a molecular link between exposure to Butyraldehyde and pathways implicated in Rheumatoid arthritis. Therefore, there is evidence supporting a relationship between Butyraldehyde exposure and Rheumatoid arthritis."
+      },
+      "Butyraldehyde_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Butyraldehyde as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the most significant enriched pathways related to these gene responses include immune-related pathways such as the IL-17 signaling pathway, TNF signaling pathway, and Rheumatoid arthritis, which are associated with immune diseases. Additionally, the analysis of diseases potentially associated with the human genes responsive to VOCs (HGRV) indicates that Immune system diseases are among the top three significant diseases linked to VOC exposure. Although the abstract explicitly mentions Benzene, Chlorobenzene, and Formaldehyde as VOCs inducing these diseases, Butyraldehyde is included as a shared stimulator of the hub genes and thus implicated in the molecular mechanisms underlying immune system diseases. Therefore, there is evidence supporting a relationship between Butyraldehyde and Immune system diseases."
+      },
+      "Butyraldehyde_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Butyraldehyde as one of the four types of VOCs that act as shared stimulators of key human genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further states that the most significant pathways enriched in the human gene response to VOCs are associated with immune diseases and cancer. Additionally, the analysis of diseases potentially associated with the human gene response to VOCs highlights cancers as one of the top three significant diseases linked to exposure to common VOC species, including Butyraldehyde. Therefore, there is evidence in the abstract supporting a relationship between Butyraldehyde exposure and cancers."
+      }
+    },
+    {
+      "Formaldehyde_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Formaldehyde is one of the four types of VOCs identified as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. Furthermore, the analysis revealed that the Rheumatoid arthritis pathway is among the three most significant pathways enriched in the human genes response to VOCs (HGRV). Additionally, Formaldehyde is listed among the 13 common VOC species potentially inducing top diseases including autoimmune diseases, which encompass Rheumatoid arthritis. Therefore, there is evidence from the abstract supporting a relationship between Formaldehyde exposure and Rheumatoid arthritis."
+      },
+      "Formaldehyde_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Formaldehyde is one of the four types of VOCs identified as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further states that the most significant enriched pathways related to these gene responses include immune-related pathways such as the IL-17 signaling pathway, TNF signaling pathway, and Rheumatoid arthritis, which are primarily associated with immune diseases. Additionally, the analysis of diseases potentially associated with human genes responsive to VOCs (HGRV) revealed that Immune system diseases are among the top three significant diseases linked to exposure to 13 common VOC species, including Formaldehyde. Therefore, there is clear evidence from the abstract that Formaldehyde exposure is related to Immune system diseases."
+      },
+      "Formaldehyde_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Formaldehyde as one of the four types of VOCs that stimulate key human genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further states that the most significant pathways enriched in the human genes response to VOCs are associated with immune diseases and cancer. Additionally, the analysis of diseases potentially associated with the human genes response to VOCs reveals that cancers are among the top three significant diseases linked to exposure to 13 common VOC species, including Formaldehyde. Therefore, there is clear evidence in the abstract supporting a relationship between Formaldehyde exposure and cancers."
+      }
+    },
+    {
+      "Styrene_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Styrene as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the Rheumatoid arthritis pathway is among the three most significantly enriched pathways associated with these gene responses to VOCs. This suggests a functional link between Styrene exposure and molecular pathways implicated in Rheumatoid arthritis, indicating evidence of a relationship between Styrene and Rheumatoid arthritis."
+      },
+      "Styrene_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Styrene as one of the four types of VOCs that act as shared stimulators of key genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further highlights that the most significant pathways enriched in the human genes responding to VOCs include immune-related pathways such as the IL-17 signaling pathway, TNF signaling pathway, and Rheumatoid arthritis, which are primarily associated with immune diseases. Additionally, the analysis of diseases potentially associated with the human genes responding to VOCs (HGRV) reveals that Immune system diseases are among the top three significant diseases linked to VOC exposure. Although the abstract explicitly mentions Benzene, Chlorobenzene, and Formaldehyde as VOCs potentially inducing these diseases, Styrene is included among the VOCs stimulating the key genes and pathways related to immune system diseases. Therefore, there is evidence supporting a relationship between Styrene exposure and Immune system diseases."
+      },
+      "Styrene_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract identifies Styrene as one of the four types of VOCs that act as shared stimulators of key human genes (IL6, BCL2, FOS, PTGS2) involved in response to VOCs. It further states that the most significant enriched pathways related to these gene responses are associated with immune diseases and cancer. Additionally, the analysis of diseases potentially associated with human genes responsive to VOCs (HGRV) highlights cancers as one of the top three significant diseases linked to VOC exposure. Although Styrene is not explicitly listed among the 13 common VOC species directly inducing cancers, it is included among the VOCs stimulating the hub genes connected to pathways associated with cancer. Therefore, there is evidence supporting a relationship between Styrene exposure and cancers based on the gene response and pathway analysis presented."
+      }
+    },
+    {
+      "Benzene_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Benzene is one of the 13 common VOC species potentially inducing top diseases including immune system diseases and autoimmune diseases. Additionally, the Rheumatoid arthritis pathway is identified as one of the three most significant pathways enriched in human gene responses to VOCs. This suggests a link between Benzene exposure and Rheumatoid arthritis through immune-related molecular mechanisms."
+      },
+      "Benzene_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that among the diseases potentially associated with human genes responsive to volatile organic compounds (HGRV), immune system diseases are one of the top three significant diseases. It specifically mentions that these top diseases might be induced by 13 common VOC species, including Benzene. This suggests a clear relationship between Benzene exposure and immune system diseases, supported by the identification of relevant signaling pathways (IL-17, TNF) and immune-related gene hubs responsive to VOCs."
+      },
+      "Benzene_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that among the diseases potentially associated with human genes responsive to volatile organic compounds (HGRV), cancers are one of the top three significant diseases. It specifically mentions that these diseases might be induced by 13 common VOC species, including Benzene. Therefore, there is evidence in the abstract supporting a relationship between Benzene exposure and cancers."
+      }
+    },
+    {
+      "Chlorobenzene_Rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Chlorobenzene is one of the 13 common VOC species potentially inducing top diseases including autoimmune diseases. It also highlights that Rheumatoid arthritis is among the most significant enriched pathways associated with the human genes response to VOCs (HGRV). Furthermore, the study links VOC exposure, including Chlorobenzene, to immune system diseases and autoimmune diseases, which encompass Rheumatoid arthritis. Therefore, there is evidence suggesting a relationship between Chlorobenzene exposure and Rheumatoid arthritis."
+      },
+      "Chlorobenzene_Immune_system_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Chlorobenzene is one of the 13 common VOC species potentially inducing the top 3 significant diseases associated with human genes response to VOCs (HGRV), among which Immune system diseases is listed as the most significant. Additionally, the pathways enriched in response to VOCs include those primarily associated with immune diseases, such as the IL-17 and TNF signaling pathways and Rheumatoid arthritis. This suggests a clear relationship between Chlorobenzene exposure and Immune system diseases."
+      },
+      "Chlorobenzene_Cancers": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Chlorobenzene is one of the 13 common VOC species potentially inducing the top 3 significant diseases associated with human genes response to VOCs (HGRV), among which Cancers is listed as a major disease. Furthermore, the pathways enriched in HGRV are primarily associated with immune diseases and cancer, supporting a relationship between Chlorobenzene exposure and cancers."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several chemical compounds as types of VOCs influencing human genes and diseases. These include Acetaldehyde, Butyraldehyde, Formaldehyde, Styrene, Benzene, and Chlorobenzene, which are all distinct chemical substances mentioned explicitly in the context of their biological and health effects."
+}

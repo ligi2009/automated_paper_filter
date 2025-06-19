@@ -1,0 +1,53 @@
+{
+  "id": 4812,
+  "title": "Mapping of Urinary Volatile Organic Compounds by a Rapid Analytical Method Using Gas Chromatography Coupled to Ion Mobility Spectrometry (GC–IMS)",
+  "Abstract": "Volatile organic compounds (VOCs) are a differentiated class of molecules, continuously generated in the human body and released as products of metabolic pathways. Their concentrations vary depending on pathophysiological conditions. They are detectable in a wide variety of biological samples, such as exhaled breath, faeces, and urine. In particular, urine represents an easily accessible specimen widely used in clinics. The most used techniques for VOCs detections are expensive and time-consuming, thus not allowing for rapid clinical analysis. In this perspective, the aim of this study is a comprehensive characterisation of the urine volatilome by the development of an alternative rapid analytical method. Briefly, 115 urine samples are collected; sample treatment is not needed. VOCs are detected in the urine headspace using gas chromatography coupled to ion mobility spectrometry (GC–IMS) by an extremely fast analysis (10 min). The method is analytically validated; the analysis is sensitive and robust with results comparable to those reported with other techniques. Twenty-three molecules are identified, including ketones, aldehydes, alcohols, and sulphur compounds, whose concentration is altered in several pathological states such as cancer and metabolic disorders. Therefore, it opens new perspectives for fast diagnosis and screening, showing great potential for clinical applications.",
+  "Disease_List": [
+    "cancer",
+    "metabolic disorders"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' and 'metabolic disorders' as specific pathological states in which the concentration of certain volatile organic compounds is altered. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "metabolic disorders"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "metabolic disorders": [
+      {
+        "ui": "C0025517",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0025517",
+        "name": "Metabolic Diseases",
+        "mesh_id": "D008659"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

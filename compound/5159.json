@@ -1,0 +1,169 @@
+{
+  "id": 5159,
+  "title": "Attraction of phlebotomine sandflies to volatiles from skin odors of individuals residing in an endemic area of tegumentary leishmaniasis",
+  "Abstract": "Background Many studies have investigated what could attract insects of medical importance and a crucial role has lately been attributed to human skin odors. Most of these researches have been concerned with mosquitoes, e.g., vectors of dengue and malaria. Little is known about volatile organic compounds (VOCs) from human skin odors and their effects on leishmania vectors. Objective The present study aimed to identify the VOCs from human skin that can be attractive to female anthropophilic phlebotomine sandflies. Results Forty-two VOCs were identified from skin odors of 33 male volunteers, seven of which were tested in wind tunnel assays employing field-captured phlebotomine sandflies (75.4% identified as Lutzomyia intermedia). Hexane and (E)-oct-3-en-1-ol (octenol) were used as negative and positive controls, respectively. 2-Phenylacetaldehyde (hereafter called phenylacetaldehyde), 6-methylhept-5-en-2-one (also known as sulcatone), nonadecane and icosane were found to activate female phlebotomine sandflies, but only phenylacetaldehyde, 6-methylhepten-5-en-2-one and icosane elicited attraction responses. Conclusions These results suggest that phenylacetaldehyde, 6-methylhepten-5-en-2-one and icosane may be suitable candidates for attractiveness experimentation in the field which can be an important tool to develop strategies concerning human beings protection against phlebotomine sandflies bites and consequently against leishmaniasis.",
+  "Disease_List": [
+    "dengue",
+    "malaria",
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'dengue' and 'malaria' as diseases transmitted by mosquitoes, and 'leishmaniasis' as a disease related to phlebotomine sandflies. These are all named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "dengue",
+    "malaria",
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "dengue": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Hexane",
+    "(E)-oct-3-en-1-ol",
+    "2-Phenylacetaldehyde",
+    "6-methylhept-5-en-2-one",
+    "nonadecane",
+    "icosane"
+  ],
+  "compound_CID": [
+    {
+      "Hexane": 8058,
+      "(E)-oct-3-en-1-ol": 5364475,
+      "2-Phenylacetaldehyde": 998,
+      "6-methylhept-5-en-2-one": 9862,
+      "nonadecane": 12401,
+      "icosane": 8222
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Hexane_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses volatile organic compounds (VOCs) from human skin odors and their effects on phlebotomine sandflies, which are vectors for leishmaniasis. Hexane is mentioned only as a negative control in experiments testing attraction of sandflies, with no indication of a relationship to dengue or its mosquito vectors. The study focuses on sandflies and leishmaniasis, not mosquitoes or dengue. Therefore, there is no evidence in the abstract of a relationship between hexane and dengue."
+      },
+      "Hexane_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the identification of volatile organic compounds (VOCs) from human skin odors and their effects on phlebotomine sandflies, which are vectors of leishmaniasis, not malaria. Hexane was used as a negative control in the experiments and was not found to activate or attract the sandflies. There is no mention of any relationship between hexane and malaria or its mosquito vectors in the abstract."
+      },
+      "Hexane_leishmaniasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the identification of volatile organic compounds (VOCs) from human skin odors that attract female phlebotomine sandflies, vectors of leishmaniasis. Hexane was used as a negative control in the experiments, indicating it did not attract the sandflies. The compounds that showed attraction were phenylacetaldehyde, 6-methylhepten-5-en-2-one, and icosane. Therefore, there is no evidence in the abstract that hexane has a relationship with leishmaniasis, either as an attractant or otherwise."
+      }
+    },
+    {
+      "(E)-oct-3-en-1-ol_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of volatile organic compounds (VOCs) from human skin odors in attracting insects of medical importance, specifically focusing on phlebotomine sandflies, which are vectors of leishmaniasis. (E)-oct-3-en-1-ol (octenol) is mentioned only as a positive control in assays testing attraction to sandflies, not mosquitoes. The study does not provide evidence linking (E)-oct-3-en-1-ol to dengue or its mosquito vectors. Therefore, there is no clear relationship between (E)-oct-3-en-1-ol and dengue based on this abstract."
+      },
+      "(E)-oct-3-en-1-ol_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of volatile organic compounds (VOCs) from human skin odors in attracting insects of medical importance, specifically focusing on phlebotomine sandflies, which are vectors of leishmaniasis. (E)-oct-3-en-1-ol (octenol) was used as a positive control in assays with sandflies, but the study does not provide evidence linking (E)-oct-3-en-1-ol to malaria or its mosquito vectors. The focus is on sandflies and leishmaniasis, not mosquitoes or malaria. Therefore, there is no clear relationship between (E)-oct-3-en-1-ol and malaria based on this abstract."
+      },
+      "(E)-oct-3-en-1-ol_leishmaniasis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the identification of volatile organic compounds (VOCs) from human skin odors that attract female phlebotomine sandflies, vectors of leishmaniasis. While (E)-oct-3-en-1-ol (octenol) was used as a positive control in the experiments, it was not reported to activate or attract the sandflies in the study. Instead, other compounds such as phenylacetaldehyde, 6-methylhepten-5-en-2-one, and icosane were found to elicit attraction responses. Therefore, there is no clear evidence from this abstract that (E)-oct-3-en-1-ol has a relationship with leishmaniasis through attraction of its vectors."
+      }
+    },
+    {
+      "2-Phenylacetaldehyde_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of 2-Phenylacetaldehyde in attracting female phlebotomine sandflies, which are vectors for leishmaniasis, not dengue. While it mentions mosquitoes as vectors of dengue, the study focuses on sandflies and their attraction to certain volatile organic compounds from human skin odors. There is no evidence in the abstract linking 2-Phenylacetaldehyde to dengue or its mosquito vectors."
+      },
+      "2-Phenylacetaldehyde_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of 2-Phenylacetaldehyde in attracting female phlebotomine sandflies, which are vectors for leishmaniasis, not malaria. While mosquitoes, which are vectors for malaria, are mentioned in the background, the study focuses on sandflies and their attraction to certain volatile organic compounds from human skin odors. There is no evidence in the abstract linking 2-Phenylacetaldehyde to malaria or its mosquito vectors."
+      },
+      "2-Phenylacetaldehyde_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-Phenylacetaldehyde (referred to as phenylacetaldehyde) was identified among volatile organic compounds from human skin odors that activate and attract female phlebotomine sandflies, which are vectors of leishmaniasis. The attraction of these sandflies to phenylacetaldehyde suggests its potential role in influencing sandfly behavior, which is directly related to the transmission of leishmaniasis. Therefore, there is evidence of a relationship between 2-Phenylacetaldehyde and leishmaniasis through its effect on the vector responsible for disease transmission."
+      }
+    },
+    {
+      "6-methylhept-5-en-2-one_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of 6-methylhept-5-en-2-one (sulcatone) in attracting female phlebotomine sandflies, which are vectors for leishmaniasis, not dengue. While the background mentions mosquitoes as vectors of dengue, the study focuses on sandflies and their attraction to certain volatile organic compounds from human skin odors. There is no evidence in the abstract linking 6-methylhept-5-en-2-one to dengue or its mosquito vectors."
+      },
+      "6-methylhept-5-en-2-one_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of 6-methylhept-5-en-2-one (also known as sulcatone) in attracting female phlebotomine sandflies, which are vectors for leishmaniasis, not malaria. While the background mentions mosquitoes as vectors of malaria, the study focuses on sandflies and their attraction to certain volatile organic compounds from human skin odors. There is no evidence in the abstract linking 6-methylhept-5-en-2-one to malaria or its mosquito vectors."
+      },
+      "6-methylhept-5-en-2-one_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 6-methylhept-5-en-2-one (also known as sulcatone) is one of the volatile organic compounds identified from human skin odors that activates and attracts female phlebotomine sandflies, which are vectors of leishmaniasis. The attraction of these sandflies to this compound suggests it could be used in strategies to protect humans from sandfly bites and consequently reduce the risk of leishmaniasis transmission. Therefore, there is evidence of a relationship between 6-methylhept-5-en-2-one and leishmaniasis through its role in attracting the disease vector."
+      }
+    },
+    {
+      "nonadecane_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the identification of volatile organic compounds (VOCs) from human skin odors that attract female phlebotomine sandflies, which are vectors for leishmaniasis. Nonadecane was found to activate these sandflies but did not elicit attraction responses. The study focuses on sandflies and leishmaniasis, not mosquitoes or dengue. Although mosquitoes are mentioned as vectors of dengue, the compound nonadecane's relationship is only tested with sandflies, not mosquitoes. Therefore, there is no clear evidence in the abstract linking nonadecane to dengue."
+      },
+      "nonadecane_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the identification of volatile organic compounds (VOCs) from human skin odors that attract female phlebotomine sandflies, vectors of leishmaniasis, not malaria. Nonadecane was found to activate female phlebotomine sandflies but did not elicit attraction responses. The study focuses on sandflies and leishmaniasis, with no mention of mosquitoes or malaria. Therefore, there is no clear evidence in the abstract of a relationship between nonadecane and malaria."
+      },
+      "nonadecane_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that nonadecane was identified among volatile organic compounds from human skin odors and was found to activate female phlebotomine sandflies, which are vectors of leishmaniasis. Although nonadecane did not elicit an attraction response like some other compounds, its activation of the sandflies suggests a relationship with the vector responsible for transmitting leishmaniasis. Therefore, there is evidence of a relationship between nonadecane and leishmaniasis through its effect on the disease vector."
+      }
+    },
+    {
+      "icosane_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of icosane as a volatile organic compound from human skin odors that attracts female phlebotomine sandflies, which are vectors for leishmaniasis. There is no mention of icosane being related to dengue or its mosquito vectors. The study focuses on sandflies and leishmaniasis, not mosquitoes or dengue. Therefore, there is no clear evidence of a relationship between icosane and dengue based on this abstract."
+      },
+      "icosane_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of icosane as a volatile organic compound from human skin odors that attracts female phlebotomine sandflies, which are vectors of leishmaniasis. There is no mention of icosane's relationship to mosquitoes or malaria. The study focuses on sandflies and leishmaniasis, not on malaria or its vectors. Therefore, there is no clear evidence in the abstract linking icosane to malaria."
+      },
+      "icosane_leishmaniasis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that icosane, a volatile organic compound identified from human skin odors, was found to activate and elicit attraction responses in female phlebotomine sandflies, which are vectors of leishmaniasis. This suggests that icosane is involved in attracting the sandflies that transmit the disease, indicating a relationship between icosane and leishmaniasis in the context of vector attraction and potential disease transmission."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several chemical compounds identified from human skin odors and tested for their attractiveness to sandflies. These include Hexane and (E)-oct-3-en-1-ol used as controls, and 2-Phenylacetaldehyde, 6-methylhept-5-en-2-one, nonadecane, and icosane which were found to activate or attract female phlebotomine sandflies."
+}

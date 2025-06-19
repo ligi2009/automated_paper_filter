@@ -1,0 +1,93 @@
+{
+  "id": 4130,
+  "title": "Exhaled breath and urinary volatile organic compounds (VOCs) for cancer diagnoses, and microbial-related VOC metabolic pathway analysis: a systematic review and meta-analysis",
+  "Abstract": "Background: The gradual evolution of the detection and quantification of volatile organic compounds (VOCs) has been instrumental in cancer diagnosis. The primary objective of this study was to assess the diagnostic potential of exhaled breath and urinary VOCs in cancer detection. As VOCs are indicative of tumor and human metabolism, our work also sought to investigate the metabolic pathways linked to the development of cancerous tumors. Materials and Methods: An electronic search was performed in the PubMed database. Original studies on VOCs within exhaled breath and urine for cancer detection with a control group were included. A meta-analysis was conducted using a bivariate model to assess the sensitivity and specificity of the VOCs for cancer detection. Fagan’s nomogram was designed to leverage the findings from our diagnostic analysis for the purpose of estimating the likelihood of cancer in patients. Ultimately, MetOrigin was employed to conduct an analysis of the metabolic pathways associated with VOCs in relation to both human and/or microbiota. Results: The pooled sensitivity, specificity and the area under the curve for cancer screening utilizing exhaled breath and urinary VOCs were determined to be 0.89, 0.88, and 0.95, respectively. A pretest probability of 51% can be considered as the threshold for diagnosing cancers with VOCs. As the estimated pretest probability of cancer exceeds 51%, it becomes more appropriate to emphasize the ‘ruling in’ approach. Conversely, when the estimated pretest probability of cancer falls below 51%, it is more suitable to emphasize the ‘ruling out’ approach. A total of 14, 14, 6, and 7 microbiota-related VOCs were identified in relation to lung, colorectal, breast, and liver cancers, respectively. The enrichment analysis of volatile metabolites revealed a significant enrichment of butanoate metabolism in the aforementioned tumor types. Conclusions: The analysis of exhaled breath and urinary VOCs showed promise for cancer screening. In addition, the enrichment analysis of volatile metabolites revealed a significant enrichment of butanoate metabolism in four tumor types, namely lung, colorectum, breast and liver. These findings hold significant implications for the prospective clinical application of multiomics correlation in disease management and the exploration of potential therapeutic targets.",
+  "Disease_List": [
+    "lung cancer",
+    "colorectal cancer",
+    "breast cancer",
+    "liver cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases by naming four types of cancer: lung cancer, colorectal cancer, breast cancer, and liver cancer. These are specific disease names rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "colorectal cancer",
+    "breast cancer",
+    "liver cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ],
+    "liver cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      },
+      {
+        "ui": "C0279000",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0279000",
+        "name": "Liver and Intrahepatic Biliary Tract Carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) and metabolic pathways such as butanoate metabolism but does not mention any specific chemical compound names."
+}

@@ -1,0 +1,59 @@
+{
+  "id": 4,
+  "title": "Atmospheric Pollution Interventions in the Environment: Effects on Biotic and Abiotic Factors, Their Monitoring and Control",
+  "Abstract": "Atmosphere is polluted for all living, non-living entities. Concentrations of atmospheric pollutants like PM2.5, PM10, CO, CO2, NO, NO2, and volatile organic compounds (VOC) are increasing abruptly due to anthropogenic activities (fossil fuels combustion, industrial activities, and power generation etc.). These pollutants are causing soil (microbial diversity disturbance, soil structure), plants (germination, growth, and biochemistry), and human health (asthma, liver, and lungs disorders to cancers) interventions. All the effects of these pollutants on soil, plants, animals, and microbes needed to be discussed briefly. Different strategies and technologies (HOPES, IOT, TEMPO and TNGAPMS) are used in the world to reduce the pollutant emission at source or when in the atmosphere and also discussed here. All gaseous emissions control mechanisms for major exhaust gases from toxic to less toxic form or environmental friendly form are major concern. Heavy metals present in dust and volatile organic compounds are converted into less toxic forms and their techniques are discussed briefly.",
+  "Disease_List": [
+    "asthma",
+    "liver disorders",
+    "lungs disorders",
+    "cancers"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to human health effects caused by atmospheric pollutants, including 'asthma', 'liver disorders', 'lungs disorders', and 'cancers'. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "liver disorders",
+    "cancers"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "liver disorders": [
+      {
+        "ui": "C0023895",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023895",
+        "name": "Liver diseases",
+        "mesh_id": "D008107"
+      }
+    ],
+    "lungs disorders": [],
+    "cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

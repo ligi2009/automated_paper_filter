@@ -1,0 +1,53 @@
+{
+  "id": 630,
+  "title": "Behavioral interplay between mosquito and mycolactone produced by Mycobacterium ulcerans and bacterial gene expression induced by mosquito proximity",
+  "Abstract": "Mycolactone is a cytotoxic lipid metabolite produced by Mycobacterium ulcerans, the environmental pathogen responsible for Buruli ulcer, a neglected tropical disease. Mycobacterium ulcerans is prevalent in West Africa, particularly found in lentic environments, where mosquitoes also occur. Researchers hypothesize mosquitoes could serve as a transmission mechanism resulting in infection by M. ulcerans when mosquitoes pierce skin contaminated with M. ulcerans. The interplay between the pathogen, mycolactone, and mosquito is only just beginning to be explored. A triple-choice assay was conducted to determine the host-seeking preference of Aedes aegypti between M. ulcerans wildtype (MU, mycolactone active) and mutant (MUlac-, mycolactone inactive). Both qualitative and quantitative differences in volatile organic compounds’ (VOCs) profiles of MU and MUlac- were determined by GC-MS. Additionally, we evaluated the interplay between Ae. aegypti proximity and M. ulcerans mRNA expression. The results showed that mosquito attraction was significantly greater (126.0%) to an artificial host treated with MU than MUlac-. We found that MU and MUlac produced differential profiles of VOCs associated with a wide range of biological importance from quorum sensing (QS) to human odor components. RT-qPCR assays showed that mycolactone upregulation was 24-fold greater for MU exposed to Ae. aegypti in direct proximity. Transcriptome data indicated significant induction of ten chromosomal genes of MU involved in stress responses and membrane protein, compared to MUlac- when directly having access to or in near mosquito proximity. Our study provides evidence of possible interkingdom interactions between unicellular and multicellular species that MU present on human skin is capable of interreacting with unrelated species (i.e., mosquitoes), altering its gene expression when mosquitoes are in direct contact or proximity, potentially impacting the production of its VOCs, and consequently leading to the stronger attraction of mosquitoes toward human hosts. This study elucidates interkingdom interactions between viable M. ulcerans bacteria and Ae. aegypti mosquitoes, which rarely have been explored in the past. Our finding opens new doors for future research in terms of disease ecology, prevalence, and pathogen dispersal outside of the M. ulcerans system.",
+  "Disease_List": [
+    "Buruli ulcer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Buruli ulcer' as the specific disease caused by Mycobacterium ulcerans. This is a named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y and the disease list includes 'Buruli ulcer'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Buruli ulcer"
+  ],
+  "UMLS_search_results": {
+    "Buruli ulcer": [
+      {
+        "ui": "C0085568",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0085568",
+        "name": "Buruli Ulcer",
+        "mesh_id": "D054312"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Mycolactone",
+    "volatile organic compounds (VOCs)"
+  ],
+  "compound_CID": [
+    {
+      "Mycolactone": 5282079,
+      "volatile organic compounds (VOCs)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Mycolactone_Buruli_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract clearly establishes a relationship between mycolactone and Buruli ulcer by identifying mycolactone as a cytotoxic lipid metabolite produced by Mycobacterium ulcerans, the pathogen responsible for Buruli ulcer. The study discusses how mycolactone is active in the wildtype strain of M. ulcerans and influences mosquito attraction, which may affect transmission dynamics. Additionally, mycolactone production is upregulated in the presence of mosquitoes, indicating its role in the pathogen's biology and potentially in disease ecology. Therefore, there is clear evidence linking mycolactone to Buruli ulcer."
+      }
+    },
+    {
+      "volatile organic compounds (VOCs)_Buruli_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between volatile organic compounds (VOCs) and Buruli ulcer through the study of Mycobacterium ulcerans (MU), the pathogen responsible for Buruli ulcer. The research shows that MU and its mutant form produce different profiles of VOCs, which influence the attraction of Aedes aegypti mosquitoes. Specifically, mosquitoes were significantly more attracted to hosts treated with the mycolactone-active MU, which produces distinct VOCs, compared to the mycolactone-inactive mutant. This suggests that VOCs produced by MU play a role in mosquito behavior, potentially affecting transmission dynamics of Buruli ulcer. Additionally, the presence of mosquitoes influences MU gene expression and VOC production, indicating an interkingdom interaction that could impact disease ecology and pathogen dispersal. Therefore, there is clear evidence linking VOCs to the disease process of Buruli ulcer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'Mycolactone' as a cytotoxic lipid metabolite produced by Mycobacterium ulcerans, which is a defined chemical compound. It also refers to 'volatile organic compounds (VOCs)' produced by the bacteria, which are specific chemical substances involved in the study, although VOCs is a class rather than a single compound. No other specific chemical compound names are provided."
+}

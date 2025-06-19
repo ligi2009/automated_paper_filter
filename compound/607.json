@@ -1,0 +1,69 @@
+{
+  "id": 607,
+  "title": "Analysis of human breath samples using a modified thermal desorption: gas chromatography electrospray ionization interface",
+  "Abstract": "A two-stage thermal desorption/secondary electrospray ionization/time-of-flight mass spectrometry for faster targeted breath profiling has been studied. A new secondary electrospray ionization (SESI) source was devised to constrain the thermal desorption plume and promote efficient mixing in the ionization region. Further, a chromatographic pre-separation stage was introduced to suppress interferences from siloxanes associated with thermal desorption profiles of exhaled breath samples. In vitro tests with 5-nonanone indicated an increased sensitivity and a lowered limit-of-detection, both by a factor of ~4, the latter to an on-trap mass of 14.3 ng, equivalent to a sampled breath concentration of 967 pptv. Analysis of the mass spectrometric responses from 20 breath samples acquired sequentially from a single participant indicated enhanced reproducibility (reduced relative standard deviations (RSD) for 5-nonanone, benzaldehyde and 2-butanone were 28 %, 16% and 14% respectively. The corresponding values for an open SESI source were that 5-nonanone was not detected, with %RSD of 39% for benzaldehyde and 31% for 2-butanone). The constrained source with chromatographic pre-separation resulted in an increase in the number of detectable volatile organic compounds (VOCs) from 260 mass spectral peaks with an open SESI source to 541 peaks with the constrained source with pre-separation. Most of the observed VOCs were present at trace levels, at less than 2.5% of the intensity of the base peak. Seventeen 2.5 dm3 distal breath samples were collected from asthma patients and healthy controls respectively, and subjected to comparative high-throughput screening using thermal desorption/SESI/time-of-flight mass spectrometry (TD-SESI-ToFMS). Breath metabolites were detected by using a background siloxane ion (hexamethylcyclotrisiloxane m/z 223.0642) as an internal lockmass. Eleven breath metabolites were selected from the breath research literature and successfully targeted. These data reinforce the proposition that TD-SESI-MS has potential for development as a rapid screening method for disease stratification and targeted metabolism profiling.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma patients' when describing the collection of distal breath samples for analysis. Asthma is a specific disease name, which justifies the classification as 'Y'. No other specific disease names are mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "5-nonanone",
+    "benzaldehyde",
+    "2-butanone",
+    "hexamethylcyclotrisiloxane"
+  ],
+  "compound_CID": [
+    {
+      "5-nonanone": 10405,
+      "benzaldehyde": 240,
+      "2-butanone": 6569,
+      "hexamethylcyclotrisiloxane": 10914
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "5-nonanone_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development and application of a thermal desorption/secondary electrospray ionization/time-of-flight mass spectrometry method for breath profiling, including detection of 5-nonanone. While 5-nonanone was detected with improved sensitivity and reproducibility, the study does not provide evidence of a direct relationship between 5-nonanone and asthma. Although breath samples from asthma patients and healthy controls were analyzed, the abstract does not report any specific association, correlation, or differential presence of 5-nonanone related to asthma. The focus is on methodological improvements and potential for disease stratification, but no clear link between 5-nonanone and asthma is established."
+      }
+    },
+    {
+      "benzaldehyde_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes a study using thermal desorption/secondary electrospray ionization/time-of-flight mass spectrometry (TD-SESI-ToFMS) to profile volatile organic compounds (VOCs) in breath samples from asthma patients and healthy controls. Benzaldehyde is mentioned as one of the VOCs detected with improved reproducibility using the new method. However, the abstract does not provide any evidence or discussion indicating a direct relationship between benzaldehyde levels and asthma, nor does it suggest benzaldehyde as a biomarker or causative agent for asthma. The focus is on the analytical method's capability and potential for disease stratification, but no specific link between benzaldehyde and asthma is established."
+      }
+    },
+    {
+      "2-butanone_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the development and application of a thermal desorption/secondary electrospray ionization/time-of-flight mass spectrometry method for breath profiling, including detection of volatile organic compounds such as 2-butanone. While 2-butanone was detected with improved reproducibility, the study involved breath samples from both asthma patients and healthy controls but does not provide any specific evidence or findings linking 2-butanone levels or presence to asthma. The focus is on methodological improvements and potential for disease stratification, but no direct relationship between 2-butanone and asthma is reported."
+      }
+    },
+    {
+      "hexamethylcyclotrisiloxane_asthma": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of hexamethylcyclotrisiloxane as a background siloxane ion serving as an internal lockmass in the mass spectrometry analysis of breath samples from asthma patients and healthy controls. There is no evidence presented that hexamethylcyclotrisiloxane itself is related to asthma pathogenesis, diagnosis, or progression. Instead, it is used as a technical reference compound in the analytical method. Therefore, no clear relationship between hexamethylcyclotrisiloxane and asthma is indicated in the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds 5-nonanone, benzaldehyde, and 2-butanone as analytes detected and quantified in breath samples. Additionally, hexamethylcyclotrisiloxane is identified as a background siloxane ion used as an internal lockmass. These are all specific chemical compound names, unlike general terms such as 'compounds' or 'substances'."
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4777,
+  "title": "Systematic Review: Contribution of the Gut Microbiome to the Volatile Metabolic Fingerprint of Colorectal Neoplasia",
+  "Abstract": "Colorectal cancer (CRC) has been associated with changes in volatile metabolic profiles in several human biological matrices. This enables its non-invasive detection, but the origin of these volatile organic compounds (VOCs) and their relation to the gut microbiome are not yet fully understood. This systematic review provides an overview of the current understanding of this topic. A systematic search using PubMed, Embase, Medline, Cochrane Library, and the Web of Science according to PRISMA guidelines resulted in seventy-one included studies. In addition, a systematic search was conducted that identified five systematic reviews from which CRC-associated gut microbiota data were extracted. The included studies analyzed VOCs in feces, urine, breath, blood, tissue, and saliva. Eight studies performed microbiota analysis in addition to VOC analysis. The most frequently reported dysregulations over all matrices included short-chain fatty acids, amino acids, proteolytic fermentation products, and products related to the tricarboxylic acid cycle and Warburg metabolism. Many of these dysregulations could be related to the shifts in CRC-associated microbiota, and thus the gut microbiota presumably contributes to the metabolic fingerprint of VOC in CRC. Future research involving VOCs analysis should include simultaneous gut microbiota analysis.",
+  "Disease_List": [
+    "Colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Colorectal cancer (CRC)' as a specific disease name multiple times. The discussion centers around metabolic profiles and gut microbiota related to colorectal cancer, clearly identifying it as the disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "Colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

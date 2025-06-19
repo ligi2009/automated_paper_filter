@@ -1,0 +1,35 @@
+{
+  "id": 3877,
+  "title": "Graphene/polyaniline electrodeposited needle trap device for the determination of volatile organic compounds in human exhaled breath vapor and A549 cell",
+  "Abstract": "In this work, a graphene/polyaniline (G/PANI) electrodeposited coating was introduced as a novel extraction phase of needle trap microextraction (NTME). The needle trap coating was prepared by in situ electrodepositing G/PANI on the inner surface of a 21-gauge stainless steel needle, and utilized for the dynamic extraction of volatile organic compounds (VOCs) from human exhaled breath vapor (EBV) and headspace gas in cell lines. The coating exhibited enhanced mechanical stability, long lifespan, large specific surface area and good biocompatibility. The parameters for the extraction and analysis of analytes including extraction mode, sampling temperature, sampling speed, desorption parameters (temperature and time) were evaluated and optimized. The extraction performance of the needle trap was also compared with three commercially available SPME fibers. Low detection limits (0.002–0.003 μg L−1) and good linearity (R2 ≥ 0.9905) were obtained for the analysis of eight VOCs. The developed needle trap microextraction-gas chromatography-mass spectrometry (NTME-GC-MS) method has been successfully applied to the analysis of VOCs from human exhaled breath and lung cancer cell lines (A549) with good recovery (70–120%) and acceptable reproducibility (relative standard deviation: intra-day 4.8–15.3%, inter-day, 4.2–14.3%). The proposed method is simple, sensitive and environmentally friendly, it provides a new possibility for the determination of VOCs of exhaled breath both in vivo and in vitro.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer cell lines (A549)', which is a specific disease name. Although the main focus is on the extraction method and analysis of volatile organic compounds, the mention of 'lung cancer' clearly identifies a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

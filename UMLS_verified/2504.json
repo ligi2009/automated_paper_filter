@@ -1,0 +1,86 @@
+{
+  "id": 2504,
+  "title": "Effects of air pollution on the skin: A review",
+  "Abstract": "The increase in air pollution over the years has had major effects on the human skin. Various air pollutants such as ultraviolet radiation, polycyclic aromatic hydrocarbons, volatile organic compounds, oxides, particulate matter, ozone and cigarette smoke affect the skin as it is the outermost barrier. Air pollutants damage the skin by inducing oxidative stress. Although human skin acts as a biological shield against pro-oxidative chemicals and physical air pollutants, prolonged or repetitive exposure to high levels of these pollutants may have profound negative effects on the skin. Exposure to ultraviolet radiation has been associated with extrinsic skin aging and skin cancers. Cigarette smoke contributes to premature aging and an increase in the incidence of psoriasis, acne and skin cancers. It is also implicated in allergic skin conditions such as atopic dermatitis and eczema. Polyaromatic hydrocarbons are associated with extrinsic skin aging, pigmentation, cancers and acneiform eruptions. Volatile organic compounds have been associated with atopic dermatitis. Given the increasing levels of air pollution and its detrimental effects on the skin, it is advisable to use strategies to decrease air pollution.",
+  "Disease_List": [
+    "psoriasis",
+    "acne",
+    "skin cancers",
+    "atopic dermatitis",
+    "eczema"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as psoriasis, acne, skin cancers, atopic dermatitis, and eczema in relation to the effects of air pollution on the skin. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "psoriasis",
+    "acne",
+    "skin cancers",
+    "atopic dermatitis",
+    "eczema"
+  ],
+  "UMLS_search_results": {
+    "psoriasis": [
+      {
+        "ui": "C0033860",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0033860",
+        "name": "Psoriasis",
+        "mesh_id": "D011565"
+      }
+    ],
+    "acne": [
+      {
+        "ui": "C0001144",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001144",
+        "name": "Acne Vulgaris",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0702166",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0702166",
+        "name": "Acne",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0718217",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0718217",
+        "name": "Acne brand of benozyl peroxide",
+        "mesh_id": "None"
+      }
+    ],
+    "skin cancers": [
+      {
+        "ui": "C0007114",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007114",
+        "name": "Malignant neoplasm of skin",
+        "mesh_id": "D012878"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

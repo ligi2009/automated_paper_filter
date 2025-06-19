@@ -1,0 +1,20 @@
+{
+  "id": 1252,
+  "title": "Fungicidal Activity of Volatile Organic Compounds Emitted by Burkholderia gladioli Strain BBB-01",
+  "Abstract": "A Burkholderia gladioli strain, named BBB-01, was isolated from rice shoots based on the confrontation plate assay activity against several plant pathogenic fungi. The genome of this bacterial strain consists of two circular chromosomes and one plasmid with 8,201,484 base pairs in total. Pangenome analysis of 23 B. gladioli strains suggests that B. gladioli BBB-01 has the closest evolutionary relationship to B. gladioli pv. gladioli and B. gladioli pv. agaricicola. B. gladioli BBB-01 emitted dimethyl disulfide and 2,5-dimethylfuran when it was cultivated in lysogeny broth and potato dextrose broth, respectively. Dimethyl disulfide is a well-known pesticide, while the bioactivity of 2,5-dimethylfuran has not been reported. In this study, the inhibition activity of the vapor of these two compounds was examined against phytopathogenic fungi, including Magnaporthe oryzae, Gibberella fujikuroi, Sarocladium oryzae, Phellinus noxius and Colletotrichum fructicola, and human pathogen Candida albicans. In general, 2,5-dimethylfuran is more potent than dimethyl disulfide in suppressing the growth of the tested fungi, suggesting that 2,5-dimethylfuran is a potential fumigant to control plant fungal disease.",
+  "Disease_List": [
+    "plant fungal disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'plant fungal disease' as a specific type of disease that the compound 2,5-dimethylfuran could potentially control. Although it also mentions several pathogens (Magnaporthe oryzae, Gibberella fujikuroi, Sarocladium oryzae, Phellinus noxius, Colletotrichum fructicola, and Candida albicans), these are pathogen names rather than disease names. The only disease term explicitly mentioned is 'plant fungal disease', which is a specific disease category rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y with 'plant fungal disease' listed.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "plant fungal disease": []
+  },
+  "MRCONSO_search_results": {
+    "plant fungal disease": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

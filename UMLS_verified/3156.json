@@ -1,0 +1,99 @@
+{
+  "id": 3156,
+  "title": "Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends",
+  "Abstract": "Plant-derived products and their extracted compounds have been used in folk medicine since early times. Zimbro or common juniper (Juniperus communis) is traditionally used to treat renal suppression, acute and chronic cystitis, bladder catarrh, albuminuria, leucorrhea, and amenorrhea. These uses are mainly attributed to its bioactive composition, which is very rich in phenolics, terpenoids, organic acids, alkaloids, and volatile compounds. In the last few years, several studies have analyzed the huge potential of this evergreen shrub, describing a wide range of activities with relevance in different biomedical discipline areas, namely antimicrobial potential against human pathogens and foodborne microorganisms, notorious antioxidant and anti-inflammatory activities, antidiabetic, antihypercholesterolemic and antihyperlipidemic effects, and neuroprotective action, as well as antiproliferative ability against cancer cells and the ability to activate inductive hepato-, renal- and gastroprotective mechanisms. Owing to these promising activities, extracts and bioactive compounds of juniper could be useful for the development of new pharmacological applications in the treatment of several acute and chronic human diseases.",
+  "Disease_List": [
+    "renal suppression",
+    "acute cystitis",
+    "chronic cystitis",
+    "bladder catarrh",
+    "albuminuria",
+    "leucorrhea",
+    "amenorrhea",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as renal suppression, acute and chronic cystitis, bladder catarrh, albuminuria, leucorrhea, amenorrhea, and cancer. These are all recognized medical conditions or diseases, which justifies classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "acute cystitis",
+    "chronic cystitis",
+    "albuminuria",
+    "amenorrhea",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "renal suppression": [],
+    "acute cystitis": [
+      {
+        "ui": "C0149523",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149523",
+        "name": "Acute cystitis",
+        "mesh_id": "None"
+      }
+    ],
+    "chronic cystitis": [
+      {
+        "ui": "C0221763",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0221763",
+        "name": "Chronic cystitis",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder catarrh": [],
+    "albuminuria": [
+      {
+        "ui": "C0001925",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001925",
+        "name": "Albuminuria",
+        "mesh_id": "D000419"
+      }
+    ],
+    "leucorrhea": [],
+    "amenorrhea": [
+      {
+        "ui": "C0002453",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002453",
+        "name": "Amenorrhea",
+        "mesh_id": "D000568"
+      },
+      {
+        "ui": "C2219717",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2219717",
+        "name": "menstrual periods stopped for over 6 months",
+        "mesh_id": "None"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

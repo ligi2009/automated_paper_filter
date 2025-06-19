@@ -1,0 +1,35 @@
+{
+  "id": 910,
+  "title": "Study on chemical composition, anti-pathogenic micro-organisms activity and inhibition activity against human breast cancer cell (MCF 7) of Juniperus sibirica essential oil",
+  "Abstract": "In recent years, due to the growing interest in natural products, plant essential oils have come more into the focus of phytomedicine [1,2]. Essential oils, one of the secondary metabolites in plants, are mixture of volatile organic compounds. They are used as food preservatives, additives, and natural remedies for food, cosmetic, pharmaceutical and agriculture sectors [2,3].In this study, we have investigated chemical characterization of needle essential oil from wild growing Juniperus sibirica in Mongolia and its antibacterial, antifungal and cytotoxic activities. In the essential oil of Juniperus sibirica needle, 78 compounds were identified. Among them α-pinene (48.6%), limonene + phellandrene (9.6%), myrtenyl acetate (4.03%), myrcene (3.3%) and β-pinene (3.0%) were identified as major constituents. This oil owned inhibitory activity against Bacillus. subtilis, Staphylococcus. aureus and Aspergillus. niger with 21, 17 and 11 mm clear zones. In addition, the oil at 50 μg/mL inhibited the growth of MCF-7 cell by 35.3% and at 100 μg/mL by 44.5%, respectively.The essential oil of Mongolian Juniperus sabina would be used as a preservative material in cosmetic and food products, as a bioactive agent in anti-inflammatory and wound healing products because of the determined antibacterial activity. In further, a detailed study on its anti-cancer and activity against pathogenic micro-organisms are necessary due to the promising anti-proliferative activity in breast cancer cell (MCF 7). \nЯмаан арц (Juniperus sibirica)-ны эфирийн тосны химийн бүрэлдэхүүн, бичил биетний эсрэг, хөхний хорт хавдрын (MCF 7) эсийн өсөлтийг дарангуйлах идэвхийн судалгаа \nХураангуй: Сүүлийн жилүүдэд эфирийн тосны эрэлт ихсэж, тэдгээрийн хими, биологийн судалгаа эрчимтэй хийгдэх боллоо [1,2]. Эфирийн тос нь үнэртэн, гоо сайхан, шүдний эмчилгээ, хөдөө аж ахуйн бүтээгдэхүүн, ариутгагч бэлдмэл, хүнсний хадгалалтыг уртасгах, амт үнэр оруулах нэмэлт болон байгалийн гаралтай эмийн түүхий эдээр өргөн ашиглагддаг дэгдэмхий нэгдлүүдийн хольцоос тогтох ургамлын хоёрдогч метаболитуудын нэг юм [2,3].Бид энэхүү судалгаагаар Монголын ямаан арцны шилмүүсний эфирийн тосны химийн бүрэлдэхүүн, бичил биетний эсрэг, хөхний хорт хавдрын MCF 7 эсийг дарангуйлах идэвхийг тодорхойллоо. Ямаан арцны шилмүүсний эфирийн тосонд 78 бүрэлдэхүүн бодис илэрснээс -пинен-48.6%, лимонен+фелландрен-9.6%, миртенил ацетат-4.0%, β-пинен-3.0%, мирцен-3.6%, ∆3-карен- 3.4% зонхилон агуулагдаж байв. Энэ тосны бичил биетний эсрэг идэвхийг агар диффузын аргаар тодорхойлоход B.subtilis, S.aureus, A.niger бичил биетнүүдийн ургалтыг 21, 17, 11мм хүрээ үүсгэн дарангуйлсан бол MTT аргаар MCF-7 хөхний хорт хавдрын эсийн өсөлтийг дарангуйлах идэвхийг тодорхойлоход 50 мкг/мл тундаа 37.3%, 100 мкг /мл тундаа 44.5% дарангуйлав.Монголын ямаан арцны эфирийн тосыг түүний бичил биетний эсрэг идэвхэд үндэслэн гоо сайхан, хүнсний бүтээгдэхүүний хадгалалтыг уртасгах, идээт үрэвсэл, яр шархны эсрэг бэлдмэлийн биоидэвхт түүхий эдээр ашиглаж болох юм. Мөн хөхний хорт хавдрын эсийн өсөлтийг идэвхтэйгээр дарангуйлж байгаа учир цаашид ямаан арцны эфирийн тосны бичил биетний болон хавдрын эсрэг идэвхийн судалгааг нарийвчлан хийх нь зүйтэй. \nТүлхүүр үг: Juniperus sibirica, α-пинен, миртенил ацетат, B.subtilis, эфирийн тос .",
+  "Disease_List": [
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'breast cancer' in relation to the MCF-7 cell line, which is a specific disease. The term 'breast cancer' is clearly stated as the disease context for the anti-proliferative activity of the essential oil. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

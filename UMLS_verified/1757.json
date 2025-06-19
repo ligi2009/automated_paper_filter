@@ -1,0 +1,53 @@
+{
+  "id": 1757,
+  "title": "Effect of Quorum Sensing by Staphylococcus epidermidis on the Attraction Response of Female Adult Yellow Fever Mosquitoes, Aedes aegypti aegypti (Linnaeus) (Diptera: Culicidae), to a Blood-Feeding Source",
+  "Abstract": "Aedes aegypti, the principal vector of yellow fever and dengue fever, is responsible for more than 30,000 deaths annually. Compounds such as carbon dioxide, amino acids, fatty acids and other volatile organic compounds (VOCs) have been widely studied for their role in attracting Ae. aegypti to hosts. Many VOCs from humans are produced by associated skin microbiota. Staphyloccocus epidermidis, although not the most abundant bacteria according to surveys of relative 16S ribosomal RNA abundance, commonly occurs on human skin. Bacteria demonstrate population level decision-making through quorum sensing. Many quorum sensing molecules, such as indole, volatilize and become part of the host odor plum. To date, no one has directly demonstrated the link between quorum sensing (i.e., decision-making) by bacteria associated with a host as a factor regulating arthropod vector attraction. This study examined this specific question with regards to S. epidermidis and Ae. aegypti. Pairwise tests were conducted to examine the response of female Ae. aegypti to combinations of tryptic soy broth (TSB) and S. epidermidis wildtype and agr- strains. The agr gene expresses an accessory gene regulator for quorum sensing; therefore, removing this gene inhibits quorum sensing of the bacteria. Differential attractiveness of mosquitoes to the wildtype and agr- strains was observed. Both wildtype and the agr- strain of S. epidermidis with TSB were marginally more attractive to Ae. aegypti than the TSB alone. Most interestingly, the blood-feeder treated with wildtype S. epidermidis/TSB attracted 74% of Ae. aegypti compared to the agr- strain of S. epidermidis/TSB (P ≤ 0.0001). This study is the first to suggest a role for interkingdom communication between host symbiotic bacteria and mosquitoes. This may have implications for mosquito decision-making with regards to host detection, location and acceptance. We speculate that mosquitoes “eavesdrop” on the chemical discussions occurring between host-associated microbes to determine suitability for blood feeding. We believe these data suggest that manipulating quorum sensing by bacteria could serve as a novel approach for reducing mosquito attraction to hosts, or possibly enhancing the trapping of adults at favored oviposition sites.",
+  "Disease_List": [
+    "yellow fever",
+    "dengue fever"
+  ],
+  "Reason": "The abstract explicitly mentions 'yellow fever' and 'dengue fever' as specific diseases transmitted by Aedes aegypti mosquitoes. These are well-known, specific disease names rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "yellow fever",
+    "dengue fever"
+  ],
+  "UMLS_search_results": {
+    "yellow fever": [
+      {
+        "ui": "C0043395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043395",
+        "name": "Yellow Fever",
+        "mesh_id": "D015004"
+      },
+      {
+        "ui": "C0301508",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0301508",
+        "name": "yellow fever vaccine",
+        "mesh_id": "D022341"
+      }
+    ],
+    "dengue fever": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      },
+      {
+        "ui": "C1548477",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548477",
+        "name": "Dengue Vaccines",
+        "mesh_id": "D053059"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

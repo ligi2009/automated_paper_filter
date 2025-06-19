@@ -1,0 +1,87 @@
+{
+  "id": 4544,
+  "title": "Investigation of the impacts of the industrial effluent on sheep ecology downward Kwashe industrial area, Iraq Kurdistan Region",
+  "Abstract": "The present study aimed to investigate the impact of Kwashe Industrial Area (KIA) in Iraqi Kurdistan Region on sheep ecology. KIA contains around 220 industrial factories, from which are more than 50 private crude oil refineries. Each day, these factories release thousands of hazardous untreated industrial effluents and create two main drains that join together and descend both Sulaivany and Duban plains that are mainly used for wheat cultivation and sheep forging to reach Mosul dam. The study is well documented and spotted a great impact on 15000 sheep habitat and niche. The sacristy of water resources in this plain, particularly in summer forces sheep to drink this hazardous effluent to be transferred through food chain to human being, and many direct health cases are investigated in this study. Annually, ten of sheep were stunned in the heavy asphalt and dies. Emissions of a variety NOx, SOx, CO2, CO, H2S, and many other volatile organic compounds like methane causes the spread of respiratory illness among the sheep in this area. Majority of the children in the surrounding villages have developed asthma and respiratory illnesses. ",
+  "Disease_List": [
+    "asthma",
+    "respiratory illnesses"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'asthma' and 'respiratory illnesses' affecting both sheep and children in the surrounding villages. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory illnesses": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "NOx",
+    "SOx",
+    "CO2",
+    "CO",
+    "H2S",
+    "methane"
+  ],
+  "compound_CID": [
+    {
+      "NOx": "None",
+      "SOx": 24261,
+      "CO2": 280,
+      "CO": 104730,
+      "H2S": 402,
+      "methane": 297
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "NOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions of various compounds including NOx contribute to the spread of respiratory illnesses among sheep in the area. Additionally, it states that the majority of children in the surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between NOx exposure and the development of asthma in the local population."
+      }
+    },
+    {
+      "SOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions of various compounds including SOx contribute to the spread of respiratory illnesses among sheep in the area. Additionally, it states that the majority of children in the surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between SOx emissions and the occurrence of asthma in the local population."
+      }
+    },
+    {
+      "CO2_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from industrial factories in the Kwashe Industrial Area include CO2 among other pollutants. It states that these emissions cause the spread of respiratory illnesses among sheep and that the majority of children in surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between exposure to CO2 (as part of the industrial emissions) and the occurrence of asthma in the local population."
+      }
+    },
+    {
+      "CO_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions of various gases including CO (carbon monoxide) contribute to the spread of respiratory illnesses among sheep in the area. Additionally, it states that the majority of children in the surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between exposure to CO emissions and the occurrence of asthma in the local population."
+      }
+    },
+    {
+      "H2S_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions of various gases including H2S from industrial factories in the Kwashe Industrial Area contribute to the spread of respiratory illnesses among sheep. It also notes that a majority of children in the surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between exposure to H2S (among other pollutants) and the occurrence of asthma in the local population."
+      }
+    },
+    {
+      "methane_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions of various gases, including methane, contribute to the spread of respiratory illnesses among sheep in the area. It also states that the majority of children in the surrounding villages have developed asthma and respiratory illnesses. This suggests a relationship between methane emissions and the occurrence of asthma in the local population."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including nitrogen oxides (NOx), sulfur oxides (SOx), carbon dioxide (CO2), carbon monoxide (CO), hydrogen sulfide (H2S), and methane, which are identified as emissions from industrial factories affecting the environment and health."
+}

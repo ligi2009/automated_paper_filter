@@ -1,0 +1,104 @@
+{
+  "id": 4484,
+  "title": "Differentiating cancer types using a urine test for volatile organic compounds",
+  "Abstract": "Background. In the human body, volatile organic compounds (VOCs) are produced by different tissues then secreted in different body fluids and subsequently excreted. Here we explore a non-invasive method for the detection of liver, prostate and bladder cancers. Methods. We recruited 140 cases. There were 31 hepatocellular carcinomas (HCC), 62 prostate carcinomas, 29 bladder carcinomas and 18 non-cancer cases. Male to female ratio was 5:1 and mean age was 72 years. Urinary VOCs were detected by applying solid-phase microextraction (SPME) technique. Results. The sensitivity for detection of HCC with normal alpha fetoprotein (AFP) was 68% (SE 0.06, 95% CI 0.54 to 0.81 and P < 0.005). The VOCs sensitivity in the detection of HCC cases with raised AFP was 83%. (SE 0.05, 95% CI 0.73 to 0.93 and P < 0.0001). The VOCs sensitivity for prostate cancer detection was 70% (SE 0.049, 95% CI 0.60 to 0.79 and P < 0.0002) and sensitivity for bladder cancer detection was 81% (SE 0.052, 95% CI 0.70 to 0.91 and P < 0.0001). Conclusions. SPME urinary VOCs analysis was able to differentiate between controls and each of hepatocellular, prostate and bladder cancers. This suggests that urinary VOCs are cancer specific and could potentially be used as a diagnostic method.",
+  "Disease_List": [
+    "hepatocellular carcinoma",
+    "prostate carcinoma",
+    "bladder carcinoma",
+    "hepatocellular cancer",
+    "prostate cancer",
+    "bladder cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases including hepatocellular carcinoma (HCC), prostate carcinoma, and bladder carcinoma multiple times. These are specific types of cancers, which are diseases. The terms 'hepatocellular cancer', 'prostate cancer', and 'bladder cancer' are also used, confirming the presence of specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma",
+    "prostate carcinoma",
+    "bladder carcinoma",
+    "hepatocellular cancer",
+    "prostate cancer",
+    "bladder cancer"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ],
+    "prostate carcinoma": [
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder carcinoma": [
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ],
+    "hepatocellular cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      }
+    ],
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder cancer": [
+      {
+        "ui": "C0005684",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005684",
+        "name": "Malignant neoplasm of urinary bladder",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

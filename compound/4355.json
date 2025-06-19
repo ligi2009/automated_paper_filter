@@ -1,0 +1,85 @@
+{
+  "id": 4355,
+  "title": "Bandgap engineering of germanene for gas sensing applications",
+  "Abstract": "Gas sensors are used to detect gas components in human breath to diagnose diseases, such as cancers. However, choosing suitable two-dimensional materials for gas sensors is a challenge. Germanene can be a good candidate because of its outstanding electronic and structural properties. Based on the density functional theory calculations with various schemes, such as PBE + vdW-DF2, HSE06 + PBE, and HSE06 + vdW-DF2, we elucidated the structural and electronic properties of germanene substrates (perfect, vacancy-1, and vacancy-2) while adsorbing hepatocellular carcinoma-related volatile organic compounds (VOCs), i.e., acetone, 1,4-pentadiene, methylene chloride, phenol, and allyl methyl sulfide. These gases have been selected for investigation because of their most frequent occurence in diagnosing the disease. We found that vacancy substrates enhanced the adsorption strength of the VOCs compared to the perfect one, where the phenol adsorbed most strongly and exhibited the most profound influence on the structural deformation of the substrates over the other VOCs. Besides, the adsorbed VOCs significantly modified the energy bandgap of the considered germanene substrates. In particular, the gases, except allyl methyl sulfide, vanished the bandgap of the vacancy-1 germanene and converted this substrate from a semiconductor to a metal, while they widened the bandgap of the vacancy-2 structure compared to the isolated case. Therefore, the perfect and vacancy-2 germanene sheets could maintain their semiconducting state upon gas adsorption, implying that these substrates may be suitable candidates for gas sensing applications. The nature of the interaction between the VOCs and the germanene substrates is a physical adsorption with a weak charge exchange, which mainly comes from the contribution of the pz orbital of the VOCs and the pz orbital of Ge.",
+  "Disease_List": [
+    "hepatocellular carcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'hepatocellular carcinoma-related volatile organic compounds (VOCs)' indicating a specific disease name, hepatocellular carcinoma, which is a type of liver cancer. Although the abstract also mentions 'cancers' in general, the specific disease named is hepatocellular carcinoma.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "1,4-pentadiene",
+    "methylene chloride",
+    "phenol",
+    "allyl methyl sulfide",
+    "germanene"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "1,4-pentadiene": 11587,
+      "methylene chloride": 6344,
+      "phenol": 996,
+      "allyl methyl sulfide": 66282,
+      "germanene": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies acetone as one of the volatile organic compounds (VOCs) related to hepatocellular carcinoma, frequently occurring in the diagnosis of this disease. Although the study focuses on the adsorption properties of acetone on germanene substrates for gas sensing applications, the inclusion of acetone among hepatocellular carcinoma-related VOCs indicates a relationship between acetone presence and the disease. Therefore, there is evidence of a relationship between acetone and hepatocellular carcinoma based on its diagnostic relevance."
+      }
+    },
+    {
+      "1,4-pentadiene_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 1,4-pentadiene as one of the volatile organic compounds (VOCs) related to hepatocellular carcinoma, indicating its frequent occurrence in diagnosing this disease. This suggests a relationship between 1,4-pentadiene and hepatocellular carcinoma, as it is considered a biomarker or indicator in the context of disease diagnosis through gas sensing."
+      }
+    },
+    {
+      "methylene chloride_hepatocellular_carcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of germanene-based gas sensors to detect volatile organic compounds (VOCs) related to hepatocellular carcinoma, including methylene chloride. However, it only addresses the adsorption properties of methylene chloride on germanene substrates for diagnostic purposes and does not provide any evidence or indication that methylene chloride causes, contributes to, or is otherwise related to the development of hepatocellular carcinoma. The focus is on detection and sensor material properties rather than a causal or pathological relationship."
+      }
+    },
+    {
+      "phenol_hepatocellular_carcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of germanene-based gas sensors to detect volatile organic compounds (VOCs), including phenol, which are related to hepatocellular carcinoma (HCC) for diagnostic purposes. It highlights phenol as one of the VOCs frequently occurring in diagnosing HCC and its adsorption properties on germanene substrates. However, the abstract does not provide evidence of a direct causal or pathological relationship between phenol and hepatocellular carcinoma itself. Instead, phenol is mentioned as a biomarker or indicator compound present in breath for detecting the disease, not as a compound causing or influencing the disease."
+      }
+    },
+    {
+      "allyl methyl sulfide_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract identifies allyl methyl sulfide as one of the volatile organic compounds (VOCs) related to hepatocellular carcinoma, detected in human breath for disease diagnosis. This indicates a relationship between allyl methyl sulfide and hepatocellular carcinoma as a biomarker or diagnostic indicator, even though the study focuses on adsorption properties on germanene substrates rather than direct causation."
+      }
+    },
+    {
+      "germanene_hepatocellular_carcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of germanene as a substrate material for gas sensors designed to detect volatile organic compounds (VOCs) related to hepatocellular carcinoma. It focuses on the adsorption properties of germanene with these VOCs and its potential application in sensing technology. However, there is no evidence presented that germanene itself has a direct biological or pathological relationship with hepatocellular carcinoma. The relationship is limited to germanene's role in detecting biomarkers associated with the disease, not in causing, treating, or being affected by the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several volatile organic compounds (VOCs) by name: acetone, 1,4-pentadiene, methylene chloride, phenol, and allyl methyl sulfide, which are studied for their adsorption on germanene substrates. Germanene is also identified as a specific two-dimensional material used as the substrate in the study. These are all specific chemical compounds or materials explicitly named in the text."
+}

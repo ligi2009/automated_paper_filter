@@ -1,0 +1,35 @@
+{
+  "id": 3792,
+  "title": "Exploring the influence of different habitats and their volatile chemistry in modulating sand fly population structure in a leishmaniasis endemic foci, Kenya",
+  "Abstract": "Phlebotomine sand flies transmit many viral protozoan and bacterial pathogens of public health importance. Knowledge of the ecologic factors influencing their distribution at local scale can provide insights into disease epidemiology and avenues for targeted control. Animal sheds, termite mounds and houses are important peri-domestic and domestic habitats utilized by different sand flies as resting or breeding habitats. However, our knowledge for selection of these habitats by sand flies remains poor. Here, we tested the hypothesis that these habitat types harbor different composition of sand fly species and differ in their volatile chemistry that could influence sand fly selection. To achieve this, we employed CDC light traps following a cross-sectional survey to investigate the distribution of sand flies in the three habitats in an endemic site for leishmaniasis in Kenya. The study was carried out during the dry season, when sand flies are optimally abundant in 2018 and 2020. Sand fly abundance did not vary between the habitats, but species-specific differences in abundance was evident. Measures of sand fly community structure (Shannon diversity and richness) were highest in animal shed, followed by termite mound and lowest inside human dwelling (house). This finding indicates broader attraction of both sexes of sand flies and females of varying physiological states to animal sheds potentially used as breeding or resting sites, but also as a signal for host presence for a blood meal. Furthermore, gas chromatography-mass spectrometric analysis of volatiles collected from represented substrates associated with these habitats viz: human foot odor on worn socks (houses indoors), cow dung (animal sheds) and termite mounds (enclosed vent), revealed a total of 47 volatile organic compounds. Of these, 26, 35 and 16 were detected in human socks, cow dung and enclosed termite vent, respectively. Of these volatiles, 1-octen-3-ol, 6-methyl-5-hepten-2-one, α-pinene, benzyl alcohol, m-cresol, p-cresol and decanal, previously known as attractants for sandflies and other blood-feeding insects, were common to the habitats. Our results suggest that habitat volatiles may contribute to the composition of sand flies and highlight their potential for use in monitoring sand fly populations.",
+  "Disease_List": [
+    "leishmaniasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'leishmaniasis' as a specific disease in the context of the endemic site in Kenya where the study was conducted. Although other terms like 'disease epidemiology' and 'pathogens' are used, only leishmaniasis is named as a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "leishmaniasis"
+  ],
+  "UMLS_search_results": {
+    "leishmaniasis": [
+      {
+        "ui": "C0023281",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023281",
+        "name": "Leishmaniasis",
+        "mesh_id": "D007896"
+      },
+      {
+        "ui": "C1548483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548483",
+        "name": "Leishmaniasis Vaccine",
+        "mesh_id": "D054332"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

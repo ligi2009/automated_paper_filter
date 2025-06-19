@@ -1,0 +1,222 @@
+{
+  "id": 2454,
+  "title": "Health Effects of Exposure to Indoor Semi-Volatile Organic Compounds in Chinese Building Environment: A Systematic Review",
+  "Abstract": "People spend a considerable portion of their lives indoors; thus, the quality of the indoor environment is crucial. Semi-volatile organic compounds (SVOCs) are among the primary indoor pollutants responsible for various health risks. This paper systematically reviews the impact of SVOC exposure on human health in Chinese built environments. Based on a set of criteria, we judged 12 publications as providing sufficient information on both SVOC exposure and health effects to inform the relationship. Out of six studies on polycyclic aromatic hydrocarbons (PAHs), three observed a positive association between PAH exposure and lung cancer. Out of six studies of phthalate exposure, two studies reported a significant positive association between DEP and DiBP and asthma, between DEP and DEHP and dry cough among children, and between DBP and rhinitis among younger adults. The results of this review suggest that there might be a link between phthalate exposure and asthma and allergies, as well as a link between PAH exposure and lung cancer. However, due to the limited number of studies conducted, more evidence is necessary to definitively guide the establishment of standards for SVOC control in China.",
+  "Disease_List": [
+    "lung cancer",
+    "asthma",
+    "dry cough",
+    "rhinitis",
+    "allergies"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'lung cancer', 'asthma', 'dry cough', 'rhinitis', and 'allergies' in relation to exposure to SVOCs like PAHs and phthalates. These are specific disease names rather than general health conditions, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "asthma",
+    "dry cough",
+    "rhinitis",
+    "allergies"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "dry cough": [
+      {
+        "ui": "C0850149",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0850149",
+        "name": "Dry cough",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1828863",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1828863",
+        "name": "Dry Cough Pharmaceutical",
+        "mesh_id": "None"
+      }
+    ],
+    "rhinitis": [
+      {
+        "ui": "C0035455",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035455",
+        "name": "Rhinitis",
+        "mesh_id": "D012220"
+      }
+    ],
+    "allergies": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1717415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1717415",
+        "name": "Allergies:Find:Pt:^Patient:Ord",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "polycyclic aromatic hydrocarbons",
+    "DEP",
+    "DiBP",
+    "DEHP",
+    "DBP"
+  ],
+  "compound_CID": [
+    {
+      "polycyclic aromatic hydrocarbons": "None",
+      "DEP": 6781,
+      "DiBP": 6782,
+      "DEHP": 8343,
+      "DBP": 3026
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polycyclic aromatic hydrocarbons_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that out of six studies on polycyclic aromatic hydrocarbons (PAHs), three observed a positive association between PAH exposure and lung cancer. This indicates evidence of a relationship between PAHs and lung cancer. However, the abstract also notes that the number of studies is limited and more evidence is needed to definitively guide standards, suggesting that while there is evidence of a relationship, it is not yet conclusive."
+      },
+      "polycyclic aromatic hydrocarbons_asthma": {
+        "relationship": "N",
+        "reason": "The abstract indicates that among the studies reviewed, polycyclic aromatic hydrocarbons (PAHs) were positively associated with lung cancer, but there is no mention of a positive association between PAHs and asthma. Instead, asthma was linked to phthalate exposure in some studies. Therefore, based on the abstract, there is no clear evidence of a relationship between PAHs and asthma."
+      },
+      "polycyclic aromatic hydrocarbons_dry_cough": {
+        "relationship": "N",
+        "reason": "The abstract indicates that polycyclic aromatic hydrocarbons (PAHs) have been positively associated with lung cancer in some studies, but it does not mention any association between PAHs and dry cough. Instead, dry cough is linked to phthalate exposure, not PAHs. Therefore, based on the abstract, there is no clear evidence of a relationship between PAHs and dry cough."
+      },
+      "polycyclic aromatic hydrocarbons_rhinitis": {
+        "relationship": "N",
+        "reason": "The abstract reports a positive association between polycyclic aromatic hydrocarbons (PAHs) and lung cancer, but does not mention any association between PAHs and rhinitis. The only mention of rhinitis is in relation to phthalate exposure, not PAHs. Therefore, based on the abstract, there is no clear evidence of a relationship between PAHs and rhinitis."
+      },
+      "polycyclic aromatic hydrocarbons_allergies": {
+        "relationship": "N",
+        "reason": "The abstract indicates that polycyclic aromatic hydrocarbons (PAHs) have been positively associated with lung cancer in some studies, but it does not report any direct association between PAHs and allergies. Instead, the abstract suggests a possible link between phthalate exposure and asthma and allergies, not PAHs. Therefore, based on the information provided, there is no clear evidence of a relationship between PAHs and allergies."
+      }
+    },
+    {
+      "DEP_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that while there is evidence linking polycyclic aromatic hydrocarbons (PAHs) to lung cancer, the studies on phthalate exposure, including DEP, primarily show associations with asthma, dry cough, and rhinitis, not lung cancer. Therefore, there is no clear evidence from the reviewed studies to support a relationship between DEP and lung cancer."
+      },
+      "DEP_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that out of six studies on phthalate exposure, two studies found a significant positive association between DEP (a phthalate) and asthma. This indicates evidence of a relationship between DEP exposure and asthma, although the overall number of studies is limited and further research is needed to confirm and guide standards."
+      },
+      "DEP_dry_cough": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among six studies of phthalate exposure, two studies found a significant positive association between DEP and DEHP and dry cough among children. This indicates evidence of a relationship between DEP exposure and dry cough, although the overall number of studies is limited and further research is needed."
+      },
+      "DEP_rhinitis": {
+        "relationship": "N",
+        "reason": "The abstract reports a significant positive association between DEP and asthma, and between DBP and rhinitis, but does not indicate a direct association between DEP and rhinitis. Therefore, based on the provided information, there is no clear evidence of a relationship between DEP and rhinitis."
+      },
+      "DEP_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that among the studies reviewed, two reported a significant positive association between DEP (a phthalate) and respiratory conditions including asthma and dry cough in children, and also mentions a link between phthalate exposure and allergies. Although the evidence is limited and more studies are needed, the review suggests a potential relationship between DEP exposure and allergies."
+      }
+    },
+    {
+      "DiBP_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that there is evidence linking polycyclic aromatic hydrocarbons (PAHs) to lung cancer, but it does not report any association between DiBP (a phthalate) and lung cancer. Instead, DiBP is mentioned in relation to asthma, not lung cancer. Therefore, based on the information provided, there is no clear relationship between DiBP and lung cancer."
+      },
+      "DiBP_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that out of six studies on phthalate exposure, two studies found a significant positive association between DiBP exposure and asthma. This indicates evidence of a relationship between DiBP and asthma, although the overall number of studies is limited and further research is needed to confirm and guide standards."
+      },
+      "DiBP_dry_cough": {
+        "relationship": "N",
+        "reason": "The abstract indicates that there is a significant positive association between DEP and DEHP with dry cough among children, but it does not mention a direct association between DiBP and dry cough. DiBP is associated with asthma in the reviewed studies, but no clear evidence links DiBP specifically to dry cough based on the provided information."
+      },
+      "DiBP_rhinitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions a significant positive association between DBP and rhinitis among younger adults, but does not report a direct association between DiBP and rhinitis. While DiBP is associated with asthma, the evidence linking DiBP specifically to rhinitis is not presented. Therefore, there is no clear relationship between DiBP and rhinitis based on the provided abstract."
+      },
+      "DiBP_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among six studies of phthalate exposure, two studies found a significant positive association between DEP and DiBP and asthma, and also mentions a link between phthalate exposure and allergies. Although the evidence is limited and more studies are needed, the review suggests a possible relationship between DiBP exposure and allergic conditions."
+      }
+    },
+    {
+      "DEHP_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that there is evidence linking polycyclic aromatic hydrocarbons (PAHs) to lung cancer, but it does not report any association between DEHP and lung cancer. Instead, DEHP exposure is associated with dry cough among children, not lung cancer. Therefore, based on the information provided, there is no clear relationship between DEHP and lung cancer."
+      },
+      "DEHP_asthma": {
+        "relationship": "N",
+        "reason": "The abstract indicates that among phthalate exposures, DEP and DiBP were positively associated with asthma, and DEP and DEHP were associated with dry cough among children. There is no direct evidence presented linking DEHP specifically to asthma. The review suggests a possible link between phthalate exposure in general and asthma, but the evidence for DEHP and asthma is not clearly established in the studies cited."
+      },
+      "DEHP_dry_cough": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among six studies of phthalate exposure, two studies found a significant positive association between DEP and DEHP and dry cough among children. This indicates evidence of a relationship between DEHP exposure and dry cough, although the overall number of studies is limited and further research is needed for definitive conclusions."
+      },
+      "DEHP_rhinitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions a significant positive association between DBP and rhinitis among younger adults, but does not report a direct association between DEHP and rhinitis. While DEHP is linked to dry cough among children, there is no clear evidence presented in the abstract connecting DEHP specifically to rhinitis. Therefore, based on the provided information, there is no clear relationship established between DEHP and rhinitis."
+      },
+      "DEHP_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that among studies on phthalate exposure, there is evidence of a significant positive association between DEHP and dry cough among children, and it suggests a possible link between phthalate exposure (which includes DEHP) and allergies. Although the evidence is limited and more studies are needed, the review supports a potential relationship between DEHP exposure and allergic conditions."
+      }
+    },
+    {
+      "DBP_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that there is evidence linking polycyclic aromatic hydrocarbons (PAHs) to lung cancer, but it does not report any association between DBP (a phthalate) and lung cancer. Instead, DBP is associated with rhinitis among younger adults. Therefore, based on the information provided, there is no clear relationship between DBP and lung cancer."
+      },
+      "DBP_asthma": {
+        "relationship": "N",
+        "reason": "The abstract indicates that among phthalate exposures, DEP and DiBP were positively associated with asthma, while DBP was associated with rhinitis in younger adults. There is no direct evidence presented in the abstract linking DBP exposure to asthma. Therefore, based on the information provided, there is no clear relationship between DBP and asthma."
+      },
+      "DBP_dry_cough": {
+        "relationship": "N",
+        "reason": "The abstract reports a significant positive association between DEP and DEHP with dry cough among children, but does not mention any association between DBP and dry cough. Instead, DBP is associated with rhinitis among younger adults. Therefore, there is no clear evidence in the abstract supporting a relationship between DBP and dry cough."
+      },
+      "DBP_rhinitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that among six studies of phthalate exposure, one study reported a significant positive association between DBP and rhinitis among younger adults. This indicates evidence of a relationship between DBP exposure and rhinitis, although the overall number of studies is limited and further research is needed."
+      },
+      "DBP_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among studies of phthalate exposure, one study found a significant positive association between DBP and rhinitis among younger adults. Rhinitis is commonly considered an allergic condition, indicating a link between DBP exposure and allergic disease. Additionally, the review suggests a possible link between phthalate exposure and allergies in general. Although the number of studies is limited and further evidence is needed, the existing data provide evidence of a relationship between DBP and allergies."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions polycyclic aromatic hydrocarbons (PAHs) and several phthalates by their abbreviations: DEP, DiBP, DEHP, and DBP. These are specific chemical compounds linked to health effects in the studies reviewed."
+}

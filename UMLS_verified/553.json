@@ -1,0 +1,59 @@
+{
+  "id": 553,
+  "title": "Analysis on Ambient Volatile Organic Compounds and their Human Gene Targets",
+  "Abstract": "Although some ambient Volatile Organic Compounds (VOCs) have been recognized to influence human health, the functional basis and underlying molecular mechanisms remain obscure. Here, the ambient VOCs and corresponding human genes response to the VOCs (HGRV) were analyzed integratedly from several aspects. (1) Firstly, through identifying composition and connectivity of functional groups within VOCs, we found that there is significant bias in the co-occurrence patterns among the top five frequent groups (respectively methyl, carbon-carbon double bond, benzene ring, chlorine and ethylene). For instances, co-occurrence of chlorine and benzene are considerably frequent, whereas the connection between chlorine and methyl/ethylene occurred rarely. (2) Then, by examining the screened HGRV, it was unveiled that four genes (respectively, IL6, BCL2, FOS and PTGS2) may act as “hub/hotspots” in response to VOCs. And four types of VOCs (respectively, Acetaldehyde, Butyraldehyde, Formaldehyde and Styrene) were found to be shared stimulators of the hubs. (3) Moreover, three dominant function categories were detected, respectively, response to lipopolysaccharide, response to molecule of bacterial origin and response to oxidative stress. (4) Further, the results disclosed that three most significant pathways are IL-17 signaling pathway, TNF signaling pathway and Rheumatoid arthritis. These three most significantly enriched pathways in HGRV are primarily associated with immune diseases and cancer. (5) Subsequently, by analyzing the diseases potentially associated with HGRV, the results revealed that 50 kinds of diseases might be significantly associated with HGRV. Among them, top 3 significant diseases are Immune system diseases, Cancers and Allergies and autoimmune diseases respectively. And these top 3 diseases might be induced by 13 common VOC species, such as Benzene, Chlorobenzene and Formaldehyde. Thus, the above ﬁndings could be useful for advancing our understanding of mechanisms related to diseases by VOCs exposure and development of control strategies to limit their damage or attenuate their sequelae.",
+  "Disease_List": [
+    "Rheumatoid arthritis",
+    "Immune system diseases",
+    "Cancers",
+    "Allergies and autoimmune diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'Rheumatoid arthritis' and broader but named disease categories like 'Immune system diseases', 'Cancers', and 'Allergies and autoimmune diseases'. These are specific disease names or well-defined disease categories rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Rheumatoid arthritis",
+    "Immune system diseases",
+    "Cancers"
+  ],
+  "UMLS_search_results": {
+    "Rheumatoid arthritis": [
+      {
+        "ui": "C0003873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003873",
+        "name": "Rheumatoid Arthritis",
+        "mesh_id": "D001172"
+      }
+    ],
+    "Immune system diseases": [
+      {
+        "ui": "C0021053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021053",
+        "name": "Immune System Diseases",
+        "mesh_id": "D007154"
+      }
+    ],
+    "Cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ],
+    "Allergies and autoimmune diseases": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

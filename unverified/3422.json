@@ -1,0 +1,26 @@
+{
+  "id": 3422,
+  "title": "Antibacterial activity of Arthrobacter strains isolated from Great Gobi A Strictly Protected Area, Mongolia",
+  "Abstract": "Desert soil hosts many microorganisms, whose activities are essential from an ecological viewpoint. Moreover, they are of great anthropic interest. The knowledge of extreme environments microbiomes may be beneficial for agriculture, technology, and human health. In this study, 11 Arthrobacter strains from topsoil samples collected from the Great Gobi A Strictly Protected Area in the Gobi Desert, were characterized by a combination of different techniques. The phylogenetic analysis, performed using their 16S rDNA sequences and the most similar Arthrobacter sequences found in databases, revealed that most of them were close to A. crystallopoietes, while others joined a sister group to the clade formed by A. humicola, A. pascens, and A. oryzae. The resistance of each strain to different antibiotics, heavy-metals, and NaCl was also tested as well as the inhibitory potential against human pathogens (i.e., Burkholderia ssp., Klebsiella pneumoniae, Pseudomonas aeruginosa, and Staphylococcus ssp.) via cross-streaking, to check the production of metabolites with antimicrobial activity. Data obtained revealed that all strains were resistant to heavy metals and were able to strongly interfere with the growth of many of the human pathogens tested. The volatile organic compounds (VOCs) profile of the 11 Arthrobacter strains was also analyzed. A total of 16 different metabolites were found, some of which were already known for having an inhibitory action against different Gram-positive and Gram-negative bacteria. Isolate MS-3A13, producing the highest quantity of VOCs, is the most efficient against Burkholderia cepacia complex (Bcc), K. pneumoniae, and coagulase-negative Staphylococci (CoNS) strains. This work highlights the importance of understanding microbial populations' phenotypical characteristics and dynamics in extreme environments to uncover the antimicrobial potential of new species and strains.",
+  "Disease_List": [
+    "Burkholderia cepacia complex (Bcc) infections",
+    "Klebsiella pneumoniae infections",
+    "Coagulase-negative Staphylococci (CoNS) infections"
+  ],
+  "Reason": "The abstract explicitly mentions specific human pathogens such as Burkholderia ssp., Klebsiella pneumoniae, and Staphylococcus ssp., including Burkholderia cepacia complex (Bcc) and coagulase-negative Staphylococci (CoNS). These bacteria are known to cause specific infectious diseases in humans. Although the abstract does not name diseases by their clinical names, the pathogens listed are directly associated with specific infectious diseases, justifying a 'Y' classification and listing these infections as the diseases mentioned.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "Burkholderia cepacia complex (Bcc) infections": [],
+    "Klebsiella pneumoniae infections": [],
+    "Coagulase-negative Staphylococci (CoNS) infections": []
+  },
+  "MRCONSO_search_results": {
+    "Burkholderia cepacia complex (Bcc) infections": [],
+    "Klebsiella pneumoniae infections": [],
+    "Coagulase-negative Staphylococci (CoNS) infections": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

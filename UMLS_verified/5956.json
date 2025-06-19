@@ -1,0 +1,75 @@
+{
+  "id": 5956,
+  "title": "Graphene-Doped Tin Oxide Nanofibers and Nanoribbons as Gas Sensors to Detect Biomarkers of Different Diseases through the Breath",
+  "Abstract": "This work presents the development of tin oxide nanofibers (NFs) and nanoribbons (NRs) sensors with graphene as a dopant for the detection of volatile organic compounds (VOCs) corresponding to different chronic diseases (asthma, chronic obstructive pulmonary disease, cystic fibrosis or diabetes). This research aims to determine the ability of these sensors to differentiate between gas samples corresponding to healthy people and patients with a disease. The nanostructures were grown by electrospinning and deposited on silicon substrates with micro-heaters integrated. The morphology of NFs and NRs was characterized by Scanning Electron Microscopy (SEM). A gas line was assembled and programmed to measure a wide range of gases (ethanol, acetone, NO and CO) at different concentrations simulating human breath conditions. Measurements were made in the presence and absence of humidity to evaluate its effect. The sensors were able to differentiate between the concentrations corresponding to a healthy person and a patient with one of the selected diseases. These were sensitive to biomarkers such as acetone and ethanol at low operating temperatures (with responses above 35%). Furthermore, CO and NO response was at high temperatures (above 5%). The sensors had a rapid response, with times of 50 s and recovery periods of about 10 min.",
+  "Disease_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease",
+    "cystic fibrosis",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names: asthma, chronic obstructive pulmonary disease, cystic fibrosis, and diabetes. These are clearly identified as chronic diseases related to the detection of volatile organic compounds using the developed sensors.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease",
+    "cystic fibrosis",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "cystic fibrosis": [
+      {
+        "ui": "C0010674",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010674",
+        "name": "Cystic Fibrosis",
+        "mesh_id": "D003550"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

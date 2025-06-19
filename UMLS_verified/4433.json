@@ -1,0 +1,28 @@
+{
+  "id": 4433,
+  "title": "Effect of 1.8-Cineole in Dermatophagoides pteronyssinus-Stimulated Bronchial Epithelial Cells and Mouse Model of Asthma.",
+  "Abstract": "1.8-Cineole (eucalyptol) is a phytoncide, a volatile organic compound derived from plants. Phytoncides are known to have an anti-inflammatory effect. However, the effects of 1.8-cineole in house dust mite (HDM)-stimulated bronchial epithelial cells are poorly understood. The objective of this study was to assess the effect of 1.8-cineole in HDM-stimulated bronchial epithelial cells and in the HDM-induced murine asthma model. The purpose of the present study is to evaluate the anti-inflammatory effects and mechanism of 1.8-cineole action in HDM-induced airway inflammation. Human bronchial epithelial cells (HBECs) were cultured with Dermatophagoides pteronyssinus (Der p) and 1.8-cineole. Cytokine protein levels, phosphorylation of protein kinases, and intracellular Toll-like receptor 4 (TLR4) expressions were measured. In the murine model, BALB/C mice were sensitized with Der p and were exposed to Der p via intranasal route during the challenge period. 1.8-Cineole was given by inhalation 6 h before the each challenge. Treatment with 1.8-cineole inhibited the Der p-induced cytokine protein expression, phosphorylation of p38 mitogen-activated protein kinase (MAPK) and Akt and intracellular TLR4 expression in HBECs. In the Der p-induced mouse model, airway hyper-responsiveness (AHR) and the number of eosinophils in bronchoalveolar lavage fluid (BALF) was also significantly reduced by 1.8-cineole treatment. The treatment of 1.8-cineole inhibited the increased production of interleukin (IL)-4, IL-13 and IL-17A in BALF after Der p challenge. These results suggest that 1.8-cineole suppresses Der p-induced IL-8, IL-6 and granulocyte macrophage-colony stimulating factor (GM-CSF) production in HBECs. Finally, we confirmed that 1.8-cineole decreases AHR and eosinophilic airway inflammation in Der p-induced asthma mice.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'HDM-induced murine asthma model' and 'Der p-induced asthma mice,' clearly identifying asthma as a specific disease studied in the research. Other terms like airway inflammation and airway hyper-responsiveness are symptoms or conditions related to asthma but not named diseases themselves.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

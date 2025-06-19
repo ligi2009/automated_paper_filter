@@ -1,0 +1,35 @@
+{
+  "id": 4652,
+  "title": "Breathomics: A Non-Invasive Approach for the Diagnosis of Breast Cancer",
+  "Abstract": "Breast cancer is the most commonly diagnosed cancer worldwide, underscoring the critical need for effective early detection methods to reduce mortality. Traditional detection techniques, such as mammography, present significant limitations, particularly in women with dense breast tissue, highlighting the need for alternative screening approaches. Breathomics, based on the analysis of Volatile Organic Compounds (VOCs) present in exhaled breath, offers a non-invasive, potentially transformative diagnostic tool. These VOCs are metabolic byproducts from various organs of the human body whose presence and varying concentrations in breath are reflective of different health conditions. This review explores the potential of breathomics, highlighting its promise as a rapid, cost-effective screening approach for breast cancer, facilitated through the integration of portable solutions like electronic noses (e-noses). Key considerations for clinical translation—including patient selection, environmental confounders, and different breath collection methods—will be examined in terms of how each of them affects the breath profile. However, there are also challenges such as patient variability in VOC signatures, and the need for standardization in breath sampling protocols. Future research should prioritize standardizing sampling and analytical procedures and validating their clinical utility through large-scale clinical trials.",
+  "Disease_List": [
+    "Breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Breast cancer' as a specific disease multiple times, discussing its diagnosis and the need for early detection methods. Although it also refers to 'different health conditions' in a general sense, the only specific disease named is breast cancer.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Breast cancer"
+  ],
+  "UMLS_search_results": {
+    "Breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

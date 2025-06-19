@@ -1,0 +1,57 @@
+{
+  "id": 3663,
+  "title": "Traditional Uses, Phytochemical and Pharmacological Properties of Dovyalis caffra",
+  "Abstract": "Dovyalis caffra is a valuable indigenous African fruit tree widely cultivated throughout the world. The species is also traditionally used as herbal medicine to treat and manage human and animal diseases. This study reviewed ethnobotanical uses, phytochemical and pharmacological properties of D. caffra. Relevant information on the uses, phytochemistry and pharmacological properties of D. caffra was collected from electronic scienti?c databases such as ScienceDirect, SciFinder, PubMed, Google Scholar, Medline, and SCOPUS. Pre-electronic literature search of conference papers, scientific articles, books, book chapters, dissertations and theses were carried out at the University library. Literature search revealed that D. caffra is used as herbal medicine for amenorrhoea, heart pains, malaria, pain, wounds and as ethnoveterinary medicine. Phytochemical compounds identified from the species include alkaloids, amino acids, fatty acids, flavonoids, hydoxybenzioic acids, hydroxycinnamic acids, hydroxyhydrocinnamic acid, hydroxyphenylacetic acids, organic acids, phenolics, steroids, terpenoids and volatile compounds. Pharmacological studies revealed that D. caffra extracts and compounds have antimicrobial, antioxidant, antischistosomal, nematicidal and cytotoxicity activities. There is need for detailed scientific investigations aimed at elucidating the chemical, nutritional and toxicological properties of D. caffra.",
+  "Disease_List": [
+    "amenorrhoea",
+    "heart pains",
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as amenorrhoea, heart pains, and malaria as conditions treated by Dovyalis caffra. These are specific disease names rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "amenorrhoea",
+    "heart pains",
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "amenorrhoea": [
+      {
+        "ui": "C0002453",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002453",
+        "name": "Amenorrhea",
+        "mesh_id": "D000568"
+      }
+    ],
+    "heart pains": [
+      {
+        "ui": "C0423636",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0423636",
+        "name": "Cardiac pain",
+        "mesh_id": "None"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

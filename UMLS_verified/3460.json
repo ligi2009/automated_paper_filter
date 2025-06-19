@@ -1,0 +1,35 @@
+{
+  "id": 3460,
+  "title": "Analysis of volatile organic compounds released from human lung cancer cells and from the urine of tumor-bearing mice",
+  "Abstract": "A potential strategy for the diagnosis of lung cancer is to exploit the distinct metabolic signature of this disease by way of biomarkers found in different sample types. In this study, we investigated whether specific volatile organic compounds (VOCs) could be detected in the culture medium of the lung cancer cell line A549 in addition to the urine of mice implanted with A549 cells. Several VOCs were found at significantly increased or decreased concentrations in the headspace of the A549 cell culture medium as compared with the culture medium of two normal lung cell lines. We also analyzed the urine of mice implanted with A549 cells and several VOCs were also found to be significantly increased or decreased relative to urine obtained from control mice. It was also revealed that seven VOCs were found at increased concentrations in both sample types. These compounds were found to be dimethyl succinate, 2-pentanone, phenol, 2-methylpyrazine, 2-hexanone, 2-butanone and acetophenone. Both sample types produce distinct biomarker profiles, and VOCs have potential to distinguish between true- and false-positive screens for lung cancer.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease being studied, including references to the lung cancer cell line A549 and the potential for biomarkers to diagnose lung cancer. Therefore, it meets the criteria for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

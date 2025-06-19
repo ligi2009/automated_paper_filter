@@ -1,0 +1,28 @@
+{
+  "id": 1472,
+  "title": "Insights into the significant increase in ozone during COVID-19 in a typical urban city of China",
+  "Abstract": "Abstract. The outbreak of COVID-19 promoted strict restrictions to human activities in\nChina, which led to a dramatic decrease in most air pollutant concentrations\n(e.g., PM2.5, PM10, NOx, SO2 and CO). However, an obvious\nincrease in ozone (O3) concentrations was found during the lockdown\nperiod in most urban areas of China. In this study, we conducted field\nmeasurements targeting ozone and its key precursors by utilizing a novel\nproton transfer reaction time-of-flight mass spectrometer (PTR-TOF-MS) in\nChangzhou, which is representative of the Yangtze River Delta (YRD) city\ncluster of China. We further applied the integrated methodology including\nmachine learning, an observation-based model (OBM) and sensitivity analysis to\nobtain insights into the reasons causing the obvious increase in ozone. Major\nfindings include the following: (1) by deweathered calculation, we found changes in\nprecursor emissions contributed 1.46 ppbv to the increase in the observed\nO3 during the full-lockdown period in 2020, while meteorology\nconstrained 3.0 ppbv of O3 in the full-lockdown period of 2019. (2) By\nusing an OBM, we found that although a significant reduction in O3\nprecursors was observed during the full-lockdown period, the photochemical\nformation of O3 was stronger than that during the pre-lockdown period.\n(3) The NOx/VOC ratio dropped dramatically from 1.84 during\nthe pre-lockdown to 0.79 in the full-lockdown period, which switched O3\nformation from a VOC-limited regime to the boundary of a NOx- and\nVOC-limited regime. Additionally, box model results suggested that the\ndecrease in the NOx/VOC ratio during the full-lockdown period could increase\nthe mean O3 by 2.4 ppbv. Results of this study give insights into the\nrelationship between O3 and its precursors in urban area and\ndemonstrate reasons for the obvious increase in O3 in most urban\nareas of China during the COVID-19 lockdown period. This study also\nunderlines the necessity of controlling anthropogenic oxygenated volatile organic compounds (OVOCs), alkenes and\naromatics in the sustained campaign of reducing O3 pollution in China.\n",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' as a specific disease name in the context of the outbreak and lockdown measures. Although the main focus of the study is on air pollution and ozone levels, the mention of COVID-19 is a clear reference to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

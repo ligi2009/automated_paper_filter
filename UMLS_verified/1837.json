@@ -1,0 +1,30 @@
+{
+  "id": 1837,
+  "title": "New volatile organic compounds from the exhaled breath of active tuberculosis patients",
+  "Abstract": "Tuberculosis (TB) remains a leading global cause of mortality, necessitating the development of innovative diagnostic approaches for early and accurate detection. Existing diagnostic methods are invasive, time-intensive, and contribute to delays in diagnosis, thereby exacerbating disease progression in patients and facilitating community transmission. To address these limitations, this study investigated human breath samples to identify volatile organic compounds (VOCs) associated with active TB as potential non-invasive biomarkers. VOCs were analysed using gas chromatography-mass spectrometry (GC-MS), supported by AMDIS and OpenChrom software for compound identification. The findings revealed the presence of previously unreported VOCs associated to breath samples from patients with active TB and multidrug-resistant TB (MDR-TB), which were absent in control participants without TB symptoms. Furthermore, the results suggest the feasibility of differentiating MDR-TB from active TB based on breath VOC profiles, marking a novel observation. These findings underpin the development of a non-invasive breathalyser diagnostic device for TB, with the potential to enhance disease management and reduce transmission.",
+  "Disease_List": [
+    "Tuberculosis",
+    "multidrug-resistant TB (MDR-TB)"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'Tuberculosis (TB)' and 'multidrug-resistant TB (MDR-TB)'. These are clearly named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Tuberculosis"
+  ],
+  "UMLS_search_results": {
+    "Tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "multidrug-resistant TB (MDR-TB)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

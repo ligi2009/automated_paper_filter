@@ -1,0 +1,32 @@
+{
+  "id": 806,
+  "title": "Pathophysiology of SARS-CoV-2 Infection in the Upper Respiratory Tract and Its Relation to Breath Volatile Organic Compounds",
+  "Abstract": "Among the many products of metabolic processes are volatile organic compounds (VOCs). In the airways, these volatile metabolites are emitted through breathing and thus are easily sampled for analysis. ABSTRACT Among the many products of metabolic processes are volatile organic compounds (VOCs). In the airways, these volatile metabolites are emitted through breathing and thus are easily sampled for analysis. Recent work has connected the functions and structure of the human microbiome with health and disease. Alteration in microbial function in this context can result in differences in metabolite composition, including that of VOCs, presenting the possibility of a new noninvasive method for clinical diagnosis. Screening methods that assess VOCs arising from changes in the airway microbiome could be highly useful in diagnosing viral upper respiratory tract infections (URTIs), e.g., COVID-19, which are highly contagious and have an enormous public health impact worldwide. A rapid noninvasive screening test for URTIs would pose major advantages in containing the disease. As early evidence shows that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection alters the human microbiome (both in the gut and the respiratory tract), we propose that detection of a VOC signature of an altered nasal microbiome could be fruitful as a rapid noninvasive measure of URTI in general and of SARS-CoV-2 in particular.",
+  "Disease_List": [
+    "COVID-19",
+    "severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection",
+    "viral upper respiratory tract infections (URTIs)"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as COVID-19 and SARS-CoV-2 infection, as well as the broader category of viral upper respiratory tract infections (URTIs). These are named diseases related to health conditions, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection": [],
+    "viral upper respiratory tract infections (URTIs)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,46 @@
+{
+  "id": 34,
+  "title": "Associations between Afrotropical bats, eukaryotic parasites, and microbial symbionts",
+  "Abstract": "Abstract Skin is the largest mammalian organ and the first defensive barrier against the external environment. The skin and fur of mammals can host a wide variety of ectoparasites, many of which are phylogenetically diverse, specialized, and specifically adapted to their hosts. Among hematophagous dipteran parasites, volatile organic compounds (VOCs) are known to serve as important attractants, leading parasites to compatible sources of blood meals. VOCs have been hypothesized to be mediated by host‐associated bacteria, which may thereby indirectly influence parasitism. Host‐associated bacteria may also influence parasitism directly, as has been observed in interactions between animal gut microbiota and malarial parasites. Hypotheses relating bacterial symbionts and eukaryotic parasitism have rarely been tested among humans and domestic animals, and to our knowledge have not been tested in wild vertebrates. In this study, we used Afrotropical bats, hematophagous ectoparasitic bat flies, and haemosporidian (malarial) parasites vectored by bat flies as a model to test the hypothesis that the vertebrate host microbiome is linked to parasitism in a wild system. We identified significant correlations between bacterial community composition of the skin and dipteran ectoparasite prevalence across four major bat lineages, as well as striking differences in skin microbial network characteristics between ectoparasitized and nonectoparasitized bats. We also identified links between the oral microbiome and presence of malarial parasites among miniopterid bats. Our results support the hypothesis that microbial symbionts may serve as indirect mediators of parasitism among eukaryotic hosts and parasites.",
+  "Disease_List": [
+    "malarial parasites",
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'malarial parasites' and discusses interactions involving malarial parasites vectored by bat flies. Malaria is a specific disease caused by these parasites, so the mention qualifies as a specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malarial parasites",
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malarial parasites": [
+      {
+        "ui": "C1271614",
+        "rootSource": "CHV",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1271614",
+        "name": "malarial parasites",
+        "mesh_id": "None"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

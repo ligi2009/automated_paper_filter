@@ -1,0 +1,146 @@
+{
+  "id": 2299,
+  "title": "Novel pseudo PMOS ultraviolet photo catalytic oxidation (PP-UVPCO) sensor for air purification",
+  "Abstract": "Nowaday’s air pollution is increasing because of harmful material in earth atmosphere causing deceases, deaths, and damage to crop. These harmful material can be natural origin or man-made. The main source of these harmful materials is power plant and manufacturing factories. The main air pollutant which can have adverse effects on humans and the ecosystem, are sulphur oxide, carbon monoxide, volatile organic compound, chlorofluorocarbons ammonia and toxic metals. These air pollutants can have adverse effect on human health like headache, fatigue, poor memory, respiratory irritation, pneumonia in children, lung cancer, heart disease, eye, and nose and throat irritation.",
+  "Disease_List": [
+    "pneumonia",
+    "lung cancer",
+    "heart disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as pneumonia in children, lung cancer, and heart disease as adverse effects of air pollution on human health. These are clearly named diseases rather than general health conditions.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pneumonia",
+    "lung cancer",
+    "heart disease"
+  ],
+  "UMLS_search_results": {
+    "pneumonia": [
+      {
+        "ui": "C0032285",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0032285",
+        "name": "Pneumonia",
+        "mesh_id": "D011014"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "heart disease": [
+      {
+        "ui": "C0018799",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018799",
+        "name": "Heart Diseases",
+        "mesh_id": "D006331"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "sulphur oxide",
+    "carbon monoxide",
+    "volatile organic compound",
+    "chlorofluorocarbons",
+    "ammonia"
+  ],
+  "compound_CID": [
+    {
+      "sulphur oxide": "None",
+      "carbon monoxide": 281,
+      "volatile organic compound": "None",
+      "chlorofluorocarbons": "None",
+      "ammonia": 222
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "sulphur oxide_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists sulphur oxide as one of the main air pollutants that have adverse effects on human health. It further states that these air pollutants can cause respiratory irritation and pneumonia in children, indicating a direct relationship between exposure to sulphur oxide and the occurrence of pneumonia."
+      },
+      "sulphur oxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists sulphur oxide as one of the main air pollutants that have adverse effects on human health, including lung cancer. This indicates a recognized relationship between exposure to sulphur oxide and the occurrence of lung cancer."
+      },
+      "sulphur oxide_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists sulphur oxide as one of the main air pollutants that have adverse effects on human health, including heart disease. This indicates a clear relationship between exposure to sulphur oxide and the occurrence of heart disease as per the information provided."
+      }
+    },
+    {
+      "carbon monoxide_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the main air pollutants that have adverse effects on human health. It specifically mentions pneumonia in children as one of the health effects associated with exposure to these air pollutants, including carbon monoxide. Therefore, there is evidence in the abstract indicating a relationship between carbon monoxide exposure and pneumonia."
+      },
+      "carbon monoxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the main air pollutants that have adverse effects on human health. It specifically mentions lung cancer as one of the health issues caused by these air pollutants. Therefore, there is evidence in the abstract indicating a relationship between carbon monoxide exposure and lung cancer."
+      },
+      "carbon monoxide_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the main air pollutants that have adverse effects on human health. It specifically mentions heart disease as one of the health issues caused by these air pollutants, indicating a relationship between carbon monoxide exposure and heart disease."
+      }
+    },
+    {
+      "volatile organic compound_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists volatile organic compounds as one of the main air pollutants that have adverse effects on human health, including respiratory irritation and pneumonia in children. This indicates a clear relationship between exposure to volatile organic compounds and the occurrence of pneumonia."
+      },
+      "volatile organic compound_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists volatile organic compounds as one of the main air pollutants that have adverse effects on human health. It specifically mentions lung cancer among the health issues caused by these air pollutants, indicating a relationship between exposure to volatile organic compounds and lung cancer."
+      },
+      "volatile organic compound_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract lists volatile organic compounds as one of the main air pollutants that have adverse effects on human health. It specifically mentions heart disease among the health issues caused by these air pollutants, indicating a relationship between exposure to volatile organic compounds and heart disease."
+      }
+    },
+    {
+      "chlorofluorocarbons_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract lists chlorofluorocarbons as one of the main air pollutants that have adverse effects on human health. It specifically mentions pneumonia in children as one of the health effects caused by these air pollutants. Therefore, there is evidence in the abstract indicating a relationship between chlorofluorocarbons and pneumonia."
+      },
+      "chlorofluorocarbons_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists chlorofluorocarbons as one of the main air pollutants that have adverse effects on human health. It specifically mentions lung cancer among the health effects caused by these air pollutants, implying a relationship between chlorofluorocarbons exposure and lung cancer."
+      },
+      "chlorofluorocarbons_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract lists chlorofluorocarbons as one of the main air pollutants that have adverse effects on human health. It specifically mentions heart disease among the health effects caused by these air pollutants. Therefore, there is evidence in the abstract indicating a relationship between chlorofluorocarbons and heart disease."
+      }
+    },
+    {
+      "ammonia_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract lists ammonia as one of the main air pollutants that can have adverse effects on human health. It specifically mentions that these air pollutants, including ammonia, can cause respiratory irritation and pneumonia in children. Therefore, there is evidence in the abstract indicating a relationship between ammonia exposure and pneumonia."
+      },
+      "ammonia_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists ammonia as one of the main air pollutants emitted from power plants and manufacturing factories. It further states that these air pollutants, including ammonia, can have adverse effects on human health such as respiratory irritation, pneumonia in children, and lung cancer. Therefore, the abstract provides evidence of a relationship between ammonia exposure and lung cancer."
+      },
+      "ammonia_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract lists ammonia as one of the main air pollutants that can have adverse effects on human health. It specifically mentions heart disease among the health issues associated with exposure to these air pollutants, including ammonia. Therefore, there is evidence in the abstract suggesting a relationship between ammonia exposure and heart disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as sulphur oxide, carbon monoxide, volatile organic compounds, chlorofluorocarbons, and ammonia as main air pollutants causing adverse effects. Toxic metals are mentioned generally without specific names, so they are excluded."
+}

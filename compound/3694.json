@@ -1,0 +1,61 @@
+{
+  "id": 3694,
+  "title": "Photocatalysis for Air Treatment Processes: Current Technologies and Future Applications for the Removal of Organic Pollutants and Viruses",
+  "Abstract": "Photocatalysis for air treatment or photocatalytic oxidation (PCO) is a relatively new technology which requires titanium dioxide (TiO2) and a source of light (Visible or near-UV) to degrade pollutants contained in air streams. Present approaches for the photodegradation of indoor pollutants in air streams aim to eliminate volatile organic compounds (VOCs) and viruses, which are both toxic and harmful to human health. Photocatalysis for air treatment is an inexpensive and innovative green process. Additionally, it is a technology with a reduced environmental footprint when compared to other conventional air treatments which demand significant energy, require the disposal of used materials, and release CO2 and other greenhouse gases to the environment. This review discusses the most current and relevant information on photocatalysis for air treatment. This article also provides a critical review of (1) the most commonly used TiO2-based semiconductors, (2) the experimental syntheses and the various photocatalytic organic species degradation conversions, (3) the developed kinetics and computational fluid dynamics (CFD) and (4) the proposed Quantum Yields (QYs) and Photocatalytic Thermodynamic Efficiency Factors (PTEFs). Furthermore, this article contains important information on significant factors affecting the photocatalytic degradation of organic pollutants, such as reactor designs and type of photoreactor irradiation. Overall, this review describes state-of-the-art photocatalysis for air treatment to eliminate harmful indoor organic molecules, reviewing as well the potential applications for the inactivation of SARS-CoV2 (COVID-19) viruses.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV2 (COVID-19) viruses,' which is a specific disease name. Although the main focus is on photocatalysis for air treatment and pollutant degradation, the mention of COVID-19 clearly identifies a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "titanium dioxide",
+    "TiO2",
+    "CO2"
+  ],
+  "compound_CID": [
+    {
+      "titanium dioxide": 26042,
+      "TiO2": 26042,
+      "CO2": 280
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "titanium dioxide_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the use of titanium dioxide (TiO2) in photocatalysis for air treatment, specifically highlighting its application in the inactivation of viruses, including SARS-CoV2 (COVID-19). This indicates that TiO2-based photocatalytic processes have potential applications in reducing or eliminating the COVID-19 virus in air streams, establishing a relationship between titanium dioxide and COVID-19 in the context of air purification and viral inactivation."
+      }
+    },
+    {
+      "TiO2_COVID-19": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the use of titanium dioxide (TiO2) in photocatalysis for air treatment, specifically highlighting its application in the inactivation of viruses, including SARS-CoV2 (COVID-19). TiO2-based photocatalytic processes are described as effective for degrading indoor pollutants and viruses, indicating a relationship between TiO2 and COVID-19 through its potential to inactivate the virus in air streams."
+      }
+    },
+    {
+      "CO2_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses photocatalysis technology for air treatment, highlighting its ability to degrade pollutants and inactivate viruses including SARS-CoV-2 (COVID-19). It mentions that conventional air treatments release CO2 and other greenhouse gases, implying CO2 is a byproduct of some air treatment methods. However, there is no direct evidence or discussion in the abstract indicating a relationship between the compound CO2 itself and the disease COVID-19. The focus is on air treatment technologies and their environmental impact, not on CO2 as a factor influencing COVID-19."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions titanium dioxide (TiO2) as the photocatalyst used in photocatalytic oxidation for air treatment. Additionally, CO2 is mentioned as a greenhouse gas released by conventional air treatments. These are specific chemical compounds named in the text."
+}

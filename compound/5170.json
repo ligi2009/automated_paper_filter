@@ -1,0 +1,156 @@
+{
+  "id": 5170,
+  "title": "Genotoxicity Response of Fibroblast Cells and Human Epithelial Adenocarcinoma In Vitro Model Exposed to Bare and Ozone-Treated Silica Microparticles",
+  "Abstract": "Indoor air pollutants (IAP), which can pose a serious risk to human health, include biological pollutants, nitric oxide (NO), nitrogen dioxide (NO2), volatile organic compounds (VOC), sulfur dioxide (SO2), carbon monoxide (CO), carbon dioxide (CO2), silica, metals, radon, and particulate matter (PM). The aim of our work is to conduct a multidisciplinary study of fine silica particles (<2.5 μm) in the presence or absence of ozone (O3), and evaluate their potential cytotoxicity using MTS, micronucleus, and the comet test in two cell lines. We analyzed A549 (human basal alveolar epithelial cell adenocarcinoma) and Hs27 (human normal fibroblasts) exposed to dynamic conditions by an IRC simulator under ozone flow (120 ppb) and in the presence of silica particles (40 μg/h). The viability of A549 and Hs27 cells at 48 and 72 h of exposure to silica or silica/ozone decreases, except at 72 h in Hs27 treated with silica/ozone. The micronucleus and comet tests showed a significant increase in the number of micronuclei and the % of DNA in the queue, compared to the control, in both lines in all treatments, even if in different cell times/types. We found that silica alone or with more O3 causes more pronounced genotoxic effects in A549 tumor cells than in normal Hs27 fibroblasts.",
+  "Disease_List": [
+    "adenocarcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'A549 (human basal alveolar epithelial cell adenocarcinoma)', which refers to a specific type of cancer (adenocarcinoma). Although the main focus is on cytotoxicity and genotoxicity of silica and ozone, the mention of adenocarcinoma is a specific disease name, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "adenocarcinoma"
+  ],
+  "UMLS_search_results": {
+    "adenocarcinoma": [
+      {
+        "ui": "C0001418",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001418",
+        "name": "Adenocarcinoma",
+        "mesh_id": "D000230"
+      },
+      {
+        "ui": "C5551397",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5551397",
+        "name": "Malignant adenomatous neoplasm",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nitric oxide",
+    "NO",
+    "nitrogen dioxide",
+    "NO2",
+    "sulfur dioxide",
+    "SO2",
+    "carbon monoxide",
+    "CO",
+    "carbon dioxide",
+    "CO2",
+    "silica",
+    "radon",
+    "ozone",
+    "O3"
+  ],
+  "compound_CID": [
+    {
+      "nitric oxide": 145068,
+      "NO": 24822,
+      "nitrogen dioxide": 3032552,
+      "NO2": "None",
+      "sulfur dioxide": 1119,
+      "SO2": 1119,
+      "carbon monoxide": 281,
+      "CO": 104730,
+      "carbon dioxide": 280,
+      "CO2": 280,
+      "silica": 24261,
+      "radon": 24857,
+      "ozone": 24823,
+      "O3": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nitric oxide_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions nitric oxide (NO) as one of the indoor air pollutants but does not provide any specific data or findings linking nitric oxide to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, and normal fibroblasts. The results highlight the effects of silica and ozone, but nitric oxide is not investigated or discussed in relation to adenocarcinoma in this abstract."
+      }
+    },
+    {
+      "NO_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions nitric oxide (NO) as one of the indoor air pollutants but does not provide any specific data or findings linking NO to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but NO is not investigated or discussed in relation to these effects. Therefore, there is no clear evidence of a relationship between NO and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "nitrogen dioxide_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions nitrogen dioxide (NO2) as one of the indoor air pollutants but does not provide any specific data or findings linking nitrogen dioxide exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but nitrogen dioxide is not investigated or discussed in relation to these effects. Therefore, there is no clear evidence of a relationship between nitrogen dioxide and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "NO2_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions nitrogen dioxide (NO2) as one of the indoor air pollutants but does not provide any specific data or findings linking NO2 exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but NO2 is not investigated or discussed in relation to these effects. Therefore, there is no clear evidence in the abstract supporting a relationship between NO2 and adenocarcinoma."
+      }
+    },
+    {
+      "sulfur dioxide_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air pollutants including sulfur dioxide (SO2) but does not provide any specific data or findings related to sulfur dioxide's effects. The study focuses on the cytotoxicity and genotoxicity of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells. There is no mention or evidence of sulfur dioxide being tested or linked to adenocarcinoma in this abstract."
+      }
+    },
+    {
+      "SO2_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions sulfur dioxide (SO2) as one of the indoor air pollutants but does not provide any specific data or findings linking SO2 exposure to adenocarcinoma. The study focuses on the cytotoxicity and genotoxicity of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but SO2 is not investigated or discussed in relation to these effects. Therefore, there is no clear evidence in the abstract supporting a relationship between SO2 and adenocarcinoma."
+      }
+    },
+    {
+      "carbon monoxide_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon monoxide (CO) as one of the indoor air pollutants but does not provide any specific data or findings linking carbon monoxide exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but carbon monoxide is not investigated or discussed in relation to adenocarcinoma in this abstract."
+      }
+    },
+    {
+      "CO_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon monoxide (CO) as one of the indoor air pollutants but does not provide any specific data or findings linking CO exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but does not investigate or report effects related to CO. Therefore, there is no clear evidence of a relationship between CO and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "carbon dioxide_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract lists carbon dioxide (CO2) as one of the indoor air pollutants but does not provide any specific evidence or data linking carbon dioxide exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but does not mention any effects related to carbon dioxide. Therefore, there is no clear relationship established between carbon dioxide and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "CO2_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract lists CO2 as one of the indoor air pollutants but does not provide any specific evidence or data linking CO2 exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but CO2 is not mentioned as a factor influencing these effects. Therefore, there is no clear relationship established between CO2 and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "silica_adenocarcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the cytotoxic and genotoxic effects of fine silica particles on A549 cells, which are human basal alveolar epithelial cells derived from adenocarcinoma. The findings indicate that exposure to silica alone or combined with ozone causes decreased cell viability and significant genotoxic effects, such as increased micronuclei formation and DNA damage, specifically in the A549 adenocarcinoma cell line. This suggests a relationship between silica exposure and effects on adenocarcinoma cells, supporting evidence of a relationship between silica and adenocarcinoma."
+      }
+    },
+    {
+      "radon_adenocarcinoma": {
+        "relationship": "N",
+        "reason": "The abstract lists radon as one of the indoor air pollutants posing health risks but does not provide any specific data or findings linking radon exposure to adenocarcinoma. The study focuses on the cytotoxic and genotoxic effects of fine silica particles and ozone on A549 cells, which are human basal alveolar epithelial adenocarcinoma cells, but radon is not investigated or mentioned in the experimental results or conclusions. Therefore, there is no clear evidence of a relationship between radon and adenocarcinoma based on this abstract."
+      }
+    },
+    {
+      "ozone_adenocarcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the effects of ozone (O3) in combination with fine silica particles on A549 cells, which are human basal alveolar epithelial cells derived from adenocarcinoma. The results indicate that exposure to silica alone or combined with ozone causes decreased cell viability and significant genotoxic effects, such as increased micronuclei formation and DNA damage, in these adenocarcinoma cells. This suggests that ozone, especially in combination with silica, has a cytotoxic and genotoxic impact on adenocarcinoma cells, indicating a relationship between ozone exposure and effects on adenocarcinoma cells."
+      }
+    },
+    {
+      "O3_adenocarcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating the effects of ozone (O3) in combination with fine silica particles on A549 cells, which are human basal alveolar epithelial cells derived from adenocarcinoma. The results indicate that exposure to silica alone or combined with ozone causes decreased cell viability and significant genotoxic effects, such as increased micronuclei formation and DNA damage, in these adenocarcinoma cells. This suggests that ozone, particularly in combination with silica, has a cytotoxic and genotoxic impact on adenocarcinoma cells, indicating a relationship between O3 exposure and effects on adenocarcinoma."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds by name and/or chemical formula, including nitric oxide (NO), nitrogen dioxide (NO2), sulfur dioxide (SO2), carbon monoxide (CO), carbon dioxide (CO2), silica, radon, and ozone (O3). These are distinct chemical substances relevant to the study of indoor air pollutants and their effects."
+}

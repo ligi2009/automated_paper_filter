@@ -1,0 +1,50 @@
+{
+  "id": 5923,
+  "title": "Real-world emissions and ozone formation potential of carbonyl compounds originating from construction machinery based on a portable emission measurement system",
+  "Abstract": "There are serious air pollution problems in Chinese cities, which are manifested as high levels of ground ozone (O3) and particulate matter (PM) with an aerodynamic diameter of 2.5 μmor smaller (PM2.5) (Dong et al., 2014). Carbonyl compounds are a class of oxygen-containing volatile organic compounds that are important precursors of the formation of O3 and secondary organic aerosols (SOAs), these compounds can contribute 17%–50% to the ozone formation potential (OFP) (Duan et al., 2008; Han et al., 2019), and they can lead to the generation of photochemical smog (Shen et al., 2013; Zhang et al., 2019; Shen H. et al., 2021). Carbonyl compounds include aldehydes, ketones and dicarbonyl compounds, which are harmful to human health. Formaldehyde and acetaldehyde have been identified as toxic air pollutants and can generate carcinogenic effects (World Health Organization, 2000). Formaldehyde can irritate the upper respiratory tract and can affect health after acute or chronic exposure through inhalation and other forms of exposure, including through the eyes, nasopharynx and throat. Formaldehyde was included in the first list of human carcinogens by the International Agency for Research on Cancer (Cogliano et al., 2011; Luecken et al., 2018). Acetaldehyde can cause digestive tract diseases (Ho et al., 2015), and acrolein can damage the cardiovascular system and cause cardiomyopathy and heart failure (Henning et al., 2017). The main sources of atmospheric carbonyl compounds are anthropogenic, natural and atmospheric photochemical reactions (Christensen et al., 2000; Ho et al., 2002), the anthropogenic sources include vehicle exhaust, biomass combustion, industrial processes, OPEN ACCESS",
+  "Disease_List": [
+    "carcinogenic effects",
+    "digestive tract diseases",
+    "cardiomyopathy",
+    "heart failure"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and health conditions such as carcinogenic effects caused by formaldehyde, digestive tract diseases caused by acetaldehyde, and cardiovascular diseases including cardiomyopathy and heart failure caused by acrolein. These are specific disease names or clearly defined disease conditions, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiomyopathy",
+    "heart failure"
+  ],
+  "UMLS_search_results": {
+    "carcinogenic effects": [],
+    "digestive tract diseases": [],
+    "cardiomyopathy": [
+      {
+        "ui": "C0878544",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0878544",
+        "name": "Cardiomyopathies",
+        "mesh_id": "D009202"
+      }
+    ],
+    "heart failure": [
+      {
+        "ui": "C0018801",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018801",
+        "name": "Heart failure",
+        "mesh_id": "D006333"
+      },
+      {
+        "ui": "C0018802",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018802",
+        "name": "Congestive heart failure",
+        "mesh_id": "D006333"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

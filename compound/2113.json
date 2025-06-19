@@ -1,0 +1,191 @@
+{
+  "id": 2113,
+  "title": "Wildfires ignite concern.",
+  "Abstract": "Every year in the United States wildfires destroy hundreds of homes and cause millions of dollars in damage. From January through May of this year, for example, 2,702 wildfires scorched 198,228 acres in Florida amidst one of the worst droughts in a century. Although wildfires can actually be good for the environment, helping it to stay healthy and restore itself, they can have harmful human consequences, both directly and indirectly. People in close proximity to a wildfire, such as firefighters, can suffer respiratory problems and burns, and in rare instances are killed. In addition, people living near a fire's burn who are predisposed to environmental health problems such as asthma and emphysema may be affected. Perhaps more importantly for those living downwind, forest fire smoke contains many contaminants that in the long term can, depending on the length of the exposure, produce both acute and chronic effects in humans. Wildfires are characterized as brush and forest fires that commonly happen in relatively undeveloped areas. But as Craig Allen, a research ecolo-gist with the U.S. Geological Survey in Los Alamos, New Mexico, points out, \" More and more people are living in what were once remote areas, and that's putting them closer to woodlands and the threat of wildfires. \" According to a 1994 scientific study prepared for the Fire and Aviation Management division of the U.S. Department of Agriculture Forest Service, contaminants of forest fire smoke can include carbon monoxide, hydrocarbons, benzo[a]pyrene, nitrogen oxides, volatile oxygenated organic compounds , acids, ketones, alcohols, and aldehy-des, among other chemicals. Chronic exposure can lead to allergies, bronchitis, and emphysema, while acute exposure can cause impaired judgment, eye and respiratory irritation , and even death. But although some gases commonly released in burning, such as methane and ethylene, have been shown to be carcinogenic in tests on laboratory animals , no scientific evidence exists to show that wildfires can increase these gases to dangerous levels in the environment. In addition to their human health effects and obvious damage to the landscapes they burn, wildfires can have other unwelcome environmental effects as well. They affect water quality by destroying vegetation and dead plant matter that slows stormwater runoff; runoff and erosion can increase by an order of magnitude after a wildfire. The extra sediment and ash can also affect aquatic habitats and occasionally kill fish by cutting off the oxygen supply. Furthermore, the threat exists …",
+  "Disease_List": [
+    "asthma",
+    "emphysema",
+    "allergies",
+    "bronchitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma, emphysema, allergies, and bronchitis in the context of health effects caused or exacerbated by wildfire smoke exposure. These are named diseases rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "emphysema",
+    "allergies",
+    "bronchitis"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "emphysema": [
+      {
+        "ui": "C0034067",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034067",
+        "name": "Pulmonary Emphysema",
+        "mesh_id": "D011656"
+      },
+      {
+        "ui": "C0013990",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013990",
+        "name": "Pathological accumulation of air in tissues",
+        "mesh_id": "D004646"
+      }
+    ],
+    "allergies": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1717415",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1717415",
+        "name": "Allergies:Find:Pt:^Patient:Ord",
+        "mesh_id": "None"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon monoxide",
+    "benzo[a]pyrene",
+    "nitrogen oxides",
+    "methane",
+    "ethylene"
+  ],
+  "compound_CID": [
+    {
+      "carbon monoxide": 281,
+      "benzo[a]pyrene": 2336,
+      "nitrogen oxides": "None",
+      "methane": 297,
+      "ethylene": 6325
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that forest fire smoke contains carbon monoxide among other contaminants. It also states that people living near fires who are predisposed to environmental health problems such as asthma may be affected. While the abstract does not explicitly state a direct causal link between carbon monoxide and asthma, it implies that exposure to wildfire smoke, which includes carbon monoxide, can have respiratory effects on individuals with asthma. Therefore, there is evidence of a relationship between carbon monoxide exposure from wildfire smoke and asthma exacerbation or impact."
+      },
+      "carbon monoxide_emphysema": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains carbon monoxide among many other contaminants. It further explains that chronic exposure to these contaminants can lead to emphysema. Although the abstract does not isolate carbon monoxide as the sole cause, it includes it as a component of the smoke responsible for chronic respiratory effects such as emphysema. Therefore, there is evidence of a relationship between carbon monoxide exposure from wildfire smoke and emphysema."
+      },
+      "carbon monoxide_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract states that contaminants of forest fire smoke include carbon monoxide among other chemicals. It further mentions that chronic exposure to these contaminants can lead to allergies, bronchitis, and emphysema. Although the abstract does not isolate carbon monoxide as the sole cause, it implies that exposure to carbon monoxide as part of wildfire smoke contaminants is associated with the development of allergies."
+      },
+      "carbon monoxide_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains carbon monoxide among other contaminants. It further explains that chronic exposure to these contaminants can lead to bronchitis. Therefore, there is evidence in the abstract linking carbon monoxide exposure from wildfire smoke to the development of bronchitis."
+      }
+    },
+    {
+      "benzo[a]pyrene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that benzo[a]pyrene is one of the contaminants found in forest fire smoke and that people predisposed to environmental health problems such as asthma may be affected by wildfire smoke. However, it does not provide direct evidence or specific information linking benzo[a]pyrene itself to causing or exacerbating asthma. The abstract discusses general respiratory problems and health effects from wildfire smoke exposure but does not establish a clear relationship between benzo[a]pyrene and asthma."
+      },
+      "benzo[a]pyrene_emphysema": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains benzo[a]pyrene among other contaminants. It also mentions that chronic exposure to these contaminants can lead to respiratory diseases including emphysema. Therefore, there is evidence in the abstract linking benzo[a]pyrene, as a component of wildfire smoke, to the development of emphysema through chronic exposure."
+      },
+      "benzo[a]pyrene_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains benzo[a]pyrene among other contaminants. It also mentions that chronic exposure to these contaminants can lead to allergies, bronchitis, and emphysema. Although the abstract does not explicitly isolate benzo[a]pyrene as the sole cause, it implies that benzo[a]pyrene is part of the mixture of chemicals in wildfire smoke that can contribute to the development of allergies with chronic exposure."
+      },
+      "benzo[a]pyrene_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains benzo[a]pyrene among other contaminants. It also mentions that chronic exposure to these contaminants can lead to bronchitis. Therefore, there is evidence in the abstract linking benzo[a]pyrene exposure from wildfire smoke to the disease bronchitis."
+      }
+    },
+    {
+      "nitrogen oxides_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains nitrogen oxides among other contaminants, and that people living near fires who are predisposed to environmental health problems such as asthma may be affected. This implies that exposure to nitrogen oxides, as a component of wildfire smoke, is related to respiratory issues including asthma. Although the abstract does not provide detailed mechanistic evidence, it clearly links nitrogen oxides in wildfire smoke to exacerbation of asthma symptoms or increased risk in susceptible individuals."
+      },
+      "nitrogen oxides_emphysema": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains nitrogen oxides among other contaminants. It further explains that chronic exposure to these contaminants can lead to emphysema. This indicates a relationship between exposure to nitrogen oxides (as part of wildfire smoke) and the development or exacerbation of emphysema."
+      },
+      "nitrogen oxides_allergies": {
+        "relationship": "Y",
+        "reason": "The abstract states that forest fire smoke contains nitrogen oxides among other contaminants. It further explains that chronic exposure to these contaminants can lead to allergies, bronchitis, and emphysema. Therefore, there is evidence in the abstract linking nitrogen oxides exposure from wildfire smoke to the development of allergies."
+      },
+      "nitrogen oxides_bronchitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that contaminants of forest fire smoke include nitrogen oxides among other chemicals. It further mentions that chronic exposure to these contaminants can lead to bronchitis. Therefore, there is evidence in the abstract linking nitrogen oxides exposure from wildfire smoke to the development of bronchitis."
+      }
+    },
+    {
+      "methane_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of various contaminants in forest fire smoke and their potential health effects, including respiratory problems and exacerbation of conditions like asthma. While methane is mentioned as a gas released during burning and noted to be carcinogenic in laboratory animal tests, the abstract explicitly states that no scientific evidence exists to show that wildfires increase methane to dangerous environmental levels. Furthermore, there is no direct mention or evidence linking methane exposure to asthma in the abstract. Therefore, based on the provided information, there is no clear relationship established between methane and asthma."
+      },
+      "methane_emphysema": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of various contaminants in wildfire smoke and their potential health effects, including emphysema. While it mentions that chronic exposure to forest fire smoke contaminants can lead to emphysema, it does not specifically link methane to emphysema. Methane is noted as a gas released during burning and has been shown to be carcinogenic in laboratory animals, but there is no scientific evidence presented in the abstract that methane levels from wildfires reach dangerous levels or that methane is related to emphysema. Therefore, no clear relationship between methane and emphysema is established based on the abstract."
+      },
+      "methane_allergies": {
+        "relationship": "N",
+        "reason": "The abstract mentions that chronic exposure to forest fire smoke contaminants can lead to allergies among other health issues. However, it specifically states that although gases like methane are released during burning and have been shown to be carcinogenic in laboratory animals, there is no scientific evidence that wildfires increase methane to dangerous levels in the environment. Moreover, the abstract does not provide any direct evidence linking methane exposure to allergies. Therefore, based on the abstract, there is no clear relationship established between methane and allergies."
+      },
+      "methane_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that chronic exposure to contaminants in forest fire smoke can lead to bronchitis. However, it specifically states that although gases like methane are released during burning and have been shown to be carcinogenic in laboratory animals, there is no scientific evidence that wildfires increase methane to dangerous levels in the environment. Therefore, there is no clear evidence in the abstract linking methane exposure to bronchitis."
+      }
+    },
+    {
+      "ethylene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that gases such as ethylene have been shown to be carcinogenic in laboratory animal tests, but it explicitly states that no scientific evidence exists to show that wildfires increase these gases to dangerous environmental levels. While the abstract notes that people predisposed to asthma may be affected by wildfire smoke, it does not provide any direct evidence or mention a relationship between ethylene exposure and asthma. Therefore, based on the abstract, there is no clear relationship established between ethylene and asthma."
+      },
+      "ethylene_emphysema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that chronic exposure to forest fire smoke contaminants can lead to emphysema, but it does not specifically link ethylene to emphysema. While ethylene is noted as a gas released during burning and has been shown to be carcinogenic in laboratory animals, the abstract explicitly states that there is no scientific evidence that wildfires increase ethylene to dangerous environmental levels. Therefore, no clear relationship between ethylene and emphysema is established in the abstract."
+      },
+      "ethylene_allergies": {
+        "relationship": "N",
+        "reason": "The abstract mentions that chronic exposure to forest fire smoke contaminants can lead to allergies, but it does not specifically link ethylene to allergies. While ethylene is noted as a gas released during burning and has been shown to be carcinogenic in laboratory animals, there is no scientific evidence presented in the abstract that ethylene exposure is related to allergies. Therefore, based on the abstract, there is no clear relationship between ethylene and allergies."
+      },
+      "ethylene_bronchitis": {
+        "relationship": "N",
+        "reason": "The abstract mentions that chronic exposure to forest fire smoke contaminants can lead to bronchitis. It also states that gases such as ethylene have been shown to be carcinogenic in laboratory animals. However, it explicitly notes that no scientific evidence exists to show that wildfires increase ethylene to dangerous levels in the environment. There is no direct evidence or indication in the abstract linking ethylene exposure to bronchitis. Therefore, based on the abstract, there is no clear relationship between ethylene and bronchitis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds found in forest fire smoke, including carbon monoxide, benzo[a]pyrene, nitrogen oxides, methane, and ethylene. These are distinct chemical substances with specific names, unlike general terms such as hydrocarbons or acids."
+}

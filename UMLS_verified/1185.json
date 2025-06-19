@@ -1,0 +1,53 @@
+{
+  "id": 1185,
+  "title": "Novel design of optical sensor based on two-dimensional photonic crystals for the detection of volatile organic compounds that can infect human health",
+  "Abstract": "Background: In recent research, optical sensors gained a growing interest motivated by the increasing need for specific sensors that allow for routine and effective measurements in several fields and analysis such as, safety, environment, and human health. Among optical sensors are photonic crystal sensors, which are characterized by high sensitivity and biocompatibility. The variations inside and around the photonic crystal can give important information by measuring the wavelength, the band gap, the output power…etc. Through defects created in photonic crystals such as missing rows of holes or rods, light is guided through and the goal is to achieve a very high sensitivity and spatial selectivity to changing superior bulk devices. In this study, we model a new structure of an optical channel drop filter (CDF) based on 2-dimensional photonic crystals to detect volatile organic compounds that can infect human health. \nObjective: Detect the variation of the refractive index by fixing the radius (r) at 99.37nm and the lattice constant (a) at 523nm for various volatile organic compounds such as H2CO, CH2Cl2, and C2Cl4 with refractive indexes that are: 1.3746, 1.421 and 1.503 respectively in the optical sensor based on photonic crystals for reasons related to the protection of human health. \nMethods: The structure is made of square lattice silicon rods immersed in air. The dielectric constant of silicon and air is 11.9716 and 1 respectively. First, we created a cross shape resonator and designed an optical channel drop filter in the heart of the structure; our method is based on plane wave expansion method (PWE) by using MATLAB software and the finite element method (F.E.M) with COMSOL software. \nResults: Three volatile compounds have been studied, such as Dichloromethane used as synthesis intermediate by the chemical industry or solvent used in the pharmaceutical or medical industry. Acute inhalation exposure may cause severe optic neuropathy and liver attack (Hepatitis). Then, the Methanal is used to dry or kill the skin taking as an example, the medical treatment of warts. And perchlorethylene is used for the dry cleaning of tissues and for degreasing metals because it is in category 3 carcinogens, toxic to the nervous system and the kidney. These three volatile compounds where introduced and studied in the proposed structure. The results obtained through this study are as follows: \n \ndiagram of the TM and TE bands of the photonic crystal in a square array of silicon rods embedded in the air, \nschematic diagram of the filter, \ndistribution of the refractive index along the structure, \nstructure meshing, \npropagation and transmission for different refractive indices such as methanal (H2CO), dichloromethane (CH2Cl2) and perchlorethylene (C2Cl4). \n \nConclusion: In this article, we have been able to simulate, analyze and control our proposed structure with MATLAB and COMSOL software based on the finite element method. The results show that for the three volatile organic compounds, the variation of the signal is due to the wavelength of the resonance which is related to the refractive index (n). This can be seen by the small Δλ between three volatile organic compounds, which is 0.4nm between (H2CO, C2Cl4) and 2.9 nm between (CH2Cl2, H2CO). Thanks to this change, this structure can be used as sensor for the detection of toxic organic pollutants that can infect human health (16).",
+  "Disease_List": [
+    "optic neuropathy",
+    "hepatitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'optic neuropathy' caused by acute inhalation exposure to dichloromethane, and 'hepatitis' (liver attack) also linked to dichloromethane exposure. These are specific disease names rather than general health conditions, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "optic neuropathy",
+    "hepatitis"
+  ],
+  "UMLS_search_results": {
+    "optic neuropathy": [
+      {
+        "ui": "C3887709",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3887709",
+        "name": "Optic Neuropathy",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0029132",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0029132",
+        "name": "Disorder of optic nerve",
+        "mesh_id": "D009901"
+      }
+    ],
+    "hepatitis": [
+      {
+        "ui": "C0019158",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019158",
+        "name": "Hepatitis",
+        "mesh_id": "D006505"
+      },
+      {
+        "ui": "C0019159",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019159",
+        "name": "Hepatitis A",
+        "mesh_id": "D006506"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

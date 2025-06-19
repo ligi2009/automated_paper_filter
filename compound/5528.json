@@ -1,0 +1,151 @@
+{
+  "id": 5528,
+  "title": "Potential Role of Oxidative Stress in the Production of Volatile Organic Compounds in Obesity",
+  "Abstract": "Obesity is associated with numerous health issues such as sleep disorders, asthma, hepatic dysfunction, cancer, renal dysfunction, diabetes, cardiovascular complications, and infertility. Previous research has shown that the distribution of excess body fat, rather than excess body weight, determines obesity-related risk factors. It is widely accepted that abdominal fat is a serious risk factor for illnesses associated with obesity and the accumulation of visceral fat promotes the release of pro-oxidants, pro-inflammatory, and reactive oxygen species (ROS). The metabolic process in the human body produces several volatile organic compounds (VOCs) via urine, saliva, breath, blood, skin secretions, milk, and feces. Several studies have shown that VOCs are released by the interaction of ROS with underlying cellular components leading to increased protein oxidation, lipid peroxidation, or DNA damage. These VOCs released via oxidative stress in obese individuals may serves as a biomarker for obesity-related metabolic alterations and disease. In this review, we focus on the relationship between oxidative stress and VOCs in obesity.",
+  "Disease_List": [
+    "sleep disorders",
+    "asthma",
+    "hepatic dysfunction",
+    "cancer",
+    "renal dysfunction",
+    "diabetes",
+    "cardiovascular complications",
+    "infertility"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases and conditions associated with obesity, including sleep disorders, asthma, hepatic dysfunction, cancer, renal dysfunction, diabetes, cardiovascular complications, and infertility. These are all named diseases or medical conditions rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "sleep disorders",
+    "asthma",
+    "hepatic dysfunction",
+    "cancer",
+    "renal dysfunction",
+    "diabetes",
+    "cardiovascular complications",
+    "infertility"
+  ],
+  "UMLS_search_results": {
+    "sleep disorders": [
+      {
+        "ui": "C0851578",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0851578",
+        "name": "Sleep Disorders",
+        "mesh_id": "D012893"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "hepatic dysfunction": [
+      {
+        "ui": "C0086565",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0086565",
+        "name": "Liver Dysfunction",
+        "mesh_id": "D008107"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "renal dysfunction": [
+      {
+        "ui": "C3279454",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3279454",
+        "name": "Renal dysfunction",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1565489",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1565489",
+        "name": "Renal Insufficiency",
+        "mesh_id": "D051437"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "cardiovascular complications": [
+      {
+        "ui": "C0161816",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0161816",
+        "name": "Cardiac complication",
+        "mesh_id": "None"
+      }
+    ],
+    "infertility": [
+      {
+        "ui": "C0021359",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021359",
+        "name": "Infertility",
+        "mesh_id": "D007246"
+      },
+      {
+        "ui": "C4074771",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4074771",
+        "name": "Sterility, Reproductive",
+        "mesh_id": "D007246"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general terms such as reactive oxygen species (ROS) and volatile organic compounds (VOCs), but does not specify any particular chemical compound names."
+}

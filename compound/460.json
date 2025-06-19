@@ -1,0 +1,39 @@
+{
+  "id": 460,
+  "title": "PO-092 Sensitivity and specificity accurate of sniffing dogs to detect lung cancer",
+  "Abstract": "Introduction Lung tumours are in the leading causes of cancer death. On the basis of last years’ literature, trained dogs are able to detect lung cancer by sniffing human biological samples. Material and methods In our experiment, we conducted a systematic search to define sensitivity and specificity of lung cancer detection from exhaled breath applying dogs. Embase, Web of Science, Cochrane and PubMed databases were reviewed according to PRISMA Guidelines. We identified all articles which covered canine scent detection and lung cancer diagnosis. Values of sensitivity and specificity with 95% confidence intervals were calculated. ROC curves were created to display the results. Results and discussions Seven studies met all the eligibility criteria, but in two of them the cut-off was different from the others. In all and selected five studies, sensitivities were 0.81 (0.71–0.88) and 0.77 (0.67–0.85) while specificities were 0.73 (0.47–0.89) and 0.59 (0.34–0.80). In contrary of the particular training methods of dogs and other variable factors (collecting method of samples, probability chance etc.), results predict the application of well-trained dogs as a diagnostic tool or alternative solution besides the current diagnostic tools in the future. The advantages of this method are the non-invasive way, using biological materials (exhaled breath, urine) which contain the relevant information about the individuals by volatile organic compounds (VOCs). Collecting method and maintenance of dogs are not expensive. The shortest period of training was only 3 weeks. Conclusion Based on the statistical analysis, sniffing dogs were able detect even the early stage lung cancer with good sensitivity and specificity.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease being detected by trained dogs. This is a clearly named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y with 'lung cancer' listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses the use of trained dogs to detect lung cancer via sniffing biological samples containing volatile organic compounds (VOCs), but it does not mention any specific chemical compound names."
+}

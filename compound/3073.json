@@ -1,0 +1,32 @@
+{
+  "id": 3073,
+  "title": "Molecular evidence of the amelioration of toluene induced encephalopathy by human breast milk mesenchymal stem cells",
+  "Abstract": "Toluene was widely used volatile organic compound that accumulates in tissues with high lipid content. Stem cells have been proposed as an increasingly attractive approach for repair of damaged nervous system, we aimed to evaluate the ability of breast milk mesenchymal stem cells (MSc) to ameliorate toluene-induced encephalopathy. Sixty adult male albino rats were assigned to 3 groups, control, toluene, and toluene/breast milk-MSc. Neurological assessment was evaluated as well as serum levels of glial fibrillary acidic protein (GFAP), tumor necrosis factor-alpha (TNF-α), nerve growth factor (NGF), vascular endothelial growth factor (VEGF), tissue dopamine and oxidative markers. Gene expression of peroxisome Proliferator-Activated Receptor-Gamma (PPAR-ɣ), nuclear factor-kappaB (NF-kB), and interleukin-6 (IL-6) were evaluated. Moreover, histological and immunohistochemical investigation were done. Results revealed that toluene caused cerebral injury, as evidenced by a significant increase in serum GFAP, TNF-α, malondialdehyde (MDA) and nitric oxide (NO), a significant decrease in serum NGF, tissue dopamine and oxidative markers, besides, a non-significant change in VEGF. Toluene also caused changes in normal cerebral structure and cellular degeneration, including a significant decrease in the total number of neurons and thickness of frontal cortex. Meninges showing signs of inflammation with inflammatory cell infiltration and exudation, a significant decrease in MBP immunoreactivity, and increase in the percent of high motility group box protein-1 (HMGB1) positive cells. PPAR- ɣ, NF-kB, and IL-6 gene expression were all considerably elevated by toluene. These changes were greatly improved by breast milk MSc. Therefore, we conclude that breast milk MSc can attenuate toluene-induced encephalopathy.",
+  "Disease_List": [
+    "encephalopathy"
+  ],
+  "Reason": "The abstract explicitly mentions 'toluene-induced encephalopathy' as a specific disease condition caused by toluene exposure. Encephalopathy is a recognized disease term referring to brain dysfunction or damage. Therefore, the presence of 'encephalopathy' justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "encephalopathy"
+  ],
+  "UMLS_search_results": {
+    "encephalopathy": [
+      {
+        "ui": "C0085584",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0085584",
+        "name": "Encephalopathies",
+        "mesh_id": "D001927"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "Error parsing response: Unterminated string starting at: line 17 column 13 (char 508)"
+}

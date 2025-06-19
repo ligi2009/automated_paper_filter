@@ -1,0 +1,50 @@
+{
+  "id": 6037,
+  "title": "The Untrained Response of Pet Dogs to Human Epileptic Seizures",
+  "Abstract": "Simple Summary Anecdotal accounts abound of pet dogs predicting their owner’s epileptic seizures by becoming attentive and by demonstrating attention-seeking behaviours, but no scientific study has investigated the veracity of these claims. Here, we explored this phenomenon, by assuming the presence of seizure-associated odours and then recording the reactions of a cohort of pet dogs to the emergence of such odours, apparently coming from their non-epileptic owners. Using two specially designed pieces of apparatus called the Remote Odour Delivery Mechanism (RODM), we separately delivered epileptic seizure-associated odours and nonseizure associated odours and video-recorded the reactions of the dogs to each. We found that all the dogs demonstrated more affiliative behavioural changes when confronted by seizure-associated odours, compared with their response to control odours. Our results support the view that untrained dogs detect a seizure-associated odour and are in line with the findings of the emerging literature, which attests that those epileptic seizures are associated with a unique volatile organic signature. Abstract Epilepsy is a debilitating and potentially life-threatening neurological condition which affects approximately 65 million people worldwide. There is currently no reliable and simple early warning seizure-onset device available, which means many people with unstable epilepsy live in fear of injury or sudden death and the negative impact of social stigmatization. If anecdotal claims that untrained dogs anticipate seizures are found to be true, they could offer a simple and readily available early warning system. We hypothesized that, given the extraordinary olfactory ability of dogs, a volatile organic compound exhaled by the dog’s epileptic owner may constitute an early warning trigger mechanism to which make dogs react by owner-directed affiliative responses in the pre-seizure period. Using 19 pet dogs with no experience of epilepsy, we exposed them to odours that were deemed to be characteristic of three seizure phases, by using sweat harvested from people with epilepsy. The odours were delivered to a point immediately under a non-epileptic and seated pet dog owner’s thighs. By altering the alternating odours emerging from sweat samples, captured before seizure, during a seizure and after a seizure, and two nonseizure controls, we were able to record the response of the 19 pet dogs. Our findings suggest that seizures are associated with an odour and that dogs detect this odour and demonstrate a marked increase in affiliative behaviour directed at their owners. A characteristic response of all 19 dogs to seizure odour presentation was an intense stare which was statistically significant, (p < 0.0029), across the pre-seizure, seizure and post-seizure phases when compared to control odours of nonseizure origin.",
+  "Disease_List": [
+    "epilepsy",
+    "epileptic seizures"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease 'epilepsy' multiple times, describing it as a neurological condition affecting millions worldwide. It also refers specifically to 'epileptic seizures' as a manifestation of the disease. These are clear, named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "epilepsy",
+    "epileptic seizures"
+  ],
+  "UMLS_search_results": {
+    "epilepsy": [
+      {
+        "ui": "C0014544",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014544",
+        "name": "Epilepsy",
+        "mesh_id": "D004827"
+      }
+    ],
+    "epileptic seizures": [
+      {
+        "ui": "C4317109",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4317109",
+        "name": "Epileptic Seizures",
+        "mesh_id": "D012640"
+      },
+      {
+        "ui": "C0014544",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014544",
+        "name": "Epilepsy",
+        "mesh_id": "D004827"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds associated with epileptic seizures but does not specify any particular chemical compound names. It refers generally to 'volatile organic compound' and 'seizure-associated odours' without naming specific chemicals."
+}

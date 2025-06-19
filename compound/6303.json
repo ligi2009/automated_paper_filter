@@ -1,0 +1,157 @@
+{
+  "id": 6303,
+  "title": "EFFECTS OF VOLATILE ORGANIC ALKILNYTRITIS COMPOUNDS ON THE ORGANISM AND THE POSSIBILITY OF THEIR FORENSIC CHEMICAL DETECTING",
+  "Abstract": "The article reviews and summarizes theoretical issues related to the abuse of inhalants, provides data on the pharmacological and toxic effects, the legal status of the substances under study, the chemical analysis of alkyl nitrites. The risk to human health is associated with the ability of alkyl nitrites to cause methemoglobin, changes in organs and systems, including myocardial dystrophy, chronic inflammation of the upper respiratory tract.\n\nThe use of isopropyl nitrite can cause damage to the retina, maculapathy. ”Poppers” is a subgroup of volatile substances – alkyl nitrites, represented by compounds or mixtures and contain more than one alkyl nitrite, mainly: butyl nitrite, isobutyl nitrite or amyl nitrite, isopentyl nitrite, or 2-methyl butyl nitrite.\n\nOn the Internet market they are presented under the following slang names: amyls, hardware, liquid gold, locker room, rock hard, rush, snapper, TNT .\n\nChemico-toxicological analysis is carried out by chromatography methods – the vapor phase analysis with identification on a flame-ionization or mass-selective detector is used. Blood, in cases of deadly intoxication, lung tissue are the best objects.\n\nOne of the signs of using alkyl nitrites is the formation of methemoglobin, the definition of which has an important diagnostic value. Joint detection of metabolites of alkyl nitrites and methemoglobin may indicate the possible use of alkyl nitrites. The legal status of alkyl nitrites in most countries varies from free use to medical prescription sales.\n\nIn the Republic of Kazakhstan, alkyl nitrites are not under the control of the law “On Narcotic Drugs, Psychotropic Substances, Their Analogues and Precursors, and Measures to Counteract Their Illicit Circulation and Abuse”. Their abuse is a concern because of their detrimental health effects.\n\nKey words: alkyl nitrite, toxicomania, poppers, methemoglobinemia, maculopathy, forensic expertise, research, chemical analysis.",
+  "Disease_List": [
+    "methemoglobinemia",
+    "maculopathy",
+    "myocardial dystrophy",
+    "chronic inflammation of the upper respiratory tract"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'methemoglobinemia', 'maculopathy', 'myocardial dystrophy', and 'chronic inflammation of the upper respiratory tract' as health effects associated with alkyl nitrite abuse. These are specific medical conditions rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "methemoglobinemia",
+    "maculopathy"
+  ],
+  "UMLS_search_results": {
+    "methemoglobinemia": [
+      {
+        "ui": "C0025637",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0025637",
+        "name": "Methemoglobinemia",
+        "mesh_id": "D008708"
+      },
+      {
+        "ui": "C5700167",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5700167",
+        "name": "Methemoglobin above reference range (finding)",
+        "mesh_id": "None"
+      }
+    ],
+    "maculopathy": [
+      {
+        "ui": "C4551715",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4551715",
+        "name": "Pigmentary retinopathy",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0730362",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0730362",
+        "name": "Disorder of macula of retina",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024437",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024437",
+        "name": "Macular degeneration",
+        "mesh_id": "D008268"
+      }
+    ],
+    "myocardial dystrophy": [],
+    "chronic inflammation of the upper respiratory tract": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "alkyl nitrites",
+    "isopropyl nitrite",
+    "butyl nitrite",
+    "isobutyl nitrite",
+    "amyl nitrite",
+    "isopentyl nitrite",
+    "2-methyl butyl nitrite"
+  ],
+  "compound_CID": [
+    {
+      "alkyl nitrites": "None",
+      "isopropyl nitrite": 10929,
+      "butyl nitrite": 10996,
+      "isobutyl nitrite": 10958,
+      "amyl nitrite": 10026,
+      "isopentyl nitrite": 8053,
+      "2-methyl butyl nitrite": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "alkyl nitrites_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that one of the signs of using alkyl nitrites is the formation of methemoglobin, which is directly related to methemoglobinemia. It highlights that the detection of methemoglobin has important diagnostic value in cases of alkyl nitrite use, indicating a clear toxicological relationship between alkyl nitrites and methemoglobinemia. Therefore, there is evidence of a relationship between alkyl nitrites and the disease methemoglobinemia."
+      },
+      "alkyl nitrites_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that the use of isopropyl nitrite, a type of alkyl nitrite, can cause damage to the retina, specifically maculopathy. This indicates a direct relationship between alkyl nitrites and the disease maculopathy. Additionally, the keywords include both 'alkyl nitrite' and 'maculopathy,' further supporting the connection."
+      }
+    },
+    {
+      "isopropyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract discusses alkyl nitrites as a group of compounds that include isopropyl nitrite and highlights their ability to cause methemoglobin formation, which is directly related to methemoglobinemia. It states that one of the signs of using alkyl nitrites is the formation of methemoglobin, which has diagnostic value. Since isopropyl nitrite is part of the alkyl nitrites group, there is evidence that its use can lead to methemoglobinemia."
+      },
+      "isopropyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that the use of isopropyl nitrite can cause damage to the retina, specifically maculopathy. This indicates a direct relationship between isopropyl nitrite exposure and the development of maculopathy. The article discusses the toxic effects of alkyl nitrites, including isopropyl nitrite, and highlights maculopathy as one of the health risks associated with their use."
+      }
+    },
+    {
+      "butyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, a group which includes butyl nitrite, are associated with the formation of methemoglobin, a key factor in methemoglobinemia. It specifically mentions that one of the signs of using alkyl nitrites is the formation of methemoglobin, which has important diagnostic value. Since butyl nitrite is a main component of the alkyl nitrites discussed, there is clear evidence of a relationship between butyl nitrite and methemoglobinemia."
+      },
+      "butyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including butyl nitrite as a main component of 'poppers', are associated with toxic effects. Specifically, it mentions that the use of isopropyl nitrite, a related alkyl nitrite, can cause retinal damage and maculopathy. Since butyl nitrite is a primary constituent of these alkyl nitrite mixtures and the abstract groups them together in terms of toxic effects, there is evidence suggesting a relationship between butyl nitrite and maculopathy. The inclusion of 'maculopathy' as a key word further supports this association."
+      }
+    },
+    {
+      "isobutyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including isobutyl nitrite which is specifically mentioned as a component of 'poppers', are associated with the formation of methemoglobin. The formation of methemoglobin is a key diagnostic sign of alkyl nitrite use and is directly linked to methemoglobinemia. Therefore, there is clear evidence in the abstract that isobutyl nitrite can cause methemoglobinemia."
+      },
+      "isobutyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including isobutyl nitrite, are associated with toxic effects on human health. Specifically, it mentions that the use of isopropyl nitrite can cause retinal damage and maculopathy. Since isobutyl nitrite is a member of the alkyl nitrites group (commonly found in 'poppers'), and maculopathy is explicitly listed as a toxic effect related to these compounds, there is evidence suggesting a relationship between isobutyl nitrite and maculopathy."
+      }
+    },
+    {
+      "amyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract clearly indicates that alkyl nitrites, including amyl nitrite, are associated with the formation of methemoglobin, which is a key diagnostic marker of methemoglobinemia. It states that one of the signs of using alkyl nitrites is the formation of methemoglobin, and joint detection of alkyl nitrite metabolites and methemoglobin suggests their use. Since amyl nitrite is specifically mentioned as a component of alkyl nitrites (poppers), there is evidence of a relationship between amyl nitrite and methemoglobinemia."
+      },
+      "amyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including amyl nitrite as a main component of 'poppers', are associated with toxic effects. Specifically, it mentions that the use of isopropyl nitrite, a related alkyl nitrite, can cause retinal damage and maculopathy. Since amyl nitrite is part of the same chemical subgroup and is included in the mixtures referred to as 'poppers', there is an implied relationship between amyl nitrite use and maculopathy. The abstract also lists maculopathy as a key term in the context of alkyl nitrite abuse, supporting the association."
+      }
+    },
+    {
+      "isopentyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including isopentyl nitrite, are associated with the formation of methemoglobin, which is a key diagnostic marker of methemoglobinemia. It explicitly states that one of the signs of using alkyl nitrites is the formation of methemoglobin, linking these compounds to methemoglobinemia. Since isopentyl nitrite is listed among the alkyl nitrites discussed, there is evidence of a relationship between isopentyl nitrite and methemoglobinemia."
+      },
+      "isopentyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including isopentyl nitrite, are associated with toxic effects on human health. Specifically, it mentions that the use of isopropyl nitrite can cause retinal damage and maculopathy. Since isopentyl nitrite is listed among the alkyl nitrites (poppers) discussed, and maculopathy is highlighted as a key toxic effect related to these compounds, there is evidence supporting a relationship between isopentyl nitrite and maculopathy."
+      }
+    },
+    {
+      "2-methyl butyl nitrite_methemoglobinemia": {
+        "relationship": "Y",
+        "reason": "The abstract clearly states that alkyl nitrites, including 2-methyl butyl nitrite, are associated with the formation of methemoglobin, which is a key diagnostic indicator of methemoglobinemia. It mentions that the use of alkyl nitrites can lead to methemoglobinemia, indicating a direct toxicological relationship between these compounds and the disease. Since 2-methyl butyl nitrite is specifically listed as one of the alkyl nitrites involved, there is evidence of a relationship between this compound and methemoglobinemia."
+      },
+      "2-methyl butyl nitrite_maculopathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alkyl nitrites, including 2-methyl butyl nitrite as a member of the 'poppers' subgroup, are associated with health risks. Specifically, it mentions that the use of isopropyl nitrite, which is chemically related to other alkyl nitrites such as 2-methyl butyl nitrite, can cause retinal damage including maculopathy. Since 2-methyl butyl nitrite is listed among the alkyl nitrites implicated in these effects, there is evidence suggesting a relationship between 2-methyl butyl nitrite and maculopathy."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds belonging to the alkyl nitrites group, including isopropyl nitrite, butyl nitrite, isobutyl nitrite, amyl nitrite, isopentyl nitrite, and 2-methyl butyl nitrite. These are specific named chemical substances discussed in relation to their pharmacological, toxic effects, and legal status."
+}

@@ -1,0 +1,85 @@
+{
+  "id": 2209,
+  "title": "Antiproliferative effect of methanolic extraction of tualang honey on human keloid fibroblasts",
+  "Abstract": "BackgroundKeloid is a type of scar which extends beyond the boundaries of the original wound. It can spread to the surrounding skin by invasion. The use of Tualang honey is a possible approach for keloid treatment. The objective of this study was to determine the antiproliferative effect of methanolic extraction of Tualang honey to primary human keloid fibroblasts and to identify the volatile compounds in methanol extraction of Tualang honey.MethodsCrude Tualang honey was extracted with methanol and then dried using rota vapor to remove remaining methanol from honey. Normal and keloid fibroblasts were verified and treated with the extracted honey. Cell proliferation was tested with [3-(4,5-dimethylthiazol-2-yi)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2H-tetrazolium, inner salt] (MTS) assay. Extraction of Tualang honey using methanol was carried out and the extracted samples were analysed using gas chromatography-mass spectrometry (GC-MS). The result was analysed using SPSS and tested with Kruskal-Wallis and Mann-Whitney tests.ResultsMethanolic extraction of honey has positive anti proliferative effect on keloid fibroblasts in a dose-dependent manner. The presence of fatty acids such as palmitic acid, stearic acid, oleic acid, linoleic acid and octadecanoic acid may contribute to the anti-proliferative effect in keloid fibroblasts.ConclusionsThe methanolic honey extraction has an antiproliferative effect on keloid fibroblasts and a range of volatile compounds has been identified from Tualang honey. The antiproliferative effect of keloid fibroblasts towards Tualang honey may involve cell signaling pathway. Identifying other volatile compounds from different organic solvents should be carried out in future.",
+  "Disease_List": [
+    "Keloid"
+  ],
+  "Reason": "The abstract explicitly mentions 'keloid' multiple times, describing it as a type of scar that extends beyond the original wound and discussing treatment approaches for it. Keloid is a specific medical condition, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Keloid"
+  ],
+  "UMLS_search_results": {
+    "Keloid": [
+      {
+        "ui": "C0022548",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022548",
+        "name": "Keloid",
+        "mesh_id": "D007627"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "palmitic acid",
+    "stearic acid",
+    "oleic acid",
+    "linoleic acid",
+    "octadecanoic acid",
+    "methanol"
+  ],
+  "compound_CID": [
+    {
+      "palmitic acid": 985,
+      "stearic acid": 5281,
+      "oleic acid": 445639,
+      "linoleic acid": 5280450,
+      "octadecanoic acid": 5281,
+      "methanol": 887
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "palmitic acid_Keloid": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanolic extraction of Tualang honey, which contains fatty acids including palmitic acid, has a positive antiproliferative effect on keloid fibroblasts. This suggests that palmitic acid may contribute to reducing the proliferation of keloid fibroblasts, indicating a relationship between palmitic acid and the disease keloid."
+      }
+    },
+    {
+      "stearic acid_Keloid": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanolic extraction of Tualang honey exhibits an antiproliferative effect on keloid fibroblasts. Among the identified volatile compounds in the extract are several fatty acids, including stearic acid. The presence of stearic acid is suggested to potentially contribute to the observed antiproliferative effect on keloid fibroblasts, indicating a relationship between stearic acid and keloid disease in the context of inhibiting fibroblast proliferation."
+      }
+    },
+    {
+      "oleic acid_Keloid": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanolic extraction of Tualang honey exhibits an antiproliferative effect on keloid fibroblasts, which are cells involved in keloid formation. Gas chromatography-mass spectrometry analysis identified the presence of several fatty acids in the extract, including oleic acid. The authors suggest that these fatty acids, including oleic acid, may contribute to the observed antiproliferative effect on keloid fibroblasts. Therefore, there is evidence from this study indicating a relationship between oleic acid and keloid, specifically that oleic acid may have an inhibitory effect on the proliferation of keloid fibroblasts."
+      }
+    },
+    {
+      "linoleic acid_Keloid": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanolic extraction of Tualang honey exhibits an antiproliferative effect on keloid fibroblasts. Among the identified volatile compounds in the extract are several fatty acids, including linoleic acid. The presence of linoleic acid is suggested to potentially contribute to the observed antiproliferative effect on keloid fibroblasts, indicating a relationship between linoleic acid and keloid disease in the context of inhibiting fibroblast proliferation."
+      }
+    },
+    {
+      "octadecanoic acid_Keloid": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methanolic extraction of Tualang honey exhibits an antiproliferative effect on keloid fibroblasts. Among the identified volatile compounds in the extract are several fatty acids, including octadecanoic acid. The presence of octadecanoic acid is suggested to contribute to the observed antiproliferative effect on keloid fibroblasts, indicating a relationship between octadecanoic acid and the disease keloid through its potential role in inhibiting fibroblast proliferation."
+      }
+    },
+    {
+      "methanol_Keloid": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of methanolic extraction of Tualang honey to study its antiproliferative effects on keloid fibroblasts. Methanol is used as a solvent to extract compounds from honey, not as a compound directly related to keloid pathology or treatment. The antiproliferative effects are attributed to compounds extracted from honey, such as fatty acids, rather than methanol itself. Therefore, there is no clear evidence of a direct relationship between methanol and keloid disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several fatty acids—palmitic acid, stearic acid, oleic acid, linoleic acid, and octadecanoic acid—as volatile compounds identified in the methanolic extraction of Tualang honey. Methanol is also mentioned as the solvent used for extraction. These are specific chemical compounds named in the study."
+}

@@ -1,0 +1,75 @@
+{
+  "id": 5649,
+  "title": "Volatile scents of influenza A and S. pyogenes (co-)infected cells",
+  "Abstract": "Influenza A is a serious pathogen itself, but often leads to dangerous co-infections in combination with bacterial species such as Streptococcus pyogenes. In comparison to classical biochemical methods, analysis of volatile organic compounds (VOCs) in headspace above cultures can enable destruction free monitoring of metabolic processes in vitro. Thus, volatile biomarkers emitted from biological cell cultures and pathogens could serve for monitoring of infection processes in vitro. In this study we analysed VOCs from headspace above (co)-infected human cells by using a customized sampling system. For investigating the influenza A mono-infection and the viral-bacterial co-infection in vitro, we analysed VOCs from Detroit cells inoculated with influenza A virus and S. pyogenes by means of needle-trap micro-extraction (NTME) and gas chromatography mass spectrometry (GC-MS). Besides the determination of microbiological data such as cell count, cytokines, virus load and bacterial load, emissions from cell medium, uninfected cells and bacteria mono-infected cells were analysed. Significant differences in emitted VOC concentrations were identified between non-infected and infected cells. After inoculation with S. pyogenes, bacterial infection was mirrored by increased emissions of acetaldehyde and propanal. N-propyl acetate was linked to viral infection. Non-destructive monitoring of infections by means of VOC analysis may open a new window for infection research and clinical applications. VOC analysis could enable early recognition of pathogen presence and in-depth understanding of their etiopathology.",
+  "Disease_List": [
+    "Influenza A"
+  ],
+  "Reason": "The abstract explicitly mentions 'Influenza A' as a specific disease caused by a pathogen. Although it also discusses bacterial species such as Streptococcus pyogenes, it does not name a specific bacterial disease. Therefore, the classification is Y because 'Influenza A' is a specific disease name explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Influenza A"
+  ],
+  "UMLS_search_results": {
+    "Influenza A": [
+      {
+        "ui": "C2062441",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2062441",
+        "name": "influenza A",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0879696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0879696",
+        "name": "Influenza virus A Ab:PrThr:Pt:Ser:Ord",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0016627",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0016627",
+        "name": "Influenza in Birds",
+        "mesh_id": "D005585"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetaldehyde",
+    "propanal",
+    "N-propyl acetate"
+  ],
+  "compound_CID": [
+    {
+      "acetaldehyde": 177,
+      "propanal": 527,
+      "N-propyl acetate": 7997
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetaldehyde_Influenza_A": {
+        "relationship": "N",
+        "reason": "The abstract indicates that acetaldehyde emissions increased specifically after inoculation with Streptococcus pyogenes, which is a bacterial infection, not the Influenza A viral infection. Acetaldehyde is linked to bacterial infection in the co-infection scenario, whereas N-propyl acetate is associated with the viral infection (Influenza A). Therefore, there is no clear evidence from the abstract that acetaldehyde is related to Influenza A infection itself."
+      }
+    },
+    {
+      "propanal_Influenza_A": {
+        "relationship": "N",
+        "reason": "The abstract indicates that propanal emissions increased after inoculation with Streptococcus pyogenes, a bacterial infection, but does not link propanal emissions directly to Influenza A viral infection. Instead, N-propyl acetate was associated with viral infection (Influenza A). Therefore, there is no clear evidence from the abstract that propanal is related to Influenza A infection."
+      }
+    },
+    {
+      "N-propyl acetate_Influenza_A": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that N-propyl acetate was linked to viral infection, specifically in the context of Influenza A mono-infection and viral-bacterial co-infection in vitro. The study identified significant differences in volatile organic compounds emitted from infected cells compared to non-infected cells, and N-propyl acetate was associated with the viral infection, indicating a relationship between this compound and Influenza A."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetaldehyde and propanal as volatile organic compounds emitted during bacterial infection with Streptococcus pyogenes, and N-propyl acetate as linked to viral infection with influenza A virus. These are specific chemical compound names identified as biomarkers in the study."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5279,
+  "title": "CO2 Laser Photoacoustic Spectrometer for Measuring Acetone in the Breath of Lung Cancer Patients",
+  "Abstract": "A CO2 laser has the advantages of being high in power and having many laser lines in the 9–11 µm infrared region. Thus, a CO2 laser photoacoustic spectrometer (PAS) can have a multi-component measurement capability for many gas compounds that have non-zero absorption coefficients at the laser lines, and therefore can be applied for measuring several volatile organic compounds (VOCs) in the human breath. We have developed a CO2 laser PAS system for detecting acetone in the human breath. Although acetone has small absorption coefficients at the CO2 laser lines, our PAS system was able to obtain strong photoacoustic (PA) signals at several CO2 laser lines, with the strongest one being at the 10P20 line. Since at the 10P20 line, ethylene and ammonia also have significant absorption coefficients, these two gases have to be included in a multi-component measurement with acetone. We obtained the lowest detection limit of our system for the ethylene, acetone, and ammonia are 6 ppbv, 11 ppbv, and 31 ppbv, respectively. We applied our PAS system to measure these three VOCs in the breath of three groups of subjects, i.e., patients with lung cancer disease, patients with other lung diseases, and healthy volunteers.",
+  "Disease_List": [
+    "lung cancer disease",
+    "lung diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer disease' and 'lung diseases' as specific disease names when describing the groups of subjects whose breath was measured. These are specific diseases rather than general terms, so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung diseases"
+  ],
+  "UMLS_search_results": {
+    "lung cancer disease": [],
+    "lung diseases": [
+      {
+        "ui": "C0024115",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024115",
+        "name": "Lung diseases",
+        "mesh_id": "D008171"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

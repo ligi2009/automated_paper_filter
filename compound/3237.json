@@ -1,0 +1,46 @@
+{
+  "id": 3237,
+  "title": "A non-invasive tool for detecting cervical cancer odor by trained scent dogs",
+  "Abstract": "Cervical Cancer (CC) has become a public health concern of alarming proportions in many developing countries such as Mexico, particularly in low income sectors and marginalized regions. As such, an early detection is a key medical factor in improving not only their population’s quality of life but also its life expectancy. Interestingly, there has been an increase in the number of reports describing successful attempts at detecting cancer cells in human tissues or fluids using trained (sniffer) dogs. The great odor detection threshold exhibited by dogs is not unheard of. However, this represented a potential opportunity to develop an affordable, accessible, and non-invasive method for detection of CC. Using clicker training, a male beagle was trained to recognize CC odor. During training, fresh CC biopsies were used as a reference point. Other samples used included cervical smears on glass slides and medical surgical bandages used as intimate sanitary pads by CC patients. A double-blind procedure was exercised when testing the beagle’s ability to discriminate CC from control samples. The beagle was proven able to detect CC-specific volatile organic compounds (VOC) contained in both fresh cervical smear samples and adsorbent material samples. Beagle’s success rate at detecting and discriminating CC and non-CC odors, as indicated by specificity and sensitivity values recorded during the experiment, stood at an overall high (>90%). CC-related VOC in adsorbent materials were detectable after only eight hours of use by CC patients. Present data suggests different applications for VOC from the uterine cervix to be used in the detection and diagnosis of CC. Furthermore, data supports the use of trained dogs as a viable, affordable, non-invasive and, therefore, highly relevant alternative method for detection of CC lesions. Additional benefits of this method include its quick turnaround time and ease of use while remaining highly accurate and robust.",
+  "Disease_List": [
+    "Cervical Cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Cervical Cancer (CC)' multiple times as the specific disease being studied. The entire study focuses on detecting Cervical Cancer using trained dogs, making it a clear and specific disease mention rather than a general term.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Cervical Cancer"
+  ],
+  "UMLS_search_results": {
+    "Cervical Cancer": [
+      {
+        "ui": "C0302592",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0302592",
+        "name": "Cervix carcinoma",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C4048328",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4048328",
+        "name": "cervical cancer",
+        "mesh_id": "D002583"
+      },
+      {
+        "ui": "C0007847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007847",
+        "name": "Malignant tumor of cervix",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions 'volatile organic compounds (VOC)' related to cervical cancer detection but does not specify any particular chemical compound names. Therefore, no specific chemical compounds are identified."
+}

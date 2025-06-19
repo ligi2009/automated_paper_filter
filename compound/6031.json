@@ -1,0 +1,133 @@
+{
+  "id": 6031,
+  "title": "A Survey on Toxic Volatile Organic Compounds (VOCs): Toxicological Profiles, Health Exposure Risks, and Regulatory Strategies for Mitigating Emissions from Stationary Sources in Taiwan",
+  "Abstract": "With the revision of the Air Pollution Control Act in Taiwan announced on 1 August 2018, several provisions or regulations have been added to strengthen the control of hazardous air pollutants (HAPs) from stationary sources. Therefore, this paper conducted a survey of sixty toxic volatile organic compounds (VOCs) designated as HAPs in Taiwan and also performed a comparison between some developed countries (i.e., the USA, Japan, and Korea) using the latest databases issued by the relevant agencies/organizations. Furthermore, these designated HAPs were reviewed by their carcinogenic classifications and occupational exposure limits. Finally, the regulatory measures for controlling the emissions of toxic VOCs from stationary sources in Taiwan were addressed to echo the public concerns about their human health risk. Except for trichloroacetic acid, the designated toxic VOCs in Taiwan are included in the list of HAPs in the USA. By comparison, the number of designated HAPs is obviously higher than those in Japan and Korea. Based on the carcinogen classification by the International Agency for Research on Cancer (IARC), the toxic VOCs as confirmed human carcinogens (Group 1) include benzene, benzidine, 1,3-butadiene, 1,2-dichloroproane, ethylene oxide, formaldehyde, 4,4-methylene bis(2-chloroaniline), trichloroethylene, and vinyl chloride. To achieve the purpose of protecting public health, the follow-up control actions of HAPs from stationary sources in Taiwan involved regulatory countermeasures, including the establishment of emission limits, reporting systems, reduction plans for potential high-risk areas or plants, the incentive of an air pollution fee levy, as well as an ambient air concentration monitoring network.",
+  "Disease_List": [
+    "carcinogen-related diseases",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions carcinogenic classifications of hazardous air pollutants (HAPs) and lists specific carcinogens such as benzene, benzidine, 1,3-butadiene, ethylene oxide, formaldehyde, and others, which are confirmed human carcinogens (Group 1) by IARC. While specific disease names like 'lung cancer' or 'leukemia' are not directly named, the mention of confirmed human carcinogens implies diseases related to cancer. Therefore, the classification is Y because carcinogen-related diseases (cancer) are explicitly implied through the mention of carcinogens.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "carcinogen-related diseases": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "trichloroacetic acid",
+    "benzene",
+    "benzidine",
+    "1,3-butadiene",
+    "1,2-dichloroproane",
+    "ethylene oxide",
+    "formaldehyde",
+    "4,4-methylene bis(2-chloroaniline)",
+    "trichloroethylene",
+    "vinyl chloride"
+  ],
+  "compound_CID": [
+    {
+      "trichloroacetic acid": 6421,
+      "benzene": 241,
+      "benzidine": 7111,
+      "1,3-butadiene": 7845,
+      "1,2-dichloroproane": "None",
+      "ethylene oxide": 6354,
+      "formaldehyde": 712,
+      "4,4-methylene bis(2-chloroaniline)": 7543,
+      "trichloroethylene": 6575,
+      "vinyl chloride": 6338
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "trichloroacetic acid_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the classification of various toxic volatile organic compounds (VOCs) as hazardous air pollutants (HAPs) and their carcinogenic classifications according to the International Agency for Research on Cancer (IARC). While several compounds are explicitly listed as confirmed human carcinogens (Group 1), trichloroacetic acid is specifically mentioned as an exception and is not included in the list of designated HAPs in the USA. The abstract does not provide any evidence or classification linking trichloroacetic acid to cancer. Therefore, based on the information in the abstract, there is no clear relationship established between trichloroacetic acid and cancer."
+      }
+    },
+    {
+      "benzene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that benzene is classified as a confirmed human carcinogen (Group 1) by the International Agency for Research on Cancer (IARC). This classification indicates a clear and established relationship between benzene exposure and cancer. The abstract also discusses regulatory measures aimed at controlling emissions of hazardous air pollutants, including benzene, to protect public health from associated risks such as cancer."
+      }
+    },
+    {
+      "benzidine_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that benzidine is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between benzidine exposure and cancer. Therefore, there is strong evidence supporting the relationship between benzidine and cancer."
+      }
+    },
+    {
+      "1,3-butadiene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that 1,3-butadiene is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between exposure to 1,3-butadiene and the development of cancer. Therefore, there is strong evidence supporting a relationship between the compound 1,3-butadiene and cancer."
+      }
+    },
+    {
+      "1,2-dichloroproane_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that 1,2-dichloroproane is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between 1,2-dichloroproane and cancer. The inclusion of 1,2-dichloroproane among other known carcinogenic volatile organic compounds (VOCs) further supports this relationship."
+      }
+    },
+    {
+      "ethylene oxide_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that ethylene oxide is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between ethylene oxide exposure and cancer risk. The paper discusses regulatory measures to control emissions of such hazardous air pollutants to protect public health, further supporting the recognized carcinogenicity of ethylene oxide."
+      }
+    },
+    {
+      "formaldehyde_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that formaldehyde is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between formaldehyde exposure and cancer. The paper discusses formaldehyde among other toxic volatile organic compounds designated as hazardous air pollutants with carcinogenic potential, reinforcing the evidence of its link to cancer."
+      }
+    },
+    {
+      "4,4-methylene bis(2-chloroaniline)_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that 4,4-methylene bis(2-chloroaniline) is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between exposure to this compound and the development of cancer. Therefore, there is strong evidence supporting the link between 4,4-methylene bis(2-chloroaniline) and cancer."
+      }
+    },
+    {
+      "trichloroethylene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that trichloroethylene is classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between trichloroethylene exposure and cancer risk. The abstract further discusses regulatory measures aimed at controlling emissions of such hazardous air pollutants to protect public health, reinforcing the recognized carcinogenic potential of trichloroethylene."
+      }
+    },
+    {
+      "vinyl chloride_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists vinyl chloride as one of the toxic volatile organic compounds classified by the International Agency for Research on Cancer (IARC) as a confirmed human carcinogen (Group 1). This classification indicates a clear and established relationship between vinyl chloride exposure and cancer risk. Therefore, there is evidence supporting a relationship between vinyl chloride and cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as designated toxic volatile organic compounds (VOCs) and hazardous air pollutants (HAPs) regulated in Taiwan and other countries. These are named chemical substances rather than general terms."
+}

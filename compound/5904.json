@@ -1,0 +1,123 @@
+{
+  "id": 5904,
+  "title": "Environmental and Health Impacts of Crude Oil Exploration in the Niger Delta",
+  "Abstract": "Purpose: This research aims to assess the environmental and health consequences of crude oil exploration in the Niger Delta, focusing on the emission of greenhouse gases and air pollutants and their impacts on public health.\nMethodology: Literature search was done independently by the authors. After searching for articles on the identified databases, other sources of available and useful data on the subject such as the print press, student’s thesis and dissertation among others were sourced by hand search to augmented resources from the electronic databases.The Literature search was based on the careful evaluation of key words in the title and abstract of identified studies.\nFindings: The synthesis of available literature revealed significant insights into the environmental and health repercussions of crude oil exploration in the Niger Delta. The impact of gas flaring emerged as a major concern, leading to the release of pollutants like carbon dioxide, methane, and volatile organic compounds. These emissions contribute to elevated atmospheric temperatures, greenhouse gas concentrations, and the formation of acid rain, exacerbating global warming and disease transmission. The exposed population experiences a range of health problems including chronic respiratory diseases, cardiovascular abnormalities, altered blood parameters, and an increased risk of non-communicable diseases such as hypertension and diabetes. Prolonged exposure to pollutants from oil exploration is linked to disrupted sleep patterns, elevated stress levels, and neurophysiological disturbances, further contributing to adverse health outcomes.\nUnique contribution to theory, practice, and policy: This study advances existing knowledge by providing a comprehensive analysis of the multifaceted interplay between crude oil exploration, environmental degradation, and human health in the Niger Delta region. The research offers a substantial contribution to theoretical understanding by illuminating the intricate relationship between anthropogenic activities, environmental factors, and health outcomes. Moreover, the study provides practical implications by proposing a series of recommendations aimed at mitigating the negative impacts of oil exploration. These recommendations advocate for stricter regulations on emissions, increased monitoring and enforcement, adoption of cleaner technologies, community engagement, and investment in healthcare and environmental remediation. The findings inform policy formulation by supplying evidence-based insights to develop robust regulations and interventions that promote sustainable development, protect public health, and safeguard the environment for future generations.",
+  "Disease_List": [
+    "chronic respiratory diseases",
+    "cardiovascular abnormalities",
+    "hypertension",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'chronic respiratory diseases', 'cardiovascular abnormalities', 'hypertension', and 'diabetes'. These are named diseases rather than general terms like 'disease' or 'illness', which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiovascular abnormalities",
+    "hypertension",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "chronic respiratory diseases": [],
+    "cardiovascular abnormalities": [
+      {
+        "ui": "C0243050",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0243050",
+        "name": "Cardiovascular Abnormalities",
+        "mesh_id": "D018376"
+      }
+    ],
+    "hypertension": [
+      {
+        "ui": "C0020538",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020538",
+        "name": "Hypertensive disease",
+        "mesh_id": "D006973"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon dioxide",
+    "methane",
+    "volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "carbon dioxide": 280,
+      "methane": 297,
+      "volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon dioxide_cardiovascular_abnormalities": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including carbon dioxide, contribute to environmental pollution and health problems. Specifically, it mentions that the exposed population experiences cardiovascular abnormalities among other health issues. This suggests a relationship between carbon dioxide exposure (as part of the pollutants released) and cardiovascular abnormalities."
+      },
+      "carbon dioxide_hypertension": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including carbon dioxide, contribute to environmental pollution and health problems. It specifically mentions that the exposed population experiences an increased risk of non-communicable diseases such as hypertension. Although the abstract does not isolate carbon dioxide as the sole cause, it is included among pollutants linked to cardiovascular abnormalities and hypertension, suggesting a relationship between carbon dioxide exposure and hypertension."
+      },
+      "carbon dioxide_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including carbon dioxide, contribute to environmental pollution and health problems. It specifically mentions that the exposed population experiences an increased risk of non-communicable diseases such as diabetes. Although the relationship is not described in mechanistic detail, the abstract links carbon dioxide emissions as part of the pollutant mix contributing to health outcomes including diabetes, suggesting an association between carbon dioxide exposure and increased diabetes risk."
+      }
+    },
+    {
+      "methane_cardiovascular_abnormalities": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including methane, contribute to environmental pollution and health problems. Specifically, it mentions that the exposed population experiences cardiovascular abnormalities among other health issues. Although the abstract does not isolate methane as the sole cause, it includes methane as one of the pollutants released during gas flaring that collectively contribute to adverse health outcomes, including cardiovascular abnormalities. Therefore, there is evidence of a relationship between methane exposure in this context and cardiovascular abnormalities."
+      },
+      "methane_hypertension": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including methane, contribute to environmental pollution and health problems. It specifically mentions that the exposed population experiences an increased risk of non-communicable diseases such as hypertension. Although the abstract does not isolate methane as the sole cause, it includes methane among pollutants linked to adverse health outcomes, including hypertension, suggesting a relationship between methane exposure and hypertension."
+      },
+      "methane_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including methane, contribute to environmental pollution and health problems. It specifically mentions that the exposed population experiences an increased risk of non-communicable diseases such as diabetes. Although the abstract does not isolate methane as the sole cause, it includes methane among the pollutants linked to adverse health outcomes, including diabetes, suggesting a relationship between methane exposure and diabetes risk."
+      }
+    },
+    {
+      "volatile organic compounds_cardiovascular_abnormalities": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including volatile organic compounds (VOCs), contribute to environmental pollution and have adverse health effects on the exposed population. Specifically, it mentions that the exposed population experiences cardiovascular abnormalities among other health problems. This suggests a relationship between exposure to VOCs and cardiovascular abnormalities as part of the broader health impacts of pollutants released during crude oil exploration."
+      },
+      "volatile organic compounds_hypertension": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including volatile organic compounds (VOCs), contribute to environmental pollution and adverse health outcomes. Specifically, it mentions that the exposed population experiences an increased risk of non-communicable diseases such as hypertension. Although the abstract does not isolate VOCs as the sole cause, it links pollutants released during gas flaring, including VOCs, to cardiovascular abnormalities and hypertension, suggesting a relationship between exposure to VOCs and hypertension."
+      },
+      "volatile organic compounds_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that emissions from crude oil exploration, including volatile organic compounds (VOCs), contribute to environmental pollution and adverse health outcomes. It specifically mentions that the exposed population experiences an increased risk of non-communicable diseases such as diabetes. This suggests a link between exposure to VOCs and the risk of developing diabetes, supporting the existence of a relationship between the compound and the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions carbon dioxide, methane, and volatile organic compounds as pollutants released due to gas flaring during crude oil exploration. These are specific chemical substances identified in the text."
+}

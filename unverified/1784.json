@@ -1,0 +1,20 @@
+{
+  "id": 1784,
+  "title": "Exhaled Volatile Organic Compounds Precedes Pulmonary Injury in a Swine Pulmonary Oxygen Toxicity Model",
+  "Abstract": "Purpose Inspiring high partial pressure of oxygen (FiO2 > 0.6) for a prolonged duration can lead to lung damage termed pulmonary oxygen toxicity (PO2T). While current practice is to limit oxygen exposure, there are clinical and military scenarios where higher FiO2 levels and partial pressures of oxygen are required. The purpose of this study is to develop a non-invasive breath-based biomarker to detect PO2T prior to the onset of clinical symptoms. Methods Male Yorkshire swine (20–30 kg) were placed into custom airtight runs and randomized to air (0.209 FiO2, n = 12) or oxygen (>0.95 FiO2, n = 10) for 72 h. Breath samples, arterial blood gases, and vital signs were assessed every 12 h. After 72 h of exposure, animals were euthanized and the lungs processed for histology and wet-dry ratios. Results Swine exposed to hyperoxia developed pulmonary injury consistent with PO2T. Histology of oxygen-exposed swine showed pulmonary lymphatic congestion, epithelial sloughing, and neutrophil transmigration. Pulmonary injury was also evidenced by increased interstitial edema and a decreased PaO2/FiO2 ratio in the oxygen group when compared to the air control group. Breath volatile organic compound (VOC) sample analysis identified six VOCs that were combined into an algorithm which generated a breath score predicting PO2T with a ROC/AUC curve of 0.72 defined as a of PaO2/FiO2 ratio less than 350 mmHg. Conclusion Exposing swine to 72 h of hyperoxia induced a pulmonary injury consistent with human clinical endpoints of PO2T. VOC analysis identified six VOCs in exhaled breath that preceded PO2T. Results show promise that a simple, non-invasive breath test could potentially predict the risk of pulmonary injury in humans exposed to high partial pressures of oxygen.",
+  "Disease_List": [
+    "pulmonary oxygen toxicity (PO2T)"
+  ],
+  "Reason": "The abstract explicitly mentions 'pulmonary oxygen toxicity (PO2T)' as a specific disease resulting from high partial pressure of oxygen exposure. This term is used multiple times and is described as a form of lung damage, indicating it is a specific disease entity rather than a general condition.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "pulmonary oxygen toxicity (PO2T)": []
+  },
+  "MRCONSO_search_results": {
+    "pulmonary oxygen toxicity (PO2T)": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

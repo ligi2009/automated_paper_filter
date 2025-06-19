@@ -1,0 +1,340 @@
+{
+  "id": 2139,
+  "title": "Impact of Sawmill Industry on Ambient Air Quality: A Case Study of Ilorin Metropolis, Kwara State, Nigeria",
+  "Abstract": "Amid sawmill busy lives, air pollution is one of the greatest casualties of our time and has increased worldwide since 1990. Today, the history of air pollution in sawmills accounts for 93.32% of the total number of wood processing industries in Nigeria, it seems daunting, overwhelming and have positioned the country at a perilous crossroad. For emerging nations such as Nigeria with a population projected to hit 410.6 million humans by 2050 with up to 40-60 million people with mental disorders at the moment, consequently more than 40,000 deaths a year will be due to air pollution. 7 million deaths worldwide is attributed to air pollution with the number set to increase significantly in coming decades mostly through non-communicable diseases like lung cancer, stroke and chronic obstructive pulmonary disease but also through acute respiratory infections like pneumonia. Similarly, around 90% of all people breathe air contaminated with pollutants. In 2015, tobacco caused 7 million deaths, 1.2 million AIDS, 1.1 million cases of tuberculosis and 0.7 million of malaria, 19% of all cardiovascular deaths, 24% of all deaths due to ischaemic heart disease. 21% of stroke deaths, and 23% of deaths from lung cancer. Non-communicable diseases are responsible for 70% of deaths from air pollution and are a major cause of unexplained infections. In addition, air pollution seems to be significant but it is still not a determinant factor of the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. This study assessed ambient air quality in major sawmill sites in Ilorin Metropolis, Kwara State, Nigeria. Air pollution measurements were made using direct reading through automatic in situ gas monitors; Hand held mobile multi-gas monitor with model AS8900 (Combustible (LEL), and Oxygen (O2)), BLATN with model BR—Smart Series air quality monitor (PM10, Formaldehyde) and air quality multimeter with model B SIDE EET100 (Dust (PM2.5), VOC, Temperature and Relative Humidity). The results show that the mean concentrations of CO, O2 and other measured parameters such as Formaldehyde (HcHo) etc., are commonly lower and within acceptable range of National and International regulatory standards for air quality indices. There are however some exceptions such as mean concentrations of Volatile Organic Compounds (VOCs), PM2.5, PM10 and Combustible (LEL) respectively high when compared to National and International standards. This high value is attributed to the amount of pollutant present in the sawmills due to the input of influents it receives from activities of the sawmill. This is why there has been air pollution in Ilorin metropolis and were however, found to be polluted. Given the high cost of additional measures to lessen air pollution and the new perspectives suggesting that health effects can be observed at low concentrations, the health effects of air pollution should be of scientific and regulatory interest in coming years. In the absence of aggressive control, ambient air pollution is expected to cause between 6 and 9 million deaths a year by 2060.",
+  "Disease_List": [
+    "lung cancer",
+    "stroke",
+    "chronic obstructive pulmonary disease",
+    "pneumonia",
+    "AIDS",
+    "tuberculosis",
+    "malaria",
+    "ischaemic heart disease",
+    "neurodegenerative disorders",
+    "neurodegenerative diseases"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases such as lung cancer, stroke, chronic obstructive pulmonary disease, pneumonia, AIDS, tuberculosis, malaria, ischaemic heart disease, neurodegenerative disorders, and neurodegenerative diseases. These are all named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "stroke",
+    "chronic obstructive pulmonary disease",
+    "pneumonia",
+    "AIDS",
+    "tuberculosis",
+    "malaria",
+    "ischaemic heart disease",
+    "neurodegenerative disorders",
+    "neurodegenerative diseases"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "stroke": [
+      {
+        "ui": "C5977286",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5977286",
+        "name": "Stroke (heart beat)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0038454",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038454",
+        "name": "Cerebrovascular accident",
+        "mesh_id": "D020521"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "pneumonia": [
+      {
+        "ui": "C0032285",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0032285",
+        "name": "Pneumonia",
+        "mesh_id": "D011014"
+      }
+    ],
+    "AIDS": [
+      {
+        "ui": "C0001175",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001175",
+        "name": "Acquired Immunodeficiency Syndrome",
+        "mesh_id": "D000163"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "ischaemic heart disease": [
+      {
+        "ui": "C0151744",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151744",
+        "name": "Myocardial Ischemia",
+        "mesh_id": "D017202"
+      },
+      {
+        "ui": "C0010054",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010054",
+        "name": "Coronary Arteriosclerosis",
+        "mesh_id": "D003324"
+      }
+    ],
+    "neurodegenerative disorders": [
+      {
+        "ui": "C0524851",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524851",
+        "name": "Neurodegenerative Disorders",
+        "mesh_id": "D019636"
+      }
+    ],
+    "neurodegenerative diseases": [
+      {
+        "ui": "C0524851",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524851",
+        "name": "Neurodegenerative Disorders",
+        "mesh_id": "D019636"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Oxygen (O2)",
+    "Formaldehyde (HCHO)",
+    "Carbon Monoxide (CO)",
+    "Volatile Organic Compounds (VOCs)"
+  ],
+  "compound_CID": [
+    {
+      "Oxygen (O2)": "None",
+      "Formaldehyde (HCHO)": "None",
+      "Carbon Monoxide (CO)": "None",
+      "Volatile Organic Compounds (VOCs)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Oxygen (O2)_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with lung cancer, highlighting pollutants such as Volatile Organic Compounds (VOCs), particulate matter (PM2.5, PM10), and combustible gases as contributors to air pollution-related health risks. Oxygen (O2) is mentioned only in the context of being measured and found within acceptable ranges in the sawmill environment. There is no evidence or indication in the abstract that oxygen itself is related to lung cancer. Instead, the harmful effects are attributed to pollutants and contaminants in the air, not to oxygen."
+      },
+      "Oxygen (O2)_stroke": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including stroke. It mentions that air pollution contributes to stroke deaths, but it does not establish a direct relationship between the compound Oxygen (O2) and stroke. Oxygen (O2) levels measured in the study were within acceptable regulatory standards, and no evidence is provided linking Oxygen (O2) concentration changes to stroke risk. The focus is on pollutants such as Volatile Organic Compounds (VOCs), particulate matter (PM2.5, PM10), and combustible gases, rather than Oxygen (O2) itself."
+      },
+      "Oxygen (O2)_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including chronic obstructive pulmonary disease (COPD). It mentions measurements of several air pollutants including oxygen (O2) levels in sawmill environments. However, the oxygen concentrations were reported to be commonly lower but still within acceptable national and international standards. The abstract does not provide evidence that oxygen (O2) itself is related to the development or exacerbation of COPD. Instead, it highlights other pollutants such as volatile organic compounds (VOCs), particulate matter (PM2.5, PM10), and combustible gases as elevated and potentially harmful. Therefore, based on the abstract, there is no clear relationship established between oxygen (O2) and chronic obstructive pulmonary disease."
+      },
+      "Oxygen (O2)_pneumonia": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including acute respiratory infections like pneumonia. It mentions measurements of various air pollutants, including Oxygen (O2), but states that the mean concentrations of Oxygen (O2) were commonly lower and within acceptable regulatory standards. There is no evidence in the abstract that Oxygen (O2) itself is related to causing or influencing pneumonia. Instead, the focus is on pollutants such as VOCs, PM2.5, and PM10 as contributors to air pollution-related health effects. Therefore, based on the abstract, there is no clear relationship between Oxygen (O2) and pneumonia."
+      },
+      "Oxygen (O2)_AIDS": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, including deaths from various diseases such as lung cancer, stroke, chronic obstructive pulmonary disease, pneumonia, tuberculosis, malaria, cardiovascular diseases, and AIDS. Oxygen (O2) is mentioned only as a measured parameter in air quality monitoring, with its concentration generally within acceptable ranges. There is no evidence or indication in the abstract of a direct or indirect relationship between Oxygen (O2) levels and the disease AIDS. The mention of AIDS relates to mortality statistics attributed to tobacco use, not to oxygen exposure or air pollution levels."
+      },
+      "Oxygen (O2)_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, mentioning tuberculosis as one of the diseases caused by tobacco use and air pollution. However, it does not provide any evidence or specific information linking Oxygen (O2) levels or exposure directly to tuberculosis. Oxygen (O2) is mentioned only as a measured parameter in air quality monitoring, with concentrations within acceptable ranges, and no relationship to tuberculosis is indicated. Therefore, based on the abstract, there is no clear relationship between Oxygen (O2) and tuberculosis."
+      },
+      "Oxygen (O2)_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, mentioning measurements of Oxygen (O2) levels and various pollutants. It also references malaria in the context of deaths caused by tobacco and air pollution-related factors. However, there is no direct or implied evidence in the abstract linking Oxygen (O2) levels or exposure to malaria. The mention of Oxygen (O2) pertains only to its measurement in air quality monitoring, and malaria is mentioned as a disease affected by other factors, not by Oxygen (O2). Therefore, no clear relationship between Oxygen (O2) and malaria is established in the abstract."
+      },
+      "Oxygen (O2)_ischaemic_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including ischaemic heart disease, and mentions measurements of Oxygen (O2) levels in sawmill environments. However, it states that the mean concentrations of Oxygen (O2) were commonly lower but within acceptable regulatory standards, without indicating any direct link or causal relationship between Oxygen (O2) levels and ischaemic heart disease. The focus is on pollutants like VOCs, PM2.5, PM10, and combustible gases as contributors to health risks, not on Oxygen (O2) itself. Therefore, based on the abstract, there is no clear evidence of a relationship between Oxygen (O2) and ischaemic heart disease."
+      },
+      "Oxygen (O2)_neurodegenerative_disorders": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including non-communicable diseases and respiratory infections, but explicitly states that air pollution is not a determinant factor for the risk of neurodegenerative disorders in children or adults. Although Oxygen (O2) levels were measured and found to be within acceptable ranges, there is no evidence or indication in the abstract linking Oxygen (O2) to neurodegenerative disorders. Therefore, based on the abstract, there is no clear relationship between Oxygen (O2) and neurodegenerative disorders."
+      },
+      "Oxygen (O2)_neurodegenerative_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including non-communicable diseases and respiratory infections, but explicitly states that air pollution is not a determinant factor for the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. Although Oxygen (O2) levels were measured and found to be within acceptable ranges, there is no evidence or indication in the abstract that Oxygen (O2) itself is related to neurodegenerative diseases. Therefore, based on the abstract, there is no clear relationship between Oxygen (O2) and neurodegenerative diseases."
+      }
+    },
+    {
+      "Formaldehyde (HCHO)_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including lung cancer. It mentions that air pollution contributes to lung cancer deaths and that formaldehyde (HCHO) levels were measured in sawmill sites. However, the formaldehyde concentrations were reported to be commonly lower and within acceptable national and international air quality standards. The abstract does not provide direct evidence or specific data linking formaldehyde exposure to lung cancer risk in this context. Therefore, based on the information provided, there is no clear relationship established between formaldehyde (HCHO) and lung cancer."
+      },
+      "Formaldehyde (HCHO)_stroke": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including stroke, but it does not provide specific evidence linking Formaldehyde (HCHO) directly to stroke. While Formaldehyde levels were measured and found to be within acceptable regulatory limits, the abstract highlights other pollutants such as VOCs, PM2.5, and PM10 as elevated and potentially harmful. The mention of stroke is in the context of air pollution generally, without isolating Formaldehyde as a causative or contributing factor. Therefore, based on the abstract, there is no clear relationship established between Formaldehyde (HCHO) and stroke."
+      },
+      "Formaldehyde (HCHO)_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its general impact on health, mentioning that air pollution contributes to non-communicable diseases including chronic obstructive pulmonary disease (COPD). It also reports measurements of various pollutants including Formaldehyde (HCHO), noting that its concentrations were generally within acceptable regulatory limits. However, the abstract does not provide specific evidence or data linking Formaldehyde exposure directly to COPD. The relationship between Formaldehyde and COPD is not explicitly established or supported by the findings presented in this abstract."
+      },
+      "Formaldehyde (HCHO)_pneumonia": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its general health impacts, including acute respiratory infections like pneumonia. It mentions measurement of Formaldehyde (HCHO) levels, which were found to be within acceptable regulatory limits. However, the abstract does not provide any direct evidence or specific association between Formaldehyde exposure and pneumonia. The health effects discussed are related broadly to air pollution and other pollutants such as VOCs, PM2.5, and PM10, but Formaldehyde is not specifically linked to pneumonia in the text."
+      },
+      "Formaldehyde (HCHO)_AIDS": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, mentioning Formaldehyde (HCHO) as one of the measured pollutants. It also references AIDS in the context of deaths caused by tobacco use and air pollution-related mortality statistics. However, there is no direct or implied evidence in the abstract linking Formaldehyde exposure to AIDS. The discussion of Formaldehyde focuses on its concentration levels and air quality standards, while AIDS is mentioned only as a disease with mortality statistics unrelated to Formaldehyde exposure. Therefore, no clear relationship between Formaldehyde (HCHO) and AIDS is established in the abstract."
+      },
+      "Formaldehyde (HCHO)_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its general health impacts, including non-communicable diseases and acute respiratory infections like pneumonia. It mentions tuberculosis cases in the context of tobacco-related deaths but does not provide any specific evidence or data linking Formaldehyde (HCHO) exposure to tuberculosis. Furthermore, the measured concentrations of Formaldehyde in the study were within acceptable regulatory limits, and no direct association between Formaldehyde and tuberculosis is indicated. Therefore, based on the abstract, there is no clear relationship established between Formaldehyde (HCHO) and tuberculosis."
+      },
+      "Formaldehyde (HCHO)_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, mentioning Formaldehyde (HCHO) as one of the measured pollutants. It also references malaria in the context of deaths caused by tobacco and air pollution-related factors. However, there is no direct or implied evidence in the abstract linking Formaldehyde (HCHO) exposure to malaria. The discussion of malaria is separate from the measurements and effects of Formaldehyde, and no causal or associative relationship between Formaldehyde and malaria is presented."
+      },
+      "Formaldehyde (HCHO)_ischaemic_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including ischaemic heart disease (IHD) and mentions formaldehyde (HCHO) as one of the measured pollutants. However, it states that the mean concentrations of formaldehyde were commonly lower and within acceptable regulatory standards. While air pollution overall is linked to cardiovascular diseases including IHD, the abstract does not provide specific evidence or data linking formaldehyde exposure directly to ischaemic heart disease. The elevated pollutants associated with health risks were VOCs, PM2.5, PM10, and combustible gases, but formaldehyde levels were not indicated as a risk factor for IHD in this study."
+      },
+      "Formaldehyde (HCHO)_neurodegenerative_disorders": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease. It specifically states that air pollution is not a determinant factor for the risk of neurodegenerative disorders in children and adults. Although Formaldehyde (HCHO) levels were measured and found to be within acceptable regulatory limits, there is no evidence or indication in the abstract linking Formaldehyde exposure to neurodegenerative disorders. Therefore, based on the abstract, there is no clear relationship between Formaldehyde (HCHO) and neurodegenerative disorders."
+      },
+      "Formaldehyde (HCHO)_neurodegenerative_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease. It specifically states that air pollution is not a determinant factor for the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. Although Formaldehyde (HCHO) was measured and found to be within acceptable regulatory limits, there is no evidence or indication in the abstract linking Formaldehyde exposure to neurodegenerative diseases."
+      }
+    },
+    {
+      "Carbon Monoxide (CO)_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including lung cancer. It mentions that air pollution contributes to non-communicable diseases such as lung cancer, but does not specifically link Carbon Monoxide (CO) to lung cancer. The measured concentrations of CO in the sawmill sites were reported to be within acceptable regulatory standards, unlike other pollutants such as VOCs and particulate matter which were elevated. Therefore, based on this abstract, there is no clear evidence or specific mention of a relationship between Carbon Monoxide (CO) and lung cancer."
+      },
+      "Carbon Monoxide (CO)_stroke": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution is responsible for a significant number of deaths worldwide, including those from non-communicable diseases such as stroke. It specifically mentions that 21% of stroke deaths are attributed to air pollution. Carbon Monoxide (CO) is one of the measured air pollutants in the study, and although its concentrations were generally within acceptable regulatory limits, the overall context links air pollution exposure, which includes CO among other pollutants, to increased stroke mortality. Therefore, there is evidence of a relationship between Carbon Monoxide (CO) as a component of air pollution and stroke."
+      },
+      "Carbon Monoxide (CO)_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its association with various diseases including chronic obstructive pulmonary disease (COPD). It mentions measurements of several pollutants including Carbon Monoxide (CO), noting that CO levels were commonly lower and within acceptable regulatory standards in the studied sawmill sites. While the abstract links air pollution broadly to COPD, it does not provide specific evidence or data indicating a direct relationship between CO exposure and COPD in this context. Instead, it highlights other pollutants such as VOCs and particulate matter as elevated and potentially more relevant. Therefore, based on the abstract, there is no clear evidence of a direct relationship between Carbon Monoxide (CO) and chronic obstructive pulmonary disease."
+      },
+      "Carbon Monoxide (CO)_pneumonia": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including acute respiratory infections like pneumonia. However, it does not provide specific evidence linking Carbon Monoxide (CO) concentrations to pneumonia. The measured CO levels in the sawmill sites were generally within acceptable regulatory standards, and the abstract highlights other pollutants such as VOCs, PM2.5, and PM10 as elevated. Therefore, based on this abstract, there is no clear evidence of a direct relationship between Carbon Monoxide (CO) and pneumonia."
+      },
+      "Carbon Monoxide (CO)_AIDS": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, including deaths from non-communicable diseases and infections such as pneumonia, tuberculosis, malaria, and AIDS. However, it does not provide any evidence or mention a direct or indirect relationship between Carbon Monoxide (CO) exposure and AIDS. The data presented focus on air pollutant concentrations and general health effects, but no specific link between CO and AIDS is established or suggested."
+      },
+      "Carbon Monoxide (CO)_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its general health impacts, including non-communicable diseases and acute respiratory infections like pneumonia. It mentions tuberculosis in the context of deaths caused by tobacco but does not provide any evidence or data linking Carbon Monoxide (CO) exposure specifically to tuberculosis. The measured CO levels were within acceptable regulatory standards, and no direct relationship between CO and tuberculosis is indicated in the abstract."
+      },
+      "Carbon Monoxide (CO)_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, mentioning various pollutants including Carbon Monoxide (CO) and diseases such as malaria. However, it does not provide any evidence or direct link between Carbon Monoxide exposure and malaria. Malaria is mentioned only in the context of deaths caused by tobacco use, not in relation to CO or air pollution. Therefore, there is no clear relationship established between Carbon Monoxide (CO) and malaria based on the abstract content."
+      },
+      "Carbon Monoxide (CO)_ischaemic_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, mentioning that air pollution contributes to non-communicable diseases including ischaemic heart disease. However, it does not specifically link Carbon Monoxide (CO) concentrations to ischaemic heart disease. The measured CO levels in the study were generally within acceptable regulatory limits, and no direct evidence or data in the abstract connects CO exposure to ischaemic heart disease risk. Therefore, based on this abstract alone, there is no clear relationship established between Carbon Monoxide (CO) and ischaemic heart disease."
+      },
+      "Carbon Monoxide (CO)_neurodegenerative_disorders": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease, as well as acute respiratory infections. It specifically states that air pollution is significant but is still not a determinant factor of the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. Although Carbon Monoxide (CO) levels were measured and found to be within acceptable regulatory standards, there is no evidence or indication in the abstract that CO is related to neurodegenerative disorders."
+      },
+      "Carbon Monoxide (CO)_neurodegenerative_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease, as well as acute respiratory infections. It specifically states that air pollution is significant but is not a determinant factor for the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. Although Carbon Monoxide (CO) levels were measured and found to be within acceptable regulatory standards, there is no evidence or indication in the abstract linking CO exposure to neurodegenerative diseases. Therefore, based on the abstract, there is no clear relationship between Carbon Monoxide (CO) and neurodegenerative diseases."
+      }
+    },
+    {
+      "Volatile Organic Compounds (VOCs)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution is a major contributor to non-communicable diseases including lung cancer. It specifically mentions that 23% of deaths from lung cancer are attributed to air pollution. Volatile Organic Compounds (VOCs) are identified as one of the pollutants present at high concentrations in the sawmill sites studied, exceeding national and international standards. Given that VOCs are a component of air pollution and that air pollution is linked to lung cancer mortality, there is evidence of a relationship between VOC exposure and lung cancer risk."
+      },
+      "Volatile Organic Compounds (VOCs)_stroke": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollution is a significant contributor to non-communicable diseases, including stroke. It specifically mentions that 21% of stroke deaths are attributed to air pollution. Volatile Organic Compounds (VOCs) are identified in the study as one of the pollutants present at high concentrations in sawmill environments, exceeding national and international standards. Since VOCs are a component of air pollution and air pollution is linked to stroke mortality, there is evidence of a relationship between VOC exposure and stroke risk as presented in the abstract."
+      },
+      "Volatile Organic Compounds (VOCs)_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses air pollution as a major cause of non-communicable diseases, explicitly including chronic obstructive pulmonary disease (COPD) among the diseases attributed to air pollution. It highlights that Volatile Organic Compounds (VOCs) levels were found to be high in sawmill areas, exceeding national and international air quality standards. Since VOCs are a component of air pollution and air pollution is linked to COPD in the abstract, there is evidence of a relationship between VOCs and chronic obstructive pulmonary disease."
+      },
+      "Volatile Organic Compounds (VOCs)_pneumonia": {
+        "relationship": "Y",
+        "reason": "The abstract discusses air pollution as a significant health concern, attributing millions of deaths worldwide to it, including deaths from acute respiratory infections such as pneumonia. It specifically mentions that air pollution, which includes pollutants like Volatile Organic Compounds (VOCs), is linked to acute respiratory infections like pneumonia. Furthermore, the study highlights elevated levels of VOCs in sawmill areas, indicating exposure to these compounds. Therefore, there is evidence in the abstract that VOCs, as part of air pollution, have a relationship with pneumonia."
+      },
+      "Volatile Organic Compounds (VOCs)_AIDS": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, mentioning Volatile Organic Compounds (VOCs) as pollutants with concentrations higher than regulatory standards. It also references various diseases and causes of death related to air pollution, including non-communicable diseases and acute respiratory infections. While AIDS is mentioned in the context of deaths caused by tobacco use, there is no direct or indirect evidence in the abstract linking VOC exposure to AIDS. The abstract does not suggest any relationship between VOCs and AIDS."
+      },
+      "Volatile Organic Compounds (VOCs)_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and mentions Volatile Organic Compounds (VOCs) as one of the pollutants with concentrations higher than national and international standards. It also provides general statistics on deaths caused by air pollution and tobacco, including tuberculosis cases attributed to tobacco. However, the abstract does not provide any direct or indirect evidence linking VOC exposure specifically to tuberculosis. The mention of tuberculosis is in the context of tobacco-related deaths, not VOC exposure. Therefore, based on the content of this abstract, there is no clear relationship established between VOCs and tuberculosis."
+      },
+      "Volatile Organic Compounds (VOCs)_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and mentions Volatile Organic Compounds (VOCs) as one of the pollutants with concentrations higher than acceptable standards. It also references mortality statistics related to air pollution and tobacco, including deaths from malaria. However, the mention of malaria is in the context of deaths caused by tobacco use, not VOC exposure or air pollution directly. There is no evidence or discussion in the abstract linking VOCs specifically to malaria or indicating that VOCs influence malaria risk or incidence. Therefore, based on the abstract content, there is no clear relationship established between Volatile Organic Compounds (VOCs) and malaria."
+      },
+      "Volatile Organic Compounds (VOCs)_ischaemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses air pollution as a major contributor to non-communicable diseases, including ischaemic heart disease (IHD). It specifically mentions that 24% of all deaths due to ischaemic heart disease are attributed to air pollution. Volatile Organic Compounds (VOCs) are identified in the study as one of the pollutants with concentrations higher than national and international standards in sawmill areas, indicating significant exposure. Although the abstract does not explicitly link VOCs alone to IHD, it groups VOCs among the air pollutants contributing to overall air pollution, which is associated with increased IHD mortality. Therefore, there is evidence of a relationship between VOCs (as part of air pollution) and ischaemic heart disease."
+      },
+      "Volatile Organic Compounds (VOCs)_neurodegenerative_disorders": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease, as well as acute respiratory infections. It specifically mentions that air pollution is significant but is still not a determinant factor for the risk of neurodegenerative disorders in children and adults. Although Volatile Organic Compounds (VOCs) were found at high concentrations in the sawmill environment, the abstract does not provide evidence linking VOC exposure to neurodegenerative disorders. Therefore, based on the information in the abstract, there is no clear relationship established between VOCs and neurodegenerative disorders."
+      },
+      "Volatile Organic Compounds (VOCs)_neurodegenerative_diseases": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution in sawmills and its health impacts, including non-communicable diseases such as lung cancer, stroke, and chronic obstructive pulmonary disease. It specifically mentions that air pollution is significant but is not a determinant factor for the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. Although Volatile Organic Compounds (VOCs) were found at high concentrations in the sawmill environment, the abstract does not provide evidence linking VOC exposure to neurodegenerative diseases. Therefore, based on the information provided, there is no clear relationship established between VOCs and neurodegenerative diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds measured in the air quality assessment at sawmill sites, including Oxygen (O2), Formaldehyde (HCHO), Carbon Monoxide (CO), and Volatile Organic Compounds (VOCs). These are specific chemical substances relevant to air pollution monitoring, unlike general terms such as 'chemicals' or 'compounds'."
+}

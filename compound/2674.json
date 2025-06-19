@@ -1,0 +1,191 @@
+{
+  "id": 2674,
+  "title": "Nutritional and antioxidant significance of selenium-enriched mushrooms",
+  "Abstract": "Background The element selenium (Se) acts as a double-edged sword for humans and animals by being a nutrient at trace level and a toxin at elevated concentrations. It is needed for the biosynthesis of selenoenzymes and selenoproteins which mediate an array of activities such as antioxidant defense, detoxification, immunomodulation, carcinogenesis prevention, thyroid functioning, and sperm motility and maturation. Because of their culinary, nutritional, and health benefits, the demand for mushroom cultivation is increasing in India. The mushrooms are enriched with proteins, phenolics, antioxidants, vitamins, and microelements. Most of the edible and cultivated mushrooms show an array of biological properties. However, they are Se deficient, and it mandates the cultivation of Se-fortified edible mushrooms. Aim of work This review focuses on Se forms, distribution, dietary importance, mushroom cultivation, need of Se-enriched mushrooms, enrichment methods, nutritional and antioxidant significance, and anticancer activity of Se-biofortified mushrooms. Methodology and results Se-enriched mushrooms are produced by cultivation on substrates enriched with either inorganic or organic forms of Se and Se-hyperaccumulated agricultural residues. Edible mushrooms accumulate Se from substrate into selenoproteins and selenoenzymes as selenomethionine and selenocysteine, the organic and most bioavailable forms of Se. Without affecting the biological efficiency, the enrichment process enhances the total protein and total phenolic content and bioaccessibility of trace elements. The antioxidant action was higher for Se-fortified mushrooms in terms of total phenolics, total antioxidant, 1, 1-diphenyl-dipicrylhydrazyl (DPPH) scavenging, metal chelating, and lipid peroxidation inhibition activities in comparison with unfortified mushrooms. Also, Se-enriched mushrooms are known to retard chemically induced mammary tumors and proliferation of lung cancer cell lines. Conclusions Se-biofortified mushrooms act as potential functional food, nutraceutical, and diet supplements. Dietary intake of Se-fortified mushrooms aids in treatment and prevention of various conditions such as HIV infection, cancer, aging, cardiovascular, neurodegenerative and immunological diseases. The cultivation of Se-enriched mushrooms leads to sustainable empowerment of marginal, landless farmers; rural women; unemployed youth; and self-help groups. However, the technology development for Se enrichment is needed for commercial scale production. Other studies on volatile Se compound release during cultivation, safe disposal of spent compost, and Se leaching into ground water are warranted. The impact of cooking and traditional preservation methods on Se availability from mushroom meal to humans has to be evaluated.",
+  "Disease_List": [
+    "HIV infection",
+    "cancer",
+    "cardiovascular diseases",
+    "neurodegenerative diseases",
+    "immunological diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'HIV infection' and 'cancer'. It also refers to categories of diseases including 'cardiovascular, neurodegenerative and immunological diseases', which are recognized disease groups. Therefore, the classification is 'Y' for yes, with the listed diseases identified from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "HIV infection",
+    "cancer",
+    "cardiovascular diseases",
+    "neurodegenerative diseases",
+    "immunological diseases"
+  ],
+  "UMLS_search_results": {
+    "HIV infection": [
+      {
+        "ui": "C0019693",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019693",
+        "name": "HIV Infections",
+        "mesh_id": "D015658"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "neurodegenerative diseases": [
+      {
+        "ui": "C0524851",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524851",
+        "name": "Neurodegenerative Disorders",
+        "mesh_id": "D019636"
+      }
+    ],
+    "immunological diseases": [
+      {
+        "ui": "C0021053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021053",
+        "name": "Immune System Diseases",
+        "mesh_id": "D007154"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "selenium",
+    "selenomethionine",
+    "selenocysteine",
+    "1,1-diphenyl-dipicrylhydrazyl (DPPH)"
+  ],
+  "compound_CID": [
+    {
+      "selenium": 6326970,
+      "selenomethionine": 15103,
+      "selenocysteine": 6326983,
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "selenium_HIV_infection": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that dietary intake of selenium-fortified mushrooms aids in the treatment and prevention of various conditions including HIV infection. This indicates a recognized beneficial relationship between selenium (as provided through Se-enriched mushrooms) and HIV infection, suggesting selenium's role in supporting immune function or disease management in HIV-infected individuals."
+      },
+      "selenium_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between selenium and cancer. Selenium is described as essential for the biosynthesis of selenoenzymes and selenoproteins that have roles including carcinogenesis prevention. The review highlights that selenium-enriched mushrooms exhibit antioxidant properties and have been shown to retard chemically induced mammary tumors and inhibit proliferation of lung cancer cell lines. Additionally, dietary intake of selenium-fortified mushrooms is noted to aid in the treatment and prevention of cancer among other diseases. These points collectively indicate a beneficial relationship between selenium and cancer prevention or treatment."
+      },
+      "selenium_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenium (Se) is essential for the biosynthesis of selenoenzymes and selenoproteins involved in antioxidant defense and other biological activities. It specifically mentions that dietary intake of Se-fortified mushrooms aids in the treatment and prevention of various conditions, including cardiovascular diseases. This suggests a beneficial relationship between selenium and cardiovascular health, likely due to its antioxidant properties and role in mitigating oxidative stress, which is a known factor in cardiovascular disease pathogenesis."
+      },
+      "selenium_neurodegenerative_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenium (Se) is essential for the biosynthesis of selenoenzymes and selenoproteins involved in antioxidant defense and other biological activities. It specifically mentions that dietary intake of Se-fortified mushrooms aids in the treatment and prevention of various conditions, including neurodegenerative diseases. This suggests a beneficial relationship between selenium and neurodegenerative diseases, likely through its antioxidant properties and role in cellular protection."
+      },
+      "selenium_immunological_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenium is essential for the biosynthesis of selenoenzymes and selenoproteins involved in immunomodulation. It specifically mentions that dietary intake of selenium-fortified mushrooms aids in the treatment and prevention of various conditions including immunological diseases. This suggests a clear relationship between selenium and immunological diseases through its role in immune system modulation and potential therapeutic benefits."
+      }
+    },
+    {
+      "selenomethionine_HIV_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenomethionine is an organic and bioavailable form of selenium accumulated in Se-enriched mushrooms. It further states that dietary intake of Se-fortified mushrooms, which contain selenomethionine, aids in the treatment and prevention of various conditions including HIV infection. This suggests a relationship between selenomethionine and HIV infection through its presence in Se-enriched mushrooms that have beneficial effects on this disease."
+      },
+      "selenomethionine_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenomethionine, an organic and bioavailable form of selenium, is accumulated in Se-enriched mushrooms. These Se-biofortified mushrooms exhibit antioxidant properties and have been shown to retard chemically induced mammary tumors and inhibit proliferation of lung cancer cell lines. Furthermore, dietary intake of Se-fortified mushrooms, which contain selenomethionine, aids in the treatment and prevention of cancer among other diseases. Therefore, there is evidence supporting a relationship between selenomethionine and cancer prevention or treatment."
+      },
+      "selenomethionine_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenomethionine is an organic and bioavailable form of selenium accumulated in Se-enriched mushrooms. It highlights that dietary intake of Se-fortified mushrooms, which contain selenomethionine, aids in the treatment and prevention of various conditions including cardiovascular diseases. This suggests a positive relationship between selenomethionine and cardiovascular diseases through its antioxidant and health-promoting effects as part of Se-enriched mushrooms."
+      },
+      "selenomethionine_neurodegenerative_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenomethionine is an organic and bioavailable form of selenium accumulated in Se-enriched mushrooms. It highlights that dietary intake of Se-fortified mushrooms, which contain selenomethionine, aids in the treatment and prevention of various conditions including neurodegenerative diseases. This suggests a relationship between selenomethionine and neurodegenerative diseases through its antioxidant and protective roles as part of Se-biofortified mushrooms."
+      },
+      "selenomethionine_immunological_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenomethionine is an organic and bioavailable form of selenium accumulated in Se-enriched mushrooms. Selenium, through selenoproteins and selenoenzymes including selenomethionine, mediates immunomodulation among other biological activities. The abstract specifically states that dietary intake of Se-fortified mushrooms, which contain selenomethionine, aids in the treatment and prevention of various conditions including immunological diseases. Therefore, there is evidence of a relationship between selenomethionine and immunological diseases as it contributes to immunomodulatory effects beneficial in these diseases."
+      }
+    },
+    {
+      "selenocysteine_HIV_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenocysteine, as an organic and bioavailable form of selenium, is accumulated in Se-enriched mushrooms. It further states that dietary intake of Se-fortified mushrooms, which contain selenocysteine, aids in the treatment and prevention of various conditions including HIV infection. This suggests a relationship between selenocysteine and HIV infection through its presence in Se-enriched mushrooms that have beneficial effects on this disease."
+      },
+      "selenocysteine_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenocysteine, as an organic and bioavailable form of selenium, is accumulated in Se-enriched mushrooms. These mushrooms exhibit antioxidant properties and have been shown to retard chemically induced mammary tumors and proliferation of lung cancer cell lines. Furthermore, dietary intake of Se-fortified mushrooms, which contain selenocysteine, aids in the treatment and prevention of cancer among other diseases. Therefore, there is evidence of a relationship between selenocysteine and cancer, particularly in the context of its role in Se-enriched mushrooms with anticancer activity."
+      },
+      "selenocysteine_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenocysteine, as an organic and bioavailable form of selenium, is accumulated in Se-enriched mushrooms which exhibit enhanced antioxidant properties. It further states that dietary intake of Se-fortified mushrooms aids in the treatment and prevention of various conditions including cardiovascular diseases. This suggests a relationship between selenocysteine (via Se-enriched mushrooms) and cardiovascular diseases, likely through antioxidant and other protective mechanisms."
+      },
+      "selenocysteine_neurodegenerative_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenium (Se), including its organic forms such as selenocysteine, is incorporated into selenoproteins and selenoenzymes with antioxidant properties. It specifically mentions that dietary intake of Se-fortified mushrooms, which contain selenocysteine, aids in the treatment and prevention of various conditions including neurodegenerative diseases. This suggests a beneficial relationship between selenocysteine and neurodegenerative diseases through its antioxidant and protective roles."
+      },
+      "selenocysteine_immunological_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that selenocysteine, as an organic and bioavailable form of selenium, is accumulated in Se-enriched mushrooms. These mushrooms exhibit enhanced antioxidant properties and are noted to aid in the treatment and prevention of various conditions, including immunological diseases. This suggests a relationship between selenocysteine and immunological diseases through its role in selenium-enriched mushrooms that have immunomodulatory effects."
+      }
+    },
+    {
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)_HIV_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antioxidant properties of Se-fortified mushrooms, including their 1,1-diphenyl-dipicrylhydrazyl (DPPH) scavenging activity, and mentions that dietary intake of Se-fortified mushrooms aids in the treatment and prevention of various conditions such as HIV infection. However, the relationship is between Se-enriched mushrooms as a whole and HIV infection, not specifically between the compound DPPH and HIV infection. DPPH is mentioned only as a method to measure antioxidant activity, not as a compound with a direct relationship to HIV infection."
+      },
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 1,1-diphenyl-dipicrylhydrazyl (DPPH) scavenging activity is used as a measure of antioxidant action in Se-fortified mushrooms. These mushrooms show higher antioxidant activity, including DPPH scavenging, compared to unfortified mushrooms. Additionally, Se-enriched mushrooms are reported to retard chemically induced mammary tumors and proliferation of lung cancer cell lines, suggesting anticancer activity. Therefore, the antioxidant property measured by DPPH scavenging is linked to the anticancer effects of Se-biofortified mushrooms, establishing a relationship between DPPH activity and cancer prevention or treatment."
+      },
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 1,1-diphenyl-dipicrylhydrazyl (DPPH) scavenging activity is used as a measure of antioxidant action in Se-fortified mushrooms. It further states that dietary intake of Se-fortified mushrooms, which exhibit enhanced DPPH scavenging activity, aids in the treatment and prevention of various conditions including cardiovascular diseases. This suggests an indirect relationship where the antioxidant properties measured by DPPH scavenging are linked to beneficial effects on cardiovascular diseases."
+      },
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)_neurodegenerative_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 1,1-diphenyl-dipicrylhydrazyl (DPPH) scavenging activity, which is a measure of antioxidant capacity, is enhanced in selenium-fortified mushrooms. These Se-enriched mushrooms exhibit increased antioxidant properties, including DPPH scavenging, which are linked to beneficial effects in preventing and treating various conditions, explicitly including neurodegenerative diseases. Therefore, there is evidence in the abstract that the compound DPPH, as a marker of antioxidant activity, is related to neurodegenerative diseases through the antioxidant effects of Se-enriched mushrooms."
+      },
+      "1,1-diphenyl-dipicrylhydrazyl (DPPH)_immunological_diseases": {
+        "relationship": "N",
+        "reason": "The abstract mentions 1,1-diphenyl-dipicrylhydrazyl (DPPH) only in the context of antioxidant activity measurement, specifically DPPH scavenging activity in Se-fortified mushrooms. There is no direct evidence or discussion linking DPPH itself to immunological diseases. Instead, the abstract relates selenium-enriched mushrooms to potential benefits in immunological diseases, but this is attributed to selenium and its bioactive forms, not to DPPH. Therefore, no clear relationship between the compound DPPH and immunological diseases is established in the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions selenium and its organic forms selenomethionine and selenocysteine as key compounds involved in mushroom biofortification and biological activity. Additionally, 1,1-diphenyl-dipicrylhydrazyl (DPPH) is identified as a chemical used to measure antioxidant activity. These are specific chemical compounds named in the text, unlike general terms such as 'compounds' or 'substances'."
+}

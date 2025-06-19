@@ -1,0 +1,42 @@
+{
+  "id": 4074,
+  "title": "Sensors for Enhanced Detection of Acetone as a Potential Tool for Noninvasive Diabetes Monitoring",
+  "Abstract": "Measurement of blood-borne volatile organic compounds (VOCs) occurring in human exhaled breath as a result of metabolic changes or pathological disorders is a promising tool for noninvasive medical diagnosis, such as exhaled acetone measurements in terms of diabetes monitoring. The conventional methods for exhaled breath analysis are based on spectrometry techniques, however, the development of gas sensors has made them more and more attractive from a medical point of view. This review focuses on the latest achievements in gas sensors for exhaled acetone detection. Several different methods and techniques are presented and discussed as well.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes' in the context of monitoring exhaled acetone levels for noninvasive medical diagnosis. This is a specific disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

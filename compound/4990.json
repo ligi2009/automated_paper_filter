@@ -1,0 +1,148 @@
+{
+  "id": 4990,
+  "title": "Ex vivo emission of volatile organic compounds from gastric cancer and non-cancerous tissue",
+  "Abstract": "The presence of certain volatile organic compounds (VOCs) in the breath of patients with gastric cancer has been reported by a number of research groups; however, the source of these compounds remains controversial. Comparison of VOCs emitted from gastric cancer tissue to those emitted from non-cancerous tissue would help in understanding which of the VOCs are associated with gastric cancer and provide a deeper knowledge on their generation. Gas chromatography with mass spectrometric detection (GC-MS) coupled with head-space needle trap extraction (HS-NTE) as the pre-concentration technique, was used to identify and quantify VOCs released by gastric cancer and non-cancerous tissue samples collected from 41 patients during surgery. Excluding contaminants, a total of 32 VOCs were liberated by the tissue samples. The emission of four of them (carbon disulfide, pyridine, 3-methyl-2-butanone and 2-pentanone) was significantly higher from cancer tissue, whereas three compounds (isoprene, γ-butyrolactone and dimethyl sulfide) were in greater concentration from the non-cancerous tissues (Wilcoxon signed-rank test, p < 0.05). Furthermore, the levels of three VOCs (2-methyl-1-propene, 2-propenenitrile and pyrrole) were correlated with the occurrence of H. pylori; and four compounds (acetonitrile, pyridine, toluene and 3-methylpyridine) were associated with tobacco smoking. Ex vivo analysis of VOCs emitted by human tissue samples provides a unique opportunity to identify chemical patterns associated with a cancerous state and can be considered as a complementary source of information on volatile biomarkers found in breath, blood or urine.",
+  "Disease_List": [
+    "gastric cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'gastric cancer' multiple times as the specific disease under study. It discusses volatile organic compounds associated with gastric cancer tissue compared to non-cancerous tissue, clearly identifying gastric cancer as the disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "gastric cancer"
+  ],
+  "UMLS_search_results": {
+    "gastric cancer": [
+      {
+        "ui": "C0024623",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024623",
+        "name": "Malignant neoplasm of stomach",
+        "mesh_id": "D013274"
+      },
+      {
+        "ui": "C0699791",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699791",
+        "name": "Stomach Carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon disulfide",
+    "pyridine",
+    "3-methyl-2-butanone",
+    "2-pentanone",
+    "isoprene",
+    "γ-butyrolactone",
+    "dimethyl sulfide",
+    "2-methyl-1-propene",
+    "2-propenenitrile",
+    "pyrrole",
+    "acetonitrile",
+    "toluene",
+    "3-methylpyridine"
+  ],
+  "compound_CID": [
+    {
+      "carbon disulfide": 6348,
+      "pyridine": 1049,
+      "3-methyl-2-butanone": 11251,
+      "2-pentanone": 7895,
+      "isoprene": 6557,
+      "γ-butyrolactone": "None",
+      "dimethyl sulfide": 1068,
+      "2-methyl-1-propene": 8255,
+      "2-propenenitrile": 7855,
+      "pyrrole": 8027,
+      "acetonitrile": 6342,
+      "toluene": 1140,
+      "3-methylpyridine": 7970
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon disulfide_gastric_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that carbon disulfide is one of the volatile organic compounds (VOCs) whose emission was significantly higher from gastric cancer tissue compared to non-cancerous tissue samples. This indicates a clear association between carbon disulfide and gastric cancer tissue, suggesting that carbon disulfide is related to the presence of gastric cancer."
+      }
+    },
+    {
+      "pyridine_gastric_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that pyridine is one of the volatile organic compounds (VOCs) emitted at significantly higher levels from gastric cancer tissue compared to non-cancerous tissue (p < 0.05). This indicates a clear association between pyridine emission and the presence of gastric cancer. Additionally, pyridine is mentioned as being associated with tobacco smoking, which may be a confounding factor, but the direct measurement from cancerous tissue supports a relationship between pyridine and gastric cancer."
+      }
+    },
+    {
+      "3-methyl-2-butanone_gastric_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 3-methyl-2-butanone is one of the volatile organic compounds (VOCs) whose emission was significantly higher from gastric cancer tissue compared to non-cancerous tissue (p < 0.05). This indicates a clear association between 3-methyl-2-butanone and gastric cancer, suggesting it may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "2-pentanone_gastric_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-pentanone is one of the volatile organic compounds (VOCs) whose emission was significantly higher from gastric cancer tissue compared to non-cancerous tissue (p < 0.05). This indicates a clear association between elevated levels of 2-pentanone and the presence of gastric cancer, suggesting that 2-pentanone is related to the disease and may serve as a potential biomarker."
+      }
+    },
+    {
+      "isoprene_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that isoprene was found in greater concentration in non-cancerous gastric tissue compared to gastric cancer tissue, with a statistically significant difference (p < 0.05). This suggests that isoprene is not associated with the cancerous state but rather with non-cancerous tissue. Therefore, there is no evidence from this study to support a positive relationship between isoprene and gastric cancer."
+      }
+    },
+    {
+      "γ-butyrolactone_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that γ-butyrolactone was found in greater concentration in non-cancerous gastric tissue compared to gastric cancer tissue, with statistical significance (p < 0.05). This suggests that γ-butyrolactone is not associated with the presence of gastric cancer but rather is more abundant in healthy tissue. Therefore, there is no evidence from this study to support a positive relationship between γ-butyrolactone and gastric cancer."
+      }
+    },
+    {
+      "dimethyl sulfide_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that dimethyl sulfide was found in greater concentration in non-cancerous gastric tissue compared to gastric cancer tissue, with a statistically significant difference (p < 0.05). This suggests that dimethyl sulfide is not associated with gastric cancer tissue emission but rather with non-cancerous tissue. Therefore, there is no evidence from this study to support a positive relationship between dimethyl sulfide and gastric cancer."
+      }
+    },
+    {
+      "2-methyl-1-propene_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that 2-methyl-1-propene levels were correlated with the occurrence of H. pylori infection, not directly with gastric cancer. While some VOCs were significantly higher in cancer tissue, 2-methyl-1-propene was not among them. Therefore, there is no clear evidence from this abstract that 2-methyl-1-propene is directly related to gastric cancer."
+      }
+    },
+    {
+      "2-propenenitrile_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that 2-propenenitrile levels were correlated with the occurrence of H. pylori infection, not directly with gastric cancer tissue itself. While some VOCs were significantly higher in cancer tissue, 2-propenenitrile was not among them. Therefore, there is no clear evidence from this study that 2-propenenitrile is directly associated with gastric cancer."
+      }
+    },
+    {
+      "pyrrole_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that pyrrole levels were correlated with the occurrence of H. pylori infection, not directly with gastric cancer tissue. While some VOCs were significantly higher in gastric cancer tissue, pyrrole was not among them. Therefore, there is no clear evidence from this abstract that pyrrole is directly associated with gastric cancer."
+      }
+    },
+    {
+      "acetonitrile_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that acetonitrile is associated with tobacco smoking rather than directly with gastric cancer. While the study identifies certain VOCs that are emitted in higher concentrations from gastric cancer tissue, acetonitrile is not among those compounds. Instead, acetonitrile is mentioned as linked to tobacco smoking, which may be a confounding factor but does not establish a direct relationship between acetonitrile and gastric cancer in the context of this study."
+      }
+    },
+    {
+      "toluene_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that toluene is one of the volatile organic compounds associated with tobacco smoking rather than directly with gastric cancer tissue. While the study identifies certain VOCs that are emitted in higher concentrations from gastric cancer tissue, toluene is not among them. Instead, toluene is linked to tobacco smoking, which may be a confounding factor but does not establish a direct relationship between toluene and gastric cancer in this study."
+      }
+    },
+    {
+      "3-methylpyridine_gastric_cancer": {
+        "relationship": "N",
+        "reason": "The abstract reports that 3-methylpyridine is associated with tobacco smoking rather than directly with gastric cancer. While several VOCs were found to be emitted at higher levels from gastric cancer tissue, 3-methylpyridine was not among them. Instead, it was grouped with compounds linked to tobacco smoking. Therefore, there is no clear evidence from this abstract that 3-methylpyridine is directly related to gastric cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names these chemical compounds as volatile organic compounds (VOCs) identified and quantified in gastric cancer and non-cancerous tissue samples. These compounds are mentioned individually with their chemical names, indicating their relevance to the study and their association with cancer tissue, non-cancerous tissue, H. pylori occurrence, or tobacco smoking."
+}

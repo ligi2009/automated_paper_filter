@@ -1,0 +1,45 @@
+{
+  "id": 3509,
+  "title": "Metabolic and behavioral features of acute hyperpurinergia and the maternal immune activation mouse model of autism spectrum disorder",
+  "Abstract": "Since 2012, studies in mice, rats, and humans have suggested that abnormalities in purinergic signaling may be a final common pathway for many genetic and environmental causes of autism spectrum disorder (ASD). The current study in mice was conducted to characterize the bioenergetic, metabolomic, breathomic, and behavioral features of acute hyperpurinergia triggered by systemic injection of the purinergic agonist and danger signal, extracellular ATP (eATP). Responses were studied in C57BL/6J mice in the maternal immune activation (MIA) model and controls. Basal metabolic rates and locomotor activity were measured in CLAMS cages. Plasma metabolomics measured 401 metabolites. Breathomics measured 98 volatile organic compounds. Intraperitoneal eATP dropped basal metabolic rate measured by whole body oxygen consumption by 74% ± 6% (mean ± SEM) and rectal temperature by 6.2˚ ± 0.3˚C in 30 minutes. Over 200 metabolites from 37 different biochemical pathways where changed. Breathomics showed an increase in exhaled carbon monoxide, dimethylsulfide, and isoprene. Metabolomics revealed an acute increase in lactate, citrate, purines, urea, dopamine, eicosanoids, microbiome metabolites, oxidized glutathione, thiamine, niacinamide, and pyridoxic acid, and decreased folate-methylation-1-carbon intermediates, amino acids, short and medium chain acyl-carnitines, phospholipids, ceramides, sphingomyelins, cholesterol, bile acids, and vitamin D similar to some children with ASD. MIA animals were hypersensitive to postnatal exposure to eATP or poly(IC), which produced a rebound increase in body temperature that lasted several weeks before returning to baseline. Acute hyperpurinergia produced metabolic and behavioral changes in mice. The behaviors and metabolic changes produced by ATP injection were associated with mitochondrial functional changes that were profound but reversible.",
+  "Disease_List": [
+    "autism spectrum disorder (ASD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'autism spectrum disorder (ASD)' as a specific disease name. Although the study involves general terms like 'metabolic and behavioral changes' and 'maternal immune activation (MIA) model,' the only specific disease named is autism spectrum disorder (ASD). Therefore, the classification is Y.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "autism spectrum disorder (ASD)"
+  ],
+  "UMLS_search_results": {
+    "autism spectrum disorder (ASD)": []
+  },
+  "MRCONSO_search_results": {
+    "autism spectrum disorder (ASD)": [
+      "Autism spectrum disorder",
+      "Autism Spectrum Disorders",
+      "Autism spectrum disorders",
+      "Autism Spectrum Disorder",
+      "autism spectrum disorder"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "autism spectrum disorder (ASD)_via_Autism spectrum disorder": [
+      {
+        "ui": "C1510586",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1510586",
+        "name": "Autism Spectrum Disorders",
+        "mesh_id": "D000067877"
+      },
+      {
+        "ui": "C0524528",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524528",
+        "name": "Pervasive Development Disorder",
+        "mesh_id": "D002659"
+      }
+    ]
+  }
+}

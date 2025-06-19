@@ -1,0 +1,41 @@
+{
+  "id": 5926,
+  "title": "Effect of various processing methods on the numbers of Clostridium (Clostridia, Bacteria) in animal by-products",
+  "Abstract": "Clostridia are one of the largest genera of eubacteria living in water, soil, the intestines of humans and animals. The genus Clostridium includes both pathogenic and non-pathogenic species. Representatives of this genus occupy a leading position among all types of bacteria in producing a variety of toxins. Due to their ability to form spores, these microorganisms can survive in the most unfavorable conditions. Antibiotic-resistant Clostridia, which are released to the environment as part of farm animal manure, are of particular environmental danger. We have studied the influence of various treatment methods (aeration, acidification, and surfactant application) of the liquid fraction of pig manure effluents (ME) on the species composition and the numbers of Clostridia. Cl. septicum and Cl. perfringens were found to occupy a dominant position in the ME of manure storage baths. Both species are actively involved in the ammonification of organic compounds, releasing a wide range of volatile substances with an unpleasant odor into the environment. Most of the Clostridia were detected in biofilms formed on the surface of ME under anaerobic conditions. Such conditions are formed during storage of the liquid fraction in closed lagoons, which increases the environmental risks of the release of undesirable microorganisms into the environment. Round-the-clock aeration and acidification of ME to pH 5.5 reduce the numbers of Clostridia. Such conditions contribute to the formation of microorganism consortia with fungi to occupy a dominant position. Cl. difficile (32.52%), Cl. putrificum (31.62%) and Cl. septicum (30.72%) predominated in biofilms of acidified ME, whilst only Cl. difficile (69.98–95.26%) did in options with surfactants added. The largest relative numbers of pathogenic Cl. difficile (95.26%) were observed in the option with the addition of a cationic surfactant (benzalkonium chloride). ",
+  "Disease_List": [
+    "Clostridium septicum infection",
+    "Clostridium perfringens infection",
+    "Clostridium difficile infection"
+  ],
+  "Reason": "The abstract explicitly mentions specific species of Clostridia known to cause diseases: Clostridium septicum, Clostridium perfringens, and Clostridium difficile. These species are pathogenic and associated with specific infections. Although the abstract does not name the diseases in clinical terms, the mention of these pathogenic species implies specific diseases caused by them, such as gas gangrene (C. septicum), food poisoning and gas gangrene (C. perfringens), and antibiotic-associated diarrhea or pseudomembranous colitis (C. difficile). Therefore, the classification is 'Y' with these disease-related species listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Clostridium perfringens infection",
+    "Clostridium difficile infection"
+  ],
+  "UMLS_search_results": {
+    "Clostridium septicum infection": [],
+    "Clostridium perfringens infection": [
+      {
+        "ui": "C0275619",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0275619",
+        "name": "Infection due to Clostridium perfringens",
+        "mesh_id": "D003015"
+      }
+    ],
+    "Clostridium difficile infection": [
+      {
+        "ui": "C0343386",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0343386",
+        "name": "Clostridium difficile infection",
+        "mesh_id": "D003015"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 3854,
+  "title": "ZEUS (ZIF-based electrochemical ultrasensitive screening) device for isopentane analytics with focus on lung cancer diagnosis",
+  "Abstract": "Breath analytics is currently being explored for the development of point-of-care devices in non-invasive disease detection. It is based on the measurement of volatile organic compounds (VOCs) and gases that are produced by the body because of the metabolic pathways. The levels of these metabolites vary due to alteration in the endogenous oxidative stress-related metabolic pathways and can be correlated to understand the underlying disease condition. The levels of exhaled hydrocarbons in human breath can be used to design a rapid, easy to use method for lung cancer detection. This work outlines the development of an electrochemical sensing platform that can be used for the non-invasive diagnosis of lung cancer by monitoring isopentane levels in breath. This electrochemical sensor platform involves the use of [BMIM]BF4@ZIF-8 for sensing the target analyte. This synthesized nanocomposite offers advantages for gas sensing applications as it possesses unique properties such as an electrochemically active Room Temperature Ionic Liquid (RTIL) and a crosslinking Metal Organic Framework (MOF) that provides increased surface area for gas absorption. This is the first report of a hydrocarbon-based sensor platform developed for lung cancer diagnosis. The developed sensor platform displays sensitivity and specificity for the detection of isopentane up to 600 parts-per-billion. We performed structural and morphological characterization of the synthesized nanocomposite using various analytical techniques such as PXRD, FESEM, FTIR, and DLS. We further analyzed the electrochemical activity of the synthesized nanocomposite using a standard glassy carbon electrode. The application of the nanocomposite for isopentane sensing was done using a commercially available carbon screen printed electrode. The results so obtained helped in strengthening our hypothesis and serve as a proof-of-concept for the development of a breathomics-enabled electrochemical strategy. We illustrated the specificity of the developed nanocomposite by cross-reactivity studies. We envision that the detection platform will allow sensitive and specific sensing of isopentane levels such that it can used for point of care applications in noninvasive and early diagnosis of lung cancer, thereby leading to its early treatment and decrease in mortality rate.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease targeted for detection using the developed breath analytics and electrochemical sensing platform. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "isopentane",
+    "[BMIM]BF4@ZIF-8",
+    "Room Temperature Ionic Liquid (RTIL)",
+    "Metal Organic Framework (MOF)"
+  ],
+  "compound_CID": [
+    {
+      "isopentane": 6556,
+      "[BMIM]BF4@ZIF-8": "None",
+      "Room Temperature Ionic Liquid (RTIL)": "None",
+      "Metal Organic Framework (MOF)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "isopentane_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of an electrochemical sensing platform specifically designed to detect isopentane levels in human breath as a non-invasive method for lung cancer diagnosis. It highlights that exhaled hydrocarbons, including isopentane, vary due to metabolic changes associated with lung cancer. The sensor's sensitivity and specificity for isopentane detection support its use as a biomarker for lung cancer, indicating a clear relationship between isopentane levels and the disease. Therefore, isopentane is linked to lung cancer as a detectable metabolite useful for early diagnosis."
+      }
+    },
+    {
+      "[BMIM]BF4@ZIF-8_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the development of an electrochemical sensing platform using the compound [BMIM]BF4@ZIF-8 for the non-invasive diagnosis of lung cancer by detecting isopentane levels in breath. The nanocomposite [BMIM]BF4@ZIF-8 is integral to the sensor's function, providing electrochemical activity and increased surface area for gas absorption, enabling sensitive and specific detection of isopentane, a biomarker associated with lung cancer. This establishes a clear relationship between the compound and lung cancer in the context of disease detection and diagnosis."
+      }
+    },
+    {
+      "Room Temperature Ionic Liquid (RTIL)_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a Room Temperature Ionic Liquid (RTIL) as part of a nanocomposite sensor platform for detecting isopentane levels in breath, which is a biomarker for lung cancer. The RTIL is utilized for its electrochemical properties to enhance gas sensing capabilities. However, the abstract does not provide evidence that RTIL itself causes, contributes to, or is directly related to lung cancer. Instead, RTIL is a component of a diagnostic tool for lung cancer detection, not a compound linked to the disease pathology."
+      }
+    },
+    {
+      "Metal Organic Framework (MOF)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of a Metal Organic Framework (MOF) as part of a nanocomposite in an electrochemical sensor platform designed for the non-invasive detection of lung cancer. The MOF provides increased surface area for gas absorption, enhancing the sensor's ability to detect isopentane levels in breath, which are correlated with lung cancer. This indicates a direct application of MOF in the diagnosis of lung cancer, establishing a relationship between the compound and the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions isopentane as the target analyte for lung cancer detection. The nanocomposite used for sensing includes [BMIM]BF4@ZIF-8, which is a synthesized material combining a Room Temperature Ionic Liquid (RTIL) and a Metal Organic Framework (MOF). These are specific chemical substances or well-defined chemical materials relevant to the sensing platform described."
+}

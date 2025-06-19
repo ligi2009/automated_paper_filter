@@ -1,0 +1,32 @@
+{
+  "id": 4232,
+  "title": "Evaluation of the correlation between concentration of volatile organic compounds and temperature of the exhaust gases in motor vehicles",
+  "Abstract": "Volatile organic compounds (VOCs) are the group of organic compounds which are one of the most important air pollutants. One of the main sources of VOCs are combustion processes including fuel combustion is internal combustion engines. Volatile organic compounds are very dangerous pollution, because even in very low concentrations they have significant harmful effect on human health. A lot of that compounds are mutagenic and carcinogenic, in addition they could cause asthma, intoxication or allergy. The measurements of VOCs are quite problematic, because it is required using the specialist analytical apparatus, ex. chromatograph. However, not always it is need to measure the content of that compounds in engine exhaust with high precision and sometimes it is enough only to estimate the level of the concentration. Emission of the VOCs mainly depends on the combustion process in the engine and this determines the temperature of the exhaust gases. In this paper authors tried to determine if the correlation between temperature of exhaust gases and VOCs' concentration exist and is able to determine.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' as a specific disease caused by volatile organic compounds (VOCs). Although it also mentions general terms like 'intoxication' and 'allergy', these are not specific disease names. Therefore, the classification is 'Y' because 'asthma' is a specific disease mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions 'volatile organic compounds (VOCs)' as a group but does not specify any particular chemical compound names."
+}

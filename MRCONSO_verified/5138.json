@@ -1,0 +1,34 @@
+{
+  "id": 5138,
+  "title": "From small to tall: breed-varied household pet dogs can be trained to detect Parkinson’s Disease",
+  "Abstract": "Objective Parkinson’s Disease (PD) is a clinically diagnosed disease that carries a reported misdiagnosis rate of 10–20%. Recent scientific discoveries have provided evidence of volatile organic compounds in sebum that are unique to patients with PD. The purpose of this study was to determine if companion dogs could be trained to distinguish between sebum samples provided by PD-positive patients and PD-negative human controls. Methods This was a randomized, handler-blind, controlled study. Twenty-three canines of varying breeds, ages, and environmental backgrounds were included. The two-year study period reported here was the final two years of a seven-year program which started in January of 2016. This study encompassed 200 total working session days from 2021 and 2022. Results When averaged as a group over two years, the 23 dogs were 89% sensitive and 87% specific to an olfactory distinction between PD-positive and PD-negative human donor samples. Ten of the twenty-three dogs averaged 90% or higher in both sensitivity and specificity. In 161 separate instances, dogs were presented with both unique PD-positive and PD-negative samples (the dogs had not previously encountered any of the samples presented). For these first-time exposures, the 23 dogs collectively averaged 86% sensitivity and 89% specificity. When comparing the sensitivity and specificity of PD-positive samples from donors who reported levodopa usage to PD-positive samples from donors who reported no levodopa usage, the dogs showed no statistical difference in sensitivity or specificity at the 95% significance level, indicating levodopa usage is not a factor in PD canine detection. Other factors investigated as part of this study included sample donor gender, canine breed, age, duration of time in the program, and training. Conclusions Companion dogs can be trained with reward-biased detection methodologies to distinguish between PD-positive and PD-negative donor sebum samples in a controlled setting. This study provides further evidence of one or more volatile organic compounds in the sebum of PD-positive patients that can be detected by canines. Summarily, study findings support the application of trained companion dogs for the screening of PD-positive and PD-negative samples in which numbers of samples are limited and the dogs are worked in short intervals, followed by recovery training.",
+  "Disease_List": [
+    "Parkinson’s Disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'Parkinson’s Disease (PD)' multiple times as the specific disease under study. The entire study focuses on detecting PD-positive versus PD-negative samples, making it clear that a specific disease name is mentioned.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Parkinson’s Disease"
+  ],
+  "UMLS_search_results": {
+    "Parkinson’s Disease": []
+  },
+  "MRCONSO_search_results": {
+    "Parkinson’s Disease": [
+      "parkinson s disease"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Parkinson’s Disease_via_parkinson s disease": [
+      {
+        "ui": "C0030567",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030567",
+        "name": "Parkinson Disease",
+        "mesh_id": "D010300"
+      }
+    ]
+  }
+}

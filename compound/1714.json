@@ -1,0 +1,72 @@
+{
+  "id": 1714,
+  "title": "Fabrication of Biobased Hydrophobic Hybrid Cotton Fabrics Using Molecular Self-Assembly: Applications in the Development of Gas Sensor Fabrics",
+  "Abstract": "Inadvertent inhalation of various volatile organic compounds during industrial processes, such as coal and metal mining, metal manufacturing, paper and pulp industry, food processing, petroleum refining, and concrete and chemical industries, has caused an adverse effect on human health. In particular, exposure to trimethylamine (TMA), a fishy odor poisonous gas, resulted in numerous health hazards such as neurotoxicity, irritation in eyes, nose, skin, and throat, blurred vision, and many more. According to the environmental protection agency, TMA in the level of 0.10 ppm is generally considered as safe, and excess dose results in “trimethylaminuria” or “fish odor syndrome.” In order to avoid the health hazards associated with the inhalation of TMA, there is an urge to design a sensor for TMA detection even at low levels for use in food-processing industries, medical diagnosis, and environment. In this report, for the first time, we have developed a TMA sensor fabric using a sequential self-assembly process from silver-incorporated glycolipids. Formation of self-assembled supramolecular architecture, interaction of the assembled structure with the cotton fabric, and sensing mechanism were completely investigated with the help of various instrumental methods. To our surprise, the developed fabric displayed a transient response for 1–500 ppm of TMA and a stable response toward 100 ppm of TMA for 15 days. We believe that the reported flexible TMA sensor fabrics developed via the sequential self-assembly process hold great promise for various innovative applications in environment, healthcare, medicine, and biology.",
+  "Disease_List": [
+    "trimethylaminuria",
+    "fish odor syndrome"
+  ],
+  "Reason": "The abstract explicitly mentions 'trimethylaminuria' and its synonym 'fish odor syndrome' as specific diseases resulting from excess exposure to trimethylamine (TMA). These are named diseases rather than general health conditions, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "trimethylaminuria",
+    "fish odor syndrome"
+  ],
+  "UMLS_search_results": {
+    "trimethylaminuria": [
+      {
+        "ui": "C0342739",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0342739",
+        "name": "Trimethylaminuria",
+        "mesh_id": "C536561"
+      }
+    ],
+    "fish odor syndrome": [
+      {
+        "ui": "C0342739",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0342739",
+        "name": "Trimethylaminuria",
+        "mesh_id": "C536561"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "trimethylamine",
+    "silver-incorporated glycolipids"
+  ],
+  "compound_CID": [
+    {
+      "trimethylamine": 1146,
+      "silver-incorporated glycolipids": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "trimethylamine_trimethylaminuria": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that excess exposure to trimethylamine (TMA) results in 'trimethylaminuria' or 'fish odor syndrome.' This indicates a direct relationship between the compound trimethylamine and the disease trimethylaminuria. The disease is described as a health hazard caused by elevated levels of TMA, confirming a clear link between the compound and the condition."
+      },
+      "trimethylamine_fish_odor_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that excess exposure to trimethylamine (TMA) results in 'trimethylaminuria' or 'fish odor syndrome.' This indicates a direct relationship between the compound trimethylamine and the disease fish odor syndrome. The mention of TMA as a fishy odor poisonous gas and its association with the syndrome confirms the link."
+      }
+    },
+    {
+      "silver-incorporated glycolipids_trimethylaminuria": {
+        "relationship": "N",
+        "reason": "The abstract describes the development of a sensor fabric made from silver-incorporated glycolipids for detecting trimethylamine (TMA), which is related to trimethylaminuria. However, it does not indicate that silver-incorporated glycolipids cause, treat, or have a direct biological relationship with trimethylaminuria. Instead, the compound is used as a material to create a sensor for detecting TMA levels, which can help in diagnosing or monitoring the disease. Therefore, there is no evidence of a direct relationship between silver-incorporated glycolipids and trimethylaminuria as a disease."
+      },
+      "silver-incorporated glycolipids_fish_odor_syndrome": {
+        "relationship": "N",
+        "reason": "The abstract describes silver-incorporated glycolipids as a material used to develop a sensor fabric for detecting trimethylamine (TMA), which is associated with fish odor syndrome (trimethylaminuria). However, there is no evidence in the abstract that silver-incorporated glycolipids themselves cause, treat, or have any direct relationship with fish odor syndrome. Instead, they are used as a component in a sensor to detect TMA levels relevant to the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'trimethylamine (TMA)', a well-defined chemical compound responsible for health hazards and targeted for detection. Additionally, 'silver-incorporated glycolipids' are mentioned as part of the sensor fabric developed, indicating a specific chemical composition involving silver and glycolipids."
+}

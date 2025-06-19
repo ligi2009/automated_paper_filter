@@ -1,0 +1,271 @@
+{
+  "id": 1172,
+  "title": "Human Skin Reflects Air Pollution – a Review\nof the Mechanisms and Clinical Manifestations\nof Environment-Derived Skin Pathologies",
+  "Abstract": "Development of urbanization, transport, and industry contributes to a constant increase in airborne pollution levels worldwide. There are more than 2000 different chemical substances emitted into the air. Among air pollutants, particulate matters PMs, volatile organic compounds (VOCs), CO2, CO, NO2, sO2, ground-level ozone O3, metals, and persistent organic pollutants POPs have been found to exert harmful effects on human skin. The exposure to the increasing levels of air pollution may worsen skin problems and severe diseases in millions of people worldwide, leading to the growth of health care costs. Under permanent exposure to air pollutants, the redox homeostasis in skin cells is impaired. Airborne pollutants penetrating the skin activate a protein aryl hydrocarbon receptor (AhR) and trigger a cascade of reactions in which high levels of reactive oxygen species (ROs) are generated. The redox imbalance modulates lipids peroxidation, oxidation of proteins, and DNA damage. Airborne stressors can be manifested as clinical dermatological problems, i.e. skin aging, imbalance in skin microbiota, increase in inflammatory reactions (allergy, acne, atopic dermatitis, eczema), or even cancer. Therapeutic strategies to counteract skin damage should be targeted at reducing free radical formation and scavenging free radicals in the skin cells. Moreover, the restoration of the skin barrier function and an increase in antioxidant reserves and reducing chronic inflammation are of great importance. A forward-looking area of research is then to fill the gaps about the effect of air pollutants on the skin, including skin carcinogenesis.",
+  "Disease_List": [
+    "allergy",
+    "acne",
+    "atopic dermatitis",
+    "eczema",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to skin conditions caused or worsened by air pollution, including allergy, acne, atopic dermatitis, eczema, and cancer. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "allergy",
+    "acne",
+    "atopic dermatitis",
+    "eczema",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "allergy": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C0002111",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002111",
+        "name": "Allergy Specialty",
+        "mesh_id": "D000486"
+      },
+      {
+        "ui": "C0489531",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0489531",
+        "name": "History of allergies",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1314973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1314973",
+        "name": "Response to antigens",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3539909",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3539909",
+        "name": "Allergic disposition",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1527304",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1527304",
+        "name": "Allergic Reaction",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1547542",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547542",
+        "name": "Allergy - Charge Type Reason",
+        "mesh_id": "None"
+      }
+    ],
+    "acne": [
+      {
+        "ui": "C0001144",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001144",
+        "name": "Acne Vulgaris",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0702166",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0702166",
+        "name": "Acne",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0718217",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0718217",
+        "name": "Acne brand of benozyl peroxide",
+        "mesh_id": "None"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "CO2",
+    "CO",
+    "NO2",
+    "SO2",
+    "O3"
+  ],
+  "compound_CID": [
+    {
+      "CO2": 280,
+      "CO": 104730,
+      "NO2": "None",
+      "SO2": 1119,
+      "O3": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "CO2_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions CO2 as one of the air pollutants found to exert harmful effects on human skin and lists allergy as one of the inflammatory reactions that can be worsened by exposure to airborne pollutants. However, it does not provide specific evidence or a direct link between CO2 itself and the development or exacerbation of allergy. The harmful effects and allergic reactions are described in the context of a broad range of pollutants collectively, without isolating CO2 as a causative or contributing factor to allergy."
+      },
+      "CO2_acne": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including CO2, can worsen skin problems and severe diseases. It specifically mentions that airborne stressors can manifest as clinical dermatological problems such as acne. Although CO2 is listed among various air pollutants, the abstract links air pollution exposure in general to an increase in inflammatory reactions including acne. Therefore, there is evidence of a relationship between CO2 as an air pollutant and acne through the mechanism of inflammation and oxidative stress induced by air pollution."
+      },
+      "CO2_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that CO2 is among the air pollutants that exert harmful effects on human skin. It explains that exposure to air pollution, including CO2, can worsen skin problems and severe diseases such as atopic dermatitis by impairing redox homeostasis in skin cells, generating reactive oxygen species, and increasing inflammatory reactions. Therefore, there is evidence of a relationship between CO2 exposure and atopic dermatitis as part of the broader impact of air pollution on skin health."
+      },
+      "CO2_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that CO2 is among the air pollutants that exert harmful effects on human skin. It explains that exposure to air pollution, including CO2, can worsen skin problems and severe diseases such as eczema. The mechanism involves impairment of redox homeostasis in skin cells, activation of the aryl hydrocarbon receptor, generation of reactive oxygen species, and increased inflammatory reactions including eczema. Therefore, there is evidence of a relationship between CO2 exposure and eczema as a skin condition exacerbated by air pollution."
+      },
+      "CO2_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions CO2 as one of the air pollutants that exert harmful effects on human skin and notes that airborne pollutants can lead to severe diseases including cancer. However, it does not provide specific evidence or a direct link between CO2 exposure and cancer development. The discussion of cancer is general to airborne pollutants as a group, without isolating CO2 as a causative factor. Therefore, based on this abstract, there is no clear relationship established between CO2 and cancer."
+      }
+    },
+    {
+      "CO_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including CO, can worsen skin problems and severe diseases by impairing redox homeostasis and triggering inflammatory reactions. Specifically, it mentions that airborne stressors can manifest as increased inflammatory reactions such as allergy. Therefore, there is evidence that CO, as an air pollutant, is related to allergy through its role in promoting inflammatory skin reactions."
+      },
+      "CO_acne": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including CO, can worsen skin problems and severe diseases. It specifically mentions that airborne stressors can manifest as clinical dermatological problems such as acne. Although the abstract does not isolate CO as the sole cause, it includes CO among pollutants that contribute to skin inflammation and damage, which are factors in acne development. Therefore, there is evidence of a relationship between CO exposure and acne."
+      },
+      "CO_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to various air pollutants, including CO, can worsen skin problems and severe diseases such as atopic dermatitis. It explains that airborne pollutants impair redox homeostasis in skin cells, activate the aryl hydrocarbon receptor, and increase reactive oxygen species, leading to inflammation and skin barrier dysfunction. Atopic dermatitis is specifically mentioned as one of the inflammatory skin conditions exacerbated by air pollution exposure, which includes CO among the listed pollutants. Therefore, there is evidence of a relationship between CO exposure and atopic dermatitis."
+      },
+      "CO_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including CO, can worsen skin problems and severe diseases. It specifically mentions that airborne pollutants can increase inflammatory reactions such as eczema. Therefore, there is evidence suggesting a relationship between CO exposure and the exacerbation or development of eczema through mechanisms involving oxidative stress, inflammation, and skin barrier impairment."
+      },
+      "CO_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including CO, can lead to harmful effects on human skin, such as DNA damage and increased reactive oxygen species, which are mechanisms involved in carcinogenesis. It explicitly mentions that airborne stressors can manifest as severe diseases including cancer, and highlights the need for research on the effect of air pollutants on skin carcinogenesis. Therefore, there is evidence suggesting a relationship between CO exposure and cancer development."
+      }
+    },
+    {
+      "NO2_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is among the air pollutants that exert harmful effects on human skin. It specifically mentions that exposure to airborne pollutants, including NO2, can increase inflammatory reactions such as allergy. This suggests a relationship between NO2 exposure and the exacerbation or triggering of allergic skin reactions."
+      },
+      "NO2_acne": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is one of the air pollutants that exert harmful effects on human skin. It states that exposure to increasing levels of air pollution, including NO2, may worsen skin problems and severe diseases. Specifically, it mentions that airborne stressors can manifest as clinical dermatological problems such as acne. Therefore, there is evidence in the abstract that NO2 exposure is related to acne through mechanisms involving oxidative stress, inflammation, and skin barrier impairment."
+      },
+      "NO2_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is among the air pollutants that exert harmful effects on human skin. It specifically mentions that exposure to air pollution, including NO2, can worsen skin problems and severe diseases such as atopic dermatitis. The mechanism involves impairment of redox homeostasis, activation of the aryl hydrocarbon receptor, generation of reactive oxygen species, and increased inflammatory reactions including atopic dermatitis. Therefore, there is evidence of a relationship between NO2 exposure and atopic dermatitis."
+      },
+      "NO2_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that exposure to air pollutants, including NO2, can worsen skin problems and severe diseases. It specifically lists eczema among the clinical dermatological problems that can be manifested due to airborne stressors. The mechanism involves impairment of redox homeostasis in skin cells, activation of the aryl hydrocarbon receptor, generation of reactive oxygen species, and subsequent inflammation, all of which can contribute to eczema development or exacerbation. Therefore, there is evidence of a relationship between NO2 exposure and eczema."
+      },
+      "NO2_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is among the air pollutants that exert harmful effects on human skin. It explains that exposure to air pollutants, including NO2, leads to redox imbalance, DNA damage, and increased reactive oxygen species, which are mechanisms that can contribute to carcinogenesis. The abstract explicitly mentions that airborne stressors can manifest as severe diseases including cancer, and highlights the need for research on the effect of air pollutants on skin carcinogenesis. Therefore, there is evidence of a relationship between NO2 exposure and cancer development."
+      }
+    },
+    {
+      "SO2_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including SO2 (noted as sO2 in the text), can worsen skin problems and severe diseases by impairing redox homeostasis and triggering inflammatory reactions. Specifically, it mentions that airborne stressors can manifest as increased inflammatory reactions such as allergy. Therefore, there is evidence in the abstract that SO2, as an air pollutant, is related to allergy through its role in promoting inflammatory skin reactions."
+      },
+      "SO2_acne": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollutants, including SO2 (noted as sO2 in the text), have harmful effects on human skin and can worsen skin problems. It specifically mentions that airborne stressors can manifest as clinical dermatological problems such as acne. Therefore, there is evidence in the abstract that exposure to SO2 is related to the exacerbation or development of acne."
+      },
+      "SO2_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollutants, including SO2 (noted as sO2 in the text), have harmful effects on human skin and can worsen skin problems and severe diseases. It specifically mentions that airborne stressors can manifest as clinical dermatological problems such as atopic dermatitis. Therefore, there is evidence in the abstract that exposure to SO2 is related to the exacerbation or development of atopic dermatitis."
+      },
+      "SO2_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that air pollutants, including SO2 (noted as sO2 in the text), have harmful effects on human skin and can worsen skin problems and severe diseases. It specifically mentions that airborne stressors can manifest as clinical dermatological problems such as eczema. Therefore, there is evidence in the abstract that exposure to SO2 is related to the exacerbation or development of eczema."
+      },
+      "SO2_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the harmful effects of various air pollutants, including SO2, on human skin. It explains that exposure to these pollutants can lead to oxidative stress, DNA damage, and inflammatory reactions, which are mechanisms involved in carcinogenesis. The abstract explicitly mentions that airborne stressors can manifest as clinical dermatological problems, including cancer. Therefore, there is evidence in the abstract suggesting a relationship between SO2 exposure and cancer development."
+      }
+    },
+    {
+      "O3_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ground-level ozone (O3), as an air pollutant, contributes to harmful effects on human skin. It specifically mentions that airborne pollutants, including O3, can increase inflammatory reactions such as allergy. This suggests a clear relationship between exposure to O3 and the exacerbation or triggering of allergic skin reactions."
+      },
+      "O3_acne": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ground-level ozone (O3), as an air pollutant, exerts harmful effects on human skin. It mentions that exposure to air pollution, including O3, can worsen skin problems and severe diseases. Specifically, it lists acne among the clinical dermatological problems that can increase due to inflammatory reactions triggered by airborne pollutants. Therefore, there is evidence in the abstract supporting a relationship between O3 exposure and acne."
+      },
+      "O3_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ground-level ozone (O3), as an air pollutant, exerts harmful effects on human skin. It explains that exposure to air pollutants, including O3, can worsen skin problems and severe diseases such as atopic dermatitis by impairing redox homeostasis in skin cells, generating reactive oxygen species, and increasing inflammatory reactions. Atopic dermatitis is explicitly mentioned as one of the inflammatory skin conditions exacerbated by airborne pollutants like O3, supporting a clear relationship between O3 exposure and atopic dermatitis."
+      },
+      "O3_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ground-level ozone (O3), as an air pollutant, exerts harmful effects on human skin. It states that exposure to air pollution, including O3, can worsen skin problems and severe diseases such as eczema. The mechanism involves impairment of redox homeostasis in skin cells, activation of the aryl hydrocarbon receptor (AhR), generation of reactive oxygen species (ROS), and subsequent oxidative damage leading to inflammatory skin conditions including eczema. Therefore, there is evidence of a relationship between O3 exposure and eczema."
+      },
+      "O3_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ground-level ozone (O3), as an air pollutant, contributes to harmful effects on human skin, including the generation of reactive oxygen species (ROS) that cause DNA damage. It mentions that airborne stressors, including O3, can manifest as severe diseases such as cancer. Although the abstract does not provide detailed mechanistic data, it clearly associates O3 exposure with processes that can lead to skin carcinogenesis, supporting a relationship between O3 and cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution, including carbon dioxide (CO2), carbon monoxide (CO), nitrogen dioxide (NO2), sulfur dioxide (SO2), and ozone (O3). These are distinct chemical substances identified by their chemical formulas, unlike general terms such as 'volatile organic compounds' or 'particulate matters'."
+}

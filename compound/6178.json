@@ -1,0 +1,215 @@
+{
+  "id": 6178,
+  "title": "Air pollution and the skin",
+  "Abstract": "The increase of air pollution over the years has major effects on the human skin. The skin is exposed to ultraviolet radiation (UVR) and environmental air pollutants such as polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs), oxides, particulate matter (PM), ozone (O3) and cigarette smoke. Although human skin acts as a biological shield against pro-oxidative chemical and physical air pollutants, the prolonged or repetitive exposure to high levels of these pollutants may have profound negative effects on the skin. Exposure of the skin to air pollutants has been associated with skin aging and inflammatory or allergic skin conditions such as atopic dermatitis, eczema, psoriasis or acne, while skin cancer is among the most serious effects. On the other hand, some air pollutants (ie, ozone, nitrogen dioxide, and sulfur dioxide) and scattering particulates (clouds and soot) in the troposphere reduce the effects of shorter wavelength UVR and significant reductions in UV irradiance have been observed in polluted urban areas.",
+  "Disease_List": [
+    "atopic dermatitis",
+    "eczema",
+    "psoriasis",
+    "acne",
+    "skin cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names related to skin conditions caused or exacerbated by air pollution. These include 'atopic dermatitis', 'eczema', 'psoriasis', 'acne', and 'skin cancer'. Therefore, the classification is 'Y' for yes, as specific diseases are named rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "atopic dermatitis",
+    "eczema",
+    "psoriasis",
+    "acne",
+    "skin cancer"
+  ],
+  "UMLS_search_results": {
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ],
+    "psoriasis": [
+      {
+        "ui": "C0033860",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0033860",
+        "name": "Psoriasis",
+        "mesh_id": "D011565"
+      }
+    ],
+    "acne": [
+      {
+        "ui": "C0001144",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001144",
+        "name": "Acne Vulgaris",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0702166",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0702166",
+        "name": "Acne",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0718217",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0718217",
+        "name": "Acne brand of benozyl peroxide",
+        "mesh_id": "None"
+      }
+    ],
+    "skin cancer": [
+      {
+        "ui": "C0007114",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007114",
+        "name": "Malignant neoplasm of skin",
+        "mesh_id": "D012878"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "polycyclic aromatic hydrocarbons",
+    "volatile organic compounds",
+    "ozone",
+    "nitrogen dioxide",
+    "sulfur dioxide"
+  ],
+  "compound_CID": [
+    {
+      "polycyclic aromatic hydrocarbons": "None",
+      "volatile organic compounds": "None",
+      "ozone": 24823,
+      "nitrogen dioxide": 3032552,
+      "sulfur dioxide": 1119
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polycyclic aromatic hydrocarbons_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including polycyclic aromatic hydrocarbons (PAHs), has been associated with inflammatory or allergic skin conditions such as atopic dermatitis. This indicates a relationship between PAHs and atopic dermatitis due to the negative effects of prolonged or repetitive exposure to these pollutants on the skin."
+      },
+      "polycyclic aromatic hydrocarbons_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including polycyclic aromatic hydrocarbons (PAHs), has been associated with inflammatory or allergic skin conditions such as eczema. This indicates a relationship between PAHs and eczema as part of the broader category of air pollutants contributing to skin conditions."
+      },
+      "polycyclic aromatic hydrocarbons_psoriasis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including polycyclic aromatic hydrocarbons (PAHs), has been associated with inflammatory or allergic skin conditions such as psoriasis. This indicates a relationship between PAHs and psoriasis as part of the broader category of air pollutants contributing to skin diseases."
+      },
+      "polycyclic aromatic hydrocarbons_acne": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including polycyclic aromatic hydrocarbons (PAHs), has been associated with inflammatory or allergic skin conditions such as acne. This indicates a relationship between PAHs and acne as part of the broader impact of air pollution on skin health."
+      },
+      "polycyclic aromatic hydrocarbons_skin_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that the skin is exposed to polycyclic aromatic hydrocarbons (PAHs) as part of environmental air pollutants. It further mentions that prolonged or repetitive exposure to high levels of these pollutants may have profound negative effects on the skin, including skin cancer, which is described as one of the most serious effects associated with exposure to air pollutants. Therefore, there is evidence in the abstract indicating a relationship between PAHs and skin cancer."
+      }
+    },
+    {
+      "volatile organic compounds_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including volatile organic compounds (VOCs), has been associated with inflammatory or allergic skin conditions such as atopic dermatitis. This indicates a clear relationship between VOCs and atopic dermatitis as part of the broader category of air pollutants impacting skin health."
+      },
+      "volatile organic compounds_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to environmental air pollutants, including volatile organic compounds (VOCs), has been associated with inflammatory or allergic skin conditions such as eczema. This indicates a relationship between VOCs and eczema, as VOCs are explicitly mentioned among the pollutants linked to the disease."
+      },
+      "volatile organic compounds_psoriasis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including volatile organic compounds (VOCs), has been associated with inflammatory or allergic skin conditions such as psoriasis. This indicates a relationship between VOCs and psoriasis as part of the broader category of air pollutants impacting skin health."
+      },
+      "volatile organic compounds_acne": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including volatile organic compounds (VOCs), has been associated with inflammatory or allergic skin conditions such as acne. This indicates a relationship between VOCs and acne as part of the broader impact of air pollution on skin health."
+      },
+      "volatile organic compounds_skin_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that the skin is exposed to various air pollutants including volatile organic compounds (VOCs). It further mentions that prolonged or repetitive exposure to high levels of these pollutants may have profound negative effects on the skin, including skin cancer, which is described as one of the most serious effects. Therefore, there is evidence in the abstract indicating a relationship between exposure to volatile organic compounds and skin cancer."
+      }
+    },
+    {
+      "ozone_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including ozone, is associated with inflammatory or allergic skin conditions such as atopic dermatitis. Although ozone also has some effects in reducing UV irradiance, the overall evidence in the abstract supports a relationship between ozone exposure and atopic dermatitis due to its role as an air pollutant contributing to skin inflammation."
+      },
+      "ozone_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including ozone, is associated with inflammatory or allergic skin conditions such as eczema. Although ozone also has some protective effects by reducing UV irradiance, the overall evidence in the abstract supports a relationship between ozone exposure and the occurrence or exacerbation of eczema."
+      },
+      "ozone_psoriasis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including ozone, has been associated with inflammatory or allergic skin conditions such as psoriasis. This indicates a relationship between ozone exposure and psoriasis, as ozone is listed among the pollutants linked to this disease."
+      },
+      "ozone_acne": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including ozone, has been associated with inflammatory or allergic skin conditions such as acne. This indicates a relationship between ozone exposure and the occurrence or exacerbation of acne."
+      },
+      "ozone_skin_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that while air pollutants including ozone are associated with various negative skin effects and that skin cancer is a serious effect of air pollution, it also states that ozone and other pollutants can reduce the effects of shorter wavelength UV radiation by decreasing UV irradiance in polluted areas. This suggests a complex interaction where ozone may have a protective effect against UVR-induced skin damage. Therefore, there is no clear evidence in the abstract directly linking ozone exposure to an increased risk of skin cancer."
+      }
+    },
+    {
+      "nitrogen dioxide_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including nitrogen dioxide, is associated with inflammatory or allergic skin conditions such as atopic dermatitis. Although nitrogen dioxide is also mentioned as a pollutant that reduces UV irradiance, the overall context links air pollutants like nitrogen dioxide to negative skin effects, including atopic dermatitis."
+      },
+      "nitrogen dioxide_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including nitrogen dioxide, is associated with inflammatory or allergic skin conditions such as eczema. Although nitrogen dioxide is also mentioned as a pollutant that reduces UV irradiance, the overall context links air pollutants like nitrogen dioxide to skin conditions including eczema, suggesting a relationship."
+      },
+      "nitrogen dioxide_psoriasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including nitrogen dioxide, has been associated with inflammatory or allergic skin conditions such as psoriasis. Although the abstract does not provide detailed mechanistic insights, it explicitly lists psoriasis among the skin conditions linked to air pollutant exposure, which includes nitrogen dioxide."
+      },
+      "nitrogen dioxide_acne": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure of the skin to air pollutants, including nitrogen dioxide, has been associated with inflammatory or allergic skin conditions such as acne. This indicates a relationship between nitrogen dioxide exposure and the occurrence or exacerbation of acne."
+      },
+      "nitrogen dioxide_skin_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the effects of air pollution on the skin, mentioning that exposure to pollutants can lead to skin aging, inflammatory or allergic conditions, and that skin cancer is among the most serious effects of air pollution. However, it specifically states that some air pollutants, including nitrogen dioxide, reduce the effects of shorter wavelength UV radiation by scattering and absorbing UV rays, leading to reduced UV irradiance in polluted areas. Since UV radiation is a major risk factor for skin cancer, the abstract suggests that nitrogen dioxide may actually reduce UV exposure rather than increase skin cancer risk. There is no direct evidence in the abstract linking nitrogen dioxide exposure to an increased risk of skin cancer."
+      }
+    },
+    {
+      "sulfur dioxide_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including sulfur dioxide, is associated with inflammatory or allergic skin conditions such as atopic dermatitis. Although sulfur dioxide is also mentioned as a pollutant that reduces UV irradiance, the overall context links air pollutants including sulfur dioxide to skin conditions like atopic dermatitis, indicating a relationship."
+      },
+      "sulfur dioxide_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including sulfur dioxide, is associated with inflammatory or allergic skin conditions such as eczema. Although sulfur dioxide is also mentioned as a pollutant that reduces UV irradiance, the overall evidence in the abstract links sulfur dioxide exposure to skin conditions including eczema."
+      },
+      "sulfur dioxide_psoriasis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to air pollutants, including sulfur dioxide, has been associated with inflammatory or allergic skin conditions such as psoriasis. Although sulfur dioxide is also mentioned as a pollutant that reduces UV irradiance, the overall evidence in the abstract supports a relationship between sulfur dioxide exposure and psoriasis as part of the broader category of air pollution-related skin conditions."
+      },
+      "sulfur dioxide_acne": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including sulfur dioxide, has been associated with inflammatory or allergic skin conditions such as acne. Although sulfur dioxide is also mentioned as a pollutant that can reduce UV irradiance, the overall evidence in the abstract links air pollutants including sulfur dioxide to acne, indicating a relationship."
+      },
+      "sulfur dioxide_skin_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions that exposure to air pollutants can have negative effects on the skin, including skin aging, inflammatory or allergic conditions, and skin cancer as a serious effect. However, it specifically states that some air pollutants, including sulfur dioxide, reduce the effects of shorter wavelength UV radiation by scattering particulates, leading to significant reductions in UV irradiance in polluted urban areas. This suggests that sulfur dioxide may have a protective effect against UV radiation rather than a direct causative relationship with skin cancer. Therefore, there is no clear evidence in the abstract indicating a direct relationship between sulfur dioxide exposure and increased risk of skin cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including polycyclic aromatic hydrocarbons (PAHs), volatile organic compounds (VOCs), ozone (O3), nitrogen dioxide, and sulfur dioxide as air pollutants affecting human skin. These are specific named chemical substances rather than general terms."
+}

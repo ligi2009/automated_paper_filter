@@ -1,0 +1,28 @@
+{
+  "id": 597,
+  "title": "Review—Metal Oxides: Application in Exhaled Breath Acetone Chemiresistive Sensors",
+  "Abstract": "Human breath investigation offers a non-invasive and quick strategy for recognizing different volatile organic compounds (VOCs) that are markers for various diseases. Scientists have shown that breath acetone is a successful biomarker of Type 2 diabetes which is the most common type of diabetes. The generation of acetone is a consequence of the body processing fats as an alternative of glucose to produce energy. Thus, detection of breath acetone can be a rapid, viable, and patient compliant alternative to the conventional methods of blood glucose determination. To achieve this goal, metal oxide nanostructures with various shapes through different synthesis routes in the nanometer scale, can be used. Owing to its properties such as high surface-to-volume ratios and subsequently large number of surface sites exposed to acetone gas, metal oxide nanostructures facilitate a well-built gas- sensing layer interaction and consequently compared to conventional materials, present a higher sensitivity. This work, presents the progress in metal oxides nanostructures (semiconductor nanomaterials) as gas sensing materials for the exhaled acetone detection, which offers the possibility to help people living with diabetes to screen their disease. The different types of metal oxides materials used in Breath acetone sensors, their limitations and future perspectives have been highlighted. This is an",
+  "Disease_List": [
+    "Type 2 diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'Type 2 diabetes' as a specific disease name. It discusses breath acetone as a biomarker for Type 2 diabetes, which is a clearly identified disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Type 2 diabetes"
+  ],
+  "UMLS_search_results": {
+    "Type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,459 @@
+{
+  "id": 4125,
+  "title": "Environmental Pollution Caused by Gas and Petrochemical Industries and Its Effects on the Health of Residents of Assaluyeh Region, Irani-an Energy Capital: A Review Study",
+  "Abstract": "Gas and petrochemical industries in Assaluyeh produce various types of pollutants such as PM2.5, PM10, O3, NOx, SOx, volatile organic compounds (VOCs), sulfide hydrogen (H2S), heavy metals and hazardous air pollutants (HAP) including nickel, chromium, cadmium and selenium, benzene, hexane, toluene, xylene, propylene and naphthalene, which have irreparable effects on ecosystem, environment and human health. Several studies have reported the presence of hazardous pollutants such as heavy metals and polycyclic aromatic hydrocarbons (PAHs) in coastal sediments in the South Pars region. Studies on marine aquatic organisms such as bivalves showed high and toxic concentrations of heavy metals (cadmium, lead, arsenic, sternium, tin, silver, antimony, and molybdenum). Moreover, several studies have shown extremely high concentrations of heavy metals in the trees of Assaluyeh region compared to non-polluted areas. Some studies have reported that pollen allergenicity has increased dramatically due to changes in protein profiles and the biological structure of tree pollens caused by pollutants in the gas and petrochemical industries in Assaluyeh. In addition, studies conducted in residents of Assaluyeh showed that urinary levels of heavy metals such as arsenic, vanadium, manganese and nickel are significantly higher than those in the controls. The prevalence of asthma, nasal allergy and eczema is also higher in Assaluyeh region than that in other cities of Iran.",
+  "Disease_List": [
+    "asthma",
+    "nasal allergy",
+    "eczema"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: asthma, nasal allergy, and eczema. These are named health conditions related to the effects of pollutants from the gas and petrochemical industries in Assaluyeh. Although the abstract discusses general health impacts and pollutants, it specifically identifies these three diseases, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "nasal allergy",
+    "eczema"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "nasal allergy": [
+      {
+        "ui": "C0847614",
+        "rootSource": "HPO",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0847614",
+        "name": "Nasal allergies",
+        "mesh_id": "None"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "PM2.5",
+    "PM10",
+    "O3",
+    "NOx",
+    "SOx",
+    "H2S",
+    "nickel",
+    "chromium",
+    "cadmium",
+    "selenium",
+    "benzene",
+    "hexane",
+    "toluene",
+    "xylene",
+    "propylene",
+    "naphthalene",
+    "lead",
+    "arsenic",
+    "sternium",
+    "tin",
+    "silver",
+    "antimony",
+    "molybdenum",
+    "vanadium",
+    "manganese"
+  ],
+  "compound_CID": [
+    {
+      "PM2.5": "None",
+      "PM10": "None",
+      "O3": 24823,
+      "NOx": "None",
+      "SOx": 24261,
+      "H2S": 402,
+      "nickel": 935,
+      "chromium": 23976,
+      "cadmium": 23973,
+      "selenium": 6326970,
+      "benzene": 241,
+      "hexane": 8058,
+      "toluene": 1140,
+      "xylene": 7237,
+      "propylene": 8252,
+      "naphthalene": 931,
+      "lead": 5352425,
+      "arsenic": 5359596,
+      "sternium": "None",
+      "tin": 5352426,
+      "silver": 23954,
+      "antimony": 5354495,
+      "molybdenum": 23932,
+      "vanadium": 23990,
+      "manganese": 23930
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "PM2.5_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that the gas and petrochemical industries in Assaluyeh produce various pollutants including PM2.5, which have irreparable effects on human health. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. Although the abstract does not explicitly link PM2.5 alone to asthma, it groups PM2.5 among pollutants contributing to increased asthma prevalence, suggesting a relationship between PM2.5 exposure and asthma incidence."
+      },
+      "PM2.5_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pollutants produced by gas and petrochemical industries, including PM2.5, have significant effects on human health. It specifically mentions that the prevalence of nasal allergy is higher in the Assaluyeh region, which is exposed to these pollutants. Although the abstract does not isolate PM2.5 as the sole cause, it groups PM2.5 among various pollutants contributing to increased nasal allergy prevalence, suggesting a relationship between PM2.5 exposure and nasal allergy."
+      },
+      "PM2.5_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that the Assaluyeh region, which is heavily polluted by various pollutants including PM2.5, shows a higher prevalence of eczema among its residents compared to other cities. Although the abstract does not explicitly isolate PM2.5 as the sole cause, it lists PM2.5 among the pollutants produced by local industries and associates the overall pollution burden with increased eczema prevalence. This suggests a relationship between PM2.5 exposure and eczema in this context."
+      }
+    },
+    {
+      "PM10_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract describes that the gas and petrochemical industries in Assaluyeh produce various pollutants including PM10. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. Although the abstract does not explicitly link PM10 alone to asthma, it implies that exposure to pollutants such as PM10 and other hazardous substances is associated with increased asthma prevalence. Therefore, there is evidence suggesting a relationship between PM10 exposure and asthma in this context."
+      },
+      "PM10_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract describes that pollutants including PM10 are produced by gas and petrochemical industries in Assaluyeh, which have harmful effects on human health. It specifically mentions that the prevalence of nasal allergy is higher in the Assaluyeh region compared to other cities. Additionally, it notes that pollen allergenicity has increased due to pollutants from these industries. Although PM10 is not singled out explicitly as the sole cause, it is listed among the pollutants contributing to the environmental conditions associated with increased nasal allergy prevalence, indicating a relationship between PM10 exposure and nasal allergy."
+      },
+      "PM10_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that pollutants including PM10 are produced by gas and petrochemical industries in Assaluyeh, and that the prevalence of eczema is higher in this region compared to other cities. Although the abstract does not explicitly state a direct causal link between PM10 and eczema, it implies an association between exposure to these pollutants, including PM10, and increased prevalence of eczema among residents. Therefore, there is evidence suggesting a relationship between PM10 exposure and eczema."
+      }
+    },
+    {
+      "O3_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists O3 (ozone) among various pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of asthma is higher in this region compared to other cities. Although the abstract does not explicitly link O3 alone to asthma, it implies that exposure to these pollutants, including O3, is associated with increased asthma prevalence. Therefore, there is evidence of a relationship between O3 and asthma based on the increased asthma rates in an area with elevated O3 pollution."
+      },
+      "O3_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract lists O3 (ozone) among various pollutants produced by gas and petrochemical industries but does not provide specific evidence linking O3 exposure to nasal allergy. While the prevalence of nasal allergy is reported to be higher in the Assaluyeh region, the abstract attributes increased pollen allergenicity and higher disease prevalence to general pollution and heavy metals rather than directly to O3. Therefore, there is no clear or direct relationship established between O3 and nasal allergy based on the abstract."
+      },
+      "O3_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract lists O3 (ozone) among various pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in this region compared to other cities. Although the abstract does not explicitly link O3 alone to eczema, it implies that exposure to the mixture of pollutants, including O3, is associated with increased eczema prevalence. Therefore, there is evidence of a relationship between O3 exposure and eczema in the context of this polluted environment."
+      }
+    },
+    {
+      "NOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists NOx among various pollutants produced by gas and petrochemical industries in Assaluyeh, which have irreparable effects on human health. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. Although the abstract does not explicitly isolate NOx as the sole cause, it implies a relationship between exposure to these pollutants, including NOx, and increased asthma prevalence."
+      },
+      "NOx_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract describes that the gas and petrochemical industries in Assaluyeh produce various pollutants including NOx. It also reports that the prevalence of nasal allergy is higher in the Assaluyeh region compared to other cities. Although the abstract does not explicitly isolate NOx as the sole cause, it links industrial pollutants, including NOx, to increased allergenicity and higher prevalence of nasal allergy, indicating a relationship between NOx exposure and nasal allergy."
+      },
+      "NOx_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that the gas and petrochemical industries produce various pollutants including NOx, and that the prevalence of eczema is higher in the Assaluyeh region. However, it does not provide specific evidence or studies directly linking NOx exposure to eczema. The increased prevalence of eczema is noted alongside multiple pollutants and heavy metals, but no clear causal or associative relationship between NOx specifically and eczema is described."
+      }
+    },
+    {
+      "SOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that the gas and petrochemical industries in Assaluyeh produce various pollutants including SOx, which have irreparable effects on human health. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. Although the abstract does not explicitly isolate SOx as the sole cause, it groups SOx among pollutants contributing to increased asthma prevalence, suggesting a relationship between SOx exposure and asthma."
+      },
+      "SOx_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pollutants produced by gas and petrochemical industries, including SOx, have detrimental effects on human health. It specifically mentions that the prevalence of nasal allergy is higher in the Assaluyeh region, where these pollutants are present. Although the abstract does not isolate SOx as the sole cause, it groups SOx among pollutants contributing to increased allergenicity and higher rates of nasal allergy, suggesting a relationship between SOx exposure and nasal allergy."
+      },
+      "SOx_eczema": {
+        "relationship": "N",
+        "reason": "The abstract lists SOx as one of the pollutants produced by gas and petrochemical industries and notes a higher prevalence of eczema in the Assaluyeh region. However, it does not provide direct evidence or specific studies linking SOx exposure to eczema. The increased eczema prevalence is mentioned alongside various pollutants and heavy metals without isolating SOx as a causative factor. Therefore, there is no clear relationship established between SOx and eczema based on the abstract."
+      }
+    },
+    {
+      "H2S_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that the gas and petrochemical industries in Assaluyeh produce various pollutants including H2S (hydrogen sulfide) and that the prevalence of asthma is higher in the region. However, it does not provide any direct evidence or specific studies linking H2S exposure to asthma. The increased asthma prevalence is noted alongside multiple pollutants and heavy metals, but no causal or associative relationship between H2S specifically and asthma is described."
+      },
+      "H2S_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract lists H2S (hydrogen sulfide) among various pollutants produced by gas and petrochemical industries in Assaluyeh. It also reports a higher prevalence of nasal allergy in the Assaluyeh region compared to other cities. Although the abstract does not explicitly isolate H2S as the sole cause, it implies that exposure to pollutants including H2S is associated with increased nasal allergy prevalence. Therefore, there is evidence of a relationship between H2S exposure and nasal allergy in this context."
+      },
+      "H2S_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that the gas and petrochemical industries produce various pollutants including H2S and that the prevalence of eczema is higher in the Assaluyeh region. However, it does not provide specific evidence or studies directly linking H2S exposure to eczema. The increased prevalence of eczema is noted alongside multiple pollutants and heavy metals, but no causal or associative relationship between H2S and eczema is explicitly described."
+      }
+    },
+    {
+      "nickel_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including nickel compared to controls. It also states that the prevalence of asthma is higher in this region than in other cities. While the abstract does not explicitly establish a direct causal link between nickel exposure and asthma, the co-occurrence of elevated nickel levels and increased asthma prevalence suggests a relationship between nickel exposure and asthma in this population."
+      },
+      "nickel_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including nickel compared to controls. It also states that the prevalence of nasal allergy is higher in this region than in other cities. Although a direct causal link is not explicitly stated, the co-occurrence of elevated nickel exposure and increased nasal allergy prevalence, along with the mention of pollutants affecting pollen allergenicity, suggests a relationship between nickel exposure and nasal allergy."
+      },
+      "nickel_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of the Assaluyeh region have significantly higher urinary levels of heavy metals including nickel compared to controls. It also states that the prevalence of eczema, along with asthma and nasal allergy, is higher in this region than in other cities. Although a direct causal link between nickel and eczema is not explicitly stated, the co-occurrence of elevated nickel exposure and increased eczema prevalence suggests a potential relationship between nickel exposure and eczema in this population."
+      }
+    },
+    {
+      "chromium_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions chromium as one of the heavy metals present in pollutants from gas and petrochemical industries. It also states that the prevalence of asthma is higher in the Assaluyeh region where these pollutants exist. However, the abstract does not provide direct evidence or specific studies linking chromium exposure to asthma. The increased asthma prevalence is noted generally in the polluted area, but no explicit causal or associative relationship between chromium and asthma is described."
+      },
+      "chromium_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions chromium as one of the heavy metals present in pollutants from gas and petrochemical industries. It also states that the prevalence of nasal allergy is higher in the Assaluyeh region, where these pollutants exist. However, the abstract does not provide any direct evidence or specific studies linking chromium exposure to nasal allergy. The increased nasal allergy prevalence is mentioned generally in relation to pollution and heavy metals collectively, but chromium is not singled out or specifically associated with nasal allergy in the abstract."
+      },
+      "chromium_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions chromium as one of the heavy metals present as pollutants in the Assaluyeh region and notes a higher prevalence of eczema among residents. However, it does not provide direct evidence or specific studies linking chromium exposure to eczema. The increased eczema prevalence is mentioned generally in the context of pollution, but no causal or associative relationship with chromium specifically is described."
+      }
+    },
+    {
+      "cadmium_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that cadmium is one of the heavy metals present as a pollutant in the Assaluyeh region and that the prevalence of asthma is higher in this region compared to other cities. However, it does not provide direct evidence or specific studies linking cadmium exposure to asthma. The increased asthma prevalence is noted alongside various pollutants and heavy metals collectively, but no clear causal or associative relationship between cadmium specifically and asthma is established in the abstract."
+      },
+      "cadmium_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions that cadmium is one of the heavy metals present as a pollutant in the Assaluyeh region and that the prevalence of nasal allergy is higher in this region. However, it does not provide direct evidence or specific studies linking cadmium exposure to nasal allergy. The increased nasal allergy prevalence is associated generally with pollutants and changes in pollen allergenicity, but no explicit causal or correlational relationship between cadmium and nasal allergy is described."
+      },
+      "cadmium_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that cadmium is one of the heavy metals present as a pollutant in the Assaluyeh region and that the prevalence of eczema is higher in this region compared to other cities. However, it does not provide direct evidence or specific studies linking cadmium exposure to eczema. The increased prevalence of eczema is noted alongside other respiratory and allergic conditions, but no causal or associative relationship between cadmium and eczema is explicitly described."
+      }
+    },
+    {
+      "selenium_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions selenium as one of the hazardous air pollutants emitted by gas and petrochemical industries in Assaluyeh. It also notes a higher prevalence of asthma in the region and elevated levels of various heavy metals in the environment and residents. However, the abstract does not provide any direct evidence or specific studies linking selenium exposure to asthma. The relationship between selenium and asthma is not explicitly discussed or established in the abstract."
+      },
+      "selenium_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions selenium as one of the hazardous air pollutants emitted by gas and petrochemical industries in Assaluyeh. It also notes a higher prevalence of nasal allergy in the region and increased levels of certain heavy metals in residents. However, the abstract does not provide any direct or specific evidence linking selenium exposure to nasal allergy. The relationship between selenium and nasal allergy is not explicitly discussed or established in the abstract."
+      },
+      "selenium_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions selenium as one of the hazardous air pollutants emitted by gas and petrochemical industries, along with other heavy metals. It also states that the prevalence of eczema is higher in the Assaluyeh region where these pollutants are present. However, the abstract does not provide any direct evidence or specific studies linking selenium exposure to eczema. The increased prevalence of eczema is mentioned in a general context of pollution exposure without isolating selenium as a causative or associated factor. Therefore, there is no clear relationship established between selenium and eczema based on the abstract."
+      }
+    },
+    {
+      "benzene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that benzene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of asthma is higher in this region compared to other cities. However, the abstract does not provide direct evidence or specific studies linking benzene exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and other factors such as heavy metals and pollen allergenicity changes, but no explicit causal or associative relationship between benzene and asthma is described."
+      },
+      "benzene_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions benzene as one of the hazardous air pollutants produced by gas and petrochemical industries, and it also notes a higher prevalence of nasal allergy in the Assaluyeh region. However, the abstract does not provide direct evidence or specific studies linking benzene exposure to nasal allergy. Instead, it highlights general pollution effects, heavy metals, and changes in pollen allergenicity as potential contributors to nasal allergy. Therefore, there is no clear relationship established between benzene specifically and nasal allergy based on the abstract."
+      },
+      "benzene_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that benzene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking benzene exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and heavy metals, but no causal or associative relationship with benzene is explicitly described."
+      }
+    },
+    {
+      "hexane_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that hexane is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking hexane exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and allergenicity changes, but no clear causal or associative relationship between hexane specifically and asthma is described."
+      },
+      "hexane_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions hexane as one of the hazardous air pollutants produced by gas and petrochemical industries, along with other pollutants. It also states that the prevalence of nasal allergy is higher in the Assaluyeh region, where these pollutants are present. However, the abstract does not provide any direct evidence or specific studies linking hexane exposure to nasal allergy. The increased nasal allergy prevalence is mentioned in the context of overall pollution and changes in pollen allergenicity, but no causal or associative relationship with hexane specifically is described."
+      },
+      "hexane_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that hexane is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in this region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking hexane exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and allergenicity changes, but no causal or associative relationship with hexane specifically is described."
+      }
+    },
+    {
+      "toluene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that toluene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of asthma is higher in this region compared to other cities. However, the abstract does not provide direct evidence or specific studies linking toluene exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and heavy metals, but no explicit causal or associative relationship between toluene and asthma is described."
+      },
+      "toluene_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions that toluene is one of the hazardous air pollutants emitted by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of nasal allergy is higher in this region and that pollen allergenicity has increased due to pollutants. However, the abstract does not provide direct evidence or specific studies linking toluene exposure to nasal allergy. The increased nasal allergy prevalence is associated generally with pollution and heavy metals, but no clear causal or correlative relationship with toluene is described."
+      },
+      "toluene_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that toluene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking toluene exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and heavy metals, but no causal or associative relationship with toluene is described."
+      }
+    },
+    {
+      "xylene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract lists xylene among various hazardous air pollutants produced by gas and petrochemical industries and notes a higher prevalence of asthma in the Assaluyeh region. However, it does not provide specific evidence or studies directly linking xylene exposure to asthma. The increased asthma prevalence is mentioned generally in the context of pollution, but no causal or associative relationship with xylene is explicitly described."
+      },
+      "xylene_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract lists xylene among various hazardous air pollutants emitted by gas and petrochemical industries and notes a higher prevalence of nasal allergy in the Assaluyeh region. However, it does not provide specific evidence linking xylene exposure directly to nasal allergy. The increased nasal allergy prevalence is mentioned in the context of overall pollution and heavy metals, but no direct causal or associative relationship with xylene is described."
+      },
+      "xylene_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that xylene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking xylene exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and heavy metals, but no causal or associative relationship with xylene is described."
+      }
+    },
+    {
+      "propylene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract lists propylene among various pollutants produced by gas and petrochemical industries and notes a higher prevalence of asthma in the Assaluyeh region. However, it does not provide specific evidence or direct linkage between propylene exposure and asthma. The increased asthma prevalence is mentioned generally in the context of multiple pollutants and environmental changes, without isolating propylene as a causative factor."
+      },
+      "propylene_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract lists propylene as one of the hazardous air pollutants emitted by gas and petrochemical industries in Assaluyeh. It also mentions an increased prevalence of nasal allergy in the region and links pollen allergenicity changes to pollutants. However, the abstract does not provide direct evidence or specific studies linking propylene exposure to nasal allergy. The association is generalized to pollutants as a group, without isolating propylene's role. Therefore, there is no clear evidence of a direct relationship between propylene and nasal allergy based on this abstract."
+      },
+      "propylene_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that propylene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking propylene exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and heavy metals, but no causal or associative relationship with propylene is described."
+      }
+    },
+    {
+      "naphthalene_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that naphthalene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of asthma is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide direct evidence or specific studies linking naphthalene exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and heavy metals, but no explicit causal or associative relationship between naphthalene and asthma is described."
+      },
+      "naphthalene_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions that naphthalene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of nasal allergy is higher in this region and that pollen allergenicity has increased due to pollutants. However, the abstract does not provide direct evidence or specific studies linking naphthalene exposure to nasal allergy. The relationship between naphthalene and nasal allergy is not clearly established in the provided text."
+      },
+      "naphthalene_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions that naphthalene is one of the hazardous air pollutants produced by gas and petrochemical industries in Assaluyeh. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide direct evidence or specific studies linking naphthalene exposure to eczema. The increased prevalence of eczema is mentioned in the context of overall pollution and heavy metals, but no causal or associative relationship with naphthalene is explicitly described."
+      }
+    },
+    {
+      "lead_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of lead as a heavy metal pollutant in the environment and in marine organisms in the Assaluyeh region. It also states that the prevalence of asthma is higher in this region compared to other cities. However, the abstract does not provide direct evidence or specific studies linking lead exposure to asthma. The increased asthma prevalence is mentioned alongside various pollutants and allergens, but no causal or associative relationship between lead and asthma is explicitly described."
+      },
+      "lead_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of heavy metals including lead in the environment and biological samples in the Assaluyeh region, and it also notes a higher prevalence of nasal allergy among residents. However, it does not provide direct evidence or specific studies linking lead exposure to nasal allergy. The increased nasal allergy prevalence is mentioned generally in relation to pollution and allergenicity changes, but no clear causal or associative relationship with lead is established in the abstract."
+      },
+      "lead_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of lead as a heavy metal pollutant in the Assaluyeh region and notes a higher prevalence of eczema among residents. However, it does not provide specific evidence or direct linkage between lead exposure and eczema. The increased eczema prevalence is stated generally in relation to pollution but without isolating lead as a causative or associated factor. Therefore, there is no clear relationship established between lead and eczema based on this abstract."
+      }
+    },
+    {
+      "arsenic_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents in the Assaluyeh region have significantly higher urinary levels of heavy metals including arsenic compared to controls. It also reports a higher prevalence of asthma in this region compared to other cities. Although the abstract does not explicitly state a direct causal link between arsenic exposure and asthma, the co-occurrence of elevated arsenic levels and increased asthma prevalence suggests a potential relationship between arsenic exposure and asthma in this population."
+      },
+      "arsenic_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract indicates that arsenic is present as a heavy metal pollutant in the Assaluyeh region and that residents have higher urinary levels of arsenic. It also states that the prevalence of nasal allergy is higher in this region. However, the abstract does not provide direct evidence linking arsenic exposure specifically to nasal allergy. Instead, it suggests that increased pollen allergenicity due to pollutants and the overall pollution environment may contribute to nasal allergy prevalence. Therefore, while arsenic is part of the polluted environment, there is no clear, direct relationship established between arsenic and nasal allergy in the abstract."
+      },
+      "arsenic_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of the Assaluyeh region have significantly higher urinary levels of heavy metals including arsenic compared to controls. It also reports a higher prevalence of eczema in this region compared to other cities. Although a direct causal link between arsenic and eczema is not explicitly stated, the co-occurrence of elevated arsenic exposure and increased eczema prevalence suggests a potential relationship between arsenic exposure and eczema in this population."
+      }
+    },
+    {
+      "sternium_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions 'sternium' as one of the heavy metals found in high and toxic concentrations in marine aquatic organisms in the Assaluyeh region. It also reports a higher prevalence of asthma in the region along with elevated levels of various pollutants and heavy metals. However, there is no direct evidence or specific mention linking sternium exposure to asthma. The relationship between sternium and asthma is not established or discussed in the abstract."
+      },
+      "sternium_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions 'sternium' as one of the heavy metals found in marine aquatic organisms in the Assaluyeh region, which is an area affected by pollution from gas and petrochemical industries. It also states that the prevalence of nasal allergy is higher in this region and that pollen allergenicity has increased due to pollutants. However, there is no direct evidence or specific mention linking sternium to nasal allergy. The relationship between sternium and nasal allergy is not established or clearly indicated in the abstract."
+      },
+      "sternium_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions 'sternium' as one of the heavy metals found in marine aquatic organisms in the Assaluyeh region, which is heavily polluted by various industrial pollutants. It also states that the prevalence of eczema is higher in the Assaluyeh region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking sternium exposure to eczema. The increased eczema prevalence is mentioned in the context of general pollution and allergenicity changes, but no causal or associative relationship with sternium is described."
+      }
+    },
+    {
+      "tin_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of tin as a heavy metal pollutant in the environment and in marine organisms in the Assaluyeh region. It also states that the prevalence of asthma is higher in this region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking tin exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and other heavy metals, but no causal or associative relationship with tin is described."
+      },
+      "tin_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of tin as a heavy metal pollutant in the environment and in marine organisms in the Assaluyeh region. It also notes an increased prevalence of nasal allergy among residents of the region and links pollen allergenicity changes to pollutants from gas and petrochemical industries. However, there is no direct evidence or specific mention in the abstract that tin exposure is related to nasal allergy. The increased nasal allergy prevalence is associated generally with pollution and allergenic changes but not specifically with tin. Therefore, no clear relationship between tin and nasal allergy can be established based on this abstract."
+      },
+      "tin_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of tin as a heavy metal pollutant in the environment and notes a higher prevalence of eczema in the Assaluyeh region. However, it does not provide any direct evidence or specific studies linking tin exposure to eczema. The increased eczema prevalence is mentioned alongside other conditions and pollutants, but no causal or associative relationship with tin is established in the abstract."
+      }
+    },
+    {
+      "silver_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of silver as a heavy metal pollutant in the environment and in marine organisms in the Assaluyeh region. It also notes a higher prevalence of asthma in the region compared to other cities. However, the abstract does not provide any direct evidence or specific association linking silver exposure to asthma. The increased asthma prevalence is mentioned in the context of general pollution and other heavy metals, but no causal or correlative relationship with silver is described."
+      },
+      "silver_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of silver as a heavy metal pollutant in the environment and in marine organisms in the Assaluyeh region. It also notes an increased prevalence of nasal allergy among residents exposed to various pollutants from gas and petrochemical industries. However, the abstract does not provide any direct evidence or specific association between silver exposure and nasal allergy. The increased nasal allergy prevalence is linked generally to pollutants and changes in pollen allergenicity, but silver is not specifically implicated in causing or exacerbating nasal allergy in the provided text."
+      },
+      "silver_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of silver as a heavy metal pollutant in the environment and notes a higher prevalence of eczema in the Assaluyeh region. However, it does not provide any direct evidence or specific link between silver exposure and the occurrence or exacerbation of eczema. The increased prevalence of eczema is mentioned generally in relation to pollution but without attributing it to silver specifically."
+      }
+    },
+    {
+      "antimony_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of antimony as a heavy metal pollutant in the Assaluyeh region and notes a higher prevalence of asthma among residents. However, it does not provide direct evidence or specific studies linking antimony exposure to asthma. The increased asthma prevalence is mentioned generally in relation to pollution, but no causal or associative relationship with antimony specifically is described."
+      },
+      "antimony_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of antimony as a heavy metal pollutant in the environment and its detection in marine organisms and trees in the Assaluyeh region. It also notes an increased prevalence of nasal allergy among residents of the region and links pollen allergenicity to pollutants from gas and petrochemical industries. However, the abstract does not provide direct evidence or specific studies linking antimony exposure to nasal allergy. The association between nasal allergy and pollutants is generalized and does not single out antimony as a causative or contributing factor."
+      },
+      "antimony_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of antimony as a heavy metal pollutant in the Assaluyeh region and notes a higher prevalence of eczema among residents. However, it does not provide direct evidence or specific studies linking antimony exposure to eczema. The increased eczema prevalence is mentioned alongside other respiratory and allergic conditions but without establishing a causal or associative relationship specifically with antimony."
+      }
+    },
+    {
+      "molybdenum_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of molybdenum as one of the heavy metals found in marine organisms in the Assaluyeh region, which is heavily polluted by gas and petrochemical industries. It also states that the prevalence of asthma is higher in this region compared to other cities. However, the abstract does not provide any direct evidence or specific studies linking molybdenum exposure to asthma. The increased asthma prevalence is mentioned in the context of overall pollution and other heavy metals, but no causal or associative relationship with molybdenum is described."
+      },
+      "molybdenum_nasal_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions molybdenum as one of the heavy metals found in high and toxic concentrations in marine organisms and trees in the Assaluyeh region. It also states that the prevalence of nasal allergy is higher in this region and that pollen allergenicity has increased due to pollutants from gas and petrochemical industries. However, the abstract does not provide direct evidence or specific linkage between molybdenum exposure and nasal allergy. The increased nasal allergy prevalence is associated generally with pollutants and heavy metals, but molybdenum is not specifically implicated in causing or contributing to nasal allergy in the provided text."
+      },
+      "molybdenum_eczema": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of molybdenum as a heavy metal pollutant in the Assaluyeh region and notes a higher prevalence of eczema among residents. However, it does not provide any direct evidence or specific association linking molybdenum exposure to eczema. The increased eczema prevalence is mentioned generally in relation to pollution and allergens, but no causal or correlative relationship with molybdenum is established."
+      }
+    },
+    {
+      "vanadium_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that urinary levels of heavy metals including vanadium are significantly higher in residents of Assaluyeh, and that the prevalence of asthma is also higher in this region compared to other cities. However, the abstract does not provide direct evidence or a clear causal link between vanadium exposure and asthma. The increased asthma prevalence is noted alongside multiple pollutants and heavy metals, but no specific relationship or mechanism involving vanadium and asthma is described."
+      },
+      "vanadium_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including vanadium compared to controls. It also states that the prevalence of nasal allergy is higher in this region than in other cities. Although a direct causal link is not explicitly stated, the co-occurrence of elevated vanadium exposure and increased nasal allergy prevalence suggests a relationship between vanadium exposure and nasal allergy in this population."
+      },
+      "vanadium_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of the Assaluyeh region have significantly higher urinary levels of heavy metals including vanadium compared to controls. It also states that the prevalence of eczema, along with asthma and nasal allergy, is higher in this region than in other cities. Although a direct causal link is not explicitly stated, the co-occurrence of elevated vanadium exposure and increased eczema prevalence suggests a potential relationship between vanadium exposure and eczema in this population."
+      }
+    },
+    {
+      "manganese_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including manganese compared to controls. It also states that the prevalence of asthma is higher in the Assaluyeh region than in other cities. Although a direct causal link between manganese and asthma is not explicitly stated, the co-occurrence of elevated manganese exposure and increased asthma prevalence suggests a potential relationship between manganese exposure and asthma in this population."
+      },
+      "manganese_nasal_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including manganese compared to controls. It also states that the prevalence of nasal allergy is higher in this region. Although a direct causal link is not explicitly stated, the co-occurrence of elevated manganese exposure and increased nasal allergy prevalence suggests a relationship between manganese exposure and nasal allergy in this population."
+      },
+      "manganese_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that residents of Assaluyeh have significantly higher urinary levels of heavy metals including manganese compared to controls. It also states that the prevalence of eczema, along with asthma and nasal allergy, is higher in the Assaluyeh region than in other cities. Although a direct causal link between manganese and eczema is not explicitly stated, the co-occurrence of elevated manganese exposure and increased eczema prevalence suggests a potential relationship between manganese exposure and eczema in this population."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including particulate matters (PM2.5, PM10), gases (O3, NOx, SOx, H2S), heavy metals (nickel, chromium, cadmium, selenium, lead, arsenic, sternium, tin, silver, antimony, molybdenum, vanadium, manganese), and organic compounds (benzene, hexane, toluene, xylene, propylene, naphthalene). These are all specific chemical substances named explicitly in the text."
+}

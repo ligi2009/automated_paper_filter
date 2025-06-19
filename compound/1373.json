@@ -1,0 +1,70 @@
+{
+  "id": 1373,
+  "title": "Metabolic and Behavioral Features of Acute Hyperpurinergia and the Connection to Autism Spectrum Disorder",
+  "Abstract": "\n Background. Since 2012, studies in mice, rats, and humans have suggested that abnormalities in purinergic signaling may be a final common pathway for many genetic and environmental causes of autism spectrum disorder (ASD). The current study in mice was conducted to characterize the bioenergetic, metabolomic, breathomic, and behavioral features of acute hyperpurinergia triggered by systemic injection of the purinergic agonist and danger signal, extracellular ATP (eATP). Methods. Responses were studied in C57BL/6J mice with ASD-like behaviors in the maternal immune activation (MIA) model and controls. Basal metabolic rates, respiratory exchange ratios (RER = VCO2/VO2), and locomotor activity were measured in CLAMS cages. Plasma metabolomics measured 401 metabolites. Breathomics measured 98 volatile organic compounds. Results. A 0.5 µmol/g dose of ATP dropped whole body oxygen consumption by 74% ± 6% (mean ± SEM, 5,303 to 1,382 ml/kg/hr, p<0.0001) and rectal temperature by 6.2˚ ± 0.3˚C (p<0.0001) in 30 minutes. Over 200 metabolites from 37 different biochemical pathways where changed. MIA animals were hypersensitive to the metabolic and behavioral responses triggered by eATP and poly(IC). Breathomic and metabolomic analysis revealed changes in folate-methylation-1-carbon, purines, pyrimidines, acyl-carnitines, glycolysis, aromatic and branch-chain amino acids, Krebs cycle, glutathione, urea cycle, phospholipids, sphingolipids, eicosanoids, cholesterol, bile acids, vitamins, and microbiome metabolism similar to children with ASD. Limitations. The responses to ATP were studied in only a single genetic strain of mice (C57BL/6J). Although similar to metabolic results reported in FVB mice and a small clinical trial in children with ASD, the generalizability of these results to larger studies in humans is unknown. The chronic effects of repeated postnatal ATP exposures were not tested. Conclusions. Acute hyperpurinergia produced metabolic and behavioral changes in mice that were similar to those found in children with ASD. These behaviors and metabolic changes were associated with mitochondrial functional changes that were profound but reversible.",
+  "Disease_List": [
+    "autism spectrum disorder (ASD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'autism spectrum disorder (ASD)' multiple times as a specific disease. It discusses studies related to ASD-like behaviors in mice and compares metabolic changes to those found in children with ASD. Therefore, the classification is Y with ASD as the specific disease mentioned.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "autism spectrum disorder (ASD)"
+  ],
+  "UMLS_search_results": {
+    "autism spectrum disorder (ASD)": []
+  },
+  "MRCONSO_search_results": {
+    "autism spectrum disorder (ASD)": [
+      "Autism spectrum disorder",
+      "Autism Spectrum Disorders",
+      "Autism spectrum disorders",
+      "Autism Spectrum Disorder",
+      "autism spectrum disorder"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "autism spectrum disorder (ASD)_via_Autism spectrum disorder": [
+      {
+        "ui": "C1510586",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1510586",
+        "name": "Autism Spectrum Disorders",
+        "mesh_id": "D000067877"
+      },
+      {
+        "ui": "C0524528",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524528",
+        "name": "Pervasive Development Disorder",
+        "mesh_id": "D002659"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "ATP",
+    "poly(IC)"
+  ],
+  "compound_CID": [
+    {
+      "ATP": 5957,
+      "poly(IC)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "ATP_autism_spectrum_disorder_(ASD)": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between ATP and autism spectrum disorder (ASD) through the study of acute hyperpurinergia induced by systemic injection of extracellular ATP (eATP) in mice. The study found that eATP triggered significant metabolic and behavioral changes in mice, particularly in those with ASD-like behaviors in the maternal immune activation (MIA) model. These changes included a drastic reduction in oxygen consumption, altered metabolite profiles across multiple biochemical pathways, and behavioral responses similar to those observed in children with ASD. The metabolic and behavioral alterations were linked to mitochondrial functional changes, suggesting that abnormalities in purinergic signaling involving ATP may be a common pathway in ASD pathophysiology. Although the study was limited to a single mouse strain and acute exposure, the findings support a connection between ATP-related purinergic signaling and ASD."
+      }
+    },
+    {
+      "poly(IC)_autism_spectrum_disorder_(ASD)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that maternal immune activation (MIA) animals, which exhibit ASD-like behaviors, were hypersensitive to metabolic and behavioral responses triggered by both extracellular ATP (eATP) and poly(IC). This suggests that poly(IC), a compound used in the study, is linked to inducing or modulating ASD-like features in the animal model. Additionally, the metabolic and behavioral changes observed in response to poly(IC) and eATP in mice resemble those found in children with ASD, supporting a relationship between poly(IC) exposure and ASD-related outcomes in this experimental context."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions ATP (adenosine triphosphate) as the purinergic agonist and danger signal used to trigger acute hyperpurinergia. Additionally, poly(IC) (polyinosinic:polycytidylic acid) is mentioned as another agent triggering metabolic and behavioral responses. Other terms refer to classes of metabolites or pathways rather than specific chemical compounds."
+}

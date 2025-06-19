@@ -1,0 +1,39 @@
+{
+  "id": 1380,
+  "title": "Screening of Breast Cancer from Sweat Samples Analyzed by 2-Dimensional Gas Chromatography-Mass Spectrometry: A Preliminary Study",
+  "Abstract": "Simple Summary Breast cancer is the second most commonly diagnosed cancer among women. Novel breast cancer screening techniques are necessary to improve early detection and increase the chances of successful treatment. This study investigates the presence of specific volatile organic compounds in the sweat of breast cancer patients, which could serve as biomarkers for non-invasive screening. Sweat samples were collected from 21 breast cancer patients before and after tumor removal surgery and analyzed using thermal desorption coupled with gas chromatography and mass spectrometry. This work demonstrates that volatile organic compounds in sweat differ between pre-and post-surgery status in breast cancer patients, suggesting the possibility to use these compounds as novel breast cancer biomarkers and opening the way to new screening tools. Abstract Breast cancer (BC) remains one of the most commonly diagnosed malignancies in women. There is increasing interest in the development of non-invasive screening methods. Volatile organic compounds (VOCs) emitted through the metabolism of cancer cells are possible novel cancer biomarkers. This study aims to identify the existence of BC-specific VOCs in the sweat of BC patients. Sweat samples from the breast and hand area were collected from 21 BC participants before and after breast tumor ablation. Thermal desorption coupled with two-dimensional gas chromatography and mass spectrometry was used to analyze VOCs. A total of 761 volatiles from a homemade human odor library were screened on each chromatogram. From those 761 VOCs, a minimum of 77 VOCs were detected within the BC samples. Principal component analysis showed that VOCs differ between the pre- and post-surgery status of the BC patients. The Tree-based Pipeline Optimization Tool identified logistic regression as the best-performing machine learning model. Logistic regression modeling identified VOCs that distinguish the pre-and post-surgery state in BC patients on both the breast and hand area with sensitivities close to 1. Further, Shapley additive explanations and the probe variable method identified the most important and pertinent VOCs distinguishing pre- and post-operative status which are mostly of distinct origin for the hand and breast region. Results suggest the possibility to identify endogenous metabolites linked to BC, hence proposing this innovative pipeline as a stepstone to discovering potential BC biomarkers. Large-scale studies in a multi-centered VOC analysis setting must be carried out to validate obtained findings.",
+  "Disease_List": [
+    "Breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'breast cancer' multiple times as the specific disease under study. It discusses breast cancer patients, breast tumor removal surgery, and the identification of biomarkers related to breast cancer, which clearly indicates the presence of a specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Breast cancer"
+  ],
+  "UMLS_search_results": {
+    "Breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names. Therefore, no specific chemical compounds can be identified from the provided text."
+}

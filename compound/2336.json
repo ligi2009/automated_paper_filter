@@ -1,0 +1,32 @@
+{
+  "id": 2336,
+  "title": "Predicting SARS-CoV-2 Variant Using Non-Invasive Hand Odor Analysis: A Pilot Study",
+  "Abstract": "The adaptable nature of the SARS-CoV-2 virus has led to the emergence of multiple viral variants of concern. This research builds upon a previous demonstration of sampling human hand odor to distinguish SARS-CoV-2 infection status in order to incorporate considerations of the disease variants. This study demonstrates the ability of human odor expression to be implemented as a non-invasive medium for the differentiation of SARS-CoV-2 variants. Volatile organic compounds (VOCs) were extracted from SARS-CoV-2-positive samples using solid phase microextraction (SPME) coupled with gas chromatography–mass spectrometry (GC–MS). Sparse partial least squares discriminant analysis (sPLS-DA) modeling revealed that supervised machine learning could be used to predict the variant identity of a sample using VOC expression alone. The class discrimination of Delta and Omicron BA.5 variant samples was performed with 95.2% (±0.4) accuracy. Omicron BA.2 and Omicron BA.5 variants were correctly classified with 78.5% (±0.8) accuracy. Lastly, Delta and Omicron BA.2 samples were assigned with 71.2% (±1.0) accuracy. This work builds upon the framework of non-invasive techniques producing diagnostics through the analysis of human odor expression, all in support of public health monitoring.",
+  "Disease_List": [
+    "SARS-CoV-2 infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'SARS-CoV-2 infection,' which is a specific disease caused by the SARS-CoV-2 virus. It also refers to variants of this virus such as Delta and Omicron BA.5, which are related to the same disease. Therefore, specific disease names related to COVID-19 are explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "SARS-CoV-2 infection"
+  ],
+  "UMLS_search_results": {
+    "SARS-CoV-2 infection": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names."
+}

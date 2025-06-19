@@ -1,0 +1,185 @@
+{
+  "id": 4631,
+  "title": "Diagnóstico de salud y seguridad en el trabajo en una Estación de Bomberos ubicada en Chihuahua, México",
+  "Abstract": "Resumen\n\nEsta investigación presenta un diagnóstico de seguridad y salud en el trabajo basado en el Modelo Obrero Italiano, para la identificación de riesgos y demandas fisiológicas en trabajadores de una estación de bomberos en Chihuahua, México. Se midieron los niveles de ruido, la pérdida auditiva y las partículas en suspensión. Se empleó el método ergonómico REBA para detectar el riesgo en el ascenso-descenso de la unidad móvil de rescate. Las demandas psicosociales se evaluaron a través del instrumento DAAS 21. El análisis estadístico se realizó utilizando el software SAS 9.0. El ruido excedió el Nivel Máximo Permitido (MLP) establecido por la norma mexicana. Se detectaron bomberos con hipoacusia leve a moderada. Se analizó el nivel de correlación entre umbral de audición (UA), antigüedad, edad e índice de masa corporal (IMC). Las partículas PM2.5 y PM10 fueron medidas y su concentración se encontró dentro del MLP. El método REBA categorizó el riesgo ergonómico como medio y muy alto. Los resultados del DASS 21 estuvieron en un rango normal para ansiedad-depresión-estrés. Los resultados brindan evidencia científica que demuestra la necesidad de equipos y atención médica para los bomberos.\n\nCitas\n\nÁlvarez, C., Romero, M., & Prieto, A. (2016). Epidemiological evaluation of noise exposure in local police and firefighters. Asociación Española de Especialistas en Medicina del Trabajo, 25(2), 50-112.\n\nBalderas-López, M., Zamora-Macorra, M., & Martínez-Alcántara, S. (2019). Musculoskeletic disorders in workers of tire manufacturing: analysis of the work process and. Acta Universitaria, 29.\n\nBárcenas-Castro, M., & Aguilera, A. (2012). Análisis del servicio de bomberos y riesgos de siniestros en la Zona Metropolitana de San Luis Potosí-Soledad de Graciano Sánchez. Revista de El Colegio de San Luis, 2(3), 88-105.\n\nBarr, D., Gregson, W., & Reilly, T. (2010). The thermal ergonomics of firefighting reviewed. Applied Ergonomics, 41(1), 161-172.\n\nBufano, P. (2013). New research in firefighters underscores need for innovative hearing protection. Hear Journal, 66(9), 1-2.\n\nChoi, B., Schnall, P., Dobson, N., Israel, L., Landsbergis, P., Galassetti, P., Kojaku, S., & Baker, D. (2011). Exploring occupational and behavioural risk factors for obesity in firefighters: A theoretical framework and study design. Safety and Health at Work, 2(4), 301-312.\n\nCohen, H. W., Zeig-Owens, R., Joe, C., Hall, C. B., Webber, M. P., Weiden, M. D., Cleven, K. L., Jaber, N., Skerker, M., Yip, J., Schwartz, T., & Prezant, D. J. (2019). Long-term cardiovascular disease risk among firefighters after the World Trade Centre Disaster. JAMA network open, 2(9), e199775.\n\nCroll, P. H. (2019). The association between obesity, diet quality and hearing loss in older adults. Aging, 11(1), 48-62.\n\nDhanda, N., Taheri, S. (2017). A narrative review of obesity and hearing loss. International Journal Obesy, 41, 1066–1073.\n\nDiaz, C., Goycoolea, M., & Cardemil, F. (2016). Hearing loss: Transcendence, incidence and prevalence. Revista Médica Clínica Las Condes, 27(6), 731-739.\n\nDuran, F., Woodhams, J., & Bishopp, D. (2018). An interview study of the experiences of firefighters in regard to psychological contract and stressors. Employee Responsibilities and Rights Journal, 1-24.\n\nEhlers, J., McCammon, J., O'Brien, D., Earnest, S., Leroy, R., Woebkenberg, M., & Flesch, J. (2015). Prevención de envenenamiento con monóxido de carbono producido por herramientas y equipos con motores pequeños de gasolina. Recuperado de https://www.cdc.gov/spanish/NIOSH/docs/96-118_sp/\n\nElbay, R., Kurtulmuş, A., Arpacıoğlu, S., & Karadere, E. (2020). Depression, anxiety, stress levels of physicians and associated factors in Covid-19 pandemics. Psychiatry Research, 290(113130), 1-12.\n\nEngelsman, M., Toms, L.M., Banks, A., Wang, X., & Mueller, F. (2020). Biomonitoring in firefighters for volatile organic compounds, semivolatile organic compounds, persistent organic pollutants, and metals: A systematic review. Environmental Research, 188, 109562.\n\nFernández, L., Suárez, R., & Labarta, A. (2011). Hypoacusia and metabolic disorders. CCM, 15(4), 1-11.\n\nGentzlez, M. S. (2010). Posture stress on firefighters and emergency medical technicians (EMTs) associated with repetitive reaching, bending, lifting, and pulling tasks. Work, 37(3), 227-239.\n\nGuidotti, T., & Clough, V. (1992). Occupational health concerns of firefighting. Annual Review of Public Health, 13, 151-171.\n\nHita-Gutiérrez, M., Gómez-Galán, M., Díaz-Pérez, M., & Callejón Ferrer, A. (2020). An Overview of REBA method applications in the world. International Journal of Environmental Research and Public Health, 17, 1-22. Recuperado de http://www.mdpi.com/journal/ijerph\n\nHong, O., Chih, D., & Samo, D. (2013). Hearing loss and use of hearing protection among career firefighters in the United States. Journal of Occupational and Environmental Medicine, 55, 960-965.\n\nHu, H., Tomita, K., Kuwahara, K., Yamamoto, M., Uehara, A., Kochi, T., Eguchi, M., Okazaki, H., Hori, A., Sasaki, N., Ogasawara, T., Honda, T., Yamamoto, S., Nakagawa, T., Miyamoto, T., Imai, T., Nishihara, A., Nagahama, S., Murakami, T., & Shimizu, M. Japan Epidemiology Collaboration on Occupational Health Study Group (2020). Obesity and risk of hearing loss: A prospective cohort study. Clinical nutrition (Edinburgh, Scotland), 39(3), 870–875.\n\nJiang, L. C., Yan, Y. J., Jin, Z. S., Hu, M. L., Wang, L., Song, Y., Li, N. N., Su, J., Wu, D. X., & Xiao, T. (2020). The Depression Anxiety Stress Scale-21 in Chinese Hospital Workers: Reliability, latent structure, and measurement invariance across genders. Frontiers in Psychology, 11, 247.\n\nKim, S.J., Kang, J., Kang, S.K., & Ham, S. (2019). Evaluation of the effect of an exhaust reduction system in fire stations. Sustainability, 11(22), 6358.\n\nKim, H., Kang, K., & Kim, T. (2018). Measurement of particulate matter (PM2.5) and health risk assessment of cooking-generated particles in the kitchen and living rooms of apartment houses. Sustainability, 10(843), 1-13.\n\nKodom-Wiredu, J. K. (2019). The Relationship between Firefighters' work demand and work-related musculoskeletal disorders: The moderating role of task characteristics. Safety and Health at Work, 10(1), 61-66.\n\nMarín, M., & Pico, M. (2004). Italian Worker Model. In M. Marín, M. Pico, & L. Escobar (Ed.), Fundamentals of Occupational Health (pages: 28-31). Universidad de Caldas, Ciencias para la salud.\n\nMeléndez-López, J.A.A., González-Muñoz, E.L., & González-Baltazar, R. (2018). Fatiga laboral, mediante la aplicación del SOFI-SM en bomberos mexicanos. Revista Colombiana de Salud Ocupacional, 8(1), e-5104.\n\nDiario Oficial de la Federación. (2014). Chemical agents polluting the work environment-Recognition, evaluation and control. (NOM-010-STPS-2014). Recuperado de https://idconline.mx/archivos/media/2014/04/28/norma-oficial-mexicana-nom-010-stps-2014-agentes-qumicos-contaminantes-del-ambiente-laboral-reconocimiento-evaluacin-y-control\n\nDiario Oficial de la Federación. (2001). Conditions of safety and hygiene in work centres where noise is generated. (NOM-011-STPS-2001). Recuperado de www.bioantropo.com/media/download/170\n\nDiario Oficial de la Federación. (2014). (2014). Permissible limit values for the concentration of suspended PM10 and PM2.5 particles in the ambient air and criteria for their evaluation. (NOM-025-SSA1-2014).\n\nRecuperado de http://www.dof.gob.mx/nota_detalle.php?codigo=5357042&fecha=20/08/2014\n\nNoriega M. (1995). La realidad latinoamericana frente a los paradigmas de investigación en salud laboral. Salud de los Trabajadores. 3(1):13-20.\n\nPrell, R., Opatz, O., Merati, G., & Gesche, B. (2020). Heart rate variability, risk-taking behaviour and resilience in firefighters during a simulated extinguish-fire Task. Frontiers in Psychology, 11(482), 1-12.\n\nSAS. (2006). SAS Institute Inc. 2006. Statistical Analysis System 9.1.3 User´s guide. CARY, NC, USA.\n\nVilchis-Rea, M., & López-Hernández, E. (2017). Occupational risk factors in Mexican firefighters of four stations: participatory action-research. RCSO, 6(4), 124-131. Recuperado de http://revistasojs.unilibrecali.edu.co/index.php/rcso\n\nUribe, P., Gutiérrez-Amador, J., Chantal, J., & Amézquita-Pino, J. (2020). Crítica a las propiedades psicométricas de una escala de medición de factores de riesgo psicosocial propuesta en la NOM 035 de la STPS en México. Contaduría y administración, 65(1), e147.\n\nVoguel, L. (2016). The current status of the Italian Worker Model for the fight for health in the workplace. Laboreal, 12(2), 10-17.\n\nWayne, D. (2005). Bioestadística: base para el análisis de las ciencias de la salud. 4a ed., México: Limusa-Wiley.\n\nYang, L., Kang, B., Wang, T., & Zhao, T. (2014). An Ergonomic study of firefighters’ postural comfort evaluation based on EMG Method. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 58(1), 2310-2312.\n\nZárate-Amador, A., Aguilar-Madrid, G., Colunga-Rodríguez, C., Haro-García, L.C.., & Juárez-Pérez, C. (2013). Perfil salud-enfermedad en los trabajadores de una empresa en el valle de México. Medicina y Seguridad del Trabajo, 59(233), 405-416.",
+  "Disease_List": [
+    "hipoacusia leve a moderada",
+    "depresión",
+    "ansiedad",
+    "estrés",
+    "obesidad",
+    "envenenamiento con monóxido de carbono",
+    "enfermedades cardiovasculares"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and health conditions such as 'hipoacusia leve a moderada' (mild to moderate hearing loss), 'depresión' (depression), 'ansiedad' (anxiety), 'estrés' (stress), 'obesidad' (obesity), 'envenenamiento con monóxido de carbono' (carbon monoxide poisoning), and 'enfermedades cardiovasculares' (cardiovascular diseases). These are specific disease names or well-defined medical conditions rather than general terms. Therefore, the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "depresión",
+    "ansiedad",
+    "estrés",
+    "obesidad",
+    "envenenamiento con monóxido de carbono",
+    "enfermedades cardiovasculares"
+  ],
+  "UMLS_search_results": {
+    "hipoacusia leve a moderada": [],
+    "depresión": [
+      {
+        "ui": "C0011570",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011570",
+        "name": "Mental Depression",
+        "mesh_id": "D003863"
+      },
+      {
+        "ui": "C0011581",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011581",
+        "name": "Depressive disorder",
+        "mesh_id": "D003866"
+      }
+    ],
+    "ansiedad": [
+      {
+        "ui": "C0003467",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003467",
+        "name": "Anxiety",
+        "mesh_id": "D001007"
+      }
+    ],
+    "estrés": [
+      {
+        "ui": "C0038435",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038435",
+        "name": "Stress",
+        "mesh_id": "None"
+      }
+    ],
+    "obesidad": [
+      {
+        "ui": "C0028754",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0028754",
+        "name": "Obesity",
+        "mesh_id": "D009765"
+      }
+    ],
+    "envenenamiento con monóxido de carbono": [
+      {
+        "ui": "C0007020",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007020",
+        "name": "Carbon Monoxide Poisoning",
+        "mesh_id": "D002249"
+      }
+    ],
+    "enfermedades cardiovasculares": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "monóxido de carbono",
+    "PM2.5",
+    "PM10"
+  ],
+  "compound_CID": [
+    {
+      "monóxido de carbono": "None",
+      "PM2.5": "None",
+      "PM10": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "monóxido de carbono_depresión": {
+        "relationship": "N",
+        "reason": "The abstract focuses on occupational health risks among firefighters, including noise exposure, hearing loss, particulate matter, ergonomic risks, and psychosocial demands measured by the DASS 21 scale for anxiety, depression, and stress. While monóxido de carbono (carbon monoxide) is mentioned in a cited reference related to poisoning prevention, the abstract itself does not provide evidence or data linking carbon monoxide exposure to depression. The depression levels measured were within normal ranges and no direct association between carbon monoxide and depression is discussed or implied in the abstract."
+      },
+      "monóxido de carbono_ansiedad": {
+        "relationship": "N",
+        "reason": "The abstract focuses on occupational health risks among firefighters, including noise levels, hearing loss, particulate matter exposure, ergonomic risks, and psychosocial demands measured by the DASS 21 scale. While it mentions monóxido de carbono (carbon monoxide) in the context of poisoning prevention from gasoline-powered tools, there is no direct evidence or discussion linking carbon monoxide exposure to anxiety in the presented study. The anxiety levels measured were within normal ranges and were not correlated with carbon monoxide exposure. Therefore, based on this abstract, there is no clear relationship established between monóxido de carbono and ansiedad."
+      },
+      "monóxido de carbono_estrés": {
+        "relationship": "N",
+        "reason": "The abstract focuses on occupational health and safety assessments in firefighters, including measurements of noise, hearing loss, particulate matter (PM2.5 and PM10), ergonomic risks, and psychosocial demands evaluated by the DASS 21 scale, which includes stress. While the abstract mentions monóxido de carbono (carbon monoxide) in a cited reference related to poisoning prevention, there is no direct evidence or discussion in the abstract linking carbon monoxide exposure to stress levels in the studied population. The stress levels measured were within normal ranges and were not associated with carbon monoxide exposure. Therefore, based on the content of this abstract, there is no clear relationship established between monóxido de carbono and estrés."
+      },
+      "monóxido de carbono_obesidad": {
+        "relationship": "N",
+        "reason": "The abstract and its cited references focus primarily on occupational health risks for firefighters, including noise exposure, hearing loss, ergonomic risks, and particulate matter exposure. While monóxido de carbono (carbon monoxide) is mentioned in the context of poisoning prevention from gasoline-powered tools, there is no discussion or evidence presented linking carbon monoxide exposure to obesity. The abstract does mention obesity in relation to hearing loss and occupational risk factors, but does not connect obesity with carbon monoxide exposure. Therefore, based on the provided abstract, there is no clear evidence of a relationship between monóxido de carbono and obesidad."
+      },
+      "monóxido de carbono_envenenamiento_con_monóxido_de_carbono": {
+        "relationship": "Y",
+        "reason": "The abstract includes a citation (Ehlers et al., 2015) specifically addressing the prevention of carbon monoxide poisoning caused by tools and equipment with small gasoline engines. This indicates a recognized relationship between the compound 'monóxido de carbono' (carbon monoxide) and the disease 'envenenamiento con monóxido de carbono' (carbon monoxide poisoning). Although the main body of the abstract focuses on other occupational hazards for firefighters, the referenced work provides clear evidence of the link between carbon monoxide exposure and poisoning."
+      },
+      "monóxido de carbono_enfermedades_cardiovasculares": {
+        "relationship": "N",
+        "reason": "The abstract focuses on occupational health and safety risks among firefighters, including noise exposure, hearing loss, particulate matter, ergonomic risks, and psychosocial demands. It mentions monóxido de carbono (carbon monoxide) only in the context of poisoning prevention from gasoline-powered tools, without linking it to cardiovascular diseases. There is no evidence or discussion in the abstract that establishes a relationship between monóxido de carbono exposure and cardiovascular diseases."
+      }
+    },
+    {
+      "PM2.5_depresión": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM2.5 and PM10 particle concentrations in a firefighter work environment, noting that these concentrations were within permissible limits. It also includes assessment of psychosocial demands using the DASS 21 instrument, which measures anxiety, depression, and stress levels, and found results within a normal range for anxiety-depression-stress. However, the abstract does not provide any evidence or data indicating a direct or indirect relationship between PM2.5 exposure and depression. The focus is on occupational safety, hearing loss, ergonomic risks, and general psychosocial status without linking PM2.5 exposure to depressive symptoms or disorders."
+      },
+      "PM2.5_ansiedad": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM2.5 and PM10 particle concentrations in a firefighter work environment, noting that these concentrations were within permissible limits. It also reports that the anxiety-depression-stress levels measured by the DASS 21 instrument were within a normal range for the firefighters studied. There is no indication or evidence in the abstract of a direct or indirect relationship between PM2.5 exposure and anxiety ('ansiedad'). The study focuses on occupational risks including noise, hearing loss, ergonomic risks, and psychosocial demands, but does not establish or suggest a link between PM2.5 and anxiety."
+      },
+      "PM2.5_estrés": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM2.5 and PM10 particle concentrations within permissible limits at a firefighter station. It also evaluates stress levels using the DASS 21 instrument, finding stress levels within a normal range. There is no indication or evidence in the abstract of a direct or indirect relationship between PM2.5 exposure and stress among the workers studied. The focus is on occupational risks including noise, hearing loss, ergonomic risks, and psychosocial demands, but no correlation or association between PM2.5 and stress is described."
+      },
+      "PM2.5_obesidad": {
+        "relationship": "N",
+        "reason": "The abstract primarily focuses on occupational health risks among firefighters, including noise levels, hearing loss, ergonomic risks, and psychosocial demands. It mentions measuring PM2.5 and PM10 particle concentrations, which were found to be within permissible limits, but does not discuss any association between PM2.5 exposure and obesity (obesidad). Although obesity is mentioned in the context of correlations with hearing thresholds and body mass index, there is no evidence or discussion linking PM2.5 exposure to obesity in the abstract."
+      },
+      "PM2.5_envenenamiento_con_monóxido_de_carbono": {
+        "relationship": "N",
+        "reason": "The abstract discusses measurements of PM2.5 and PM10 particulate matter concentrations in a fire station environment, noting that levels were within permissible limits. It also references various occupational health risks for firefighters, including noise exposure, hearing loss, ergonomic risks, and psychosocial stress. However, there is no mention or evidence in the abstract linking PM2.5 exposure to carbon monoxide poisoning (envenenamiento con monóxido de carbono). The only mention of carbon monoxide poisoning is in a cited reference about prevention related to gasoline-powered tools, but this is unrelated to PM2.5 exposure. Therefore, based on the abstract content, there is no clear relationship established between PM2.5 and carbon monoxide poisoning."
+      },
+      "PM2.5_enfermedades_cardiovasculares": {
+        "relationship": "N",
+        "reason": "The abstract focuses on occupational health and safety assessments in firefighters, including measurements of noise, hearing loss, ergonomic risks, psychosocial demands, and particulate matter concentrations (PM2.5 and PM10). It states that PM2.5 concentrations were measured and found to be within permissible limits. However, the abstract does not provide any information or evidence linking PM2.5 exposure to cardiovascular diseases (enfermedades cardiovasculares). The discussion centers on hearing loss, ergonomic risks, and psychological stress, without mentioning cardiovascular outcomes or risks associated with PM2.5. Therefore, based on the content of this abstract, there is no clear evidence of a relationship between PM2.5 and cardiovascular diseases."
+      }
+    },
+    {
+      "PM10_depresión": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM10 particle concentrations in a firefighter work environment and notes that these concentrations were within permissible limits. It also assesses psychosocial demands including anxiety, depression, and stress using the DASS 21 instrument, with results in the normal range for anxiety-depression-stress. There is no indication or evidence in the abstract of a direct or indirect relationship between PM10 exposure and depression among the studied firefighters. Therefore, based on the provided abstract, no clear relationship between PM10 and depression is established."
+      },
+      "PM10_ansiedad": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM10 particle concentrations in a firefighter work environment, noting that these concentrations were within permissible limits. It also mentions the assessment of psychosocial demands, including anxiety, using the DASS 21 instrument, with results in the normal range for anxiety, depression, and stress. There is no indication or evidence in the abstract of a direct or indirect relationship between PM10 exposure and anxiety levels among the workers studied. Therefore, based on the provided abstract, no clear relationship between PM10 and anxiety (ansiedad) is established."
+      },
+      "PM10_estrés": {
+        "relationship": "N",
+        "reason": "The abstract reports measurements of PM10 particle concentrations in a firefighter work environment, noting that these concentrations were within permissible limits. It also reports that stress levels, assessed by the DASS 21 instrument, were within a normal range for anxiety, depression, and stress. There is no indication or evidence in the abstract of a direct or indirect relationship between PM10 exposure and stress levels among the workers studied. Therefore, based on the provided information, no clear relationship between PM10 and estrés (stress) is established."
+      },
+      "PM10_obesidad": {
+        "relationship": "N",
+        "reason": "The abstract discusses the measurement of PM10 particles and their concentration within permissible limits in a firefighter work environment. It also mentions the analysis of correlations involving body mass index (BMI), but does not provide any evidence or discussion linking PM10 exposure to obesity (obesidad). The focus is primarily on occupational risks such as noise, hearing loss, ergonomic risks, and psychosocial demands, without establishing a relationship between PM10 and obesity. Therefore, based on the content of this abstract, there is no clear evidence of a relationship between PM10 and obesity."
+      },
+      "PM10_envenenamiento_con_monóxido_de_carbono": {
+        "relationship": "N",
+        "reason": "The abstract discusses measurements of particulate matter PM10 and PM2.5 in the context of occupational health risks for firefighters, noting that PM10 concentrations were within permissible limits. It also references envenenamiento con monóxido de carbono (carbon monoxide poisoning) in a cited work related to prevention from gasoline-powered tools, but does not establish or suggest any direct relationship between PM10 particles and carbon monoxide poisoning. The abstract treats PM10 as particulate matter related to air quality and respiratory exposure, whereas carbon monoxide poisoning is related to exposure to a toxic gas, with no evidence in the abstract linking PM10 exposure to the disease envenenamiento con monóxido de carbono."
+      },
+      "PM10_enfermedades_cardiovasculares": {
+        "relationship": "N",
+        "reason": "The abstract discusses the measurement of PM10 particles in the context of occupational health and safety for firefighters, noting that PM10 concentrations were within permissible limits. However, it does not provide any information or evidence linking PM10 exposure to cardiovascular diseases (enfermedades cardiovasculares). The focus is primarily on noise, hearing loss, ergonomic risks, and psychosocial demands, with no mention of cardiovascular outcomes related to PM10 exposure. Therefore, based on the content of this abstract, there is no clear evidence of a relationship between PM10 and cardiovascular diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including 'monóxido de carbono' (carbon monoxide), a well-known toxic gas, and particulate matter types 'PM2.5' and 'PM10', which are specific classifications of suspended particulate pollutants measured in air quality assessments. These are distinct chemical substances or defined particulate categories, unlike general terms such as 'chemicals' or 'compounds'."
+}

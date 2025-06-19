@@ -1,0 +1,60 @@
+{
+  "id": 1801,
+  "title": "Nicotine or marijuana vaping exposure during pregnancy and altered immune responses in offspring",
+  "Abstract": "Electronic nicotine delivery systems (ENDS) - which include electronic cigarettes or e-cigarettes, or simply e-cigs, and marijuana vaping have become increasingly popular. ENDS devices have been established as one of the tobacco quit methods and promoted to be safer compared to traditional tobacco cigarettes. Emerging evidence demonstrates that e-cigarette and marijuana vape use can be harmful, with potential associations with cancer. Herein, we summarize the level of evidence to date for altered immune response, with a focus on cancer risks in the offspring after maternal use of, or aerosol exposures from, ENDS or marijuana vape during pregnancy. From 27 published articles retrieved from PubMed, we sought to find out identified carcinogens in ENDS aerosols and marijuana vapor, which cross the placental barrier and can increase cancer risk in the offspring. Carcinogens in vaping aerosols include aldehydes, metals, tobacco-specific nitrosamines, tobacco alkaloids, polycyclic aromatic hydrocarbons, and volatile organic compounds. Additionally, there was only one passive vaping exposure case study on a human fetus, which noted that glycerol, aluminum, chromium, nickel, copper, zinc, selenium, and lead crossed from the mother to the offspring’s cord blood. The carcinogens (metals) in that study were at lower concentrations compared to the mother’s biological matrices. Lastly, we observed that in utero exposures to ENDS-associated chemicals can occur in vital organs such as the lungs, kidneys, brain, bladder, and heart. Any resulting DNA damage increases the risk of tumorigenesis. Future epidemiological studies are needed to examine the effects of passive aerosol exposures from existing and emerging electronic nicotine and marijuana products on developing offspring to cancer.",
+  "Disease_List": [
+    "cancer",
+    "tumorigenesis"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' multiple times as a potential risk associated with e-cigarette and marijuana vape use, including cancer risks in offspring after maternal exposure. It also refers to 'tumorigenesis,' which is the process of tumor formation, directly related to disease development. These are specific disease-related terms rather than general references to illness or health conditions.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "tumorigenesis"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "tumorigenesis": [
+      {
+        "ui": "C0007621",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007621",
+        "name": "Neoplastic Cell Transformation",
+        "mesh_id": "D002471"
+      },
+      {
+        "ui": "C0596263",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0596263",
+        "name": "Carcinogenesis",
+        "mesh_id": "D063646"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

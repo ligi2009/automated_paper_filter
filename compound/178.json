@@ -1,0 +1,41 @@
+{
+  "id": 178,
+  "title": "Piezoelectric Gas Sensors with Polycomposite Coatings in Biomedical Application",
+  "Abstract": "When developing methods for diagnosing pathologies and diseases in humans and animals using electronic noses, one of the important trends is the miniaturization of devices, while maintaining significant information for diagnostic purposes. A combination of several sorbents that have unique sorption features of volatile organic compounds (VOCs) on one transducer is a possible option for the miniaturization of sensors for gas analysis. This paper considers the principles of creating polycomposite coatings on the electrodes of piezoelectric quartz resonators, including the choice of sorbents for the formation of sensitive layers, determining the mass and geometry of the formation of sensitive layers in a polycomposite coating, as well as an algorithm for processing the output data of sensors to obtain maximum information about the qualitative and quantitative composition of the gas phase. A comparative analysis of the efficiency and kinetics of VOC vapor sorption by sensors with polycomposite coatings and a set of sensors with relevant single coatings has been carried out. Regression equations have been obtained to predict the molar-specific sensitivity of the microbalance of VOC vapors by a sensor with a polycomposite coating of three sorbents with an error of 5–15% based on the results of the microbalance of VOC vapors on single coatings. A method for creating “visual prints” of sensor signals with polycomposite coatings is shown, with results comparable to those from an array of sensors. The parameters Aij∑ are proposed for obtaining information on the qualitative composition of the gas phase when processing the output data of sensors with polycomposite coatings. A biochemical study of exhaled breath condensate (EBC) samples, a microbiological investigation of calf tracheal washes, and a clinical examination were conducted to assess the presence of bovine respiratory disease (BRD). An analysis of the gas phase over EBC samples with an array of sensors with polycomposite coatings was also carried out. The “visual prints” of the responses of sensors with polycomposite coatings and the results of the identification of VOCs in the gas phase over EBC samples were compared to the results of bacteriological studies of tracheal washes of the studied calves. A connection was found between the parameters Aij∑ of a group of sensors with polycomposite coatings and the biochemical parameters of biosamples. The adequacy of replacing an array of piezoelectric sensors with single coatings by the sensors with polycomposite coatings is shown.",
+  "Disease_List": [
+    "bovine respiratory disease (BRD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'bovine respiratory disease (BRD)' as a specific disease name. Although the abstract discusses general terms like 'pathologies' and 'diseases,' the only specific disease named is bovine respiratory disease, which justifies a 'Y' classification.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "bovine respiratory disease (BRD)"
+  ],
+  "UMLS_search_results": {
+    "bovine respiratory disease (BRD)": []
+  },
+  "MRCONSO_search_results": {
+    "bovine respiratory disease (BRD)": [
+      "Complex, Bovine Respiratory Disease",
+      "Bovine Respiratory Disease Complex",
+      "Bovine respiratory disease complex",
+      "Bovine respiratory disease complex (disorder)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "bovine respiratory disease (BRD)_via_Complex, Bovine Respiratory Disease": [
+      {
+        "ui": "C1449809",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1449809",
+        "name": "Bovine Respiratory Disease Complex",
+        "mesh_id": "D048090"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms and mentions sorbents and sensor coatings but does not specify any particular chemical compound names."
+}

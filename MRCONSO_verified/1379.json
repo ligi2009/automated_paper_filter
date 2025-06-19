@@ -1,0 +1,38 @@
+{
+  "id": 1379,
+  "title": "Exhaled Breath Analysis in Diagnosis of Malignant Pleural Mesothelioma: Systematic Review",
+  "Abstract": "Malignant pleural mesothelioma (MPM) is mainly related to previous asbestos exposure. There is still dearth of information on non-invasive biomarkers to detect MPM at early stages. Human studies on exhaled breath biomarkers of cancer and asbestos-related diseases show encouraging results. The aim of this systematic review was to provide an overview on the current knowledge about exhaled breath analysis in MPM diagnosis. A systematic review was conducted on MEDLINE (PubMed), EMBASE and Web of Science databases to identify relevant studies. Quality assessment was done by the Newcastle–Ottawa Scale. Six studies were identified, all of which showed fair quality and explored volatile organic compounds (VOC) based breath profile using Gas Chromatography Coupled to Mass Spectrometry (GC–MS), Ion Mobility Spectrometry Coupled to Multi-capillary Columns (IMS–MCC) or pattern-recognition technologies. Sample sizes varied between 39 and 330. Some compounds (i.e, cyclohexane, P3, P5, P50, P71, diethyl ether, limonene, nonanal, VOC IK 1287) that can be indicative of MPM development in asbestos exposed population were identified with high diagnostic accuracy rates. E-nose studies reported breathprints being able to distinguish MPM from asbestos exposed individuals with high sensitivity and a negative predictive value. Small sample sizes and methodological diversities among studies limit the translation of results into clinical practice. More prospective studies with standardized methodologies should be conducted on larger populations.",
+  "Disease_List": [
+    "Malignant pleural mesothelioma (MPM)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Malignant pleural mesothelioma (MPM)' as a specific disease related to asbestos exposure. It discusses biomarkers and diagnosis related to MPM, which is a well-defined disease entity, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Malignant pleural mesothelioma (MPM)"
+  ],
+  "UMLS_search_results": {
+    "Malignant pleural mesothelioma (MPM)": []
+  },
+  "MRCONSO_search_results": {
+    "Malignant pleural mesothelioma (MPM)": [
+      "Malignant Pleural Mesothelioma",
+      "Malignant pleural mesothelioma",
+      "malignant pleural mesothelioma",
+      "Malignant Pleural Mesotheliomas",
+      "Malignant Pleural Mesothelioma, Advanced"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Malignant pleural mesothelioma (MPM)_via_Malignant Pleural Mesothelioma": [
+      {
+        "ui": "C0812413",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0812413",
+        "name": "Malignant Pleural Mesothelioma",
+        "mesh_id": "D000086002"
+      }
+    ]
+  }
+}

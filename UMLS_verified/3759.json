@@ -1,0 +1,28 @@
+{
+  "id": 3759,
+  "title": "Behavioral responses of Rhodnius prolixus to volatile organic compounds released in vitro by bacteria isolated from human facial skin",
+  "Abstract": "Background Previous studies have demonstrated the role of volatile organic compounds (VOCs) produced by skin microbiota in the attraction of mosquitoes to humans. Recently, behavioral experiments confirmed the importance of VOCs released by skin microbiota in the attraction of Rhodnius prolixus (Hemiptera: Triatominae), a vector of Chagas disease. Methods/Findings In this study, we screened for VOCs released in vitro by bacteria isolated from human facial skin that were able to elicit behavioral responses in R. prolixus. The VOCs released in vitro by eight bacterial species during two growth phases were tested with adult Rhodnius prolixus insects using a dual-choice “T”-shaped olfactometer. In addition, the VOCs released by the bacteria were analyzed with headspace solid-phase microextraction gas chromatography-mass spectrometry (HS-SPME-GC-MS). The VOCs produced by Staphylococcus capitis 11C, Staphylococcus warneri and Staphylococcus epidermidis 1 were attractive to R. prolixus, while the VOCs released by Citrobacter koseri 6P, Brevibacterium epidermidis and Micrococcus luteus 23 were non-attractive. Conclusions The results shown here indicate that VOCs released by bacteria isolated from human facial skin have a potential for biotechnological uses as a strategy to prevent the vectorial transmission of Chagas disease mediated by Rhodnius prolixus.",
+  "Disease_List": [
+    "Chagas disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'Chagas disease' as the specific disease transmitted by the vector Rhodnius prolixus. This is a clear and specific disease name, not a general term, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chagas disease"
+  ],
+  "UMLS_search_results": {
+    "Chagas disease": [
+      {
+        "ui": "C0041234",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041234",
+        "name": "Chagas Disease",
+        "mesh_id": "D014355"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

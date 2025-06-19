@@ -1,0 +1,93 @@
+{
+  "id": 2202,
+  "title": "Canine Olfactory Thresholds to Amyl Acetate in a Biomedical Detection Scenario",
+  "Abstract": "Dogs' abilities to respond to concentrations of odorant molecules are generally deemed superior to electronic sensors. This sensitivity has been used traditionally in many areas; but is a more recent innovation within the medical field. As a bio-detection sensor for human diseases such as cancer and infections, dogs often need to detect volatile organic compounds in bodily fluids such as urine and blood. Although the limits of olfactory sensitivity in dogs have been studied since the 1960s, there is a gap in our knowledge concerning these limits in relation to the concentration of odorants presented in a fluid phase. Therefore, the aim of this study was to estimate olfactory detection thresholds to an inert substance, amyl acetate presented in a liquid phase. Ten dogs were trained in a “Go/No go” single scent-detection task using an eight-choice carousel apparatus. They were trained to respond to the presence of solutions of amyl acetate diluted to varying degrees in mineral oil by sitting in front of the positive sample, and not responding to the 7 other control samples. Training and testing took place in an indoor room with the same handler throughout using a food reward. After 30 weeks of training, using a forward chaining technique, dogs were tested for their sensitivity. The handler did not assist the dog during the search and was blind to the concentration of amyl acetate tested and the position of the target in the carousel. The global olfactory threshold trend for each dog was estimated by fitting a least-squares logistic curve to the association between the proportion of true positives and amyl acetate concentration. Results show an olfactory detection threshold for fluid mixtures ranging from 40 parts per billion to 1.5 parts per trillion. There was considerable inter-dog difference in sensitivity, even though all dogs were trained in the same way and worked without the assistance of the handler. This variation highlights factors to be considered in future work assessing olfactory detection performance by dogs.",
+  "Disease_List": [
+    "cancer",
+    "infections"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'cancer' and 'infections' when discussing the use of dogs as bio-detection sensors for human diseases. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "infections"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "infections": [
+      {
+        "ui": "C0851162",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0851162",
+        "name": "Infection of musculoskeletal system",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714514",
+        "name": "Infection",
+        "mesh_id": "D007239"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "amyl acetate",
+    "mineral oil"
+  ],
+  "compound_CID": [
+    {
+      "amyl acetate": 12348,
+      "mineral oil": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "amyl acetate_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes a study on dogs' olfactory detection thresholds for amyl acetate in a liquid phase, focusing on their ability to detect this inert substance at very low concentrations. While the context mentions dogs being used as bio-detection sensors for human diseases such as cancer, the study itself does not provide any evidence or data linking amyl acetate directly to cancer. The research is centered on olfactory sensitivity to amyl acetate, not on any pathological or causal relationship between amyl acetate and cancer."
+      },
+      "amyl acetate_infections": {
+        "relationship": "N",
+        "reason": "The abstract describes a study on dogs' olfactory detection thresholds for amyl acetate, an inert substance, used to assess dogs' sensitivity to odorants in a liquid phase. While the abstract mentions dogs' use in detecting diseases such as infections by sensing volatile organic compounds, the study itself focuses solely on measuring detection thresholds for amyl acetate and does not provide evidence linking amyl acetate specifically to infections. Therefore, there is no clear relationship established between amyl acetate and infections based on this abstract."
+      }
+    },
+    {
+      "mineral oil_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes a study on dogs' olfactory detection thresholds for amyl acetate diluted in mineral oil, used as an inert substance in the testing medium. The focus is on dogs' ability to detect odorant molecules related to diseases such as cancer, but mineral oil itself is only mentioned as a solvent or medium for dilution. There is no evidence or discussion in the abstract indicating any direct relationship between mineral oil and cancer."
+      },
+      "mineral oil_infections": {
+        "relationship": "N",
+        "reason": "The abstract describes a study on dogs' olfactory detection thresholds using amyl acetate diluted in mineral oil as an inert substance. Mineral oil is used solely as a solvent or medium for the odorant and is not implicated in causing or being related to infections. The study focuses on dogs detecting volatile organic compounds related to diseases such as infections, but mineral oil itself is not linked to infections in the abstract. Therefore, there is no evidence of a relationship between mineral oil and infections based on the provided abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'amyl acetate' as the inert substance used in the olfactory detection threshold study, and 'mineral oil' as the solvent in which amyl acetate was diluted. These are specific chemical compounds named in the text."
+}

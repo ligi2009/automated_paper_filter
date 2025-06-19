@@ -1,0 +1,28 @@
+{
+  "id": 4332,
+  "title": "Highly sensitive scent-detection of COVID-19 patients in vivo by trained dogs",
+  "Abstract": "Timely and accurate diagnostics are essential to fight the COVID-19 pandemic, but no test satisfies both conditions. Dogs can scent-identify the unique odors of the volatile organic compounds generated during infection by interrogating specimens or, ideally, the body of a patient. After training 6 dogs to detect SARS-CoV-2 in human respiratory secretions (in vitro scent-detection), we retrained 5 of them to diagnose the infection by scenting the patient directly (in vivo scent-detection). Then, efficacy trials were designed to compare the diagnostic performance of the dogs against that of the rRT-PCR in 848 human subjects: 269 hospitalized patients (COVID-19 prevalence 30.1%), 259 hospital staff (prevalence 2.7%), and 320 government employees (prevalence 1.25%). The limit of detection in vitro was lower than 10-12 copies ssRNA/mL. In vivo, all dogs detected 92 COVID-19 patients present among the 848 study subjects. Detection was immediate, and independent of prevalence, time post-exposure, or presence of symptoms, with 95.2% accuracy and high sensitivity (95.9%; 95% C.I. 93.6-97.4), specificity (95.1%; 94.4-95.8), positive predictive value (69.7%; 65.9-73.2), and negative predictive value (99.5%; 99.2-99.7). To determine real-life performance, we waited 75 days to carry out an effectiveness assay among the riders of the Metro System of Medellin, deploying the human-canine teams without previous training or announcement. Three dogs (one of each breed) scent-interrogated 550 citizens who volunteered for simultaneous canine and rRT-PCR testing. Negative predictive value remained at 99.0% (95% C.I. 98.3-99.4), but positive predictive value dropped to 28.2% (95% C.I. 21.1-36.7). Canine scent-detection in vivo is a highly accurate screening test for COVID-19, and it detects more than 99% of infected individuals independently of the key variables. However, real-life conditions increased substantially the number of false positives, indicating the necessity of training a threshold for the limit of detection to discriminate environmental odoriferous contamination from infection.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' multiple times, describing diagnostic methods and prevalence among study subjects. It also references 'SARS-CoV-2', the virus causing COVID-19, but the disease name COVID-19 is clearly stated, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

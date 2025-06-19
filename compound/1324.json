@@ -1,0 +1,52 @@
+{
+  "id": 1324,
+  "title": "Measurement of Benzene Levels in Decrease Hemoglobin Levels among Printing Industry Workers",
+  "Abstract": "The printing industry used chemicals that are harmful to the environment and humans, one of which is a volatile organic compound is benzene, was used as an ink solvent. The effect on the health of workers is damage to the blood formation system (bone marrow), which can pose a risk of a decrease in the number of elements of the blood cell which include a decrease in hemoglobin levels. The population is 50 workers from 6 printing industry, samples were taken by consecutive sampling techniques. The results showed that workers who were exposed to benzene and had decreased hemoglobin levels by 17 people. Chi square test showed a correlation between long of exposure and benzene levels with anemia. The results of multiple logistic regression test showed that the levels of benzene most afected on anemia, benzene levels had a chance 44,5% to affected with anemia. Advice for workers should use Personal Protective Equipment (PPE) such as masks chemical cartridge types, optimizing the air vents and turn on the exhaust fan. For owners of printing should be able to provide appropriate PPE. For the Department of Labor can make policy and monitor existing regulations.",
+  "Disease_List": [
+    "anemia"
+  ],
+  "Reason": "The abstract explicitly mentions 'anemia' as a specific disease related to the exposure to benzene among printing industry workers. Although it discusses general health effects and blood system damage, anemia is specifically named and analyzed in relation to benzene exposure.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "anemia"
+  ],
+  "UMLS_search_results": {
+    "anemia": [
+      {
+        "ui": "C0002871",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002871",
+        "name": "Anemia",
+        "mesh_id": "D000740"
+      },
+      {
+        "ui": "C1000483",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1000483",
+        "name": "Anemia <Anemiaceae>",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_anemia": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between benzene exposure and anemia. It describes that benzene, used as an ink solvent in the printing industry, damages the blood formation system (bone marrow), leading to decreased hemoglobin levels. The study involving 50 workers showed that 17 exposed to benzene had decreased hemoglobin levels. Statistical analysis (Chi square test) demonstrated a correlation between benzene exposure and anemia, and logistic regression indicated benzene levels significantly affected anemia risk, with a 44.5% chance of causing anemia. Therefore, there is clear evidence supporting a relationship between benzene exposure and anemia."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions benzene as a volatile organic compound used as an ink solvent in the printing industry and discusses its health effects on workers."
+}

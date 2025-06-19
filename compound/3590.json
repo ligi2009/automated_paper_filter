@@ -1,0 +1,34 @@
+{
+  "id": 3590,
+  "title": "Air Quality in Dental Care Facilities: Update to Current Management and Control Strategies Implementing New Technologies: A Comprehensive Review",
+  "Abstract": "The quality of indoor air in healthcare facilities, with an emphasis on dental offices, attracted the attention of the scientific community in the late 1960s. Since then, it has become evident that the indoor air quality is critical in modern dental care facilities for limiting the spread of airborne infections, including vaccine-preventable diseases, and a key component of safety for healthcare personnel and patients. In the past decades, the role of indoor air quality has also been recognized in non-healthcare facilities, given the increasing time spent indoors by humans. During the provision of dental care services, mainly in the field of restorative dentistry, high-speed dental handpieces emitting air and water are used, producing large quantities of aerosol and hovering inside the operations area. In modern dental offices, new devices emitting air/powder for cavities improvement and cleaning as well as for periodontal prophylactic cleaning and aesthetics are used. In addition, a new therapeutic protocol for the removal of bacterial biofilm, targeting treatment for peri-implant diseases and conditions using air-abrasive decontamination technology, has been introduced in daily dental practice. The aim of this non-systemic review is to present the current state of knowledge on the nature and dynamics of air splatters and to provide an update to management and control strategies in dental care facilities, focusing on air purification and ultraviolet devices proposed and used. The findings arising from the limited number of related published articles documenting the reduction in levels of particular matter 2.5 (PM2.5), PM10 and volatile organic compounds, allow us to conclude that the continuous operation of air purifiers during and after treatment, contributes considerably to the improvement of the indoor air quality in dental care facilities. Moreover, the utilization of air purifiers is highly recommended in dental practice to mitigate spread of infections, including vaccine-preventable diseases. Frequent cleaning and maintenance of the purifier sieves and filters and frequent renovation of the indoor air through physical ventilation by mean of open windows is imperative. More research on environmental contamination and particularly on viral contamination under real dental care conditions is needed.",
+  "Disease_List": [
+    "peri-implant diseases",
+    "vaccine-preventable diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'peri-implant diseases' and 'vaccine-preventable diseases' as specific disease names related to the context of dental care and airborne infections. These are specific disease categories rather than general terms like 'disease' or 'illness', thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "vaccine-preventable diseases"
+  ],
+  "UMLS_search_results": {
+    "peri-implant diseases": [],
+    "vaccine-preventable diseases": [
+      {
+        "ui": "C5197682",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5197682",
+        "name": "Vaccine-Preventable Diseases",
+        "mesh_id": "D000079263"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses indoor air quality, aerosol production, and air purification in dental care facilities but does not mention any specific chemical compound names. It refers to general terms like particulate matter (PM2.5, PM10) and volatile organic compounds without specifying particular chemical substances."
+}

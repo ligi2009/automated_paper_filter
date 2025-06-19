@@ -1,0 +1,147 @@
+{
+  "id": 2328,
+  "title": "Electrospun Fibrous Nanocomposite Sensing Materials for Monitoring Biomarkers in Exhaled Breath",
+  "Abstract": "Human−exhaled breath mainly contains water, oxygen, carbon dioxide, and endogenous gases closely related to human metabolism. The linear relationship between breath acetone and blood glucose concentration has been revealed when monitoring diabetes patients. Considerable attention has been directed toward developing a highly sensitive volatile organic compounds (VOCs) sensing material that can detect breath acetone. In this study, we propose a tungsten oxide/tin oxide/silver/poly (methyl methacrylate) (WO3/SnO2/Ag/PMMA) sensing material fabricated using the electrospinning technique. By monitoring the evolution of sensing materials’ extinction spectra, low concentrations of acetone vapor can be detected. Moreover, the interfaces between SnO2 and WO3 nanocrystals construct n−n junctions, which generate more electron–hole pairs than those without such structure when the light strikes. This helps to improve the sensitivity of sensing materials when they are subjected to acetone surroundings. The established sensing materials (WO3/SnO2/Ag/PMMA) exhibit a sensing limit of 20 ppm for acetone vapor and show specificity for acetone even in ambient humidity.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes patients' in the context of monitoring blood glucose concentration through breath acetone levels. Diabetes is a specific disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "water",
+    "oxygen",
+    "carbon dioxide",
+    "acetone",
+    "tungsten oxide",
+    "tin oxide",
+    "silver",
+    "poly (methyl methacrylate)",
+    "WO3",
+    "SnO2",
+    "Ag",
+    "PMMA"
+  ],
+  "compound_CID": [
+    {
+      "water": 962,
+      "oxygen": 977,
+      "carbon dioxide": 280,
+      "acetone": 180,
+      "tungsten oxide": 14811,
+      "tin oxide": "None",
+      "silver": 23954,
+      "poly (methyl methacrylate)": "None",
+      "WO3": "None",
+      "SnO2": 29011,
+      "Ag": 23954,
+      "PMMA": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "water_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of water in human exhaled breath but does not indicate any direct relationship between water and diabetes. The focus is on detecting acetone in breath as a marker for blood glucose concentration in diabetes patients. Water is mentioned as a component of breath but not linked to diabetes or its monitoring."
+      }
+    },
+    {
+      "oxygen_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of acetone in human breath as a marker for monitoring diabetes, focusing on the development of a sensitive sensing material for acetone vapor. Oxygen is mentioned only as a component of exhaled breath and is not linked to diabetes or its monitoring in any specific way. There is no evidence in the abstract indicating a direct or indirect relationship between oxygen and diabetes."
+      }
+    },
+    {
+      "carbon dioxide_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the composition of human exhaled breath, including carbon dioxide, and focuses on the detection of acetone as a biomarker for monitoring diabetes. It highlights the development of a sensing material sensitive to acetone vapor and its relationship to blood glucose concentration in diabetes patients. However, there is no mention or evidence in the abstract indicating a direct relationship between carbon dioxide and diabetes."
+      }
+    },
+    {
+      "acetone_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a linear relationship between breath acetone levels and blood glucose concentration in diabetes patients, suggesting that acetone is closely related to diabetes metabolism. The study focuses on developing sensitive materials to detect acetone in breath, which is relevant for monitoring diabetes. Therefore, there is evidence of a relationship between acetone and diabetes."
+      }
+    },
+    {
+      "tungsten oxide_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of tungsten oxide (WO3) as part of a composite sensing material designed to detect acetone vapor in human breath, which is related to monitoring diabetes through breath acetone levels. However, the abstract does not provide evidence that tungsten oxide itself causes, contributes to, or is directly related to diabetes. Instead, tungsten oxide is used as a component in a sensor to detect a biomarker associated with diabetes. Therefore, there is no clear relationship between tungsten oxide and diabetes as a disease based on this abstract."
+      }
+    },
+    {
+      "tin oxide_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a sensing material containing tin oxide (SnO2) for detecting acetone vapor in human breath, which is related to monitoring diabetes through breath acetone levels. However, the abstract does not indicate any direct relationship between tin oxide itself and diabetes as a disease. Tin oxide is used here as part of a sensor material to detect a biomarker (acetone) associated with diabetes, but there is no evidence that tin oxide causes, treats, or is otherwise directly related to diabetes."
+      }
+    },
+    {
+      "silver_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a sensing material containing silver (WO3/SnO2/Ag/PMMA) for detecting acetone vapor in human breath, which is related to monitoring diabetes through breath acetone levels. However, the role of silver here is as a component of the sensor material, not as a compound causing, treating, or directly related to diabetes itself. There is no evidence in the abstract indicating a direct biological or pathological relationship between silver and diabetes."
+      }
+    },
+    {
+      "poly (methyl methacrylate)_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of poly (methyl methacrylate) (PMMA) as part of a composite sensing material for detecting acetone vapor in human breath, which is related to monitoring diabetes. However, there is no evidence in the abstract that PMMA itself has a direct relationship with diabetes as a disease. Instead, PMMA is used as a component in a sensor to detect a biomarker (acetone) associated with diabetes. Therefore, no clear relationship between the compound poly (methyl methacrylate) and diabetes as a disease is established."
+      }
+    },
+    {
+      "WO3_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of a sensing material containing WO3 (tungsten oxide) for detecting acetone vapor in human breath. Since breath acetone levels have a linear relationship with blood glucose concentration in diabetes patients, the WO3-based sensor is indirectly related to diabetes by enabling the detection of a biomarker (acetone) associated with diabetes monitoring. Therefore, there is evidence of a relationship between WO3 and diabetes through its application in acetone sensing relevant to diabetes management."
+      }
+    },
+    {
+      "SnO2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of a sensing material containing SnO2 for detecting acetone vapor in human breath. Since breath acetone levels have a linear relationship with blood glucose concentration in diabetes patients, the SnO2-containing sensor is indirectly related to diabetes by enabling the detection of a biomarker (acetone) associated with diabetes monitoring. Therefore, there is evidence of a relationship between SnO2 and diabetes through its application in acetone sensing relevant to diabetes."
+      }
+    },
+    {
+      "Ag_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of a sensing material containing silver (Ag) for detecting acetone vapor in human breath, which is related to monitoring diabetes through breath acetone levels. However, the role of Ag here is as a component of the sensor material, not as a compound causing or treating diabetes. There is no evidence in the abstract that Ag itself has a direct relationship with diabetes as a disease; it is only part of a sensor used for detection purposes."
+      }
+    },
+    {
+      "PMMA_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of PMMA as part of a composite sensing material (WO3/SnO2/Ag/PMMA) designed to detect acetone vapor in human breath, which is related to monitoring diabetes through breath acetone levels. However, PMMA itself is not indicated to have a direct relationship with diabetes; it is used as a component in a sensor material rather than being implicated in the disease's pathology or treatment. Therefore, there is no clear evidence of a direct relationship between PMMA and diabetes based on the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including common gases like water, oxygen, and carbon dioxide, as well as acetone which is the target analyte. It also specifies materials used in the sensing material: tungsten oxide (WO3), tin oxide (SnO2), silver (Ag), and poly (methyl methacrylate) (PMMA). These are all specific chemical substances named explicitly in the text."
+}

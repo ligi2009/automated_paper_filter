@@ -1,0 +1,122 @@
+{
+  "id": 1757,
+  "title": "Effect of Quorum Sensing by Staphylococcus epidermidis on the Attraction Response of Female Adult Yellow Fever Mosquitoes, Aedes aegypti aegypti (Linnaeus) (Diptera: Culicidae), to a Blood-Feeding Source",
+  "Abstract": "Aedes aegypti, the principal vector of yellow fever and dengue fever, is responsible for more than 30,000 deaths annually. Compounds such as carbon dioxide, amino acids, fatty acids and other volatile organic compounds (VOCs) have been widely studied for their role in attracting Ae. aegypti to hosts. Many VOCs from humans are produced by associated skin microbiota. Staphyloccocus epidermidis, although not the most abundant bacteria according to surveys of relative 16S ribosomal RNA abundance, commonly occurs on human skin. Bacteria demonstrate population level decision-making through quorum sensing. Many quorum sensing molecules, such as indole, volatilize and become part of the host odor plum. To date, no one has directly demonstrated the link between quorum sensing (i.e., decision-making) by bacteria associated with a host as a factor regulating arthropod vector attraction. This study examined this specific question with regards to S. epidermidis and Ae. aegypti. Pairwise tests were conducted to examine the response of female Ae. aegypti to combinations of tryptic soy broth (TSB) and S. epidermidis wildtype and agr- strains. The agr gene expresses an accessory gene regulator for quorum sensing; therefore, removing this gene inhibits quorum sensing of the bacteria. Differential attractiveness of mosquitoes to the wildtype and agr- strains was observed. Both wildtype and the agr- strain of S. epidermidis with TSB were marginally more attractive to Ae. aegypti than the TSB alone. Most interestingly, the blood-feeder treated with wildtype S. epidermidis/TSB attracted 74% of Ae. aegypti compared to the agr- strain of S. epidermidis/TSB (P ≤ 0.0001). This study is the first to suggest a role for interkingdom communication between host symbiotic bacteria and mosquitoes. This may have implications for mosquito decision-making with regards to host detection, location and acceptance. We speculate that mosquitoes “eavesdrop” on the chemical discussions occurring between host-associated microbes to determine suitability for blood feeding. We believe these data suggest that manipulating quorum sensing by bacteria could serve as a novel approach for reducing mosquito attraction to hosts, or possibly enhancing the trapping of adults at favored oviposition sites.",
+  "Disease_List": [
+    "yellow fever",
+    "dengue fever"
+  ],
+  "Reason": "The abstract explicitly mentions 'yellow fever' and 'dengue fever' as specific diseases transmitted by Aedes aegypti mosquitoes. These are well-known, specific disease names rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "yellow fever",
+    "dengue fever"
+  ],
+  "UMLS_search_results": {
+    "yellow fever": [
+      {
+        "ui": "C0043395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043395",
+        "name": "Yellow Fever",
+        "mesh_id": "D015004"
+      },
+      {
+        "ui": "C0301508",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0301508",
+        "name": "yellow fever vaccine",
+        "mesh_id": "D022341"
+      }
+    ],
+    "dengue fever": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      },
+      {
+        "ui": "C1548477",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1548477",
+        "name": "Dengue Vaccines",
+        "mesh_id": "D053059"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon dioxide",
+    "amino acids",
+    "fatty acids",
+    "indole",
+    "tryptic soy broth (TSB)"
+  ],
+  "compound_CID": [
+    {
+      "carbon dioxide": 280,
+      "amino acids": 169449957,
+      "fatty acids": "None",
+      "indole": 798,
+      "tryptic soy broth (TSB)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon dioxide_yellow_fever": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that carbon dioxide is one of the compounds studied for its role in attracting Aedes aegypti mosquitoes, which are the principal vectors of yellow fever. Since Ae. aegypti transmits yellow fever, compounds like carbon dioxide that attract these mosquitoes indirectly relate to the disease by influencing vector behavior and host detection. Therefore, there is evidence of a relationship between carbon dioxide and yellow fever through its effect on the mosquito vector's attraction."
+      },
+      "carbon dioxide_dengue_fever": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that carbon dioxide is one of the compounds studied for its role in attracting Aedes aegypti mosquitoes, which are the principal vectors of dengue fever. Although the study focuses more on the role of bacterial quorum sensing in mosquito attraction, it acknowledges carbon dioxide as a known attractant for Ae. aegypti. Since Ae. aegypti transmits dengue fever, compounds like carbon dioxide that attract these mosquitoes are indirectly related to the disease by facilitating vector-host interactions that can lead to transmission."
+      }
+    },
+    {
+      "amino acids_yellow_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of amino acids as one of several volatile organic compounds (VOCs) involved in attracting the mosquito vector Aedes aegypti, which transmits yellow fever. However, the focus is on the attraction mechanism of the mosquito to hosts mediated by bacterial quorum sensing and VOCs, including amino acids, rather than a direct relationship between amino acids and yellow fever disease itself. There is no evidence presented that amino acids influence the disease process or pathology of yellow fever. The relationship described is indirect, involving vector behavior rather than the disease or its causative agent."
+      },
+      "amino acids_dengue_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of amino acids as one of several volatile organic compounds (VOCs) that attract Aedes aegypti mosquitoes, which are vectors for dengue fever. However, it does not provide evidence of a direct relationship between amino acids and dengue fever itself. Instead, the focus is on how bacterial quorum sensing and associated VOCs influence mosquito attraction to hosts. While amino acids are mentioned as attractants, the abstract does not link amino acids to the disease process or pathogenesis of dengue fever. Therefore, there is no clear evidence of a direct relationship between amino acids and dengue fever based on this abstract."
+      }
+    },
+    {
+      "fatty acids_yellow_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of fatty acids as volatile organic compounds involved in attracting Aedes aegypti mosquitoes, which are vectors for yellow fever. However, it does not provide evidence of a direct relationship between fatty acids and yellow fever disease itself. The focus is on mosquito attraction mechanisms mediated by compounds including fatty acids, but no direct link to the disease pathology or progression of yellow fever is described."
+      },
+      "fatty acids_dengue_fever": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fatty acids, among other volatile organic compounds (VOCs), play a role in attracting Aedes aegypti mosquitoes, which are the principal vectors of dengue fever. Since these mosquitoes transmit dengue fever, the presence of fatty acids influences mosquito behavior related to host detection and blood feeding. Therefore, there is an indirect but clear relationship between fatty acids and dengue fever through the mechanism of mosquito attraction and vector-host interaction."
+      }
+    },
+    {
+      "indole_yellow_fever": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the role of indole, a quorum sensing molecule produced by bacteria such as Staphylococcus epidermidis on human skin, in attracting Aedes aegypti mosquitoes, which are the principal vectors of yellow fever. The study found that mosquitoes were significantly more attracted to the wildtype S. epidermidis strain capable of quorum sensing (which involves indole) compared to a strain with inhibited quorum sensing. This suggests that indole and related bacterial communication molecules influence mosquito behavior, potentially affecting the transmission dynamics of yellow fever by modulating mosquito attraction to hosts. Therefore, there is evidence of a relationship between indole and yellow fever through the vector's host-seeking behavior."
+      },
+      "indole_dengue_fever": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the role of indole, a quorum sensing molecule produced by bacteria such as Staphylococcus epidermidis, in influencing the attraction of Aedes aegypti mosquitoes, which are the principal vectors of dengue fever. The study found that mosquitoes were more attracted to hosts with bacteria capable of quorum sensing (which involves indole) compared to those without. This suggests that indole and bacterial quorum sensing may affect mosquito behavior related to host detection and blood feeding, thereby potentially influencing the transmission dynamics of dengue fever. Although the abstract does not directly link indole to dengue fever pathogenesis, it provides evidence of an indirect relationship through mosquito vector attraction, which is critical for dengue fever transmission."
+      }
+    },
+    {
+      "tryptic soy broth (TSB)_yellow_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of tryptic soy broth (TSB) as a medium used in experiments involving Staphylococcus epidermidis and its effect on the attraction of Aedes aegypti mosquitoes, which are vectors of yellow fever. However, TSB itself is not described as having a direct relationship with yellow fever disease. Instead, TSB is used as a growth medium to study bacterial quorum sensing and its influence on mosquito behavior. The study focuses on how bacterial communication affects mosquito attraction, which may indirectly relate to disease transmission, but there is no direct evidence or claim that TSB influences yellow fever disease. Therefore, no clear relationship between TSB and yellow fever is established in the abstract."
+      },
+      "tryptic soy broth (TSB)_dengue_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of tryptic soy broth (TSB) in experiments involving the attraction of Aedes aegypti mosquitoes to bacteria (Staphylococcus epidermidis) and quorum sensing molecules. While TSB is used as a medium in these experiments, there is no direct evidence or indication that TSB itself has a relationship with dengue fever. The study focuses on mosquito attraction mechanisms and bacterial quorum sensing, not on TSB causing or influencing dengue fever. Therefore, no clear relationship between TSB and dengue fever is established."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as carbon dioxide, amino acids, fatty acids, and indole, which are identified as volatile organic compounds involved in mosquito attraction. Additionally, tryptic soy broth (TSB) is named as a specific growth medium used in the experiments. General terms like 'compounds' or 'substances' were excluded, focusing only on explicitly named chemical compounds."
+}

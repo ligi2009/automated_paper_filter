@@ -1,0 +1,39 @@
+{
+  "id": 2714,
+  "title": "A Caenorhabditis elegans behavioral assay distinguishes early stage prostate cancer patient urine from controls",
+  "Abstract": "ABSTRACT Current methods for non-invasive prostate cancer (PrCa) detection have a high false-positive rate and often result in unnecessary biopsies. Previous work has suggested that urinary volatile organic compound (VOC) biomarkers may be able to distinguish PrCa cases from benign disease. The behavior of the nematode Caenorhabditis elegans has been proposed as a tool to take advantage of these potential VOC profiles. To test the ability of C. elegans Bristol N2 to distinguish PrCa cases from controls, we performed chemotaxis assays using human urine samples collected from men screened for PrCa. Behavioral response of nematodes towards diluted urine from PrCa cases was compared to response to samples from cancer-free controls. Overall, we observed a significant attraction of young adult-stage C. elegans nematodes to 1:100 diluted urine from confirmed PrCa cases and repulsion of C. elegans to urine from controls. When C. elegans chemotaxis index was considered alongside prostate-specific antigen levels for distinguishing cancer from cancer-free controls, the accuracy of patient classification was 81%. We also observed behavioral attraction of C. elegans to two previously reported VOCs to be increased in PrCa patient urine. We conclude nematode behavior distinguishes PrCa case urine from controls in a dilution-dependent manner. Summary: The nematode Caenorhabditis elegans shows behavioral attraction to urine from prostate cancer patients, but not to controls, and this phenomenon may be a useful tool for designing diagnostic assays or biomarker discovery.",
+  "Disease_List": [
+    "prostate cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'prostate cancer (PrCa)' multiple times as the specific disease being studied. It discusses detection methods, biomarkers, and diagnostic assays related to prostate cancer, which is a clearly named disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "prostate cancer"
+  ],
+  "UMLS_search_results": {
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) and prostate-specific antigen, but does not specify any particular chemical compound names. Therefore, no specific chemical compounds were identified."
+}

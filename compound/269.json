@@ -1,0 +1,262 @@
+{
+  "id": 269,
+  "title": "Diagnosis of Carcinogenic Pathologies through Breath Biomarkers: Present and Future Trends",
+  "Abstract": "The assessment of volatile breath biomarkers has been targeted with a lot of interest by the scientific and medical communities during the past decades due to their suitability for an accurate, painless, non-invasive, and rapid diagnosis of health states and pathological conditions. This paper reviews the most relevant bibliographic sources aiming to gather the most pertinent volatile organic compounds (VOCs) already identified as putative cancer biomarkers. Here, a total of 265 VOCs and the respective bibliographic sources are addressed regarding their scientifically proven suitability to diagnose a total of six carcinogenic diseases, namely lung, breast, gastric, colorectal, prostate, and squamous cell (oesophageal and laryngeal) cancers. In addition, future trends in the identification of five other forms of cancer, such as bladder, liver, ovarian, pancreatic, and thyroid cancer, through perspective volatile breath biomarkers are equally presented and discussed. All the results already achieved in the detection, identification, and quantification of endogenous metabolites produced by all kinds of normal and abnormal processes in the human body denote a promising and auspicious future for this alternative diagnostic tool, whose future passes by the development and employment of newer and more accurate collection and analysis techniques, and the certification for utilisation in real clinical scenarios.",
+  "Disease_List": [
+    "lung cancer",
+    "breast cancer",
+    "gastric cancer",
+    "colorectal cancer",
+    "prostate cancer",
+    "squamous cell cancer",
+    "oesophageal cancer",
+    "laryngeal cancer",
+    "bladder cancer",
+    "liver cancer",
+    "ovarian cancer",
+    "pancreatic cancer",
+    "thyroid cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases by name, particularly various types of cancer. It lists six carcinogenic diseases: lung, breast, gastric, colorectal, prostate, and squamous cell (oesophageal and laryngeal) cancers. Additionally, it mentions five other forms of cancer: bladder, liver, ovarian, pancreatic, and thyroid cancer. These are all specific disease names, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "breast cancer",
+    "gastric cancer",
+    "colorectal cancer",
+    "prostate cancer",
+    "squamous cell cancer",
+    "oesophageal cancer",
+    "laryngeal cancer",
+    "bladder cancer",
+    "liver cancer",
+    "ovarian cancer",
+    "pancreatic cancer",
+    "thyroid cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ],
+    "gastric cancer": [
+      {
+        "ui": "C0024623",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024623",
+        "name": "Malignant neoplasm of stomach",
+        "mesh_id": "D013274"
+      },
+      {
+        "ui": "C0699791",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699791",
+        "name": "Stomach Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "squamous cell cancer": [
+      {
+        "ui": "C0007137",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007137",
+        "name": "Squamous cell carcinoma",
+        "mesh_id": "D002294"
+      },
+      {
+        "ui": "C0751688",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0751688",
+        "name": "Malignant Squamous Cell Neoplasm",
+        "mesh_id": "D018307"
+      }
+    ],
+    "oesophageal cancer": [
+      {
+        "ui": "C0546837",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0546837",
+        "name": "Malignant neoplasm of esophagus",
+        "mesh_id": "D004938"
+      }
+    ],
+    "laryngeal cancer": [
+      {
+        "ui": "C0007107",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007107",
+        "name": "Malignant neoplasm of larynx",
+        "mesh_id": "D007822"
+      },
+      {
+        "ui": "C0595989",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0595989",
+        "name": "Carcinoma of larynx",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder cancer": [
+      {
+        "ui": "C0005684",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005684",
+        "name": "Malignant neoplasm of urinary bladder",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ],
+    "liver cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      },
+      {
+        "ui": "C0279000",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0279000",
+        "name": "Liver and Intrahepatic Biliary Tract Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "ovarian cancer": [
+      {
+        "ui": "C1140680",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1140680",
+        "name": "Malignant neoplasm of ovary",
+        "mesh_id": "D010051"
+      },
+      {
+        "ui": "C0919267",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0919267",
+        "name": "ovarian neoplasm",
+        "mesh_id": "D010051"
+      }
+    ],
+    "pancreatic cancer": [
+      {
+        "ui": "C0346647",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346647",
+        "name": "Malignant neoplasm of pancreas",
+        "mesh_id": "D010190"
+      },
+      {
+        "ui": "C0235974",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0235974",
+        "name": "Pancreatic carcinoma",
+        "mesh_id": "D010190"
+      }
+    ],
+    "thyroid cancer": [
+      {
+        "ui": "C0549473",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0549473",
+        "name": "Thyroid carcinoma",
+        "mesh_id": "D013964"
+      },
+      {
+        "ui": "C0007115",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007115",
+        "name": "Malignant neoplasm of thyroid",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0040136",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0040136",
+        "name": "Thyroid Neoplasm",
+        "mesh_id": "D013964"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) as a group but does not mention any specific chemical compound names."
+}

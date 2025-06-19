@@ -1,0 +1,57 @@
+{
+  "id": 1973,
+  "title": "Volatile Organic Compounds in Human Exhaled Breath to Diagnose Gastrointestinal Cancer: A Meta-Analysis",
+  "Abstract": "Introduction Human exhaled volatile organic compounds (VOCs) are being extensively studied for the purposes of noninvasive cancer diagnoses. This article was primarily to assess the feasibility of utilizing exhaled VOCs analysis for gastrointestinal cancer (GIC) diagnosis. Methods PRISMA-based system searches were conducted for related studies of exhaled VOCs in GIC diagnosis based on predetermined criteria. Relevant articles on colorectal cancer and gastroesophageal cancer were summarized, and meta analysis was performed on articles providing sensitivity and specificity data. Results From 2,227 articles, 14 were found to meet inclusion criteria, six of which were on colorectal cancer (CRC) and eight on Gastroesophageal cancer(GEC). Five articles could provide specific data of sensitivity and specificity in GEC, which were used for meta-analysis. The pooled sensitivity, specificity, diagnostic odds ratio (DOR), and area under the curve (AUC) were calculated based on the combination of these data, and were 85.0% [95% confidence interval (CI): 79.0%–90.0%], 89.0% (95%CI: 86.0%–91.0%), 41.30 (21.56–79.10), and 0.93, respectively. Conclusion VOCs can distinguish gastrointestinal cancers from other gastrointestinal diseases, opening up a new avenue for the diagnosis and identification of gastrointestinal cancers, and the analysis of VOCs in exhaled breath has potential clinical application in screening. VOCs are promising tumor biomarkers for GIC diagnosis. Furthermore, limitations like the heterogeneity of diagnostic VOCs between studies should be minded.",
+  "Disease_List": [
+    "colorectal cancer",
+    "gastroesophageal cancer",
+    "gastrointestinal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'colorectal cancer (CRC)', 'gastroesophageal cancer (GEC)', and the broader term 'gastrointestinal cancer (GIC)'. These are specific diseases or disease categories related to cancer, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer",
+    "gastroesophageal cancer",
+    "gastrointestinal cancer"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "gastroesophageal cancer": [
+      {
+        "ui": "C0346619",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346619",
+        "name": "Malignant neoplasm of cardioesophageal junction of stomach",
+        "mesh_id": "None"
+      }
+    ],
+    "gastrointestinal cancer": [
+      {
+        "ui": "C0685938",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0685938",
+        "name": "Malignant neoplasm of gastrointestinal tract",
+        "mesh_id": "D005770"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

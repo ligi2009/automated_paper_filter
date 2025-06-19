@@ -1,0 +1,41 @@
+{
+  "id": 6294,
+  "title": "Volatile Organic Compound Gamma-Butyrolactone Released upon Herpes Simplex Virus Type -1 Acute Infection Modulated Membrane Potential and Repressed Viral Infection in Human Neuron-Like Cells",
+  "Abstract": "Herpes Simplex Virus Type -1 (HSV-1) infections can cause serious complications such as keratitis and encephalitis. The goal of this study was to identify any changes in the concentrations of volatile organic compounds (VOCs) produced during HSV-1 infection of epithelial cells that could potentially be used as an indicator of a response to stress. An additional objective was to study if any VOCs released from acute epithelial infection may influence subsequent neuronal infection to facilitate latency. To investigate these hypotheses, Vero cells were infected with HSV-1 and the emission of VOCs was analyzed using two-dimensional gas chromatograph/mass spectrometry (2D GC/MS). It was observed that the concentrations of gamma-butyrolactone (GBL) in particular changed significantly after a 24-hour infection. Since HSV-1 may establish latency in neurons after the acute infection, GBL was tested to determine if it exerts neuronal regulation of infection. The results indicated that GBL altered the resting membrane potential of differentiated LNCaP cells and promoted a non-permissive state of HSV-1 infection by repressing viral replication. These observations may provide useful clues towards understanding the complex signaling pathways that occur during the HSV-1 primary infection and establishment of viral latency.",
+  "Disease_List": [
+    "Herpes Simplex Virus Type-1 (HSV-1) infection",
+    "keratitis",
+    "encephalitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases caused by HSV-1 infections, including keratitis and encephalitis. HSV-1 infection itself is a specific viral disease. Therefore, the classification is Y with these diseases listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "keratitis",
+    "encephalitis"
+  ],
+  "UMLS_search_results": {
+    "Herpes Simplex Virus Type-1 (HSV-1) infection": [],
+    "keratitis": [
+      {
+        "ui": "C0022568",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022568",
+        "name": "Keratitis",
+        "mesh_id": "D007634"
+      }
+    ],
+    "encephalitis": [
+      {
+        "ui": "C0014038",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014038",
+        "name": "Encephalitis",
+        "mesh_id": "D004660"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

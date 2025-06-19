@@ -1,0 +1,39 @@
+{
+  "id": 4351,
+  "title": "Sources, Distribution and Toxicity of Polyaromatic Hydrocarbons (PAHs) in Particulate Matter",
+  "Abstract": "Polycyclic aromatic hydrocarbons (PAHs) are a group of organic compounds consisting of two or more fused aromatic rings. PAHs originate mainly from anthropogenic processes, particularly from incomplete combustion of organic fuels. PAHs are distributed widely in the atmosphere. Natural processes, such as volcanic eruptions and forest fires, also contribute to an ambient existence of PAHs. PAHs can be present in both particulate and gaseous phases, depending upon their volatility. Light molecular weight PAHs (LMW PAHs) that have two or three aromatic rings are emitted in the gaseous phase, while high molecular weight PAHs (HMW PAHs), with five or more rings, are emitted in the particulate phase. In the atmosphere, PAHs can undergo photo-degradation and react with other pollutants, such as sulfur dioxide, nitrogen oxides, and ozone. Due to widespread sources and persistent characteristics, PAHs disperse through atmospheric transport and exist almost everywhere. Human beings are exposed to PAH mixtures in gaseous or particulate phases in ambient air. Long-term exposure to high concentrations of PAHs is associated with adverse health problems. Since some PAHs are considered carcinogens, inhalation of PAHs in particulates is a potentially serious health risk linked to an excess risk of lung cancer. Thus, studies on PAHs in particulate matter (PM), such as PM10 and PM2.5 in ambient air, have become attention greater focus of research in recent years.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease linked to the inhalation of PAHs in particulates. Although it also refers to 'adverse health problems' and 'carcinogens' in general, 'lung cancer' is the only specific disease name explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions polycyclic aromatic hydrocarbons (PAHs) as a class of compounds but does not specify any individual chemical compound names. It also refers to general pollutants like sulfur dioxide, nitrogen oxides, and ozone, which are chemical substances but not specific compound names in the context requested. Therefore, no specific chemical compound names were identified."
+}

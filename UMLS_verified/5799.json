@@ -1,0 +1,35 @@
+{
+  "id": 5799,
+  "title": "Breast cancer detection by analyzing the volatile organic compound (VOC) signature in human urine",
+  "Abstract": "A rising number of authors are drawing evidence on the diagnostic capacity of specific volatile organic compounds (VOCs) resulting from some body fluids. While cancer incidence in society is on the rise, it becomes clear that the analysis of these VOCs can yield new strategies to mitigate advanced cancer incidence rates. This paper presents the methodology implemented to test whether a device consisting of an electronic nose inspired by a dog’s olfactory system and olfactory neurons is significantly informative to detect breast cancer (BC). To test this device, 90 human urine samples were collected from control subjects and BC patients at a hospital. To test this system, an artificial intelligence-based classification algorithm was developed. The algorithm was firstly trained and tested with data resulting from gas chromatography-mass spectrometry (GC–MS) urine readings, leading to a classification rate of 92.31%, sensitivity of 100.00%, and specificity of 85.71% (N = 90). Secondly, the same algorithm was trained and tested with data obtained with our eNose prototype hardware, and class prediction was achieved with a classification rate of 75%, sensitivity of 100%, and specificity of 50%.",
+  "Disease_List": [
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'breast cancer (BC)' as a specific disease being detected using the described methodology. Although it also refers to 'cancer' in general, the specific disease named is breast cancer, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

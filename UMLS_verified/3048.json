@@ -1,0 +1,68 @@
+{
+  "id": 3048,
+  "title": "Pulmonary Function of Petrol filling Workers from West Bengal, India",
+  "Abstract": "Introduction: There are many petrol filling stations in urban and semi urban areas of Hooghly District of West Bengal and a large number of attendants work in these stations. They are constantly exposed to petrol vapour as well as motor vehicle fuel which might lead to respiratory problems in workers. Objectives: To assess the pulmonary function of Petrol Filling Workers of West Bengal and to evaluate the effect of duration of exposure on those Parameters. Methods: This is a cross-sectional study design. Pulmonary function test was done among 52 Petrol filling workers and 20 office workers of college as well as students of those institution of Hooghly district and nearby area of Kolkata by simple random sampling method. Pulmonary function parameters were assessed by digital expirograph (Spirovit SP1) and Wright’s Peak Flow Meter. A questionnaire was filled up by invigilator regarding years of exposure, respiratory abnormalities, smoking habit and any other diseases. All the study protocol was approved by Human ethical Committee of Raja Peary Mohan College and Serampore college Results: From the above survey it was observed that respiratory volume and capacities significantly(p<0.05-0.001) decreased with increase in years of exposure. Odd ratios of different respiratory diseases (OR ranges from 1.123.12) indicate risk of developing cough, phlegm, asthma, skin diseases among petrol filling workers. Conclusion: Safe threshold level of volatile organic compounds VOC exposed in Petrol station is needed to protect the health of workers. Besides periodic health check-up, use of protective gadgets, improvement of technology and control strategies to reduce air emission of VOC is essential to protect the health of Petrol filling workers of West Bengal.",
+  "Disease_List": [
+    "cough",
+    "phlegm",
+    "asthma",
+    "skin diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific respiratory diseases and conditions such as cough, phlegm, asthma, and skin diseases as risks among petrol filling workers. These are named diseases or disease conditions rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cough",
+    "phlegm",
+    "asthma",
+    "skin diseases"
+  ],
+  "UMLS_search_results": {
+    "cough": [
+      {
+        "ui": "C0010200",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010200",
+        "name": "Coughing",
+        "mesh_id": "D003371"
+      },
+      {
+        "ui": "C3815497",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3815497",
+        "name": "Cough (guaifenesin)",
+        "mesh_id": "None"
+      }
+    ],
+    "phlegm": [
+      {
+        "ui": "C0225378",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0225378",
+        "name": "Upper respiratory tract mucus",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "skin diseases": [
+      {
+        "ui": "C0037274",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0037274",
+        "name": "Dermatologic disorders",
+        "mesh_id": "D012871"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

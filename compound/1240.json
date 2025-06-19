@@ -1,0 +1,43 @@
+{
+  "id": 1240,
+  "title": "Potential for Early Noninvasive COVID-19 Detection Using Electronic-Nose Technologies and Disease-Specific VOC Metabolic Biomarkers",
+  "Abstract": "The established efficacy of electronic volatile organic compound (VOC) detection technologies as diagnostic tools for noninvasive early detection of COVID-19 and related coronaviruses has been demonstrated from multiple studies using a variety of experimental and commercial electronic devices capable of detecting precise mixtures of VOC emissions in human breath. The activities of numerous global research teams, developing novel electronic-nose (e-nose) devices and diagnostic methods, have generated empirical laboratory and clinical trial test results based on the detection of different types of host VOC-biomarker metabolites from specific chemical classes. COVID-19-specific volatile biomarkers are derived from disease-induced changes in host metabolic pathways by SARS-CoV-2 viral pathogenesis. The unique mechanisms proposed from recent researchers to explain how COVID-19 causes damage to multiple organ systems throughout the body are associated with unique symptom combinations, cytokine storms and physiological cascades that disrupt normal biochemical processes through gene dysregulation to generate disease-specific VOC metabolites targeted for e-nose detection. This paper reviewed recent methods and applications of e-nose and related VOC-detection devices for early, noninvasive diagnosis of SARS-CoV-2 infections. In addition, metabolomic (quantitative) COVID-19 disease-specific chemical biomarkers, consisting of host-derived VOCs identified from exhaled breath of patients, were summarized as possible sources of volatile metabolic biomarkers useful for confirming and supporting e-nose diagnoses.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2 infections"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as COVID-19 and SARS-CoV-2 infections multiple times. These are clearly named diseases related to viral infections and are the focus of the diagnostic methods discussed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2 infections"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2 infections": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) and VOC-biomarker metabolites in general terms related to COVID-19 detection, but does not mention any specific chemical compound names."
+}

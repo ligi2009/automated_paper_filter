@@ -1,0 +1,64 @@
+{
+  "id": 2377,
+  "title": "Antibacterial Activity of Volatile Organic Compounds Produced by the Octocoral-Associated Bacteria Bacillus sp. BO53 and Pseudoalteromonas sp. GA327",
+  "Abstract": "The present research aimed to evaluate the antibacterial activity of volatile organic compounds (VOCs) produced by octocoral-associated bacteria Bacillus sp. BO53 and Pseudoalteromonas sp. GA327. The volatilome bioactivity of both bacteria species was evaluated against human pathogenic antibiotic-resistant bacteria, methicillin-resistant Staphylococcus aureus, Acinetobacter baumanni, and Pseudomonas aeruginosa. In this regard, the in vitro tests showed that Bacillus sp. BO53 VOCs inhibited the growth of P. aeruginosa and reduced the growth of S. aureus and A. baumanni. Furthermore, Pseudoalteromonas sp. GA327 strongly inhibited the growth of A. baumanni, and P. aeruginosa. VOCs were analyzed by headspace solid-phase microextraction (HS-SPME) joined to gas chromatography-mass spectrometry (GC-MS) methodology. Nineteen VOCs were identified, where 5-acetyl-2-methylpyridine, 2-butanone, and 2-nonanone were the major compounds identified on Bacillus sp. BO53 VOCs; while 1-pentanol, 2-butanone, and butyl formate were the primary volatile compounds detected in Pseudoalteromonas sp. GA327. We proposed that the observed bioactivity is mainly due to the efficient inhibitory biochemical mechanisms of alcohols and ketones upon antibiotic-resistant bacteria. This is the first report which describes the antibacterial activity of VOCs emitted by octocoral-associated bacteria.",
+  "Disease_List": [
+    "methicillin-resistant Staphylococcus aureus",
+    "Acinetobacter baumanni",
+    "Pseudomonas aeruginosa"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-causing bacteria: methicillin-resistant Staphylococcus aureus (MRSA), Acinetobacter baumanni, and Pseudomonas aeruginosa. These are well-known pathogens associated with human diseases, particularly antibiotic-resistant infections. Therefore, the classification is 'Y' because specific disease-related bacterial names are explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "methicillin-resistant Staphylococcus aureus",
+    "Acinetobacter baumanni",
+    "Pseudomonas aeruginosa"
+  ],
+  "UMLS_search_results": {
+    "methicillin-resistant Staphylococcus aureus": [
+      {
+        "ui": "C0343401",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0343401",
+        "name": "Methicillin resistant Staphylococcus aureus infection",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1265292",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1265292",
+        "name": "Methicillin-Resistant Staphylococcus aureus",
+        "mesh_id": "D055624"
+      }
+    ],
+    "Acinetobacter baumanni": [
+      {
+        "ui": "C0314787",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0314787",
+        "name": "Acinetobacter baumannii",
+        "mesh_id": "D040981"
+      }
+    ],
+    "Pseudomonas aeruginosa": [
+      {
+        "ui": "C0033809",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0033809",
+        "name": "Pseudomonas aeruginosa",
+        "mesh_id": "D011550"
+      },
+      {
+        "ui": "C0854135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0854135",
+        "name": "Pseudomonas aeruginosa infection",
+        "mesh_id": "D011552"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

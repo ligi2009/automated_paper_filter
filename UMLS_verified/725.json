@@ -1,0 +1,60 @@
+{
+  "id": 725,
+  "title": "Analysis of exhaled breath fingerprints and volatile organic compounds in COPD",
+  "Abstract": "BackgroundExhaled air contains many volatile organic compounds (VOCs) produced during human metabolic processes, in both healthy and pathological conditions. Analysis of breath allows studying the modifications of the profile of the exhaled VOCs due to different disease states, including chronic obstructive pulmonary disease (COPD). The early diagnosis of COPD is complicated and the identification of specific metabolic profiles of exhaled air may provide useful indication to better identify the disease. The aim of our study was to characterize the specific exhaled VOCs by means of the electronic nose and by solid phase micro-extraction associated to gas chromatography–mass spectrometry (SPME GC-MS).MethodsExhaled air was collected and measured in 34 subjects, 7 healthy and 27 former smokers affected by COPD (GOLD 1–4).ResultsThe signals of the electronic nose sensors were higher in COPD patients with respect to controls, and allowed to accurately classify the studied subjects in healthy or COPD. GC-MS analysis identified 37 VOCs, nine of which were significantly correlated with COPD. In particular the concentration of two of these were positively correlated whereas seven were negatively correlated with COPD. The partial least squares discriminant analysis (PLS-DA) carried out with these nine VOCs produced a significant predictive model of disease.ConclusionsThis study shows that COPD patients exhibit qualitative and quantitative differences in the chemical compositions of exhale. These differences are detectable both by the GC-MS and the six-sensor e-nose. The use of electronic nose may represent a suitable, non-invasive diagnostic tool for characterization of COPD.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "Reason": "The abstract explicitly mentions 'chronic obstructive pulmonary disease (COPD)' multiple times as the specific disease under study. COPD is a well-defined disease name, and the study focuses on identifying metabolic profiles related to this disease. Therefore, the classification is 'Y' with COPD listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

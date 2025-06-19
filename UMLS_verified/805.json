@@ -1,0 +1,46 @@
+{
+  "id": 805,
+  "title": "Inhaled Pollutants: The Molecular Scene behind Respiratory and Systemic Diseases Associated with Ultrafine Particulate Matter",
+  "Abstract": "Air pollution of anthropogenic origin is largely from the combustion of biomass (e.g., wood), fossil fuels (e.g., cars and trucks), incinerators, landfills, agricultural activities and tobacco smoke. Air pollution is a complex mixture that varies in space and time, and contains hundreds of compounds including volatile organic compounds (e.g., benzene), metals, sulphur and nitrogen oxides, ozone and particulate matter (PM). PM0.1 (ultrafine particles (UFP)), those particles with a diameter less than 100 nm (includes nanoparticles (NP)) are considered especially dangerous to human health and may contribute significantly to the development of numerous respiratory and cardiovascular diseases such as chronic obstructive pulmonary disease (COPD) and atherosclerosis. Some of the pathogenic mechanisms through which PM0.1 may contribute to chronic disease is their ability to induce inflammation, oxidative stress and cell death by molecular mechanisms that include transcription factors such as nuclear factor κB (NF-κB) and nuclear factor (erythroid-derived 2)-like 2 (Nrf2). Epigenetic mechanisms including non-coding RNA (ncRNA) may also contribute towards the development of chronic disease associated with exposure to PM0.1. This paper highlights emerging molecular concepts associated with inhalational exposure to PM0.1 and their ability to contribute to chronic respiratory and systemic disease.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease (COPD)",
+    "atherosclerosis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to air pollution exposure, namely 'chronic obstructive pulmonary disease (COPD)' and 'atherosclerosis'. These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease (COPD)",
+    "atherosclerosis"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

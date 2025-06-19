@@ -1,0 +1,75 @@
+{
+  "id": 3399,
+  "title": "IOT based Voice Controlled Robot with Pollution Detection",
+  "Abstract": "Air pollution is a serious situation which ruins future generations.as of increasing population daily, lots of exploitation of resources takes place which in turn causes pollution. Mainly pollution due to vehicles & industries leads to much damage of health hazards and turned out to be one of the major problem world is facing now. Apart from oxygen, we breathe in fumes. outdoor air pollution has existed for a long time. Radon, volatile organic compounds, formaldehyde, biological contaminants, and combustion by-products such as carbon monoxide, carbon dioxide, sulfur dioxide, hydrocarbons, nitrogen dioxides, and particles contribute to indoor air pollution, sulfur dioxide, carbon monoxide, nitrogen oxides, ozone, total suspended particle matter, lead, carbon dioxide, and hazardous pollutants are the principal pollutants that contribute to outdoor air pollution. Air pollution causes severe diseases like asthma, cancer, breathing, skin irritation, and liver problems. We see there’s a lot of pollution around us makes it difficult for plants, animals, and humans to survive as the air becomes polluted. the pollution due to vehicles is one of the major aspects of pollution. this is because of in efficient fuel in vehicles and long term of vehicles (internal problem). so we have come up with a solution by testing this application by making voice controlled robot with pollution detection at toll gates.",
+  "Disease_List": [
+    "asthma",
+    "cancer",
+    "skin irritation",
+    "liver problems"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases caused by air pollution, including 'asthma', 'cancer', 'skin irritation', and 'liver problems'. Although 'breathing' is mentioned, it is not a disease name. Therefore, the classification is Y with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "cancer",
+    "skin irritation",
+    "liver problems"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "skin irritation": [
+      {
+        "ui": "C0152030",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0152030",
+        "name": "Skin irritation",
+        "mesh_id": "None"
+      }
+    ],
+    "liver problems": [
+      {
+        "ui": "C0577060",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0577060",
+        "name": "Liver problem",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

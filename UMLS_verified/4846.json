@@ -1,0 +1,39 @@
+{
+  "id": 4846,
+  "title": "Recent advances in measuring the effects of diet on gastrointestinal physiology: Sniffing luminal gases and fecal volatile organic compounds",
+  "Abstract": "Despite the huge pool of ideas on how diet can be manipulated to ameliorate or prevent illnesses, our understanding of how specific changes in diet influence the gastrointestinal tract is limited. This review aims to describe two innovative investigative techniques that are helping lift the veil of mystery about the workings of the gut. First, the gas‐sensing capsule is a telemetric swallowable device that provides unique information on gastric physiology, small intestinal microbial activity, and fermentative patterns in the colon. Its ability to accurately measure regional and whole‐gut transit times in ambulant humans has been confirmed. Luminal concentrations of hydrogen and carbon dioxide are measured by sampling through the gastrointestinal tract, and such application has enabled mapping of the relative amounts of fermentation of carbohydrates in proximal‐versus‐distal colon after manipulation of the types and amounts of dietary fiber. Second, changes in the smell of feces, via analysis of volatile organic compounds, occur in response to the diet, and by the presence and therapy of irritable bowel syndrome and inflammatory bowel disease. Such information is likely to aid our understanding of what dietary change can do to the colonic luminal microenvironment, and may value‐add to diagnosis and therapeutic design. In conclusion, such methodologies enable a more complete physiological profile of the gastrointestinal tract to be created. Systematic description in various cohorts and effects of dietary interventions, particularly when co‐ordinated with the analysis of microbiome, are needed.",
+  "Disease_List": [
+    "irritable bowel syndrome",
+    "inflammatory bowel disease"
+  ],
+  "Reason": "The abstract explicitly mentions two specific diseases: 'irritable bowel syndrome' and 'inflammatory bowel disease'. These are named conditions related to the gastrointestinal tract, distinguishing them from general terms like 'illnesses' or 'disease'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "irritable bowel syndrome",
+    "inflammatory bowel disease"
+  ],
+  "UMLS_search_results": {
+    "irritable bowel syndrome": [
+      {
+        "ui": "C0022104",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022104",
+        "name": "Irritable Bowel Syndrome",
+        "mesh_id": "D043183"
+      }
+    ],
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

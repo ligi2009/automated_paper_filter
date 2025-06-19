@@ -1,0 +1,142 @@
+{
+  "id": 1172,
+  "title": "Human Skin Reflects Air Pollution – a Review\nof the Mechanisms and Clinical Manifestations\nof Environment-Derived Skin Pathologies",
+  "Abstract": "Development of urbanization, transport, and industry contributes to a constant increase in airborne pollution levels worldwide. There are more than 2000 different chemical substances emitted into the air. Among air pollutants, particulate matters PMs, volatile organic compounds (VOCs), CO2, CO, NO2, sO2, ground-level ozone O3, metals, and persistent organic pollutants POPs have been found to exert harmful effects on human skin. The exposure to the increasing levels of air pollution may worsen skin problems and severe diseases in millions of people worldwide, leading to the growth of health care costs. Under permanent exposure to air pollutants, the redox homeostasis in skin cells is impaired. Airborne pollutants penetrating the skin activate a protein aryl hydrocarbon receptor (AhR) and trigger a cascade of reactions in which high levels of reactive oxygen species (ROs) are generated. The redox imbalance modulates lipids peroxidation, oxidation of proteins, and DNA damage. Airborne stressors can be manifested as clinical dermatological problems, i.e. skin aging, imbalance in skin microbiota, increase in inflammatory reactions (allergy, acne, atopic dermatitis, eczema), or even cancer. Therapeutic strategies to counteract skin damage should be targeted at reducing free radical formation and scavenging free radicals in the skin cells. Moreover, the restoration of the skin barrier function and an increase in antioxidant reserves and reducing chronic inflammation are of great importance. A forward-looking area of research is then to fill the gaps about the effect of air pollutants on the skin, including skin carcinogenesis.",
+  "Disease_List": [
+    "allergy",
+    "acne",
+    "atopic dermatitis",
+    "eczema",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to skin conditions caused or worsened by air pollution, including allergy, acne, atopic dermatitis, eczema, and cancer. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "allergy",
+    "acne",
+    "atopic dermatitis",
+    "eczema",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "allergy": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C0002111",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002111",
+        "name": "Allergy Specialty",
+        "mesh_id": "D000486"
+      },
+      {
+        "ui": "C0489531",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0489531",
+        "name": "History of allergies",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1314973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1314973",
+        "name": "Response to antigens",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3539909",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3539909",
+        "name": "Allergic disposition",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1527304",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1527304",
+        "name": "Allergic Reaction",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1547542",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547542",
+        "name": "Allergy - Charge Type Reason",
+        "mesh_id": "None"
+      }
+    ],
+    "acne": [
+      {
+        "ui": "C0001144",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001144",
+        "name": "Acne Vulgaris",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0702166",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0702166",
+        "name": "Acne",
+        "mesh_id": "D000152"
+      },
+      {
+        "ui": "C0718217",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0718217",
+        "name": "Acne brand of benozyl peroxide",
+        "mesh_id": "None"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 2636,
+  "title": "Lactic acid bacterial symbionts in honeybees – an unknown key to honey's antimicrobial and therapeutic activities",
+  "Abstract": "Could honeybees' most valuable contribution to mankind besides pollination services be alternative tools against infections? Today, due to the emerging antibiotic‐resistant pathogens, we are facing a new era of searching for alternative tools against infections. Natural products such as honey have been applied against human's infections for millennia without sufficient scientific evidence. A unique lactic acid bacterial (LAB) microbiota was discovered by us, which is in symbiosis with honeybees and present in large amounts in fresh honey across the world. This work investigates if the LAB symbionts are the source to the unknown factors contributing to honey's properties. Hence, we tested the LAB against severe wound pathogens such as methicillin‐resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa and vancomycin‐resistant Enterococcus (VRE) among others. We demonstrate a strong antimicrobial activity from each symbiont and a synergistic effect, which counteracted all the tested pathogens. The mechanisms of action are partly shown by elucidating the production of active compounds such as proteins, fatty acids, anaesthetics, organic acids, volatiles and hydrogen peroxide. We show that the symbionts produce a myriad of active compounds that remain in variable amounts in mature honey. Further studies are now required to investigate if these symbionts have a potential in clinical applications as alternative tools against topical human and animal infections.",
+  "Disease_List": [
+    "methicillin‐resistant Staphylococcus aureus (MRSA) infection",
+    "Pseudomonas aeruginosa infection",
+    "vancomycin‐resistant Enterococcus (VRE) infection"
+  ],
+  "Reason": "The abstract explicitly mentions specific pathogens associated with severe wound infections: methicillin‐resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa, and vancomycin‐resistant Enterococcus (VRE). These are well-known causes of specific infectious diseases, particularly antibiotic-resistant infections. Although the abstract does not name diseases by traditional names, the pathogens mentioned are directly linked to specific infectious diseases, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Pseudomonas aeruginosa infection"
+  ],
+  "UMLS_search_results": {
+    "methicillin‐resistant Staphylococcus aureus (MRSA) infection": [],
+    "Pseudomonas aeruginosa infection": [
+      {
+        "ui": "C0854135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0854135",
+        "name": "Pseudomonas aeruginosa infection",
+        "mesh_id": "D011552"
+      }
+    ],
+    "vancomycin‐resistant Enterococcus (VRE) infection": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "methicillin",
+    "vancomycin",
+    "proteins",
+    "fatty acids",
+    "anaesthetics",
+    "organic acids",
+    "hydrogen peroxide"
+  ],
+  "compound_CID": [
+    {
+      "methicillin": 6087,
+      "vancomycin": 14969,
+      "proteins": "None",
+      "fatty acids": "None",
+      "anaesthetics": "None",
+      "organic acids": "None",
+      "hydrogen peroxide": 784
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "methicillin_Pseudomonas_aeruginosa_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antimicrobial activity of lactic acid bacterial symbionts from honeybees against pathogens including methicillin-resistant Staphylococcus aureus (MRSA) and Pseudomonas aeruginosa. Methicillin is mentioned only in the context of methicillin-resistant Staphylococcus aureus, not as a compound tested against Pseudomonas aeruginosa. There is no evidence in the abstract that methicillin itself has a relationship with Pseudomonas aeruginosa infection. The focus is on natural compounds produced by the symbionts, not on methicillin as a treatment or factor related to Pseudomonas aeruginosa infection."
+      }
+    },
+    {
+      "vancomycin_Pseudomonas_aeruginosa_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antimicrobial activity of lactic acid bacterial symbionts from honeybees against pathogens including Pseudomonas aeruginosa and vancomycin-resistant Enterococcus (VRE). However, it does not mention vancomycin itself or any direct relationship between vancomycin and Pseudomonas aeruginosa infection. The focus is on natural compounds produced by the symbionts, not on vancomycin as a compound or treatment. Therefore, there is no clear evidence in the abstract of a relationship between vancomycin and Pseudomonas aeruginosa infection."
+      }
+    },
+    {
+      "proteins_Pseudomonas_aeruginosa_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes that lactic acid bacterial (LAB) symbionts present in honey produce various active compounds, including proteins, which exhibit strong antimicrobial activity against severe wound pathogens such as Pseudomonas aeruginosa. This indicates that proteins produced by these symbionts contribute to counteracting Pseudomonas aeruginosa infections, demonstrating a relationship between proteins and the disease."
+      }
+    },
+    {
+      "fatty acids_Pseudomonas_aeruginosa_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes that lactic acid bacterial symbionts in honey produce various active compounds, including fatty acids, which exhibit strong antimicrobial activity against severe wound pathogens such as Pseudomonas aeruginosa. This indicates that fatty acids produced by these symbionts contribute to counteracting Pseudomonas aeruginosa infection, demonstrating a relationship between fatty acids and the disease."
+      }
+    },
+    {
+      "anaesthetics_Pseudomonas_aeruginosa_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes that lactic acid bacterial symbionts in honey produce various active compounds, including anaesthetics, which exhibit strong antimicrobial activity against severe wound pathogens such as Pseudomonas aeruginosa. This indicates that anaesthetics, as part of the compounds produced by these symbionts, have a demonstrated antimicrobial effect on Pseudomonas aeruginosa infection, suggesting a relationship between anaesthetics and this infection."
+      }
+    },
+    {
+      "organic acids_Pseudomonas_aeruginosa_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes that lactic acid bacterial symbionts in honey produce various active compounds, including organic acids, which exhibit strong antimicrobial activity against severe wound pathogens such as Pseudomonas aeruginosa. This indicates that organic acids are among the compounds contributing to the antimicrobial effects against Pseudomonas aeruginosa infection, demonstrating a relationship between organic acids and this disease."
+      }
+    },
+    {
+      "hydrogen peroxide_Pseudomonas_aeruginosa_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes that lactic acid bacterial symbionts in honey produce various active compounds, including hydrogen peroxide, which exhibit strong antimicrobial activity against severe wound pathogens such as Pseudomonas aeruginosa. This indicates that hydrogen peroxide produced by these symbionts contributes to the antimicrobial effects against Pseudomonas aeruginosa infection, establishing a relationship between hydrogen peroxide and the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as methicillin and vancomycin in the context of antibiotic-resistant pathogens (MRSA and VRE). It also refers to active compounds produced by the lactic acid bacterial symbionts including proteins, fatty acids, anaesthetics, organic acids, and hydrogen peroxide, which are specific chemical substances contributing to honey's antimicrobial properties."
+}

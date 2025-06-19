@@ -1,0 +1,52 @@
+{
+  "id": 4840,
+  "title": "Exploring canine’s olfactive threshold in artificial urine for medical detection",
+  "Abstract": "Canine olfaction is increasingly studied as a tool for detecting cancer and other diseases. Previous pilot studies have demonstrated that dogs can effectively distinguish positive samples from negative samples in humans with breast cancer, achieving sensitivity rates as high as 100%. However, questions remain about dogs’ ability to detect low concentrations of volatile organic compounds in complex medium. While dogs’ detection thresholds for isoamyl acetate using a mineral oil substrate have been studied, there are no current studies on their detection limits using more complex substrates like urine, relevant in clinical settings. This pilot study aimed to evaluate the olfactory threshold of dogs using artificial urine with various concentrations of isoamyl acetate. Two dogs were trained to detect isoamyl acetate, initially using water as the substrate during the training phase, and subsequently using artificial urine during the testing phase, under single and double-blinded conditions. The dogs were trained to indicate the presence of isoamyl acetate solutions by sitting in front of the positive sample and ignoring controls. Training and testing occurred in a controlled environment, maintaining consistency with the same two handlers, a standardized methodology, and positive reinforcement with toy rewards. Based on double-blind performances, results showed a minimum detection threshold of 6.7 x 10-9 Molar (M) for Nougaro (Springer Spaniel) one dog and 2.1 x 10-7M for Prince (Labrador Retriever). The sample age did not affect performance. However, the position of the cone did, with higher failure rates for the first cone compared to the other three. These findings underscore the potential of trained dogs to detect volatile organic compounds at very low concentrations in complex substrates, supporting their use in clinical diagnostics.",
+  "Disease_List": [
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'breast cancer' as a specific disease that dogs have been trained to detect through olfaction. Although the abstract discusses diseases in general terms, breast cancer is specifically named, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "isoamyl acetate"
+  ],
+  "compound_CID": [
+    {
+      "isoamyl acetate": 31276
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "isoamyl acetate_breast_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of trained dogs to detect volatile organic compounds, including isoamyl acetate, at very low concentrations in complex substrates such as artificial urine. While it mentions that dogs can distinguish samples from humans with breast cancer, the study focuses on the dogs' ability to detect isoamyl acetate itself and their olfactory thresholds, rather than establishing a direct relationship between isoamyl acetate and breast cancer. There is no evidence in the abstract that isoamyl acetate is linked to breast cancer or that it serves as a biomarker for the disease. Therefore, no clear relationship between isoamyl acetate and breast cancer is demonstrated."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions isoamyl acetate as the chemical compound used in the study to evaluate dogs' olfactory detection thresholds. No other specific chemical compounds are named."
+}

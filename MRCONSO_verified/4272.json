@@ -1,0 +1,44 @@
+{
+  "id": 4272,
+  "title": "Effects of diet, activities, environmental exposures and trimethylamine metabolism on alveolar breath compounds: protocol for a retrospective case-cohort observational study",
+  "Abstract": "Background: Exhaled breath contains thousands of volatile organic compounds (VOCs) that reflect on biochemical and biophysical activities both outside and within the human body. Breath analysis could provide non-invasive, cost-effective, real time early disease diagnosis and monitoring of therapeutic responses. Objectives: The primary objective of this study was to assess the effectiveness of alveolar breath testing in diagnosing idiopathic systemic body and breath odors. Key secondary objectives were to assess if breath tests can reliably differentiate subtypes of idiopathic malodor in different environments and dietary regimens, and to map metabolites to biomedical functions and pathways. Study Design: The basic design was to measure a cohort of idiopathic odor in order to identify potential molecular correlates with genotypic and phenotypic variables. Participants were subdivided in several different ways allowing for different cases and controls within the cohort, using prior and later test results and observations. Thus, this study was an observational retrospective case-cohort/nested case-control study. Setting/Participants: Participants were recruited online via MEBO and TMAU support groups and on site, during the 3rd Annual MEBO Research conference held at Miami South Beach on June 23, 2012 and local meetups of support groups (Miami, Florida; New York, New York; Chicago, Illinois, US and Birmingham, England). Study population is individuals self-reporting systemic idiopathic malodor production. Inclusion criteria were good general health, desire and ability to travel to one of the participating sites and pay the lab fee. Exclusion Criteria were medical conditions that could prevent participation and age under 18. Study Interventions and Measures: The main study procedure was the application of a rapid point-of-care breath testing system to collect and concentrate alveolar breath VOCs on a sorbent trap, using breath collection apparatus (BCA) 5.0. Samples were sent to central laboratory and analyzed with gas chromatography and mass spectroscopy. In addition, the participants filled out food frequency questionnaires and were offered to use Aurametrix, online software tool based on a participant-initiated ecological momentary assessment approach, allowing to recall the events at any time later. The tool analyzed dietary intakes, activities and environmental exposures for both individual and aggregate level data. The primary endpoint was the composition of VOCs in breath samples, while diet and activity data, and results of alternative testing assessments were secondary endpoints. The main study outcome measure is the diagnostic accuracy of alveolar breath test in differentiating profiles of two main pre-defined sub-cohorts. Index of concordance with accuracy, sensitivity, specificity, positive predictive value and negative predictive value will be reported. A number of factors was assessed for confounding.",
+  "Disease_List": [
+    "idiopathic systemic body and breath odors",
+    "idiopathic malodor",
+    "Trimethylaminuria (TMAU)"
+  ],
+  "Reason": "The abstract explicitly mentions 'idiopathic systemic body and breath odors' and 'idiopathic malodor' as specific conditions studied. Additionally, participants were recruited via MEBO and TMAU support groups, where TMAU (Trimethylaminuria) is a known specific metabolic disorder causing malodor. These are specific disease names or well-defined medical conditions rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Trimethylaminuria (TMAU)"
+  ],
+  "UMLS_search_results": {
+    "idiopathic systemic body and breath odors": [],
+    "idiopathic malodor": [],
+    "Trimethylaminuria (TMAU)": []
+  },
+  "MRCONSO_search_results": {
+    "idiopathic systemic body and breath odors": [],
+    "idiopathic malodor": [],
+    "Trimethylaminuria (TMAU)": [
+      "Trimethylaminuria",
+      "trimethylaminuria",
+      "TRIMETHYLAMINURIA",
+      "trimethylaminuria (diagnosis)",
+      "Trimethylaminuria (disorder)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Trimethylaminuria (TMAU)_via_Trimethylaminuria": [
+      {
+        "ui": "C0342739",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0342739",
+        "name": "Trimethylaminuria",
+        "mesh_id": "C536561"
+      }
+    ]
+  }
+}

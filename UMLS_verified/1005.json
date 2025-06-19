@@ -1,0 +1,39 @@
+{
+  "id": 1005,
+  "title": "Bees can be trained to identify SARS-CoV-2 infected samples",
+  "Abstract": "The COVID-19 pandemic has illustrated the need for the development of fast and reliable testing methods for novel, zoonotic, viral diseases in both humans and animals. Pathologies lead to detectable changes in the Volatile Organic Compound (VOC) profile of animals, which can be monitored, thus allowing the development of a rapid VOC-based test. In the current study, we successfully trained honeybees (Apis mellifera) to identify SARS-CoV-2 infected minks (Neovison vison) thanks to Pavlovian conditioning protocols. The bees can be quickly conditioned to respond specifically to infected mink’s odours and could therefore be part of a wider SARS-CoV-2 diagnostic system. We tested two different training protocols to evaluate their performance in terms of learning rate, accuracy and memory retention. We designed a non-invasive rapid test in which multiple bees are tested in parallel on the same samples. This provided reliable results regarding a subject’s health status. Using the data from the training experiments, we simulated a diagnostic evaluation trial to predict the potential efficacy of our diagnostic test, which yielded a diagnostic sensitivity of 92% and specificity of 86%. We suggest that a honeybee-based diagnostics can offer a reliable and rapid test that provides a readily available, low-input addition to the currently available testing methods. A honeybee-based diagnostic test might be particularly relevant for remote and developing communities that lack the resources and infrastructure required for mainstream testing methods.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names: 'COVID-19' and 'SARS-CoV-2'. These are specific viral diseases related to the pandemic and infection in minks, respectively. Therefore, the classification is 'Y' because specific disease names are clearly stated.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2": [
+      {
+        "ui": "C5203676",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203676",
+        "name": "SARS-CoV-2",
+        "mesh_id": "D000086402"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

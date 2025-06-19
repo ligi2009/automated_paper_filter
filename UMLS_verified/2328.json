@@ -1,0 +1,42 @@
+{
+  "id": 2328,
+  "title": "Electrospun Fibrous Nanocomposite Sensing Materials for Monitoring Biomarkers in Exhaled Breath",
+  "Abstract": "Human−exhaled breath mainly contains water, oxygen, carbon dioxide, and endogenous gases closely related to human metabolism. The linear relationship between breath acetone and blood glucose concentration has been revealed when monitoring diabetes patients. Considerable attention has been directed toward developing a highly sensitive volatile organic compounds (VOCs) sensing material that can detect breath acetone. In this study, we propose a tungsten oxide/tin oxide/silver/poly (methyl methacrylate) (WO3/SnO2/Ag/PMMA) sensing material fabricated using the electrospinning technique. By monitoring the evolution of sensing materials’ extinction spectra, low concentrations of acetone vapor can be detected. Moreover, the interfaces between SnO2 and WO3 nanocrystals construct n−n junctions, which generate more electron–hole pairs than those without such structure when the light strikes. This helps to improve the sensitivity of sensing materials when they are subjected to acetone surroundings. The established sensing materials (WO3/SnO2/Ag/PMMA) exhibit a sensing limit of 20 ppm for acetone vapor and show specificity for acetone even in ambient humidity.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes patients' in the context of monitoring blood glucose concentration through breath acetone levels. Diabetes is a specific disease name, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

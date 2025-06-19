@@ -1,0 +1,57 @@
+{
+  "id": 1079,
+  "title": "Air Pollution, Modeling and GIS based Decision Support Systems for Air Quality Risk Assessment",
+  "Abstract": "Air Pollution is a state of the atmosphere with predominant presence of hazardous substances that are harmful to humans and animals. The air-borne pollutants degrade the air quality and constant exposure to polluted air may lead to several health problems such as cardiopulmonary disease, bronchitis, asthma, wheezing and coughing etc. Average composition of the atmosphere below 25 km indicates that nitrogen, oxygen, water vapor, carbon dioxide, methane, nitrous oxide, and ozone are the major constituents and their balance is important to the maintenance of the Earth's biosphere. An imbalance of these constituents for a considerable long time may lead to serious implications of air quality and weather and climate. The pollutants are categorized as primary and secondary, primary pollutants are directly emitted from a source and secondary pollutants result from reaction of primary pollutants in the atmosphere. The primary pollutants are the ash from volcanoes, carbon monoxide and sulfur dioxide emissions from vehicles and factories and combustion of fossil fuels etc whereas secondary pollutants are tropospheric ozone resulting from photolysis of nitrogen oxides and hydrocarbons in the presence of sunlight and smog from a mixture of smoke and sulfur dioxide. The sources of air pollution are classified as natural and anthropogenic. Volcanoes, forest fires and biological decay providing sulfur dioxide and nitrogen oxides, large barren lands providing dust, vegetation producing volatile organic compounds come under natural sources whereas anthropogenic sources are categorized as mobile and stationary sources. Different forms of transportation such as automobiles, trucks, and airplanes come under mobile sources whereas power plants and industrial facilities are the stationary sources. Stationary sources are further classified as point and area sources, wherein a point source refers to a fixed source such as a smokestack or storage tank that emits the pollutant and an area source refers to several small sources affecting the air quality in a region such as dry cleaners, gas stations, auto body paint shops and a community of homes using woodstoves for heating. Air pollutants are also categorized as ‘criteria’ and ‘hazardous’, where the criteria pollutants refer to the commonly",
+  "Disease_List": [
+    "cardiopulmonary disease",
+    "bronchitis",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'cardiopulmonary disease', 'bronchitis', and 'asthma' as health problems caused by exposure to air pollution. These are named diseases rather than general terms like 'disease' or 'illness', so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiopulmonary disease",
+    "bronchitis",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "cardiopulmonary disease": [
+      {
+        "ui": "C0034072",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034072",
+        "name": "Cor pulmonale",
+        "mesh_id": "D011660"
+      }
+    ],
+    "bronchitis": [
+      {
+        "ui": "C0006277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006277",
+        "name": "Bronchitis",
+        "mesh_id": "D001991"
+      },
+      {
+        "ui": "C0149514",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149514",
+        "name": "Acute bronchitis",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

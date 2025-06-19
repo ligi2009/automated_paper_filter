@@ -1,0 +1,88 @@
+{
+  "id": 2568,
+  "title": "Engineering genetically-encoded synthetic biomarkers for breath-based cancer detection",
+  "Abstract": "Breath analysis holds great promise for rapid, noninvasive early cancer detection; however, clinical implementation is impeded by limited signal from nascent tumors and high background expression by non-malignant tissues. To address this issue, we developed a novel breath-based reporter system for early cancer detection using D-limonene, a volatile organic compound (VOC) from citrus fruit that is not produced in humans, in order to minimize background signal and maximize sensitivity and specificity for cancer detection. We metabolically engineered HeLa human cervical cancer cells to express limonene at levels detectable by mass spectrometry by introducing a single plant gene encoding limonene synthase. To improve limonene production and detection sensitivity twofold, we genetically co-expressed a modified form of a key enzyme in the cholesterol biosynthesis pathway. In a HeLa xenograft tumor mouse model, limonene is a sensitive and specific volatile reporter of tumor presence and growth, permitting detection of tumors as small as 5 mm. Moreover, tumor detection in mice improves proportionally with breath sampling time. By continuously collecting VOCs for 10 hours, we improve sensitivity for cancer detection 100-fold over static headspace sampling methods. Whole-body physiologically-based pharmacokinetic (PBPK) modeling and simulation of tumor-derived limonene predicts detection of tumors as small as 7 mm in humans, equivalent to the detection limit of clinical imaging modalities, such as PET, yet far more economical. Significance Statement We developed a breath-based reporter system using the plant terpene, D-limonene – a volatile secondary metabolite that gives citrus fruit its characteristic scent but is not produced in human tissues – as a biomarker for early cancer detection. Results from this study could pave the way for in vivo gene delivery and tumor-specific expression of exogenous volatile cancer reporters with broad applicability to the early diagnosis of a wide variety of cancers.",
+  "Disease_List": [
+    "cancer",
+    "cervical cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' multiple times as the target for early detection using the breath-based reporter system. It also specifically mentions 'HeLa human cervical cancer cells,' which identifies 'cervical cancer' as a specific disease. Therefore, the classification is Y with the diseases 'cancer' and 'cervical cancer' explicitly named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "cervical cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cervical cancer": [
+      {
+        "ui": "C0302592",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0302592",
+        "name": "Cervix carcinoma",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C4048328",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4048328",
+        "name": "cervical cancer",
+        "mesh_id": "D002583"
+      },
+      {
+        "ui": "C0007847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007847",
+        "name": "Malignant tumor of cervix",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "D-limonene"
+  ],
+  "compound_CID": [
+    {
+      "D-limonene": 440917
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "D-limonene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of D-limonene as a volatile organic compound reporter for early cancer detection. Although D-limonene is not naturally produced in humans, it was metabolically engineered to be expressed in human cervical cancer cells (HeLa cells) to serve as a sensitive and specific biomarker for tumor presence and growth. The study demonstrates that D-limonene can be detected in breath samples from tumor-bearing mice, allowing detection of small tumors, and modeling predicts similar detection capabilities in humans. Therefore, there is a clear relationship between D-limonene and cancer in the context of its use as a diagnostic reporter compound for cancer detection."
+      },
+      "D-limonene_cervical_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a direct relationship between D-limonene and cervical cancer by using D-limonene as a volatile organic compound reporter for early detection of cervical cancer. Specifically, HeLa human cervical cancer cells were genetically engineered to produce D-limonene, which was then detected in breath samples to indicate tumor presence and growth. This demonstrates a clear link between D-limonene and cervical cancer in the context of cancer detection and monitoring."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions D-limonene as a volatile organic compound used as a breath-based reporter system for early cancer detection. No other specific chemical compound names are identified."
+}

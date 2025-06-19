@@ -1,0 +1,333 @@
+{
+  "id": 4151,
+  "title": "Identification of Volatile Markers of Colorectal Cancer from Tumor Tissues Using Volatilomic Approach",
+  "Abstract": "The human body releases numerous volatile organic compounds (VOCs) through tissues and various body fluids, including breath. These compounds form a specific chemical profile that may be used to detect the colorectal cancer CRC-related changes in human metabolism and thereby diagnose this type of cancer. The main goal of this study was to investigate the volatile signatures formed by VOCs released from the CRC tissue. For this purpose, headspace solid-phase microextraction gas chromatography-mass spectrometry was applied. In total, 163 compounds were detected. Both cancerous and non-cancerous tissues emitted 138 common VOCs. Ten volatiles (2-butanone; dodecane; benzaldehyde; pyridine; octane; 2-pentanone; toluene; p-xylene; n-pentane; 2-methyl-2-propanol) occurred in at least 90% of both types of samples; 1-propanol in cancer tissue (86% in normal one), acetone in normal tissue (82% in cancer one). Four compounds (1-propanol, pyridine, isoprene, methyl thiolacetate) were found to have increased emissions from cancer tissue, whereas eleven showed reduced release from this type of tissue (2-butanone; 2-pentanone; 2-methyl-2-propanol; ethyl acetate; 3-methyl-1-butanol; d-limonene; tetradecane; dodecanal; tridecane; 2-ethyl-1-hexanol; cyclohexanone). The outcomes of this study provide evidence that the VOCs signature of the CRC tissue is altered by the CRC. The volatile constituents of this distinct signature can be emitted through exhalation and serve as potential biomarkers for identifying the presence of CRC. Reliable identification of the VOCs associated with CRC is essential to guide and tune the development of advanced sensor technologies that can effectively and sensitively detect and quantify these markers.",
+  "Disease_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' and its abbreviation 'CRC' multiple times as the specific disease under investigation. The study focuses on detecting volatile organic compounds related to colorectal cancer tissue, indicating a clear reference to a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "CRC": [
+      {
+        "ui": "C4050364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4050364",
+        "name": "Cytogenetic Complete Response",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C5401389",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5401389",
+        "name": "Conditionally Reprogrammed Cells",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2-butanone",
+    "dodecane",
+    "benzaldehyde",
+    "pyridine",
+    "octane",
+    "2-pentanone",
+    "toluene",
+    "p-xylene",
+    "n-pentane",
+    "2-methyl-2-propanol",
+    "1-propanol",
+    "acetone",
+    "isoprene",
+    "methyl thiolacetate",
+    "ethyl acetate",
+    "3-methyl-1-butanol",
+    "d-limonene",
+    "tetradecane",
+    "dodecanal",
+    "tridecane",
+    "2-ethyl-1-hexanol",
+    "cyclohexanone"
+  ],
+  "compound_CID": [
+    {
+      "2-butanone": 6569,
+      "dodecane": 8182,
+      "benzaldehyde": 240,
+      "pyridine": 1049,
+      "octane": 356,
+      "2-pentanone": 7895,
+      "toluene": 1140,
+      "p-xylene": 7809,
+      "n-pentane": 8003,
+      "2-methyl-2-propanol": 6386,
+      "1-propanol": 1031,
+      "acetone": 180,
+      "isoprene": 6557,
+      "methyl thiolacetate": 73750,
+      "ethyl acetate": 8857,
+      "3-methyl-1-butanol": 31260,
+      "d-limonene": 440917,
+      "tetradecane": 12389,
+      "dodecanal": 8194,
+      "tridecane": 12388,
+      "2-ethyl-1-hexanol": 7720,
+      "cyclohexanone": 7967
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2-butanone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-butanone is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues. Importantly, it is listed among the compounds that showed reduced release from colorectal cancer (CRC) tissue compared to normal tissue. This suggests that the presence and altered emission levels of 2-butanone are associated with CRC-related metabolic changes. Therefore, there is evidence of a relationship between 2-butanone and colorectal cancer, as its altered emission pattern may serve as a biomarker for CRC detection."
+      },
+      "2-butanone_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-butanone is one of the volatile organic compounds detected in both cancerous and non-cancerous colorectal tissues. Importantly, it is listed among the eleven compounds that showed reduced release from cancer tissue compared to normal tissue. This suggests that the presence and emission level of 2-butanone is altered in CRC tissue, indicating a relationship between 2-butanone and CRC. The altered VOC signature, including 2-butanone, can potentially serve as a biomarker for CRC detection."
+      }
+    },
+    {
+      "dodecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dodecane is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Although dodecane is not listed among the compounds with increased emissions from cancer tissue, it is part of the VOC signature associated with colorectal cancer (CRC) tissue. The study suggests that the VOC profile, including dodecane, is altered by CRC and can serve as a potential biomarker for detecting the disease. Therefore, there is evidence of a relationship between dodecane and colorectal cancer in the context of disease-associated metabolic changes and diagnostic biomarker development."
+      },
+      "dodecane_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dodecane is one of the ten volatile organic compounds (VOCs) detected in at least 90% of both cancerous and non-cancerous colorectal tissues. This suggests that dodecane is consistently present in the chemical profile associated with colorectal cancer (CRC) tissue. Although the abstract does not specify whether dodecane's emission is increased or decreased in cancerous tissue compared to normal tissue, its frequent occurrence in CRC-related samples implies a relationship. Therefore, dodecane is part of the VOC signature altered by CRC and may serve as a potential biomarker for detecting the disease."
+      }
+    },
+    {
+      "benzaldehyde_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that benzaldehyde is one of the ten volatile organic compounds detected in at least 90% of both cancerous and non-cancerous colorectal tissue samples, suggesting it is commonly present regardless of disease state. There is no mention of benzaldehyde having increased or decreased emission specifically associated with colorectal cancer tissue. Therefore, based on this abstract, there is no clear evidence of a relationship between benzaldehyde levels and colorectal cancer."
+      },
+      "benzaldehyde_CRC": {
+        "relationship": "N",
+        "reason": "The abstract reports that benzaldehyde is one of the ten volatile organic compounds detected in at least 90% of both cancerous and non-cancerous colorectal tissues, indicating it is commonly present regardless of disease state. However, benzaldehyde is not listed among the compounds with increased or decreased emissions specifically associated with CRC tissue. Therefore, there is no clear evidence from this study that benzaldehyde levels are altered by CRC or that it has a specific relationship with the disease."
+      }
+    },
+    {
+      "pyridine_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pyridine is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Importantly, pyridine was found to have increased emissions from colorectal cancer (CRC) tissue compared to normal tissue. This suggests that pyridine is part of the altered VOC signature associated with CRC and may serve as a potential biomarker for detecting the presence of colorectal cancer. Therefore, there is evidence of a relationship between pyridine and colorectal cancer based on its increased emission in cancerous tissue."
+      },
+      "pyridine_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pyridine is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Importantly, pyridine was found to have increased emissions from cancer tissue compared to normal tissue. This suggests a relationship between pyridine levels and colorectal cancer (CRC), as the altered VOC signature including elevated pyridine emissions is associated with CRC tissue. Therefore, pyridine can be considered a potential biomarker related to CRC."
+      }
+    },
+    {
+      "octane_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that octane is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of both types of samples. However, there is no mention of octane having increased or decreased emissions specifically associated with colorectal cancer tissue. Unlike some other compounds that showed altered emission levels in cancer tissue, octane's emission does not appear to be significantly different between cancerous and normal tissues. Therefore, based on this abstract, there is no clear evidence of a relationship between octane and colorectal cancer."
+      },
+      "octane_CRC": {
+        "relationship": "N",
+        "reason": "The abstract indicates that octane is one of the ten volatile organic compounds detected in at least 90% of both cancerous and non-cancerous colorectal tissues, suggesting it is commonly present regardless of disease state. Unlike other compounds such as 1-propanol and pyridine, which showed increased emissions in cancer tissue, or others that showed reduced emissions, octane is not reported to have altered emission levels associated with CRC. Therefore, there is no clear evidence from this study that octane is specifically related to CRC or its metabolic changes."
+      }
+    },
+    {
+      "2-pentanone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-pentanone is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues. Importantly, it is listed among the eleven compounds that showed reduced release from colorectal cancer (CRC) tissue compared to normal tissue. This alteration in the emission of 2-pentanone suggests a relationship between this compound and colorectal cancer, as its changed levels are part of the distinct VOC signature associated with CRC. Therefore, 2-pentanone is related to colorectal cancer as a potential biomarker reflecting metabolic changes caused by the disease."
+      },
+      "2-pentanone_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-pentanone is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues. Importantly, it is listed among the compounds that showed reduced release from cancer tissue compared to normal tissue. This alteration in emission suggests that 2-pentanone is part of the distinct VOC signature associated with colorectal cancer (CRC). Therefore, there is evidence of a relationship between 2-pentanone and CRC, as its altered levels may serve as a potential biomarker for the disease."
+      }
+    },
+    {
+      "toluene_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that toluene is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples from both types. However, there is no evidence presented that toluene levels are specifically increased or decreased in colorectal cancer tissue compared to normal tissue. The study highlights certain compounds with altered emissions in cancer tissue, but toluene is not among them. Therefore, while toluene is part of the VOC profile, the abstract does not provide evidence of a direct relationship between toluene and colorectal cancer."
+      },
+      "toluene_CRC": {
+        "relationship": "N",
+        "reason": "The abstract indicates that toluene is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples from both types. However, it does not report any increased or decreased emission of toluene specifically associated with CRC tissue. The compounds with altered emissions in CRC tissue are listed separately, and toluene is not among them. Therefore, there is no clear evidence from this abstract that toluene has a specific relationship with CRC."
+      }
+    },
+    {
+      "p-xylene_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that p-xylene is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples from both types. However, it does not report any increased or decreased emission of p-xylene specifically associated with colorectal cancer tissue. The study highlights other compounds with altered emissions in cancer tissue but does not include p-xylene among them. Therefore, there is no clear evidence from this abstract that p-xylene has a specific relationship with colorectal cancer."
+      },
+      "p-xylene_CRC": {
+        "relationship": "N",
+        "reason": "The abstract indicates that p-xylene is one of the ten volatile organic compounds detected in at least 90% of both cancerous and non-cancerous colorectal tissues, suggesting it is commonly present regardless of disease state. There is no mention of increased or decreased emission of p-xylene specifically associated with CRC tissue. The compounds with altered emissions in CRC tissue are listed separately and do not include p-xylene. Therefore, there is no clear evidence from this abstract that p-xylene has a specific relationship with CRC."
+      }
+    },
+    {
+      "n-pentane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that n-pentane is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. This suggests that n-pentane is part of the VOC signature associated with colorectal cancer (CRC). Although the abstract does not specify whether n-pentane levels increase or decrease in cancerous tissue, its consistent presence in the VOC profile related to CRC implies a relationship. The study highlights that VOC signatures, including compounds like n-pentane, are altered by CRC and can serve as potential biomarkers for detecting the disease."
+      },
+      "n-pentane_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that n-pentane is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Although n-pentane is not listed among the compounds with increased or decreased emissions specifically from cancer tissue, its consistent presence in CRC tissue and its inclusion in the VOC signature altered by CRC suggests a relationship. The study supports that VOCs, including n-pentane, form a distinct chemical profile associated with CRC, which can potentially serve as biomarkers for detecting the disease."
+      }
+    },
+    {
+      "2-methyl-2-propanol_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-methyl-2-propanol is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Importantly, the emission of 2-methyl-2-propanol is reported to be reduced in cancer tissue compared to normal tissue. This alteration in the VOC signature, including the decreased release of 2-methyl-2-propanol, is associated with colorectal cancer (CRC) and suggests a relationship between this compound and the disease. The study supports the use of such VOCs as potential biomarkers for CRC detection."
+      },
+      "2-methyl-2-propanol_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-methyl-2-propanol is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, occurring in at least 90% of samples. Importantly, the study found that the emission of 2-methyl-2-propanol is reduced in cancerous tissue compared to normal tissue. This alteration in the VOC signature, including the reduced release of 2-methyl-2-propanol, is associated with colorectal cancer (CRC). Therefore, there is evidence of a relationship between 2-methyl-2-propanol and CRC, as changes in its emission levels may serve as a biomarker for the disease."
+      }
+    },
+    {
+      "1-propanol_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 1-propanol is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, with increased emissions observed from cancer tissue compared to normal tissue. This suggests that 1-propanol is part of the altered VOC signature associated with colorectal cancer (CRC). The study highlights that such VOCs, including 1-propanol, can serve as potential biomarkers for identifying the presence of CRC, indicating a relationship between 1-propanol and colorectal cancer."
+      },
+      "1-propanol_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 1-propanol is one of the volatile organic compounds (VOCs) detected in both cancerous and non-cancerous colorectal tissues, with increased emissions observed from cancer tissue compared to normal tissue. This suggests that 1-propanol is part of the altered VOC signature associated with colorectal cancer (CRC). Therefore, there is evidence of a relationship between 1-propanol and CRC, as its elevated presence may serve as a potential biomarker for detecting CRC."
+      }
+    },
+    {
+      "acetone_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates that acetone is present in both cancerous and non-cancerous colorectal tissues, with 82% occurrence in cancer tissue and presence in normal tissue as well. There is no mention of increased or decreased emission of acetone specifically associated with colorectal cancer. Unlike other compounds that showed altered emissions in cancer tissue, acetone does not appear to have a differential pattern linked to colorectal cancer in this study. Therefore, there is no clear evidence of a relationship between acetone and colorectal cancer based on this abstract."
+      },
+      "acetone_CRC": {
+        "relationship": "N",
+        "reason": "The abstract indicates that acetone is present in both cancerous and non-cancerous colorectal tissues, with 82% occurrence in cancer tissue and a higher occurrence in normal tissue. There is no mention of increased or decreased emission of acetone specifically associated with CRC. Unlike other compounds that showed altered emissions in cancer tissue, acetone does not appear to have a clear relationship with CRC based on the data presented. Therefore, there is no clear evidence of a relationship between acetone and CRC in this study."
+      }
+    },
+    {
+      "isoprene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that isoprene is one of the four compounds found to have increased emissions from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This indicates that isoprene levels are altered in the presence of CRC, suggesting a relationship between isoprene and colorectal cancer. The study highlights that volatile organic compounds, including isoprene, form a distinct chemical signature associated with CRC, which can potentially serve as biomarkers for detecting the disease."
+      },
+      "isoprene_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that isoprene is one of the four compounds found to have increased emissions from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This suggests that isoprene levels are altered in the presence of CRC, supporting a relationship between isoprene and CRC. The study highlights that volatile organic compounds, including isoprene, form a distinct chemical signature associated with CRC, which can potentially be used as biomarkers for detecting the disease."
+      }
+    },
+    {
+      "methyl thiolacetate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methyl thiolacetate is one of the four compounds found to have increased emissions from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This indicates a relationship between methyl thiolacetate and CRC, as its elevated presence is associated with cancerous tissue. The study suggests that such volatile organic compounds, including methyl thiolacetate, form a distinct chemical signature altered by CRC and may serve as potential biomarkers for detecting the disease."
+      },
+      "methyl thiolacetate_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract reports that methyl thiolacetate is one of the four compounds found to have increased emissions from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This indicates a clear association between methyl thiolacetate and CRC, suggesting that it is part of the altered volatile organic compound (VOC) signature related to CRC. Therefore, methyl thiolacetate may serve as a potential biomarker for detecting the presence of CRC."
+      }
+    },
+    {
+      "ethyl acetate_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ethyl acetate is one of the volatile organic compounds (VOCs) that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of ethyl acetate is part of the distinct VOC signature associated with CRC, suggesting a relationship between ethyl acetate levels and the presence of colorectal cancer. Therefore, ethyl acetate is linked to CRC as a potential biomarker reflecting metabolic changes caused by the disease."
+      },
+      "ethyl acetate_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ethyl acetate is one of the eleven compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This suggests that the presence and emission level of ethyl acetate is altered in CRC, establishing a relationship between ethyl acetate and CRC. The altered volatile organic compound (VOC) signature, including ethyl acetate, can potentially serve as a biomarker for detecting CRC."
+      }
+    },
+    {
+      "3-methyl-1-butanol_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 3-methyl-1-butanol is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in emission suggests a relationship between 3-methyl-1-butanol and CRC, as its presence or concentration changes in the cancerous state. Therefore, 3-methyl-1-butanol is part of the distinct VOC signature altered by CRC and may serve as a potential biomarker for identifying the presence of colorectal cancer."
+      },
+      "3-methyl-1-butanol_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 3-methyl-1-butanol is one of the eleven compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This altered emission suggests a relationship between 3-methyl-1-butanol and CRC, as its volatile signature is affected by the presence of the disease. Therefore, 3-methyl-1-butanol is part of the distinct VOC profile associated with CRC and may serve as a potential biomarker for detecting this cancer."
+      }
+    },
+    {
+      "d-limonene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that d-limonene is one of the volatile organic compounds (VOCs) whose emission is reduced in colorectal cancer (CRC) tissue compared to non-cancerous tissue. This altered emission pattern suggests a relationship between d-limonene and CRC, as its reduced presence is part of the distinct VOC signature associated with the disease. Therefore, d-limonene is linked to colorectal cancer through its changed emission levels in cancerous tissue, making it relevant as a potential biomarker for CRC detection."
+      },
+      "d-limonene_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that d-limonene is one of the volatile organic compounds (VOCs) whose release is reduced in colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in d-limonene emission is part of the distinct VOC signature associated with CRC, suggesting a relationship between d-limonene levels and the presence of CRC. Therefore, d-limonene is related to CRC as a potential biomarker reflecting metabolic changes caused by the disease."
+      }
+    },
+    {
+      "tetradecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tetradecane is one of the volatile organic compounds (VOCs) that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of tetradecane is part of the distinct VOC signature associated with CRC, suggesting a relationship between tetradecane levels and the presence of colorectal cancer. Therefore, tetradecane is related to colorectal cancer as a potential biomarker reflecting metabolic changes in CRC tissue."
+      },
+      "tetradecane_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tetradecane is one of the eleven compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This altered emission pattern suggests a relationship between tetradecane and CRC, as its volatile organic compound signature is affected by the presence of the disease. Therefore, tetradecane is part of the VOC profile associated with CRC and may serve as a potential biomarker for detecting this cancer."
+      }
+    },
+    {
+      "dodecanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dodecanal is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of dodecanal is part of the distinct volatile organic compound signature associated with CRC, suggesting a relationship between dodecanal levels and the presence of colorectal cancer. Therefore, dodecanal is related to colorectal cancer as a potential biomarker reflecting metabolic changes in CRC tissue."
+      },
+      "dodecanal_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dodecanal is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of dodecanal is part of the distinct volatile organic compound signature associated with CRC, suggesting a relationship between dodecanal levels and the presence of CRC. Therefore, dodecanal is related to CRC as a potential biomarker reflecting metabolic changes caused by the disease."
+      }
+    },
+    {
+      "tridecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tridecane is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of tridecane is part of the distinct volatile organic compound signature associated with CRC. Therefore, there is evidence of a relationship between tridecane and colorectal cancer, as its altered presence can serve as a potential biomarker for identifying CRC."
+      },
+      "tridecane_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tridecane is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This altered emission pattern suggests that tridecane is part of the distinct volatile organic compound signature associated with CRC. Therefore, there is evidence of a relationship between tridecane and CRC, as its emission levels are affected by the presence of the disease and it may serve as a potential biomarker for CRC detection."
+      }
+    },
+    {
+      "2-ethyl-1-hexanol_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-ethyl-1-hexanol is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This suggests that the presence and emission level of 2-ethyl-1-hexanol is altered in CRC tissue, establishing a relationship between this compound and colorectal cancer. The altered volatile organic compound signature, including 2-ethyl-1-hexanol, can potentially serve as a biomarker for detecting CRC."
+      },
+      "2-ethyl-1-hexanol_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that 2-ethyl-1-hexanol is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in emission suggests that 2-ethyl-1-hexanol is part of the distinct volatile organic compound signature associated with CRC. Therefore, there is evidence of a relationship between 2-ethyl-1-hexanol and CRC, as its altered presence can serve as a potential biomarker for identifying CRC."
+      }
+    },
+    {
+      "cyclohexanone_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cyclohexanone is one of the volatile organic compounds (VOCs) whose release is reduced in colorectal cancer (CRC) tissue compared to non-cancerous tissue. This alteration in the emission of cyclohexanone is part of the distinct VOC signature associated with CRC, suggesting a relationship between cyclohexanone levels and the presence of colorectal cancer. Therefore, cyclohexanone is related to colorectal cancer as a potential biomarker reflecting metabolic changes caused by the disease."
+      },
+      "cyclohexanone_CRC": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cyclohexanone is one of the eleven volatile organic compounds that showed reduced release from colorectal cancer (CRC) tissue compared to non-cancerous tissue. This suggests that the presence and altered emission levels of cyclohexanone are associated with CRC-related metabolic changes. Therefore, cyclohexanone is part of the distinct volatile organic compound signature altered by CRC and may serve as a potential biomarker for detecting this disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names multiple volatile organic compounds (VOCs) detected in colorectal cancer (CRC) tissue samples, listing them explicitly as chemical compounds involved in the study. These named compounds are specific chemical substances rather than general terms, and they are identified as having varying emission levels in cancerous versus non-cancerous tissues, making them relevant chemical compounds extracted from the text."
+}

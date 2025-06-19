@@ -1,0 +1,146 @@
+{
+  "id": 3151,
+  "title": "The Potential Impact of Smog Spell on Humans’ Health Amid COVID-19 Rages",
+  "Abstract": "Rapid and unchecked industrialization and the combustion of fossil fuels have engendered a state of fear in urban settlements. Smog is a visible form of air pollution that arises due to the over-emissions of some primary pollutants like volatile organic compounds (VOCs), hydrocarbons, SO2, NO, and NO2 which further react in the atmosphere and give rise to toxic and carcinogenic secondary smog components. Smog reduces the visibility on roads and results in road accidents and cancellation of flights. Uptake of primary and secondary pollutants of smog is responsible for several deleterious diseases of which respiratory disorders, cardiovascular dysfunction, neurological disorders, and cancer are discussed here. Children and pregnant women are more prone to the hazards of smog. The worsening menace of smog on one hand and occurrence of pandemic i.e., COVID-19 on the other may increase the mortality rate. But the implementation of lockdown during pandemics has favored the atmosphere in some ways, which will be highlighted in the article. On the whole, the focus of this article will be on the dubious relationship between smog and coronavirus.",
+  "Disease_List": [
+    "respiratory disorders",
+    "cardiovascular dysfunction",
+    "neurological disorders",
+    "cancer",
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and conditions such as respiratory disorders, cardiovascular dysfunction, neurological disorders, cancer, and COVID-19. These are named diseases or disease categories rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory disorders",
+    "neurological disorders",
+    "cancer",
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "respiratory disorders": [
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      }
+    ],
+    "cardiovascular dysfunction": [],
+    "neurological disorders": [
+      {
+        "ui": "C0027765",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027765",
+        "name": "nervous system disorder",
+        "mesh_id": "D009422"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "SO2",
+    "NO",
+    "NO2"
+  ],
+  "compound_CID": [
+    {
+      "SO2": 1119,
+      "NO": 24822,
+      "NO2": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "SO2_respiratory_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract identifies SO2 as one of the primary pollutants contributing to smog formation. It further states that the uptake of primary and secondary pollutants from smog, which includes SO2, is responsible for several deleterious diseases, explicitly mentioning respiratory disorders. Therefore, there is evidence in the abstract linking SO2 exposure to respiratory disorders."
+      },
+      "SO2_neurological_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract states that smog, which includes primary pollutants such as SO2, is responsible for several deleterious diseases including neurological disorders. This indicates a relationship between SO2 exposure as part of smog and the occurrence of neurological disorders."
+      },
+      "SO2_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that SO2 is one of the primary pollutants contributing to smog formation. It further states that both primary and secondary pollutants of smog are responsible for several deleterious diseases, including cancer. Therefore, there is evidence in the abstract suggesting a relationship between SO2 exposure (as part of smog) and cancer."
+      },
+      "SO2_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses SO2 as a primary pollutant contributing to smog and its associated health effects such as respiratory, cardiovascular, neurological disorders, and cancer. It mentions the COVID-19 pandemic and suggests that the worsening smog and the pandemic may together increase mortality rates. However, it does not provide direct evidence or a clear relationship between SO2 exposure specifically and COVID-19 disease. The relationship is described as 'dubious' and not clearly established in the abstract."
+      }
+    },
+    {
+      "NO_respiratory_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that NO (nitric oxide) is one of the primary pollutants contributing to smog formation. It further states that the uptake of primary and secondary pollutants of smog, including NO, is responsible for several deleterious diseases, specifically listing respiratory disorders among them. Therefore, there is clear evidence in the abstract indicating a relationship between NO and respiratory disorders."
+      },
+      "NO_neurological_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract states that smog, which includes primary pollutants such as NO, is responsible for several deleterious diseases including neurological disorders. This indicates a relationship between NO as a component of smog and neurological disorders."
+      },
+      "NO_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that NO (nitric oxide) is one of the primary pollutants contributing to smog formation. It further explains that smog contains toxic and carcinogenic secondary components formed from these primary pollutants. The uptake of both primary and secondary pollutants from smog is linked to several diseases, including cancer. Therefore, there is evidence in the abstract indicating a relationship between NO as a pollutant and the occurrence of cancer through its role in smog formation and associated health effects."
+      },
+      "NO_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses NO as a primary pollutant contributing to smog and its associated health effects such as respiratory, cardiovascular, neurological disorders, and cancer. It mentions the COVID-19 pandemic in the context of increased mortality potentially due to smog exposure but does not provide direct evidence or a clear relationship between NO specifically and COVID-19. The relationship between smog and coronavirus is described as dubious, indicating no definitive link established in the abstract."
+      }
+    },
+    {
+      "NO2_respiratory_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract states that NO2 is one of the primary pollutants contributing to smog formation. It further explains that the uptake of primary and secondary pollutants from smog, including NO2, is responsible for several deleterious diseases, explicitly mentioning respiratory disorders. Therefore, there is evidence in the abstract indicating a relationship between NO2 exposure and respiratory disorders."
+      },
+      "NO2_neurological_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract states that smog, which includes primary pollutants such as NO2, is responsible for several deleterious diseases including neurological disorders. This indicates a relationship between NO2 exposure as part of smog and the occurrence of neurological disorders."
+      },
+      "NO2_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NO2 is one of the primary pollutants contributing to smog formation. It further states that smog contains toxic and carcinogenic secondary components formed from these primary pollutants. The uptake of both primary and secondary pollutants from smog is linked to several diseases, including cancer. Therefore, there is evidence in the abstract suggesting a relationship between NO2 (as a primary pollutant contributing to smog) and cancer."
+      },
+      "NO2_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses NO2 as a primary pollutant contributing to smog and its associated health effects such as respiratory, cardiovascular, neurological disorders, and cancer. It mentions the COVID-19 pandemic and suggests that the worsening smog and COVID-19 may together increase mortality rates. However, it does not provide direct evidence or a clear established relationship between NO2 exposure specifically and COVID-19 disease incidence, severity, or outcomes. The relationship is described as 'dubious' and not clearly defined in the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions sulfur dioxide (SO2), nitric oxide (NO), and nitrogen dioxide (NO2) as primary pollutants contributing to smog formation. These are specific chemical compounds, unlike general terms such as volatile organic compounds or hydrocarbons."
+}

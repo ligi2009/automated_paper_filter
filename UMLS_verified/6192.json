@@ -1,0 +1,35 @@
+{
+  "id": 6192,
+  "title": "Update on Stachybotrys chartarum—Black Mold Perceived as Toxigenic and Potentially Pathogenic to Humans",
+  "Abstract": "Simple Summary Among the 123 currently accepted species of the genus Stachybotrys, S. chartarum consistently deserves special attention. This one is the most frequently isolated species of the aforementioned genus and one of the world’s 10 most hazardous fungi. S. chartarum owes its notoriety to the secondary metabolites that are released in the host environment. Interaction of these metabolites with mucous membranes of the respiratory or digestive tract and with the skin can induce necrotic changes and even life-threatening pulmonary or gastrointestinal hemorrhage. Pulmonary hemorrhage was of major concern to the public when, in the period of 1993–1998, this ailment was identified in 138 infants in Cleveland, Ohio, USA, among which 12 cases were fatal. Since this first documented outbreak, the number of publications dealing with the toxigenic properties of this fungus, and even its potential pathogenicity, has rapidly grown. In this comprehensive review we present the most updated information about taxonomy, macro- and micromorphology, biology and ecology of this fungus. Within this work, we focus on the factors that prompted this fungus to be extremely dangerous for people and animals living in moldy conditions, as well as antifungals efficient in its eradication from indoor environments. Abstract In nature, there are many species of fungi known to produce various mycotoxins, allergens and volatile organic compounds (VOCs), as well as the commonly known etiological agents of various types of mycoses. So far, none of them have provoked so much emotion among homeowners, builders, conservators, mycologists and clinicians as Stachybotrys chartarum. This species compared to fungi of the genera Fusarium and Aspergillus is not as frequently described to be a micromycete that is toxigenic and hazardous to human and animal health, but interest in it has been growing consistently for three decades. Depending on the authors of any given review article, attention is focused either on the clinical aspects alongside the role of this fungus in deterioration of biomaterials, or aspects related to its biology, ecology and taxonomic position. On the one hand, it is well established that inhalation of conidia, containing the highest concentrations of toxic metabolites, may cause serious damage to the mammalian lung, particularly with repeated exposure. On the other hand, we can find articles in which authors demonstrate that S. chartarum conidia can germinate and form hyphae in lungs but are not able to establish an effective infection. Finally, we can find case reports that suggest that S. chartarum infection is linked with acute pulmonary hemorrhage, based on fungal structures recovered from patient lung tissue. New scientific reports have verified the current state of knowledge and note that clinical significance of this fungus is exceedingly controversial. For these reasons, understanding S. chartarum requires reviewing the well-known toxigenic features and harmful factors associated with this fungus, by gathering the newest ones into a coherent whole. The research problem related to this fungus seems to be not overly publicized, and there is still a demand to truthfully define the real threats of S. chartarum and phylogenetically related species. The most important problem, which should be fully elucidated as soon as possible, remains the clarification of the pathogenicity of S. chartarum and related species. Maybe it is urgent time to ask a critical question, namely what exactly do we know 28 years after the outbreak of pulmonary hemorrhage in infants in Cleveland, Ohio, USA most likely caused by S. chartarum?",
+  "Disease_List": [
+    "pulmonary hemorrhage"
+  ],
+  "Reason": "The abstract explicitly mentions 'pulmonary hemorrhage' as a specific disease condition linked to exposure to Stachybotrys chartarum. It describes an outbreak of pulmonary hemorrhage in infants in Cleveland, Ohio, with fatal cases, and discusses the clinical significance and pathogenicity of the fungus in relation to this disease. No other specific disease names are mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pulmonary hemorrhage"
+  ],
+  "UMLS_search_results": {
+    "pulmonary hemorrhage": [
+      {
+        "ui": "C0151701",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151701",
+        "name": "Pulmonary hemorrhage",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0475713",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0475713",
+        "name": "Perinatal pulmonary hemorrhage",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

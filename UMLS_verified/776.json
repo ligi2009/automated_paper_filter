@@ -1,0 +1,64 @@
+{
+  "id": 776,
+  "title": "Effect of rhizosphere inoculation with Bacillus strains and phytopathogens on the contents of volatiles and human health-related compounds in tomato fruits",
+  "Abstract": "Tomato (Solanum lycopersicon L., Solanales: Solanaceae) is a highly consumed fruit worldwide. Tomato quality is determined by several attributes, including color, nutritional value and flavor (Vogel et al., 2010) and is highly dependent on cultivar (Vieira et al., 2019), climatic conditions and the production system used. Tomatoes are rich in human health-related compounds, especially carotenoids and phenols, which greatly contribute to their well-known antioxidant capacity (Ligor et al., 2014; Ha et al., 2015; Pellicanò et al., 2020). The beneficial effects of fresh tomato, tomato products, tomato carotenoids and phenols on the prevention of several cancer forms, cardiovascular diseases, age-related macular degeneration and other chronic diseases have been demonstrated (Zanfini et al., 2010; CervantesPaz et al., 2012; Pesaresi et al., 2014). These beneficial effects have mainly been attributed to the antioxidant capacity of tomatoes, which contributes to preventing an excess of free radicals in human cells. High levels of free radicals in cells are involved in the pathogenesis of many different diseases (Zanfini et al., 2010; Mukherjee et al., 2017). Thus, the carotenoid and phenol contents are important quality attributes of tomato fruits. On the other hand, carotenoids are also precursors of volatile compounds (VOCs) involved in the aroma of tomato fruits (El Hadi et al., 2013). The volatiles derived from carotenoids are highly biosynthesized at advanced ripening stages (López-Vidal et al., 2014; Su et al., 2015). The flavor of tomatoes is a product of the interaction of sugars, organic acids, and ~400 VOCs, with 20-30 of them being significant contributors to tomato aroma. These VOCs are synthetized not only from carotenoids but also from lipids, amino acids, lignin, phenols and terpenes (Vogel et al., 2010; Dávila-Aviña et al., 2011). Several studies have demonstrated that the profile of human health-related compounds and VOCs in tomatoes can be affected by diverse preand postharvesting factors, mainly including geographic origin, environmental factors, cultivation practices, harvest time, storage conditions, genotype and ripening stage (Dávila-Aviña et al., 2011; Rambla et al., 2015). Recently, literature has demonstrated that the interaction between plants and microorganisms, either pathogenic or antagonistic, can alter the quality of tomatoes; however, little literature is available in this regard (Ordookhani et al., 2010; Ordookhani & Zare 2011; Parewa et al., 2014), since previous Effect of rhizosphere inoculation with Bacillus strains and phytopathogens on the contents of volatiles and human health-related compounds in tomato fruits",
+  "Disease_List": [
+    "cancer",
+    "cardiovascular diseases",
+    "age-related macular degeneration"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'cancer', 'cardiovascular diseases', and 'age-related macular degeneration' when discussing the beneficial effects of tomato compounds on the prevention of these diseases. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer",
+    "cardiovascular diseases",
+    "age-related macular degeneration"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "age-related macular degeneration": [
+      {
+        "ui": "C0242383",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242383",
+        "name": "Age related macular degeneration",
+        "mesh_id": "D008268"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

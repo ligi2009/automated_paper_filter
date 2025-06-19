@@ -1,0 +1,117 @@
+{
+  "id": 4614,
+  "title": "Improving the Quality of the Air and Implementing into Effective Pollution Mitigation Methods",
+  "Abstract": "This review paper explores the impact of air pollution on human health, focusing on indoor and outdoor air quality. It highlights the importance of pollutants like particulate matter, nitrogen dioxide, sulfur dioxide, and volatile organic compounds, which contribute to diseases like lung cancer, heart disease, and respiratory issues. The paper also examines sources and types of air pollutants, including industrial activities, transportation, and natural events. It presents a comparative analysis of air quality issues across different regions, highlighting the complexities and severity of pollution. The paper examines pollution control technologies for industry and transport, innovative approaches like hydrogen fuel utilization and intelligent transportation systems. It also discusses the influence of regulatory standards on indoor environmental quality and the challenges posed by regional differences. The paper aims to contribute to the ongoing discourse on air quality management and encourages the development of more robust pollution control measures.",
+  "Disease_List": [
+    "lung cancer",
+    "heart disease",
+    "respiratory issues"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'lung cancer' and 'heart disease', as well as 'respiratory issues', which are specific health conditions related to diseases. Therefore, the classification is 'Y' for the presence of specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "heart disease"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "heart disease": [
+      {
+        "ui": "C0018799",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018799",
+        "name": "Heart Diseases",
+        "mesh_id": "D006331"
+      }
+    ],
+    "respiratory issues": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "particulate matter",
+    "nitrogen dioxide",
+    "sulfur dioxide",
+    "volatile organic compounds",
+    "hydrogen"
+  ],
+  "compound_CID": [
+    {
+      "particulate matter": "None",
+      "nitrogen dioxide": 3032552,
+      "sulfur dioxide": 1119,
+      "volatile organic compounds": "None",
+      "hydrogen": 783
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "particulate matter_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that particulate matter is one of the pollutants that contribute to diseases including lung cancer. This indicates a recognized relationship between exposure to particulate matter and the development of lung cancer."
+      },
+      "particulate matter_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions particulate matter as one of the key pollutants contributing to diseases including heart disease. It highlights the impact of air pollution, specifically naming particulate matter, in relation to heart disease, indicating a clear relationship between the compound and the disease."
+      }
+    },
+    {
+      "nitrogen dioxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions nitrogen dioxide as one of the important air pollutants that contribute to diseases including lung cancer. This indicates a recognized relationship between exposure to nitrogen dioxide and the development of lung cancer."
+      },
+      "nitrogen dioxide_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions nitrogen dioxide as one of the key air pollutants contributing to diseases including heart disease. This indicates a recognized relationship between exposure to nitrogen dioxide and the development or exacerbation of heart disease."
+      }
+    },
+    {
+      "sulfur dioxide_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions sulfur dioxide as one of the pollutants that contribute to diseases including lung cancer. This indicates a recognized relationship between sulfur dioxide exposure and the risk of developing lung cancer."
+      },
+      "sulfur dioxide_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions sulfur dioxide as one of the pollutants contributing to diseases including heart disease. This indicates a recognized relationship between sulfur dioxide exposure and the development or exacerbation of heart disease."
+      }
+    },
+    {
+      "volatile organic compounds_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that volatile organic compounds are among the pollutants that contribute to diseases like lung cancer. This indicates a clear relationship between exposure to volatile organic compounds and the development of lung cancer as discussed in the review paper."
+      },
+      "volatile organic compounds_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that volatile organic compounds (VOCs), as part of air pollutants, contribute to diseases including heart disease. This indicates a recognized relationship between exposure to VOCs and the development or exacerbation of heart disease."
+      }
+    },
+    {
+      "hydrogen_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollutants such as particulate matter, nitrogen dioxide, sulfur dioxide, and volatile organic compounds as contributors to lung cancer. While it mentions hydrogen fuel utilization as an innovative approach in pollution control, it does not indicate that hydrogen itself is a pollutant or has a direct relationship with lung cancer. Therefore, there is no clear evidence in the abstract linking hydrogen to lung cancer."
+      },
+      "hydrogen_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses air pollution and its impact on diseases including heart disease, mentioning pollutants such as particulate matter, nitrogen dioxide, sulfur dioxide, and volatile organic compounds as contributors. Hydrogen is mentioned only in the context of hydrogen fuel utilization as an innovative approach to pollution control, not as a pollutant or a direct factor influencing heart disease. Therefore, there is no clear evidence in the abstract of a direct relationship between hydrogen and heart disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as nitrogen dioxide and sulfur dioxide, which are well-defined chemical substances. Particulate matter and volatile organic compounds are also included as they refer to specific categories of chemical pollutants. Hydrogen is mentioned in the context of fuel utilization, indicating its role as a chemical substance."
+}

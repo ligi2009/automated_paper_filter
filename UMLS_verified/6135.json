@@ -1,0 +1,39 @@
+{
+  "id": 6135,
+  "title": "Cosmetic Functional Ingredients from Botanical Sources for Anti-Pollution Skincare Products",
+  "Abstract": "Air pollution is a rising problem in many metropolitan areas around the world. Airborne contaminants are predominantly derived from anthropogenic activities, and include carbon monoxide, sulfur dioxide, nitrogen oxides, volatile organic compounds, ozone and particulate matter (PM; a mixture of solid and liquid particles of variable size and composition, able to absorb and delivery a large number of pollutants). The exposure to these air pollutants is associated to detrimental effects on human skin, such as premature aging, pigment spot formation, skin rashes and eczema, and can worsen some skin conditions, such as atopic dermatitis. A cosmetic approach to this problem involves the topical application of skincare products containing functional ingredients able to counteract pollution-induced skin damage. Considering that the demand for natural actives is growing in all segments of global cosmetic market, the aim of this review is to describe some commercial cosmetic ingredients obtained from botanical sources able to reduce the impact of air pollutants on human skin with different mechanisms, providing a scientific rationale for their use.",
+  "Disease_List": [
+    "eczema",
+    "atopic dermatitis"
+  ],
+  "Reason": "The abstract explicitly mentions 'eczema' and 'atopic dermatitis' as specific skin conditions affected by air pollution. These are recognized diseases, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "eczema",
+    "atopic dermatitis"
+  ],
+  "UMLS_search_results": {
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

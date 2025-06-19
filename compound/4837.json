@@ -1,0 +1,191 @@
+{
+  "id": 4837,
+  "title": "Volatile organic compounds: A proinflammatory activator in autoimmune diseases",
+  "Abstract": "The etiopathogenesis of inflammatory and autoimmune diseases, including pulmonary disease, atherosclerosis, and rheumatoid arthritis, has been linked to human exposure to volatile organic compounds (VOC) present in the environment. Chronic inflammation due to immune breakdown and malfunctioning of the immune system has been projected to play a major role in the initiation and progression of autoimmune disorders. Macrophages, major phagocytes involved in the regulation of chronic inflammation, are a major target of VOC. Excessive and prolonged activation of immune cells (T and B lymphocytes) and overexpression of the master pro-inflammatory constituents [cytokine and tumor necrosis factor-alpha, together with other mediators (interleukin-6, interleukin-1, and interferon-gamma)] have been shown to play a central role in the pathogenesis of autoimmune inflammatory responses. The function and efficiency of the immune system resulting in immunostimulation and immunosuppression are a result of exogenous and endogenous factors. An autoimmune disorder is a by-product of the overproduction of these inflammatory mediators. Additionally, an excess of these toxicants helps in promoting autoimmunity through alterations in DNA methylation in CD4 T cells. The purpose of this review is to shed light on the possible role of VOC exposure in the onset and progression of autoimmune diseases.",
+  "Disease_List": [
+    "pulmonary disease",
+    "atherosclerosis",
+    "rheumatoid arthritis",
+    "autoimmune disorders",
+    "autoimmune diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'pulmonary disease', 'atherosclerosis', and 'rheumatoid arthritis'. It also refers to 'autoimmune disorders' and 'autoimmune diseases', which are categories of diseases but are commonly accepted as specific disease classifications in medical contexts. Therefore, the classification is 'Y' with these diseases listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pulmonary disease",
+    "atherosclerosis",
+    "rheumatoid arthritis",
+    "autoimmune disorders",
+    "autoimmune diseases"
+  ],
+  "UMLS_search_results": {
+    "pulmonary disease": [
+      {
+        "ui": "C0024115",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024115",
+        "name": "Lung diseases",
+        "mesh_id": "D008171"
+      },
+      {
+        "ui": "C0455540",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0455540",
+        "name": "History of - respiratory disease",
+        "mesh_id": "None"
+      }
+    ],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ],
+    "rheumatoid arthritis": [
+      {
+        "ui": "C0003873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003873",
+        "name": "Rheumatoid Arthritis",
+        "mesh_id": "D001172"
+      }
+    ],
+    "autoimmune disorders": [
+      {
+        "ui": "C0004364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004364",
+        "name": "Autoimmune Diseases",
+        "mesh_id": "D001327"
+      }
+    ],
+    "autoimmune diseases": [
+      {
+        "ui": "C0004364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004364",
+        "name": "Autoimmune Diseases",
+        "mesh_id": "D001327"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "tumor necrosis factor-alpha",
+    "interleukin-6",
+    "interleukin-1",
+    "interferon-gamma"
+  ],
+  "compound_CID": [
+    {
+      "tumor necrosis factor-alpha": 44356648,
+      "interleukin-6": "None",
+      "interleukin-1": "None",
+      "interferon-gamma": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "tumor necrosis factor-alpha_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tumor necrosis factor-alpha (TNF-alpha), a master pro-inflammatory cytokine, is overexpressed during chronic inflammation and plays a central role in the pathogenesis of autoimmune inflammatory responses. Pulmonary disease is explicitly mentioned as one of the inflammatory and autoimmune diseases linked to exposure to volatile organic compounds (VOC), which induce chronic inflammation. Since TNF-alpha is a key mediator in these inflammatory processes and pulmonary disease is included among the diseases associated with such inflammation, there is evidence supporting a relationship between tumor necrosis factor-alpha and pulmonary disease."
+      },
+      "tumor necrosis factor-alpha_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tumor necrosis factor-alpha (TNF-alpha), a master pro-inflammatory cytokine, is overexpressed in the pathogenesis of autoimmune inflammatory responses. Atherosclerosis is explicitly mentioned as one of the inflammatory diseases linked to immune system malfunction and chronic inflammation. Since TNF-alpha is highlighted as playing a central role in chronic inflammation and autoimmune disorders, and atherosclerosis is included among these diseases, there is evidence supporting a relationship between TNF-alpha and atherosclerosis."
+      },
+      "tumor necrosis factor-alpha_rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tumor necrosis factor-alpha (TNF-alpha), described as a master pro-inflammatory constituent, is overexpressed and plays a central role in the pathogenesis of autoimmune inflammatory responses. Rheumatoid arthritis is specifically mentioned as one of the autoimmune diseases linked to chronic inflammation and immune system malfunction. The involvement of TNF-alpha in the inflammatory process and autoimmune response suggests a clear relationship between this compound and rheumatoid arthritis."
+      },
+      "tumor necrosis factor-alpha_autoimmune_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that tumor necrosis factor-alpha (TNF-alpha), described as a master pro-inflammatory cytokine, is overexpressed alongside other mediators in the pathogenesis of autoimmune inflammatory responses. It highlights that excessive and prolonged activation of immune cells and overproduction of TNF-alpha play a central role in the initiation and progression of autoimmune disorders. Therefore, there is clear evidence in the abstract supporting a relationship between tumor necrosis factor-alpha and autoimmune disorders."
+      },
+      "tumor necrosis factor-alpha_autoimmune_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract clearly indicates that tumor necrosis factor-alpha, described as a master pro-inflammatory cytokine, is overexpressed and plays a central role in the pathogenesis of autoimmune inflammatory responses. It is mentioned alongside other inflammatory mediators that contribute to immune system malfunction and chronic inflammation, which are key factors in the initiation and progression of autoimmune diseases. Therefore, there is evidence of a relationship between tumor necrosis factor-alpha and autoimmune diseases."
+      }
+    },
+    {
+      "interleukin-6_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pulmonary disease is among the inflammatory and autoimmune diseases linked to immune system dysfunction and chronic inflammation. It specifically mentions that overexpression of pro-inflammatory mediators, including interleukin-6, plays a central role in the pathogenesis of autoimmune inflammatory responses. Since pulmonary disease is included in the diseases associated with these inflammatory processes and interleukin-6 is highlighted as a key cytokine involved, there is evidence of a relationship between interleukin-6 and pulmonary disease."
+      },
+      "interleukin-6_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that interleukin-6 (IL-6), a pro-inflammatory cytokine, is among the key mediators involved in chronic inflammation and autoimmune inflammatory responses. Atherosclerosis is explicitly mentioned as one of the diseases linked to inflammatory and autoimmune processes. Since IL-6 is described as playing a central role in the pathogenesis of autoimmune inflammatory responses, and atherosclerosis is included in the spectrum of diseases associated with these inflammatory mechanisms, there is evidence supporting a relationship between interleukin-6 and atherosclerosis."
+      },
+      "interleukin-6_rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that rheumatoid arthritis is an autoimmune disease linked to chronic inflammation and immune system malfunction. It specifically mentions that overexpression of pro-inflammatory mediators, including interleukin-6, plays a central role in the pathogenesis of autoimmune inflammatory responses. Therefore, there is evidence that interleukin-6 is related to rheumatoid arthritis through its involvement in inflammatory and autoimmune mechanisms."
+      },
+      "interleukin-6_autoimmune_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that overexpression of pro-inflammatory mediators, including interleukin-6, plays a central role in the pathogenesis of autoimmune inflammatory responses. It states that autoimmune disorders result from the overproduction of these inflammatory mediators, indicating a clear relationship between interleukin-6 and autoimmune disorders."
+      },
+      "interleukin-6_autoimmune_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that overexpression of pro-inflammatory mediators, including interleukin-6, plays a central role in the pathogenesis of autoimmune inflammatory responses. It highlights that excessive and prolonged activation of immune cells and overproduction of cytokines such as interleukin-6 contribute to the initiation and progression of autoimmune diseases. Therefore, there is clear evidence of a relationship between interleukin-6 and autoimmune diseases."
+      }
+    },
+    {
+      "interleukin-1_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pulmonary disease is among the inflammatory and autoimmune diseases linked to immune system dysfunction and chronic inflammation. It specifically mentions that overexpression of pro-inflammatory mediators, including interleukin-1, plays a central role in the pathogenesis of autoimmune inflammatory responses. Since pulmonary disease is included in the diseases associated with these inflammatory processes and interleukin-1 is highlighted as a key pro-inflammatory cytokine involved, there is evidence of a relationship between interleukin-1 and pulmonary disease."
+      },
+      "interleukin-1_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that atherosclerosis is among the inflammatory and autoimmune diseases linked to immune system dysfunction and chronic inflammation. It specifically mentions that overexpression of pro-inflammatory mediators, including interleukin-1, plays a central role in the pathogenesis of autoimmune inflammatory responses. Since atherosclerosis is included in the diseases discussed and interleukin-1 is highlighted as a key pro-inflammatory cytokine involved in these processes, there is evidence of a relationship between interleukin-1 and atherosclerosis."
+      },
+      "interleukin-1_rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that rheumatoid arthritis is among the autoimmune diseases linked to chronic inflammation and immune system malfunction. It highlights that overexpression of pro-inflammatory mediators, including interleukin-1, plays a central role in the pathogenesis of autoimmune inflammatory responses. Therefore, there is clear evidence in the abstract that interleukin-1 is related to rheumatoid arthritis through its involvement in inflammatory and autoimmune mechanisms."
+      },
+      "interleukin-1_autoimmune_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that interleukin-1, along with other pro-inflammatory mediators such as cytokines and tumor necrosis factor-alpha, plays a central role in the pathogenesis of autoimmune inflammatory responses. It states that overexpression of interleukin-1 is involved in the excessive and prolonged activation of immune cells, which contributes to the initiation and progression of autoimmune disorders. Therefore, there is clear evidence of a relationship between interleukin-1 and autoimmune disorders based on the described inflammatory mechanisms."
+      },
+      "interleukin-1_autoimmune_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that interleukin-1, along with other pro-inflammatory cytokines, is overexpressed and plays a central role in the pathogenesis of autoimmune inflammatory responses. It highlights that excessive and prolonged activation of immune cells and overproduction of inflammatory mediators such as interleukin-1 contribute to the initiation and progression of autoimmune diseases. Therefore, there is clear evidence of a relationship between interleukin-1 and autoimmune diseases."
+      }
+    },
+    {
+      "interferon-gamma_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that pulmonary disease is among the inflammatory and autoimmune diseases linked to exposure to volatile organic compounds (VOC). It highlights that excessive and prolonged activation of immune cells and overexpression of pro-inflammatory mediators, including interferon-gamma, play a central role in the pathogenesis of autoimmune inflammatory responses. Since interferon-gamma is explicitly mentioned as a key pro-inflammatory cytokine involved in these processes, and pulmonary disease is included in the diseases associated with these immune mechanisms, there is evidence of a relationship between interferon-gamma and pulmonary disease."
+      },
+      "interferon-gamma_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that interferon-gamma, a pro-inflammatory cytokine, is overexpressed in the context of chronic inflammation and autoimmune inflammatory responses. Atherosclerosis is mentioned as one of the diseases linked to inflammatory and autoimmune processes. Since interferon-gamma is highlighted as a central mediator in the pathogenesis of autoimmune inflammatory responses, and atherosclerosis is included among these diseases, there is evidence suggesting a relationship between interferon-gamma and atherosclerosis through its role in inflammation and immune system dysregulation."
+      },
+      "interferon-gamma_rheumatoid_arthritis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that rheumatoid arthritis is among the autoimmune diseases linked to chronic inflammation and immune system malfunction. It specifically mentions that overexpression of pro-inflammatory mediators, including interferon-gamma, plays a central role in the pathogenesis of autoimmune inflammatory responses. Therefore, there is evidence in the abstract supporting a relationship between interferon-gamma and rheumatoid arthritis."
+      },
+      "interferon-gamma_autoimmune_disorders": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that interferon-gamma, along with other pro-inflammatory cytokines, is overexpressed and plays a central role in the pathogenesis of autoimmune inflammatory responses. It highlights that excessive and prolonged activation of immune cells and overproduction of inflammatory mediators, including interferon-gamma, contribute to the initiation and progression of autoimmune disorders. Therefore, there is clear evidence of a relationship between interferon-gamma and autoimmune disorders."
+      },
+      "interferon-gamma_autoimmune_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that interferon-gamma, along with other pro-inflammatory cytokines, is overexpressed and plays a central role in the pathogenesis of autoimmune inflammatory responses. It highlights that excessive and prolonged activation of immune cells and overproduction of inflammatory mediators, including interferon-gamma, contribute to the initiation and progression of autoimmune diseases. Therefore, there is clear evidence of a relationship between interferon-gamma and autoimmune diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds involved in inflammatory and autoimmune responses, including cytokines and mediators such as tumor necrosis factor-alpha, interleukin-6, interleukin-1, and interferon-gamma. These are specific named chemical substances relevant to the immune system and inflammation."
+}

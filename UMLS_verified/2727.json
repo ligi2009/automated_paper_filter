@@ -1,0 +1,28 @@
+{
+  "id": 2727,
+  "title": "Cellulose fibers (dominant protecting means/tool) against COVID-19. Facemasks pros, cons, and challenges",
+  "Abstract": "Cellulose materials and related bioresources have been the first-line tools of defense of human health against COVID-19. The alfa cellulose, wood cellulose, and multilayer composite face masks have been used by billions, simultaneously with millions of tons of cellulosic bioresources-based medical specialty, hygiene, and packaging products used to deal with the global disaster. This editorial considers recently available facts and disputes some statements that have appeared in the media during the year 2020 concerning properties and the risks of the masks. According to recent findings, the carbon dioxide concentration increases by 2.3 to 4.3 times inside of the mask, compared to ambient air, and therefore we suppose that there will be also a concentration increase of larger chemical compounds, toxins, volatile organic compounds (VOC), and particles. These quantities should be measured, and the data used in further research aimed at quality improvement.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' in the context of cellulose materials being used as tools of defense against it. Therefore, it qualifies for 'Y' as a specific disease name is mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

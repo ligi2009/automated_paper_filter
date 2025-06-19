@@ -1,0 +1,28 @@
+{
+  "id": 3367,
+  "title": "Noninvasive Diabetes Detection through Human Breath Using TinyML-Powered E-Nose",
+  "Abstract": "Volatile organic compounds (VOCs) in exhaled human breath serve as pivotal biomarkers for disease identification and medical diagnostics. In the context of diabetes mellitus, the noninvasive detection of acetone, a primary biomarker using electronic noses (e-noses), has gained significant attention. However, employing e-noses requires pre-trained algorithms for precise diabetes detection, often requiring a computer with a programming environment to classify newly acquired data. This study focuses on the development of an embedded system integrating Tiny Machine Learning (TinyML) and an e-nose equipped with Metal Oxide Semiconductor (MOS) sensors for real-time diabetes detection. The study encompassed 44 individuals, comprising 22 healthy individuals and 22 diagnosed with various types of diabetes mellitus. Test results highlight the XGBoost Machine Learning algorithm’s achievement of 95% detection accuracy. Additionally, the integration of deep learning algorithms, particularly deep neural networks (DNNs) and one-dimensional convolutional neural network (1D-CNN), yielded a detection efficacy of 94.44%. These outcomes underscore the potency of combining e-noses with TinyML in embedded systems, offering a noninvasive approach for diabetes mellitus detection.",
+  "Disease_List": [
+    "diabetes mellitus"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes mellitus' multiple times as the specific disease being detected using volatile organic compounds and electronic noses. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

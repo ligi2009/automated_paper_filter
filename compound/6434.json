@@ -1,0 +1,38 @@
+{
+  "id": 6434,
+  "title": "The Potential of Fecal Volatile Organic Compound Analysis for the Early Diagnosis of Late-Onset Sepsis in Preterm Infants: A Narrative Review",
+  "Abstract": "Early diagnosis and treatment of late-onset sepsis (LOS) is crucial for survival, but challenging. Intestinal microbiota and metabolome alterations precede the clinical onset of LOS, and the preterm gut is considered an important source of bacterial pathogens. Fecal volatile organic compounds (VOCs), formed by physiologic and pathophysiologic metabolic processes in the preterm gut, reflect a complex interplay between the human host, the environment, and microbiota. Disease-associated fecal VOCs can be detected with an array of devices with various potential for the development of a point-of-care test (POCT) for preclinical LOS detection. While characteristic VOCs for common LOS pathogens have been described, their VOC profiles often overlap with other pathogens due to similarities in metabolic pathways, hampering the construction of species-specific profiles. Clinical studies have, however, successfully discriminated LOS patients from healthy individuals using fecal VOC analysis with the highest predictive value for Gram-negative pathogens. This review discusses the current advancements in the development of a non-invasive fecal VOC-based POCT for early diagnosis of LOS, which may potentially provide opportunities for early intervention and targeted treatment and could improve clinical neonatal outcomes. Identification of confounding variables impacting VOC synthesis, selection of an optimal detection device, and development of standardized sampling protocols will allow for the development of a novel POCT in the near future.",
+  "Disease_List": [
+    "late-onset sepsis (LOS)"
+  ],
+  "Reason": "The abstract explicitly mentions 'late-onset sepsis (LOS)' multiple times as a specific disease. It discusses diagnosis, treatment, and detection methods related to LOS, which is a defined clinical condition, thus classifying it as a specific disease name.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "late-onset sepsis (LOS)"
+  ],
+  "UMLS_search_results": {
+    "late-onset sepsis (LOS)": []
+  },
+  "MRCONSO_search_results": {
+    "late-onset sepsis (LOS)": [
+      "Neonatal Late Onset Sepsis"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "late-onset sepsis (LOS)_via_Neonatal Late Onset Sepsis": [
+      {
+        "ui": "C1096721",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1096721",
+        "name": "Neonatal Late-Onset Sepsis",
+        "mesh_id": "D000071074"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms without specifying any particular chemical compound names. Therefore, no specific chemical compounds are identified."
+}

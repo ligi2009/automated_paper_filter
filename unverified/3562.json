@@ -1,0 +1,20 @@
+{
+  "id": 3562,
+  "title": "Roles of viable but non-culturable state in the survival of Campylobacter jejuni",
+  "Abstract": "Despite being considered fragile and fastidious, Campylobacter jejuni is the most prevalent cause of foodborne bacterial gastroenteritis, and chicken meat is considered the main vehicle of transmission to humans. This agent can survive adverse conditions in the form of biofilms, but extreme stress (nutritional, oxidative and thermal) promotes the acquisition of a state called viable but not culturable (VBNC). The emergence of this pathogen worldwide and the recent international requirements in its control instigated us to qualitatively and quantitatively estimate the time required for the acquisition of the VBNC form in 27 strains of C. jejuni, characterize morphological aspects, determine its adaptive and invasive potential and perform comparative metabolomic evaluation. Extreme stress promoted the complete acquisition of the VBNC form in a mean time of 26 days. Starting from an average initial count of 7.8 log CFU/mL, the first four days determined the greatest average reduction of the culturable form of 3.2 log CFU/mL. The scanning and transmission image analyses showed a transition from the typical viable form (VT) to the VBNC form, with initial acquisition of the straight rod shape, followed by loss of the flagella and subdivision into two to 11 imperfect cocci arranged in a chain and rich in cellular content, until their individual release. RT-PCR identified the presence of ciaB and p19 transcripts in the 27 cultivable C. jejuni strains, a character maintained in the VBNC form only for p19 and in 59.3% (16/27) of the VBNC strains for the ciaB gene. The average inoculation of 1.8 log CFU/mL of C. jejuni VBNC into primary chicken embryo hepatocyte cells promoted the occurrence of apoptosis processes significantly after 24 hours of contact by one of the strains tested. In C. jejuni VBNC, we detected higher expression of metabolites linked to protective and adaptation mechanisms and of volatile organic precursor compounds indicative of metabolism interruption. The oscillations in the time of acquisition of the VBNC form together with the presence of transcripts for ciaB and p19, the identification of cell lysis and metabolites that ensure the maintenance of the pathogen alert to the fact that C. jejuni VBNC remains virulent and adapted to stress, which makes evident the potential danger of this latent form, which is not detectable by official methodologies.",
+  "Disease_List": [
+    "foodborne bacterial gastroenteritis"
+  ],
+  "Reason": "The abstract explicitly mentions 'foodborne bacterial gastroenteritis' as a specific disease caused by Campylobacter jejuni. This is a named disease condition rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y and the disease list includes 'foodborne bacterial gastroenteritis'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "foodborne bacterial gastroenteritis": []
+  },
+  "MRCONSO_search_results": {
+    "foodborne bacterial gastroenteritis": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

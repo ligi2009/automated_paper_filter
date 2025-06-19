@@ -1,0 +1,68 @@
+{
+  "id": 1527,
+  "title": "A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer",
+  "Abstract": "Background: the early lung cancer (LC) screening strategy significantly reduces LC mortality. According to previous studies, lung cancer can be effectively diagnosed by analyzing the concentration of volatile organic compounds (VOCs) in human exhaled breath and establishing a diagnosis model based on the different VOCs. This method, called breath analysis, has the advantage of being rapid and non-invasive. To develop a non-invasive, portable breath detection instrument based on cavity ring-down spectroscopy (CRDS), we explored the feasibility of establishing a model with acetone, isoprene, and nitric oxide (NO) exhaled through human breath, which can be detected on the CRDS instrument. Methods: a total of 511 participants were recruited from the Cancer Institute and Hospital, Tianjin Medical University as the discovery set and randomly split (2 : 1) into training set and internal validation set with stratification. For external validation, 51 participants were recruited from the General Hospital, Tianjin Medical University. Acetone and isoprene from exhaled breath were detected by proton-transfer-reaction time-of-flight mass spectrometry (PTR-TOF-MS), and NO was measured using CRDS. The model was constructed using the ensemble learning method that set eXtreme gradient boosting and logistic regression as the basis model and logistic regression as the senior model. The model was evaluated based on accuracy, sensitivity, and specificity. Results: the model achieved an accuracy of 78.8%, sensitivity of 81.0%, specificity of 70.0%, and area under the receiver operating curve (ROC, AUC) of 0.8341 (95% CI from 0.8055 to 0.8852) in the internal validation set. Furthermore, it attained an accuracy of 66.7%, sensitivity of 68.2%, specificity of 65.5%, and AUC of 0.6834 (95% CI from 0.5259 to 0.7956) in the external validation set. Conclusion: the model, established with acetone, isoprene, and NO as predictors, possesses the ability to identify LC patients from healthy control (HC) participants. The CRDS instrument, which simultaneously detects acetone, isoprene, and NO, is expected to be a non-invasive, rapid, portable, and accurate device for early screening of LC.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer (LC)' multiple times as the specific disease being screened and diagnosed using the described breath analysis method. Therefore, it is classified as Y with 'lung cancer' listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "isoprene",
+    "nitric oxide (NO)"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "isoprene": 6557,
+      "nitric oxide (NO)": 145068
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where acetone, along with isoprene and nitric oxide, was used as a biomarker in exhaled breath to develop a diagnostic model for early lung cancer screening. The model incorporating acetone demonstrated reasonable accuracy, sensitivity, and specificity in distinguishing lung cancer patients from healthy controls. This indicates that acetone levels in breath are related to lung cancer presence and can be used as a predictor in a non-invasive diagnostic tool. Therefore, there is evidence of a relationship between acetone and lung cancer in the context of disease detection."
+      }
+    },
+    {
+      "isoprene_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where a diagnostic model for lung cancer was developed using volatile organic compounds (VOCs) detected in exhaled breath, specifically including isoprene, acetone, and nitric oxide (NO). The model, which incorporated isoprene as one of the predictors, demonstrated reasonable accuracy, sensitivity, and specificity in distinguishing lung cancer patients from healthy controls. This indicates that isoprene levels in breath are associated with lung cancer presence and can be used as a biomarker for early screening. Therefore, there is evidence of a relationship between isoprene and lung cancer based on its utility in the diagnostic model."
+      }
+    },
+    {
+      "nitric oxide (NO)_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where nitric oxide (NO), along with acetone and isoprene, was used as a predictor in a diagnostic model to identify lung cancer (LC) patients from healthy controls. The model incorporating NO demonstrated reasonable accuracy, sensitivity, specificity, and AUC values in both internal and external validation sets, indicating that NO levels in exhaled breath are associated with lung cancer presence. Therefore, there is evidence of a relationship between nitric oxide and lung cancer in the context of non-invasive diagnostic screening."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetone, isoprene, and nitric oxide (NO) as chemical compounds detected in exhaled breath for lung cancer screening. These are specific volatile organic compounds analyzed using CRDS and PTR-TOF-MS techniques."
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1379,
+  "title": "Exhaled Breath Analysis in Diagnosis of Malignant Pleural Mesothelioma: Systematic Review",
+  "Abstract": "Malignant pleural mesothelioma (MPM) is mainly related to previous asbestos exposure. There is still dearth of information on non-invasive biomarkers to detect MPM at early stages. Human studies on exhaled breath biomarkers of cancer and asbestos-related diseases show encouraging results. The aim of this systematic review was to provide an overview on the current knowledge about exhaled breath analysis in MPM diagnosis. A systematic review was conducted on MEDLINE (PubMed), EMBASE and Web of Science databases to identify relevant studies. Quality assessment was done by the Newcastle–Ottawa Scale. Six studies were identified, all of which showed fair quality and explored volatile organic compounds (VOC) based breath profile using Gas Chromatography Coupled to Mass Spectrometry (GC–MS), Ion Mobility Spectrometry Coupled to Multi-capillary Columns (IMS–MCC) or pattern-recognition technologies. Sample sizes varied between 39 and 330. Some compounds (i.e, cyclohexane, P3, P5, P50, P71, diethyl ether, limonene, nonanal, VOC IK 1287) that can be indicative of MPM development in asbestos exposed population were identified with high diagnostic accuracy rates. E-nose studies reported breathprints being able to distinguish MPM from asbestos exposed individuals with high sensitivity and a negative predictive value. Small sample sizes and methodological diversities among studies limit the translation of results into clinical practice. More prospective studies with standardized methodologies should be conducted on larger populations.",
+  "Disease_List": [
+    "Malignant pleural mesothelioma (MPM)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Malignant pleural mesothelioma (MPM)' as a specific disease related to asbestos exposure. It discusses biomarkers and diagnosis related to MPM, which is a well-defined disease entity, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Malignant pleural mesothelioma (MPM)"
+  ],
+  "UMLS_search_results": {
+    "Malignant pleural mesothelioma (MPM)": []
+  },
+  "MRCONSO_search_results": {
+    "Malignant pleural mesothelioma (MPM)": [
+      "Malignant Pleural Mesothelioma",
+      "Malignant pleural mesothelioma",
+      "malignant pleural mesothelioma",
+      "Malignant Pleural Mesotheliomas",
+      "Malignant Pleural Mesothelioma, Advanced"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Malignant pleural mesothelioma (MPM)_via_Malignant Pleural Mesothelioma": [
+      {
+        "ui": "C0812413",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0812413",
+        "name": "Malignant Pleural Mesothelioma",
+        "mesh_id": "D000086002"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "cyclohexane",
+    "diethyl ether",
+    "limonene",
+    "nonanal",
+    "VOC IK 1287"
+  ],
+  "compound_CID": [
+    {
+      "cyclohexane": 8078,
+      "diethyl ether": 3283,
+      "limonene": 22311,
+      "nonanal": 31289,
+      "VOC IK 1287": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "cyclohexane_Malignant_pleural_mesothelioma_(MPM)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cyclohexane is one of the volatile organic compounds identified in exhaled breath that can be indicative of Malignant pleural mesothelioma (MPM) development in asbestos-exposed populations. Studies using breath analysis technologies showed high diagnostic accuracy rates for these compounds, including cyclohexane, in distinguishing MPM from asbestos-exposed individuals. Although the studies have limitations such as small sample sizes and methodological diversity, there is evidence supporting a relationship between cyclohexane presence in breath and MPM."
+      }
+    },
+    {
+      "diethyl ether_Malignant_pleural_mesothelioma_(MPM)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies diethyl ether as one of the volatile organic compounds (VOCs) found in exhaled breath that can be indicative of Malignant pleural mesothelioma (MPM) development in asbestos-exposed populations. This suggests a relationship between diethyl ether and MPM, as it may serve as a biomarker with high diagnostic accuracy for detecting MPM. Although the studies have limitations such as small sample sizes and methodological diversity, the presence of diethyl ether among compounds associated with MPM supports a relationship."
+      }
+    },
+    {
+      "limonene_Malignant_pleural_mesothelioma_(MPM)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that limonene is one of the volatile organic compounds identified in exhaled breath that can be indicative of Malignant pleural mesothelioma (MPM) development in asbestos-exposed populations. Studies using breath analysis technologies showed that limonene, among other compounds, has high diagnostic accuracy rates for detecting MPM. Although the sample sizes were small and methodologies varied, the evidence suggests a relationship between limonene presence in breath and MPM, supporting its potential as a non-invasive biomarker for the disease."
+      }
+    },
+    {
+      "nonanal_Malignant_pleural_mesothelioma_(MPM)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nonanal is one of the volatile organic compounds identified in exhaled breath that can be indicative of Malignant pleural mesothelioma (MPM) development in asbestos-exposed populations. Multiple studies using breath analysis techniques found nonanal among compounds with high diagnostic accuracy rates for MPM, suggesting a relationship between nonanal presence and MPM detection."
+      }
+    },
+    {
+      "VOC IK 1287_Malignant_pleural_mesothelioma_(MPM)": {
+        "relationship": "Y",
+        "reason": "The abstract identifies VOC IK 1287 as one of the volatile organic compounds that can be indicative of malignant pleural mesothelioma (MPM) development in asbestos-exposed populations. It highlights that VOC IK 1287 was detected with high diagnostic accuracy rates in breath analysis studies aimed at distinguishing MPM from asbestos-exposed individuals. Although the studies have limitations such as small sample sizes and methodological diversity, the evidence presented supports a relationship between VOC IK 1287 and MPM."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds identified as volatile organic compounds (VOCs) in exhaled breath analysis related to malignant pleural mesothelioma (MPM) diagnosis. These include cyclohexane, diethyl ether, limonene, nonanal, and a compound labeled VOC IK 1287, which are named explicitly as indicative biomarkers."
+}

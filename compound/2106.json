@@ -1,0 +1,100 @@
+{
+  "id": 2106,
+  "title": "Determination of VOCs in Surgical Resected Tissues from Colorectal Cancer Patients by Solid Phase Microextraction Coupled to Gas Chromatography–Mass Spectrometry",
+  "Abstract": "Early diagnosis of colorectal cancer is crucial to increase the survival rates of the patients and breath analysis represents a promising non-invasive tool to obtain information on cancer-related variations on the human volatilome. A solid phase microextraction coupled to gas chromatography–mass spectrometry method for the determination of seven selected compounds, representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer, including benzaldehyde, benzoic acid, dodecane, ethylbenzene, octanal, tetradecane and toluene, was developed. All the extraction parameters were studied for both headspace and direct immersion sampling and the procedures fully validated. The potential of the approach was demonstrated by the time monitoring of the emission of the selected volatile organic compounds from the surgical resected colon mucosa tissues of colorectal cancer patients. Furthermore, the extraction and identification of thirty-one volatile organic compounds secreted by the same tissues was accomplished.",
+  "Disease_List": [
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' multiple times as the specific disease under study. This is a clearly named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzaldehyde",
+    "benzoic acid",
+    "dodecane",
+    "ethylbenzene",
+    "octanal",
+    "tetradecane",
+    "toluene"
+  ],
+  "compound_CID": [
+    {
+      "benzaldehyde": 240,
+      "benzoic acid": 243,
+      "dodecane": 8182,
+      "ethylbenzene": 7500,
+      "octanal": 454,
+      "tetradecane": 12389,
+      "toluene": 1140
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzaldehyde_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where benzaldehyde is one of the seven selected volatile organic compounds representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer. The study developed and validated a method to detect these compounds, including benzaldehyde, from colorectal cancer tissues, indicating a relationship between benzaldehyde presence and colorectal cancer. This suggests that benzaldehyde is associated with colorectal cancer, likely as a biomarker in the volatilome of affected tissues."
+      }
+    },
+    {
+      "benzoic acid_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where benzoic acid was one of the seven selected volatile organic compounds representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer. The study involved monitoring the emission of these compounds from surgically resected colon mucosa tissues of colorectal cancer patients, indicating a direct association between benzoic acid presence and colorectal cancer tissue. This suggests a relationship between benzoic acid and colorectal cancer, at least in the context of disease-related volatilome changes."
+      }
+    },
+    {
+      "dodecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where dodecane was one of the seven selected volatile organic compounds representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer. The method developed allowed monitoring of the emission of these compounds from surgically resected colon mucosa tissues of colorectal cancer patients, indicating that dodecane is associated with the disease's volatilome profile. This suggests a relationship between dodecane and colorectal cancer, as it is part of the chemical signature linked to the disease."
+      }
+    },
+    {
+      "ethylbenzene_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where ethylbenzene was one of the seven selected volatile organic compounds representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer. The study involved monitoring the emission of these compounds from surgically resected colon mucosa tissues of colorectal cancer patients, indicating that ethylbenzene is associated with the disease's volatilome profile. This suggests a relationship between ethylbenzene and colorectal cancer, at least in terms of its presence or altered emission in affected tissues."
+      }
+    },
+    {
+      "octanal_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study focused on analyzing volatile organic compounds secreted by the colonic mucosa of patients affected by colorectal cancer. Octanal is specifically mentioned as one of the seven selected compounds representative of the volatilome secreted by colorectal cancer-affected tissues. The study developed and validated a method to detect these compounds and monitored their emission from surgical resected colon mucosa tissues of colorectal cancer patients. This indicates that octanal is associated with colorectal cancer tissue volatilome, suggesting a relationship between octanal and colorectal cancer."
+      }
+    },
+    {
+      "tetradecane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where tetradecane was one of the seven selected volatile organic compounds representative of the volatilome secreted by the colonic mucosa of patients affected by colorectal cancer. The study involved monitoring the emission of these compounds from surgically resected colon mucosa tissues of colorectal cancer patients, indicating that tetradecane is associated with the disease's volatilome profile. This suggests a relationship between tetradecane and colorectal cancer, as it is part of the chemical signature linked to the disease."
+      }
+    },
+    {
+      "toluene_colorectal_cancer": {
+        "relationship": "N",
+        "reason": "The abstract describes a method to detect volatile organic compounds, including toluene, emitted by colonic mucosa tissues of colorectal cancer patients. However, it does not provide evidence that toluene is causally or directly related to colorectal cancer. Toluene is mentioned as one of the compounds detected, but no association or relationship between toluene exposure and the development or progression of colorectal cancer is discussed."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names seven chemical compounds—benzaldehyde, benzoic acid, dodecane, ethylbenzene, octanal, tetradecane, and toluene—that were selected and analyzed as representative volatile organic compounds secreted by the colonic mucosa of colorectal cancer patients."
+}

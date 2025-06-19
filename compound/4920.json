@@ -1,0 +1,39 @@
+{
+  "id": 4920,
+  "title": "Artificial Intelligence Based Breath Analysis System for the Diagnosis of lung cancer",
+  "Abstract": "Breath analysis has become a promising tool for the detection of pulmonary diseases in recent years. This paper describes the fabrication of an artificial intelligence (AI) based e-nose system for discriminating lung cancer patients from healthy controls. Breath volatile organic compounds (VOC) can be easily analyzed using an electronic nose (e-nose) made of various gas sensor arrays. Metal oxide semiconductor (MOS)-based e-noses are getting popular in the VOC analysis of exhaled breath from humans. Here we have developed the e-nose system with a sensor array system of five MOS gas sensors and incorporated the controller and machine learning algorithms to process the data. The sensor array was designed with MOS sensors developed by Figaro USA and the data acquisition was carried out with the help of the Arduino Uno developer board. 40 healthy control samples and 24 lung cancer patient samples were analyzed using the developed e-nose system. The data analysis was done by two supervised classification algorithms random forest and logistic regression. Among this, random forest with 5-fold cross-validation gave better results with 85.38 % classification accuracy and 0.87 of AUC. This system can be further extended to the diagnosis of various other pulmonary diseases.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease when describing the discrimination of lung cancer patients from healthy controls using the e-nose system. Although it also refers to 'pulmonary diseases' in general, only 'lung cancer' is named specifically.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general terms such as volatile organic compounds (VOC) and metal oxide semiconductors (MOS) but does not specify any particular chemical compound names."
+}

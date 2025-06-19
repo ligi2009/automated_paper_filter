@@ -1,0 +1,85 @@
+{
+  "id": 1900,
+  "title": "Association between serum cotinine and volatile organic compounds (VOCs) in adults living with HIV, HBV, or HCV (NHANES 2005–2018)",
+  "Abstract": "Although people all know that nicotine in tobacco smoke is the key to cause health damage, they ignore the synergistic effect of a large number of Volatile Organic Compounds (VOCs) produced by incomplete tobacco combustion on nicotine or cotinine metabolism. Our aim is to investigate the association between serum VOCs and cotinine in smokers infected with HIV, HBV or HCV. National Health and Nutrition Examination Survey (NHANES 2005–2018) database, including 13,652 nationally representative subjects’ sociodemographic characteristics and serological indicators, was used in this study. Smokers living with human immunodeficiency virus (HIV), hepatitis B virus (HBV) or hepatitis C virus (HCV) were compared to non-infected population. The correlation between VOCs and cotinine as well as the effects of VOCs on cotinine metabolism were analyzed by Spearman correlation analysis and multivariable logistic regression analysis, respectively. Among HIV, HBV, or HCV infected smokers with the largest exposure dose to tobacco, the intensity of the association between VOCs and cotinine was the strongest. The results of multivariable binary logistic regression showed that high concentrations of 1,2-Dichlorobenzene (OR:1.036, CI:1.009–1.124), Benzene (OR:1.478, CI:1.036–2.292), Carbon Tetrachloride (OR:1.576, CI:1.275–2.085) and 2,5-Dimethylfuran (OR:1.091, CI:1.030–1.157) in blood might be independent risk factors leading to the increase of serum metabolite cotinine in smokers.",
+  "Disease_List": [
+    "HIV",
+    "HBV",
+    "HCV"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: human immunodeficiency virus (HIV), hepatitis B virus (HBV), and hepatitis C virus (HCV). These are well-known specific diseases rather than general health conditions. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "HIV",
+    "HBV",
+    "HCV"
+  ],
+  "UMLS_search_results": {
+    "HIV": [
+      {
+        "ui": "C0019682",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019682",
+        "name": "HIV",
+        "mesh_id": "D006678"
+      },
+      {
+        "ui": "C0019693",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019693",
+        "name": "HIV Infections",
+        "mesh_id": "D015658"
+      },
+      {
+        "ui": "C0086413",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0086413",
+        "name": "HIV Vaccine",
+        "mesh_id": "D016915"
+      }
+    ],
+    "HBV": [
+      {
+        "ui": "C0019169",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019169",
+        "name": "hepatitis B virus",
+        "mesh_id": "D006515"
+      },
+      {
+        "ui": "C0019163",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019163",
+        "name": "Hepatitis B",
+        "mesh_id": "D006509"
+      }
+    ],
+    "HCV": [
+      {
+        "ui": "C0079500",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079500",
+        "name": "Hepatitis C-Like Viruses",
+        "mesh_id": "D016174"
+      },
+      {
+        "ui": "C0220847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220847",
+        "name": "hepatitis C virus",
+        "mesh_id": "D016174"
+      },
+      {
+        "ui": "C0019196",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019196",
+        "name": "Hepatitis C",
+        "mesh_id": "D006526"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

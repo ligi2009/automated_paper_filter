@@ -1,0 +1,73 @@
+{
+  "id": 3568,
+  "title": "Breath analysis for the detection of digestive tract malignancies: systematic review",
+  "Abstract": "Abstract Background In recent decades there has been growing interest in the use of volatile organic compounds (VOCs) in exhaled breath as biomarkers for the diagnosis of multiple variants of cancer. This review aimed to evaluate the diagnostic accuracy and current status of VOC analysis in exhaled breath for the detection of cancer in the digestive tract. Methods PubMed and the Cochrane Library database were searched for VOC analysis studies, in which exhaled air was used to detect gastro-oesophageal, liver, pancreatic, and intestinal cancer in humans, Quality assessment was performed using the QUADAS-2 criteria. Data on diagnostic performance, VOCs with discriminative power, and methodological information were extracted from the included articles. Results Twenty-three articles were included (gastro-oesophageal cancer n = 14, liver cancer n = 1, pancreatic cancer n = 2, colorectal cancer n = 6). Methodological issues included different modalities of patient preparation and sampling and platform used. The sensitivity and specificity of VOC analysis ranged from 66.7 to 100 per cent and from 48.1 to 97.9 per cent respectively. Owing to heterogeneity of the studies, no pooling of the results could be performed. Of the VOCs found, 32 were identified in more than one study. Nineteen were reported as cancer type-specific, whereas 13 were found in different cancer types. Overall, decanal, nonanal, and acetone were the most frequently identified. Conclusion The literature on VOC analysis has documented a lack of standardization in study designs. Heterogeneity between the studies and insufficient validation of the results make interpretation of the outcomes challenging. To reach clinical applicability, future studies on breath analysis should provide an accurate description of the methodology and validate their findings.",
+  "Disease_List": [
+    "gastro-oesophageal cancer",
+    "liver cancer",
+    "pancreatic cancer",
+    "colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names related to cancer types in the digestive tract, including gastro-oesophageal cancer, liver cancer, pancreatic cancer, and colorectal cancer. These are specific diseases rather than general terms like 'disease' or 'illness', which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "liver cancer",
+    "pancreatic cancer",
+    "colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "gastro-oesophageal cancer": [],
+    "liver cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      },
+      {
+        "ui": "C0279000",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0279000",
+        "name": "Liver and Intrahepatic Biliary Tract Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "pancreatic cancer": [
+      {
+        "ui": "C0346647",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0346647",
+        "name": "Malignant neoplasm of pancreas",
+        "mesh_id": "D010190"
+      },
+      {
+        "ui": "C0235974",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0235974",
+        "name": "Pancreatic carcinoma",
+        "mesh_id": "D010190"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

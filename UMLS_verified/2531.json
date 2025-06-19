@@ -1,0 +1,87 @@
+{
+  "id": 2531,
+  "title": "Optimization of a simple, effective, and greener methodology for polycyclic aromatic hydrocarbon extraction from human adipose tissue.",
+  "Abstract": "Polycyclic aromatic hydrocarbons (PAHs) are environmentally persistent organic pollutants formed during incomplete combustion and pyrolysis processes. Humans are continuously exposed to PAHs which are linked to severe health effects such as diabetes, cancer, infertility, and poor foetal development, amongst others. PAHs are lipophilic compounds prone to accumulating in adipose tissue. Even though adipose tissue is the ideal matrix to assess over time accumulation of lipophilic pollutants, only a few analytical methods have been developed for this matrix. Aiming to reduce the existent gap, a method for the extraction of PAHs from adipose tissue samples using ultrasound-assisted extraction (UAE) was developed. The behaviour of PAHs (retention, adsorption, and volatilization) over several steps of the analytical procedure was studied. Validation tests were performed on the optimized method. PAHs were quantified using a high performance liquid chromatography (HPLC) system equipped with a photodiode array (PDA) and fluorescence (FLD) detector inline. The method achieved a low matrix effect and presents low method detection (MDL) and quantification (MQL) limits, showing suitability for a selective and sensitive determination of PAHs in adipose tissue. The extraction is performed with 0.4 g of adipose tissue and 6 mL of n-hexane and it does not require clean-up afterwards. Additionally, an Eco-Scale score of 74 and an Analytical GREEnness score of 0.66 were obtained. The method achieved is effective, simpler, greener, and easy to perform, being an alternative to conventional extraction methods. Furthermore, this method can be used as a multi-analyte methodology since it has been previously validated by the authors for the analysis of other lipophilic compounds. Naphthalene (Naph), acenaphthene (Ace), fluorene (Flu), phenanthrene (Phe), anthracene (Ant), fluoranthene (Fln), pyrene (Pyr) and benzo[k]fluoranthene (B[k]Ft) were found in all the tested adipose tissue samples.",
+  "Disease_List": [
+    "diabetes",
+    "cancer",
+    "infertility",
+    "poor foetal development"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and health conditions linked to PAHs exposure, including diabetes, cancer, infertility, and poor foetal development. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes",
+    "cancer",
+    "infertility"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "infertility": [
+      {
+        "ui": "C0021359",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021359",
+        "name": "Infertility",
+        "mesh_id": "D007246"
+      },
+      {
+        "ui": "C4074771",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4074771",
+        "name": "Sterility, Reproductive",
+        "mesh_id": "D007246"
+      }
+    ],
+    "poor foetal development": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

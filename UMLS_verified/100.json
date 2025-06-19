@@ -1,0 +1,39 @@
+{
+  "id": 100,
+  "title": "Air Pollution and the Airways: Lessons from a Century of Human Urbanization",
+  "Abstract": "Since the industrial revolution, air pollution has become a major problem causing several health problems involving the airways as well as the cardiovascular, reproductive, or neurological system. According to the WHO, about 3.6 million deaths every year are related to inhalation of polluted air, specifically due to pulmonary diseases. Polluted air first encounters the airways, which are a major human defense mechanism to reduce the risk of this aggressor. Air pollution consists of a mixture of potentially harmful compounds such as particulate matter, ozone, carbon monoxide, volatile organic compounds, and heavy metals, each having its own effects on the human body. In the last decades, a lot of research investigating the underlying risks and effects of air pollution and/or its specific compounds on the airways, has been performed, involving both in vivo and in vitro experiments. The goal of this review is to give an overview of the recent data on the effects of air pollution on healthy and diseased airways or models of airway disease, such as asthma or chronic obstructive pulmonary disease. Therefore, we focused on studies involving pollution and airway symptoms and/or damage both in mice and humans.",
+  "Disease_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to airway conditions, namely 'asthma' and 'chronic obstructive pulmonary disease'. These are named diseases rather than general terms like 'disease' or 'health conditions'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

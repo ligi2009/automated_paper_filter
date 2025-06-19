@@ -1,0 +1,239 @@
+{
+  "id": 1492,
+  "title": "The wide spectrum high biocidal potency of Bioxy formulation when dissolved in water at different concentrations",
+  "Abstract": "Traditional surface disinfectants that have long been applied in medicine, animal husbandry, manufacturing and institutions are inconvenient at best and dangerous at worst. Moreover, some of these substances have adverse environmental impacts: for example, quaternary ammonium compounds (“quats”) are reproductive toxicants in both fish and mammals. Halogens are corrosive both to metals and living tissues, are highly reactive, can be readily neutralized by metals, and react with organic matter to form toxic, persistent by-products such as dioxins and furans. Aldehydes may be carcinogenic to both human and animals upon repeated exposures, are corrosive, cross-link living tissues and many synthetic materials, and may lose efficacy when pathogens enzymatically adapt to them. Alcohols are flammable and volatile and can be enzymatically degraded by certain bacterial pathogens. Quats are highly irritating to mucous membranes and over time can induce pathogen resistance, especially if they are not alternated with functionally different disinfectants. In contrast, peracetic acid (PAA), a potent oxidizer, liberates hydrogen peroxide (itself a disinfectant), biodegrades to carbon dioxide, water and oxygen, and is at least as efficacious as contact biocides e.g., halogens and aldehydes. Nevertheless, the standard form of liquid PAA is highly corrosive, is neutralized by metals and organic matter, gives off noxious odours and must be stored in vented containers. For the reasons stated above, Bioxy formulations were developed, a series of powder forms of PAA, which are odourless, stable in storage and safe to transport and handle. They generate up to 10% PAA in situ when dissolved in water. A 0.2% aqueous solution of Bioxy (equivalent to 200 ppm PAA) effected a 6.76 log reduction in Methicillin-resistant Staphylococcus aureus (MRSA) within 2 minutes after application. A 5% aqueous solution of Bioxy achieved a 3.93 log reduction in the bovine tuberculosis bacillus Mycobacterium bovis, within 10 minutes after contact. A 1% solution of Bioxy reduced vancomycin-resistant enterococci (VRE) and Pseudomonas aeruginosa by 6.31 and 7.18 logs, respectively, within 3 minutes after application. A 0.5% solution of Bioxy inactivated porcine epidemic diarrhea virus (PEDV) within 15 minutes of contact, and a 5% solution of Bioxy realized a 5.36 log reduction in the spores of Clostridium difficile within 10 minutes of application. In summary, Bioxy is safe and easy to transport and store, poses negligible human, animal and environmental health risks, shows high levels of pathogen control efficacy and does not induce microbial resistance. Further investigations are recommended to explore its use as an industrial biocide.",
+  "Disease_List": [
+    "Methicillin-resistant Staphylococcus aureus (MRSA)",
+    "bovine tuberculosis",
+    "vancomycin-resistant enterococci (VRE)",
+    "porcine epidemic diarrhea virus (PEDV)",
+    "Clostridium difficile"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-causing agents and diseases: Methicillin-resistant Staphylococcus aureus (MRSA) is a well-known antibiotic-resistant bacterial infection; bovine tuberculosis caused by Mycobacterium bovis is a specific disease affecting cattle; vancomycin-resistant enterococci (VRE) are bacteria associated with difficult-to-treat infections; porcine epidemic diarrhea virus (PEDV) causes a specific viral disease in pigs; and Clostridium difficile is a bacterium causing severe intestinal disease. These are all specific diseases or pathogens linked to diseases, not just general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Methicillin-resistant Staphylococcus aureus (MRSA)",
+    "bovine tuberculosis",
+    "Clostridium difficile"
+  ],
+  "UMLS_search_results": {
+    "Methicillin-resistant Staphylococcus aureus (MRSA)": [
+      {
+        "ui": "C1265292",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1265292",
+        "name": "Methicillin-Resistant Staphylococcus aureus",
+        "mesh_id": "D055624"
+      }
+    ],
+    "bovine tuberculosis": [
+      {
+        "ui": "C0041307",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041307",
+        "name": "Tuberculosis, Bovine",
+        "mesh_id": "D014380"
+      }
+    ],
+    "vancomycin-resistant enterococci (VRE)": [],
+    "porcine epidemic diarrhea virus (PEDV)": [],
+    "Clostridium difficile": [
+      {
+        "ui": "C0079134",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0079134",
+        "name": "Clostridioides difficile",
+        "mesh_id": "D016360"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "quaternary ammonium compounds",
+    "halogens",
+    "dioxins",
+    "furans",
+    "aldehydes",
+    "alcohols",
+    "peracetic acid",
+    "hydrogen peroxide",
+    "carbon dioxide",
+    "water",
+    "oxygen"
+  ],
+  "compound_CID": [
+    {
+      "quaternary ammonium compounds": "None",
+      "halogens": "None",
+      "dioxins": "None",
+      "furans": "None",
+      "aldehydes": 712,
+      "alcohols": "None",
+      "peracetic acid": 6585,
+      "hydrogen peroxide": 784,
+      "carbon dioxide": 280,
+      "water": 962,
+      "oxygen": 977
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "quaternary ammonium compounds_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that quaternary ammonium compounds (quats) are traditional surface disinfectants used in various settings. It specifically mentions that quats can induce pathogen resistance over time if not alternated with other disinfectants. Since MRSA is a pathogen, the implication is that quats have an effect on MRSA, particularly in the context of disinfection and potential resistance development. Therefore, there is evidence of a relationship between quaternary ammonium compounds and MRSA, primarily related to disinfection efficacy and resistance induction."
+      },
+      "quaternary ammonium compounds_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses quaternary ammonium compounds (quats) primarily in the context of their toxicity, environmental impact, and potential to induce pathogen resistance. It does not provide any evidence or mention of quats being effective against or related to bovine tuberculosis. Instead, the abstract highlights the efficacy of Bioxy formulations (peracetic acid-based) in reducing the bovine tuberculosis bacillus Mycobacterium bovis. Therefore, there is no clear relationship established between quaternary ammonium compounds and bovine tuberculosis in the abstract."
+      },
+      "quaternary ammonium compounds_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses quaternary ammonium compounds (quats) as traditional disinfectants that are reproductive toxicants and can induce pathogen resistance over time if not alternated with other disinfectants. However, it does not provide any evidence that quaternary ammonium compounds have a direct relationship with Clostridium difficile, either in terms of treatment efficacy or disease causation. Instead, the abstract highlights that Bioxy formulations containing peracetic acid effectively reduce Clostridium difficile spores, but no such efficacy or relationship is mentioned for quaternary ammonium compounds."
+      }
+    },
+    {
+      "halogens_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "Y",
+        "reason": "The abstract mentions halogens as a type of contact biocide that is at least as efficacious as peracetic acid (PAA) and aldehydes. Although the primary focus is on Bioxy formulations (which generate PAA) and their efficacy against MRSA, halogens are included in the comparison group of effective disinfectants. This implies that halogens have disinfectant properties relevant to controlling pathogens such as MRSA. Therefore, there is evidence of a relationship between halogens and MRSA in the context of antimicrobial activity."
+      },
+      "halogens_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses halogens as a class of disinfectants, noting their corrosive nature and formation of toxic by-products, but does not provide any direct evidence or specific information linking halogens to the treatment, prevention, or causation of bovine tuberculosis. Instead, the abstract highlights the efficacy of Bioxy formulations (peracetic acid-based) against Mycobacterium bovis, the causative agent of bovine tuberculosis, without attributing this effect to halogens. Therefore, there is no clear relationship established between halogens and bovine tuberculosis in the abstract."
+      },
+      "halogens_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses halogens as a class of disinfectants, noting their corrosive nature and formation of toxic by-products, but does not provide any specific evidence linking halogens directly to the control or treatment of Clostridium difficile. Instead, the abstract highlights the efficacy of Bioxy formulations (peracetic acid-based) in achieving significant log reductions in Clostridium difficile spores. While halogens are mentioned as a comparison to Bioxy's efficacy, there is no direct evidence or data presented in the abstract that establishes a relationship between halogens and Clostridium difficile. Therefore, based on the abstract content, no clear relationship between halogens and Clostridium difficile can be concluded."
+      }
+    },
+    {
+      "dioxins_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract discusses various disinfectants and their effects on pathogens including MRSA. It mentions that halogens can react with organic matter to form toxic, persistent by-products such as dioxins and furans, highlighting the environmental impact of some disinfectants. However, there is no evidence or indication in the abstract that dioxins have any direct relationship with MRSA, either in terms of causing, influencing, or treating the disease. The focus on MRSA is related to the efficacy of Bioxy (a peracetic acid formulation) in reducing MRSA populations, not on dioxins. Therefore, based on the abstract, there is no clear relationship between dioxins and MRSA."
+      },
+      "dioxins_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses various disinfectants and their effects on pathogens, including Mycobacterium bovis, the causative agent of bovine tuberculosis. It mentions that halogens can react with organic matter to form toxic by-products such as dioxins and furans, but does not provide any evidence or discussion linking dioxins themselves to bovine tuberculosis. The focus is on disinfectant efficacy and safety, with no indication that dioxins have a direct or indirect relationship with the disease bovine tuberculosis."
+      },
+      "dioxins_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses dioxins only as toxic, persistent by-products formed from the reaction of halogens with organic matter during disinfection processes. It does not provide any evidence or mention a direct relationship between dioxins and the disease Clostridium difficile. Instead, the abstract focuses on the efficacy of Bioxy (a peracetic acid formulation) in reducing Clostridium difficile spores, without linking dioxins to the disease. Therefore, there is no clear relationship indicated between dioxins and Clostridium difficile based on the abstract."
+      }
+    },
+    {
+      "furans_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract mentions furans only as toxic, persistent by-products formed from halogens reacting with organic matter, highlighting their environmental impact. There is no evidence or indication in the abstract that furans have any direct relationship with Methicillin-resistant Staphylococcus aureus (MRSA), either in terms of treatment, causation, or interaction. The disinfectant efficacy against MRSA is attributed to Bioxy formulations generating peracetic acid, not to furans."
+      },
+      "furans_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract mentions furans only as toxic, persistent by-products formed when halogens react with organic matter. There is no indication or evidence in the abstract that furans have any direct or indirect relationship with bovine tuberculosis or its causative agent, Mycobacterium bovis. The discussion of bovine tuberculosis in the abstract is limited to the efficacy of Bioxy (a peracetic acid formulation) in reducing Mycobacterium bovis, with no mention of furans affecting the disease or the pathogen."
+      },
+      "furans_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract mentions furans only as toxic, persistent by-products formed when halogens react with organic matter. There is no indication or evidence in the abstract that furans have any direct relationship with Clostridium difficile. The discussion of Clostridium difficile is limited to the efficacy of Bioxy (a peracetic acid formulation) in reducing its spores, with no mention of furans affecting or being related to this pathogen or disease."
+      }
+    },
+    {
+      "aldehydes_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract mentions aldehydes as traditional surface disinfectants that may lose efficacy when pathogens enzymatically adapt to them and have potential carcinogenic and corrosive effects. However, it does not provide any evidence that aldehydes are effective against Methicillin-resistant Staphylococcus aureus (MRSA). Instead, the abstract highlights the efficacy of Bioxy formulations (peracetic acid-based) in significantly reducing MRSA populations. Therefore, there is no clear evidence in the abstract of a relationship between aldehydes and MRSA in terms of effective pathogen control."
+      },
+      "aldehydes_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses aldehydes as traditional surface disinfectants that may be carcinogenic and corrosive, but it does not provide any evidence of a direct relationship between aldehydes and bovine tuberculosis. The only mention of bovine tuberculosis is in relation to the efficacy of Bioxy (a peracetic acid formulation) in reducing Mycobacterium bovis, the causative agent of bovine tuberculosis. There is no indication that aldehydes have any specific effect on bovine tuberculosis or its causative agent in the abstract."
+      },
+      "aldehydes_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses aldehydes primarily in the context of their general properties as disinfectants, including potential carcinogenicity, corrosiveness, and loss of efficacy due to enzymatic adaptation by pathogens. However, it does not provide any specific evidence or mention a direct relationship between aldehydes and Clostridium difficile. Instead, the abstract highlights the efficacy of Bioxy (a peracetic acid-based disinfectant) in reducing Clostridium difficile spores, without linking aldehydes to this effect or disease. Therefore, there is no clear relationship established between aldehydes and Clostridium difficile in the abstract."
+      }
+    },
+    {
+      "alcohols_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract mentions alcohols only in the context of their physical properties (flammability, volatility) and the fact that they can be enzymatically degraded by certain bacterial pathogens. There is no evidence or data presented in the abstract indicating that alcohols have any efficacy or relationship with Methicillin-resistant Staphylococcus aureus (MRSA). Instead, the abstract focuses on the efficacy of Bioxy formulations (peracetic acid-based) in reducing MRSA and other pathogens. Therefore, based on the abstract, there is no clear relationship between alcohols and MRSA."
+      },
+      "alcohols_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses alcohols primarily in the context of their physical and chemical properties, such as being flammable, volatile, and enzymatically degradable by certain bacterial pathogens. It does not provide any evidence or mention of alcohols having a direct or indirect relationship with bovine tuberculosis or its causative agent, Mycobacterium bovis. Instead, the abstract highlights the efficacy of Bioxy (a peracetic acid formulation) against Mycobacterium bovis, but does not link alcohols to the disease or its control."
+      },
+      "alcohols_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses alcohols primarily in the context of their properties as disinfectants, noting that they are flammable, volatile, and can be enzymatically degraded by certain bacterial pathogens. However, it does not provide any evidence or mention a direct relationship between alcohols and Clostridium difficile. Instead, the abstract highlights the efficacy of Bioxy (a peracetic acid formulation) in reducing Clostridium difficile spores, without linking alcohols to this effect or disease. Therefore, based on the abstract, there is no clear relationship established between alcohols and Clostridium difficile."
+      }
+    },
+    {
+      "peracetic acid_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "Y",
+        "reason": "The abstract provides clear evidence of a relationship between peracetic acid (PAA) and Methicillin-resistant Staphylococcus aureus (MRSA). It states that a 0.2% aqueous solution of Bioxy, which generates 200 ppm PAA in situ, achieved a 6.76 log reduction in MRSA within 2 minutes after application. This demonstrates that peracetic acid is effective in significantly reducing MRSA, indicating a direct antimicrobial effect against this pathogen."
+      },
+      "peracetic acid_bovine_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes peracetic acid (PAA) as a potent oxidizer and disinfectant that is effective against various pathogens. Specifically, it mentions that a 5% aqueous solution of Bioxy, which generates PAA in situ, achieved a 3.93 log reduction in the bovine tuberculosis bacillus Mycobacterium bovis within 10 minutes after contact. This indicates that peracetic acid has demonstrated efficacy in reducing the bacterial load of the causative agent of bovine tuberculosis, establishing a clear relationship between peracetic acid and the disease."
+      },
+      "peracetic acid_Clostridium_difficile": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that peracetic acid (PAA), specifically in the form of Bioxy formulations, is effective in reducing the spores of Clostridium difficile. A 5% solution of Bioxy, which generates up to 10% PAA in situ, achieved a 5.36 log reduction in Clostridium difficile spores within 10 minutes of application. This demonstrates a clear relationship between peracetic acid and the control of Clostridium difficile, indicating its efficacy as a disinfectant against this pathogen."
+      }
+    },
+    {
+      "hydrogen peroxide_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "Y",
+        "reason": "The abstract describes Bioxy formulations that generate peracetic acid (PAA) in situ, which liberates hydrogen peroxide, a known disinfectant. A 0.2% aqueous solution of Bioxy (equivalent to 200 ppm PAA) achieved a 6.76 log reduction in Methicillin-resistant Staphylococcus aureus (MRSA) within 2 minutes after application. This indicates that hydrogen peroxide, as part of the PAA generation process, is involved in effectively reducing MRSA populations, demonstrating a clear relationship between hydrogen peroxide and MRSA control."
+      },
+      "hydrogen peroxide_bovine_tuberculosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes Bioxy formulations that liberate hydrogen peroxide and peracetic acid (PAA) as disinfectants. It specifically mentions that a 5% aqueous solution of Bioxy achieved a 3.93 log reduction in the bovine tuberculosis bacillus Mycobacterium bovis within 10 minutes after contact. Since hydrogen peroxide is a component liberated by Bioxy and is itself a disinfectant, there is evidence that hydrogen peroxide is related to the control or reduction of the pathogen causing bovine tuberculosis. Therefore, the abstract supports a relationship between hydrogen peroxide and bovine tuberculosis through its disinfectant activity against Mycobacterium bovis."
+      },
+      "hydrogen peroxide_Clostridium_difficile": {
+        "relationship": "Y",
+        "reason": "The abstract describes Bioxy formulations that liberate hydrogen peroxide and peracetic acid (PAA) as disinfectants. It specifically mentions that a 5% solution of Bioxy, which generates up to 10% PAA and liberates hydrogen peroxide, achieved a 5.36 log reduction in the spores of Clostridium difficile within 10 minutes of application. This indicates that hydrogen peroxide, as part of the Bioxy formulation, is effective in inactivating Clostridium difficile spores, demonstrating a clear relationship between hydrogen peroxide and the disease-causing organism Clostridium difficile."
+      }
+    },
+    {
+      "carbon dioxide_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of peracetic acid (PAA) and Bioxy formulations as disinfectants effective against Methicillin-resistant Staphylococcus aureus (MRSA). It mentions that PAA biodegrades to carbon dioxide, water, and oxygen, but there is no direct evidence or indication that carbon dioxide itself has any effect on MRSA. The relationship described is between PAA (and its formulations) and MRSA, not carbon dioxide and MRSA. Carbon dioxide is only mentioned as a biodegradation product, not as an active agent against MRSA."
+      },
+      "carbon dioxide_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses various disinfectants and their efficacy against pathogens, including the bovine tuberculosis bacillus Mycobacterium bovis. It mentions that peracetic acid (PAA) biodegrades to carbon dioxide, water, and oxygen, but the disinfectant effect is attributed to PAA and not to carbon dioxide itself. There is no evidence in the abstract that carbon dioxide has any direct relationship or effect on bovine tuberculosis. Carbon dioxide is only mentioned as a biodegradation product, not as an active compound influencing the disease."
+      },
+      "carbon dioxide_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of peracetic acid (PAA) and its formulations (Bioxy) as disinfectants effective against various pathogens, including Clostridium difficile spores. It mentions that PAA biodegrades to carbon dioxide, water, and oxygen, but does not indicate any direct relationship between carbon dioxide itself and Clostridium difficile. Carbon dioxide is described only as a biodegradation product of PAA, not as a compound affecting or related to the disease caused by Clostridium difficile. Therefore, there is no clear evidence in the abstract of a relationship between carbon dioxide and Clostridium difficile."
+      }
+    },
+    {
+      "water_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of Bioxy, a powder form of peracetic acid (PAA), which when dissolved in water generates PAA and exhibits strong disinfectant properties against MRSA. However, the disinfectant effect is attributed to the PAA generated in situ, not to water itself. Water serves as a solvent or medium for activating Bioxy but is not described as having any direct antimicrobial effect on MRSA. Therefore, there is no clear evidence in the abstract that water alone has a relationship with MRSA in terms of disinfection or disease control."
+      },
+      "water_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of Bioxy formulations, which generate peracetic acid (PAA) when dissolved in water, as effective disinfectants against various pathogens including the bovine tuberculosis bacillus Mycobacterium bovis. However, the relationship is between the disinfectant Bioxy (and its active compound PAA) in aqueous solution and the disease agent, not water itself. Water is described as the solvent medium for Bioxy but is not indicated to have any direct relationship with bovine tuberculosis. Therefore, there is no clear evidence that water alone has a relationship with bovine tuberculosis based on this abstract."
+      },
+      "water_Clostridium_difficile": {
+        "relationship": "Y",
+        "reason": "The abstract describes Bioxy formulations that generate peracetic acid (PAA) in situ when dissolved in water, creating aqueous solutions that effectively reduce or inactivate various pathogens, including Clostridium difficile spores. Specifically, a 5% aqueous solution of Bioxy (which involves water as the solvent) achieved a 5.36 log reduction in Clostridium difficile spores within 10 minutes. This indicates that water, as the medium in which Bioxy is dissolved, plays a critical role in delivering the disinfectant effect against Clostridium difficile. Therefore, there is evidence of a relationship between water (as the solvent for the disinfectant) and the disease Clostridium difficile in terms of pathogen control."
+      }
+    },
+    {
+      "oxygen_Methicillin-resistant_Staphylococcus_aureus_(MRSA)": {
+        "relationship": "N",
+        "reason": "The abstract discusses the efficacy of Bioxy formulations, which generate peracetic acid (PAA) and subsequently liberate hydrogen peroxide and oxygen as by-products, in reducing Methicillin-resistant Staphylococcus aureus (MRSA). However, the antimicrobial effect is attributed primarily to peracetic acid and hydrogen peroxide, not directly to oxygen itself. Oxygen is mentioned only as a biodegradation product and not as an active agent against MRSA. Therefore, there is no clear evidence in the abstract of a direct relationship between oxygen alone and MRSA control."
+      },
+      "oxygen_bovine_tuberculosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of Bioxy formulations, which generate peracetic acid (PAA) and subsequently biodegrade to carbon dioxide, water, and oxygen, as disinfectants effective against various pathogens including the bovine tuberculosis bacillus Mycobacterium bovis. However, the role of oxygen itself is not described as having a direct relationship with bovine tuberculosis. Instead, oxygen is mentioned as a by-product of the biodegradation of PAA, which is the active disinfectant agent. Therefore, there is no clear evidence in the abstract that oxygen directly affects or relates to bovine tuberculosis."
+      },
+      "oxygen_Clostridium_difficile": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of Bioxy formulations, which generate peracetic acid and oxygen upon dissolution, as effective disinfectants against various pathogens including Clostridium difficile spores. However, the disinfectant efficacy is attributed to peracetic acid and the overall Bioxy formulation rather than oxygen alone. There is no direct evidence or specific mention in the abstract that oxygen by itself has a relationship with Clostridium difficile, either in terms of causing, treating, or affecting the disease. Therefore, no clear relationship between the compound 'oxygen' and the disease 'Clostridium difficile' can be established based on this abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as quaternary ammonium compounds (quats), halogens, dioxins, furans, aldehydes, alcohols, peracetic acid (PAA), hydrogen peroxide, carbon dioxide, water, and oxygen. These are identified as named chemical substances with distinct chemical identities, as opposed to general terms like 'chemicals' or 'compounds'."
+}

@@ -1,0 +1,164 @@
+{
+  "id": 4139,
+  "title": "SMOG: Causes, Effects and Preventions",
+  "Abstract": "Dear Editor, Recently many cities of Pakistan have been struck by the havoc of smog. Smog is formed when pollutants like nitrogen oxide, carbon monoxide and volatile organic compounds that are released from automobiles, industries and burning of fossil fuels interact with sunlight. These photochemical reactions usually occur in summers and leads to the development of ground level ozone or bad ozone (O 3 ) which is an important smog causing pollutant. This ozone adversely affects human health specially respiratory and cardiovascular system and is among the cause of premature deaths. 1 Fine particulates of 2.5 micrometer or less are also among the pollutants found in smog and haze. 2 Mechanism behind the damaging effect of ozone on cardiopulmonary system is explained to be due to high oxidizing power of ozone that forms free radicals exposing body to oxidative stress. Also, ozone and fine particulate air pollution are found to cause acute arterial vasoconstriction normally. 2 Moreover, Ozone causes reduction in vital capacity and forced expiratory volume in 1s, increase in lung resistance along with worsening of asthma in summers. It increases the release of allergens from pollens leading to respiratory allergy symptoms 3 and making the respiratory problems even worse. Reactive oxygen species like hydroxyl and superoxide anion radicals produced in body by ozone and other pollutants increases the susceptibility of cancer in a person due to mutagenic properties of reactive oxygen species and their damaging effect on body cells. 3 Knowledge about Secondary preventive measures that one should take during smog must be spread as it will help people to cope up from the situation in a better way next time. These measures are minimal exposure to outdoor air but if exposure is inescapable than a facemask should be worn. Elderly and people experiencing any cardiac or respiratory illness are more prone to harmful effects of smog. These patients should increase the dosage of medication on their physician’s advice to prevent worsening of disease. Supplements and food containing antioxidants like omega 3 fatty acids when added to diet may help against oxidative stress caused by pollutants. 4 Steps should be taken to avoid the recurrence of this calamity. Media campaign for public awareness regarding the sources of pollutants causing smog should be launched. Banning deforestation and promotion of tree implantation is required nationwide as trees transpire and decreases temperature by cooling effect which indirectly prevents photochemical reactions to occur and minimizing the formation of air pollutants. 3 Recycling of solid waste is a good alternative to open burning of waste and garbage. Using low emission, low carbon fuels and combustion free power sources like wind and solar powerare important for primary prevention as these are safer for health and are also low cost and energy efficient. 1",
+  "Disease_List": [
+    "asthma",
+    "respiratory allergy symptoms",
+    "cancer",
+    "cardiac illness",
+    "respiratory illness"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as asthma and cancer. It also refers to respiratory allergy symptoms and cardiac and respiratory illnesses, which are specific health conditions related to diseases. Therefore, the classification is 'Y' for yes, with the listed diseases identified from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory allergy symptoms": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "cardiac illness": [],
+    "respiratory illness": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nitrogen oxide",
+    "carbon monoxide",
+    "volatile organic compounds",
+    "ozone",
+    "O3",
+    "hydroxyl",
+    "superoxide anion radicals",
+    "omega 3 fatty acids"
+  ],
+  "compound_CID": [
+    {
+      "nitrogen oxide": "None",
+      "carbon monoxide": 281,
+      "volatile organic compounds": "None",
+      "ozone": 24823,
+      "O3": 24823,
+      "hydroxyl": 157350,
+      "superoxide anion radicals": "None",
+      "omega 3 fatty acids": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nitrogen oxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that nitrogen oxide is a pollutant released from automobiles, industries, and burning of fossil fuels, which contributes to the formation of smog and ground-level ozone. Ozone, formed through photochemical reactions involving nitrogen oxide, adversely affects respiratory health and is specifically mentioned to worsen asthma symptoms by increasing lung resistance and causing respiratory allergy symptoms. Although the direct effect of nitrogen oxide on asthma is not explicitly stated, its role in producing ozone, which worsens asthma, establishes an indirect relationship between nitrogen oxide and asthma."
+      },
+      "nitrogen oxide_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explains that nitrogen oxide is one of the pollutants released from automobiles, industries, and burning of fossil fuels that contribute to smog formation. Smog leads to the production of reactive oxygen species (ROS) such as hydroxyl and superoxide anion radicals in the body. These ROS have mutagenic properties and cause oxidative stress, which increases susceptibility to cancer by damaging body cells. Therefore, there is evidence in the abstract linking nitrogen oxide indirectly to cancer through its role in smog formation and subsequent generation of ROS that promote carcinogenesis."
+      }
+    },
+    {
+      "carbon monoxide_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses carbon monoxide as one of the pollutants contributing to smog formation but does not provide direct evidence linking carbon monoxide itself to asthma. Instead, it highlights ozone, a secondary pollutant formed through photochemical reactions involving carbon monoxide and other compounds, as having a clear adverse effect on respiratory health, including worsening asthma symptoms. The damaging effects on asthma are attributed specifically to ozone and fine particulate matter, not carbon monoxide directly. Therefore, based on the abstract, there is no clear relationship established between carbon monoxide and asthma."
+      },
+      "carbon monoxide_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the formation of smog involving carbon monoxide and other pollutants, and highlights the health effects of ozone and fine particulate matter, particularly on respiratory and cardiovascular systems. It mentions that reactive oxygen species produced by ozone and other pollutants can increase susceptibility to cancer due to their mutagenic properties. However, the abstract does not provide direct evidence or specific information linking carbon monoxide itself to cancer. The relationship to cancer is attributed to reactive oxygen species generated by ozone and other pollutants, not explicitly to carbon monoxide."
+      }
+    },
+    {
+      "volatile organic compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs) are pollutants released from automobiles, industries, and burning of fossil fuels, which contribute to the formation of smog and ground-level ozone. Ozone, a secondary pollutant formed through photochemical reactions involving VOCs, adversely affects the respiratory system and is specifically mentioned to worsen asthma symptoms. The abstract states that ozone increases lung resistance and worsens asthma in summers, and also increases the release of allergens leading to respiratory allergy symptoms, thereby exacerbating respiratory problems. Since VOCs are precursors to ozone formation, there is an indirect but clear relationship between VOCs and asthma exacerbation as described in the abstract."
+      },
+      "volatile organic compounds_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs) are pollutants that contribute to smog formation. It further describes that ozone and other pollutants generate reactive oxygen species (ROS) such as hydroxyl and superoxide anion radicals in the body. These ROS have mutagenic properties and cause cellular damage, which increases susceptibility to cancer. Therefore, there is evidence in the abstract linking VOCs, through their role in smog and ROS production, to an increased risk of cancer."
+      }
+    },
+    {
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract clearly states that ozone, a major component of smog, adversely affects the respiratory system and specifically mentions that ozone causes worsening of asthma in summers. It increases lung resistance and reduces vital capacity and forced expiratory volume, which are critical factors in asthma pathology. Additionally, ozone increases the release of allergens from pollens, leading to respiratory allergy symptoms and exacerbating respiratory problems such as asthma. Therefore, there is clear evidence in the abstract of a relationship between ozone exposure and asthma exacerbation."
+      },
+      "ozone_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explains that ozone, a major component of smog, has a high oxidizing power that forms free radicals causing oxidative stress in the body. It further states that reactive oxygen species produced by ozone and other pollutants have mutagenic properties and damage body cells, which increases susceptibility to cancer. Therefore, there is evidence in the abstract indicating a relationship between ozone exposure and an increased risk of cancer."
+      }
+    },
+    {
+      "O3_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract clearly states that ozone (O3), a major component of smog, adversely affects the respiratory system and specifically mentions that ozone causes worsening of asthma symptoms in summers. It increases lung resistance and reduces vital capacity and forced expiratory volume, which are critical factors in asthma pathology. Additionally, ozone increases the release of allergens from pollens, leading to respiratory allergy symptoms and exacerbating respiratory problems such as asthma. Therefore, there is clear evidence in the abstract of a relationship between O3 and asthma."
+      },
+      "O3_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explains that ozone (O3), a major component of smog, has a high oxidizing power that forms free radicals causing oxidative stress in the body. It specifically mentions that reactive oxygen species produced by ozone and other pollutants have mutagenic properties and damaging effects on body cells, which increases susceptibility to cancer. Therefore, there is evidence in the abstract indicating a relationship between ozone exposure and an increased risk of cancer."
+      }
+    },
+    {
+      "hydroxyl_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that reactive oxygen species such as hydroxyl radicals are produced in the body by ozone and other pollutants. These reactive oxygen species increase susceptibility to cellular damage and contribute to oxidative stress. The abstract also states that ozone exposure worsens asthma symptoms by increasing lung resistance and triggering respiratory allergies. Since hydroxyl radicals are part of the reactive oxygen species generated by ozone, which in turn worsens asthma, there is evidence of a relationship between hydroxyl radicals and asthma through the mechanism of oxidative stress and inflammation."
+      },
+      "hydroxyl_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that reactive oxygen species like hydroxyl radicals, which are produced in the body by ozone and other pollutants, increase the susceptibility to cancer due to their mutagenic properties and damaging effects on body cells. This indicates a clear relationship between hydroxyl radicals and cancer risk."
+      }
+    },
+    {
+      "superoxide anion radicals_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that superoxide anion radicals, which are reactive oxygen species produced in the body by ozone and other pollutants, contribute to oxidative stress and have damaging effects on body cells. It specifically mentions that ozone exposure worsens asthma symptoms by increasing lung resistance and triggering respiratory allergy symptoms. Since superoxide anion radicals are part of the reactive oxygen species generated during ozone exposure, there is evidence that these radicals are involved in the mechanisms that exacerbate asthma."
+      },
+      "superoxide anion radicals_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that reactive oxygen species, including superoxide anion radicals produced in the body by ozone and other pollutants, increase the susceptibility to cancer due to their mutagenic properties and damaging effects on body cells. This indicates a clear relationship between superoxide anion radicals and cancer."
+      }
+    },
+    {
+      "omega 3 fatty acids_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that asthma symptoms worsen due to exposure to ozone and other pollutants found in smog, which cause oxidative stress. It further states that supplements and foods containing antioxidants like omega 3 fatty acids may help against oxidative stress caused by pollutants. This implies a potential beneficial relationship where omega 3 fatty acids could help mitigate oxidative stress-related worsening of asthma symptoms, indicating evidence of a relationship between omega 3 fatty acids and asthma."
+      },
+      "omega 3 fatty acids_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the harmful effects of pollutants like ozone and reactive oxygen species, which increase susceptibility to cancer due to their mutagenic properties and cellular damage. It further mentions that supplements and foods containing antioxidants, such as omega 3 fatty acids, may help counteract oxidative stress caused by these pollutants. This implies a protective relationship where omega 3 fatty acids could potentially mitigate oxidative stress linked to cancer risk, indicating evidence of a relationship between omega 3 fatty acids and cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds involved in smog formation and its health effects, including nitrogen oxide, carbon monoxide, volatile organic compounds, ozone (O3), reactive oxygen species such as hydroxyl and superoxide anion radicals, and omega 3 fatty acids as antioxidants."
+}

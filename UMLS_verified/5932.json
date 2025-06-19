@@ -1,0 +1,35 @@
+{
+  "id": 5932,
+  "title": "A New Gas Analysis Method Based on Single-Beam Excitation Stimulated Raman Scattering in Hollow Core Photonic Crystal Fiber Enhanced Raman Spectroscopy",
+  "Abstract": "We previously developed a hollow-core photonic crystal fiber (HCPCF) based Raman scattering enhancement technique for gas/human breath analysis. It enhances photon–gas molecule interactions significantly but is still based on CW laser excitation spontaneous Raman scattering, which is a low-probability phenomenon. In this work, we explored nanosecond/sub-nanosecond pulsed laser excitation in HCPCF based fiber enhanced Raman spectroscopy (FERS) and successfully induced stimulated Raman scattering (SRS) enhancement. Raman measurements of simple and complex gases were performed using the new system to assess its feasibility for gas analysis. We studied the gas Raman scattering characteristics, the relationship between Raman intensities and pump energies, and the energy threshold for the transition from spontaneous Raman scattering to SRS. H2, CO2, and propene (C3H6) were used as test gases. Our results demonstrated that a single-beam pulsed pump combined with FERS provides an effective Raman enhancement technique for gas analysis. Furthermore, an energy threshold for SRS initiation was experimentally observed. The SRS-capable FERS system, utilizing a single-beam pulsed pump, shows great potential for analyzing complex gases such as propene, which is a volatile organic compound (VOC) gas, serving as a biomarker in human breath for lung cancer and other human diseases. This work contributes to the advancement of gas analysis and opens alternative avenues for exploring novel Raman enhancement techniques.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease when referring to propene as a biomarker in human breath for lung cancer and other human diseases. Therefore, it meets the criteria for 'Y' since a specific disease name is mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

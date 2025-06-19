@@ -1,0 +1,91 @@
+{
+  "id": 1391,
+  "title": "Potential role of fecal volatile organic compounds as biomarkers of chemically induced intestinal inflammation in mice",
+  "Abstract": "Metabolomics studies have the potential to discover biomarkers. Fecal volatile organic compounds (VOCs) have been found to differ in patients with inflammatory bowel disease and irritable bowel syndrome. Murine models of colitis offer an alternative to human studies in which diet can be controlled. We aimed to investigate fecal VOCs from mice in which acute and chronic colitis was induced. Groups of adult C57BL/6 mice underwent treatment with oral dextran sulfate sodium to induce colitis. Control mice received no treatment or had acute osmotic diarrhea induced with magnesium sulfate. Colitis was assessed clinically and by histology. Samples of feces and/or colon contents were collected and volatile compounds determined by solid phase microextraction–GC‐MS. Statistics were performed using metabolomics tools. Acute colitis was associated with an increase in aldehydes and chronic colitis with one specific ketone. Osmotic diarrhea was associated with a significant reduction in VOCs, especially alcohols. We provide evidence that the identification of disease‐associated VOC concentration ranges, combined with specific marker compounds, would potentially increase the likelihood of finding an inflammatory bowel disease–specific fecal VOC marker profile.—Reade, S., Williams, J. M., Aggio, R., Duckworth, C. A., Mahalhal, A., Hough, R., Pritchard, D. M., Probert, C. S., Potential role of fecal volatile organic compounds as biomarkers of chemically induced intestinal inflammation in mice. FASEB J. 33, 3129–3136 (2019). www.fasebj.org",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'inflammatory bowel disease', 'irritable bowel syndrome', and 'colitis'. These are well-defined medical conditions rather than general terms like 'disease' or 'illness'. The study focuses on fecal volatile organic compounds in patients with these diseases and in murine models of colitis, confirming the presence of specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "colitis"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "irritable bowel syndrome": [
+      {
+        "ui": "C0022104",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022104",
+        "name": "Irritable Bowel Syndrome",
+        "mesh_id": "D043183"
+      }
+    ],
+    "colitis": [
+      {
+        "ui": "C0009319",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009319",
+        "name": "Colitis",
+        "mesh_id": "D003092"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "dextran sulfate sodium",
+    "magnesium sulfate"
+  ],
+  "compound_CID": [
+    {
+      "dextran sulfate sodium": 2337,
+      "magnesium sulfate": 24083
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "dextran sulfate sodium_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study in which oral dextran sulfate sodium (DSS) was used to induce colitis in mice, serving as a model for inflammatory bowel disease (IBD). The use of DSS to induce colitis demonstrates a direct relationship between dextran sulfate sodium and the disease, as it is employed to chemically induce intestinal inflammation characteristic of IBD. Therefore, there is clear evidence from the abstract that dextran sulfate sodium is related to inflammatory bowel disease through its role in experimental induction of the disease model."
+      },
+      "dextran sulfate sodium_irritable_bowel_syndrome": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of dextran sulfate sodium (DSS) to induce colitis in mice, which is a model for inflammatory bowel disease (IBD), not irritable bowel syndrome (IBS). The study focuses on identifying fecal volatile organic compounds associated with chemically induced intestinal inflammation (colitis) and differentiates these from changes seen in osmotic diarrhea. While the abstract mentions irritable bowel syndrome in the context of fecal VOC differences, it does not provide evidence that dextran sulfate sodium is related to IBS. Instead, DSS is used specifically to model colitis, an inflammatory condition distinct from IBS. Therefore, there is no clear relationship between dextran sulfate sodium and irritable bowel syndrome based on this abstract."
+      },
+      "dextran sulfate sodium_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that oral dextran sulfate sodium was used to induce colitis in mice, indicating a direct relationship between the compound dextran sulfate sodium and the disease colitis. The study involved treating mice with dextran sulfate sodium to create a model of acute and chronic colitis, which was then assessed clinically and histologically. This demonstrates that dextran sulfate sodium is causally linked to the induction of colitis in this experimental context."
+      }
+    },
+    {
+      "magnesium sulfate_inflammatory_bowel_disease": {
+        "relationship": "N",
+        "reason": "The abstract describes a study using murine models to investigate fecal volatile organic compounds (VOCs) in inflammatory bowel disease (IBD) induced by dextran sulfate sodium. Magnesium sulfate was used to induce acute osmotic diarrhea in control mice, not to induce or treat IBD. The study found that osmotic diarrhea caused by magnesium sulfate was associated with a reduction in VOCs, but there is no evidence presented that magnesium sulfate has a direct relationship with inflammatory bowel disease itself. Therefore, based on this abstract, there is no clear relationship between magnesium sulfate and IBD."
+      },
+      "magnesium sulfate_irritable_bowel_syndrome": {
+        "relationship": "N",
+        "reason": "The abstract describes a study investigating fecal volatile organic compounds (VOCs) in murine models of colitis and osmotic diarrhea induced by magnesium sulfate. While magnesium sulfate was used to induce acute osmotic diarrhea in control mice, the study does not report any direct relationship between magnesium sulfate and irritable bowel syndrome (IBS). The focus is on inflammatory bowel disease and colitis models, with no evidence presented linking magnesium sulfate to IBS. Therefore, based on this abstract, there is no clear relationship between magnesium sulfate and irritable bowel syndrome."
+      },
+      "magnesium sulfate_colitis": {
+        "relationship": "N",
+        "reason": "The abstract describes a study where magnesium sulfate was used to induce acute osmotic diarrhea in control mice, while colitis was induced using dextran sulfate sodium. The study compares volatile organic compounds in feces from mice with colitis and those with osmotic diarrhea caused by magnesium sulfate. There is no evidence in the abstract that magnesium sulfate causes or is directly related to colitis; rather, it is used as a control treatment to induce diarrhea distinct from colitis. Therefore, no clear relationship between magnesium sulfate and colitis is indicated."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'dextran sulfate sodium' used to induce colitis and 'magnesium sulfate' used to induce osmotic diarrhea. These are specific chemical compounds named in the study, whereas other terms like aldehydes, ketones, and alcohols are general chemical classes rather than specific compounds."
+}

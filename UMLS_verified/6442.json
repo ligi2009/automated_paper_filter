@@ -1,0 +1,39 @@
+{
+  "id": 6442,
+  "title": "Blood and breath profiles of volatile organic compounds in patients with end-stage renal disease",
+  "Abstract": "BackgroundMonitoring of volatile organic compounds (VOCs) in exhaled breath shows great potential as a non-invasive method for assessing hemodialysis efficiency. In this work we aim at identifying and quantifying of a wide range of VOCs characterizing uremic breath and blood, with a particular focus on species responding to the dialysis treatment.MethodsGas chromatography with mass spectrometric detection coupled with solid-phase microextraction as pre-concentration method.ResultsA total of 60 VOCs were reliably identified and quantified in blood and breath of CKD patients. Excluding contaminants, six compounds (isoprene, dimethyl sulfide, methyl propyl sulfide, allyl methyl sulfide, thiophene and benzene) changed their blood and breath levels during the hemodialysis treatment.ConclusionsUremic breath and blood patterns were found to be notably affected by the contaminants from the extracorporeal circuits and hospital room air. Consequently, patient exposure to a wide spectrum of volatile species (hydrocarbons, aldehydes, ketones, aromatics, heterocyclic compounds) is expected during hemodialysis. Whereas highly volatile pollutants were relatively quickly removed from blood by exhalation, more soluble ones were retained and contributed to the uremic syndrome. At least two of the species observed (cyclohexanone and 2-propenal) are uremic toxins. Perhaps other volatile substances reported within this study may be toxic and have negative impact on human body functions. Further studies are required to investigate if VOCs responding to HD treatment could be used as markers for monitoring hemodialysis efficiency.",
+  "Disease_List": [
+    "Chronic Kidney Disease",
+    "uremic syndrome"
+  ],
+  "Reason": "The abstract explicitly mentions 'CKD patients', where CKD stands for Chronic Kidney Disease, a specific disease. It also refers to 'uremic syndrome', which is a specific pathological condition associated with kidney failure. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic Kidney Disease",
+    "uremic syndrome"
+  ],
+  "UMLS_search_results": {
+    "Chronic Kidney Disease": [
+      {
+        "ui": "C1561643",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1561643",
+        "name": "Chronic Kidney Diseases",
+        "mesh_id": "D051436"
+      }
+    ],
+    "uremic syndrome": [
+      {
+        "ui": "C0302810",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0302810",
+        "name": "Uremia syndrome",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

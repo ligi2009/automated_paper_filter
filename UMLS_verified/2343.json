@@ -1,0 +1,68 @@
+{
+  "id": 2343,
+  "title": "Potential Impact of Smog on Human Health",
+  "Abstract": "Smog is a term used to describe pollution suspended in humid air. It's made up of different- sized dust particles, as well as non-metal oxides, organic compounds, and heavy metals. Apart from smoking cigarettes, one of the changeable variables leading to the development of respiratory diseases is exposure to toxic compounds dispersed in the air. . Smog is a visible form of air pollution that arises due to the over-emissions of some primary pollutants like volatile organic compounds (VOCs), hydrocarbons, SO, NO, and NO2 which further react in the atmosphere and give rise to toxic and carcinogenic secondary smog components. There are six categories of airborne chemicals that have a negative impact on public health and cause disease. Ozone, particulate matter (PM) of various dimensions - PM2.5, PM2.5–10, PM10, nitrogen – all has important implications. Lead, carbon dioxide, Sulphur dioxide, and carbon monoxide Small dust particles (PM10 and PM2.5) are given special attention since they can enter the lower respiratory tract. The page examines the impact of atmospheric pollutants on both the development and exacerbation of the disease, in addition to detailing the composition of smog and sources of air pollution. Asthma, chronic obstructive pulmonary disease, respiratory infections, and other respiratory tract illnesses can all cause symptoms. Lung cancer is a type of cancer that affects. Some of the legislative methods used in various nations to reduce exposure to harmful air pollution are presented.",
+  "Disease_List": [
+    "Asthma",
+    "Chronic obstructive pulmonary disease",
+    "Respiratory infections",
+    "Lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'Asthma', 'chronic obstructive pulmonary disease', 'respiratory infections', and 'lung cancer'. These are named diseases rather than general terms like 'disease' or 'illness', which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Asthma",
+    "Chronic obstructive pulmonary disease",
+    "Respiratory infections",
+    "Lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "Chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "Respiratory infections": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "Lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

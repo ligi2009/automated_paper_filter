@@ -1,0 +1,138 @@
+{
+  "id": 16,
+  "title": "Indoor environmental quality evaluation in a hot and arid climate: a case study of a higher education office building",
+  "Abstract": "Indoor Environment Quality (IEQ) refers to the overall environmental quality within a building, especially as it relates to the health and comfort of the building’s occupants. It includes several factors such as lighting levels and indoor air quality (IAQ). As humans spend a significant amount of time indoors; particularly at the workplace for up to 12 hours a day, the IEQ of the office greatly affects one’s overall well-being, health with striking effects on productivity. As for IAQ, in severe cases, high levels of carbon dioxide (CO2), particulate matter (PM), and humidity may cause headache, allergy, and asthma. A higher education (HE) office building located in United Arab Emirates University (UAEU) campus has been taken as a case study. Situated in the UAE, this is characterized by an extremely hot-arid climate. The HE building has been monitored using a set of advanced sensor devices to record indoor environmental data such as the measurements of temperature, relative humidity, lux level, particulate matter 2.5/10(PM 2.5/ 10), carbon dioxide (CO2), and total volatile organic compounds (TVOCs). Results of this paper aim to use the onsite numerical assessment and future POE assessment to verify the building’s performance and discover where the operational gaps are. Better facility management strategies will be suggested to enhance the indoor environmental quality (IEQ) as well as more findings will be discussed in this paper.",
+  "Disease_List": [
+    "allergy",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'allergy' and 'asthma' as health effects related to poor indoor air quality (IAQ). These are specific disease names, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "allergy",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "allergy": [
+      {
+        "ui": "C0020517",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020517",
+        "name": "Hypersensitivity",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C0002111",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002111",
+        "name": "Allergy Specialty",
+        "mesh_id": "D000486"
+      },
+      {
+        "ui": "C0489531",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0489531",
+        "name": "History of allergies",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1314973",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1314973",
+        "name": "Response to antigens",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3539909",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3539909",
+        "name": "Allergic disposition",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1527304",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1527304",
+        "name": "Allergic Reaction",
+        "mesh_id": "D006967"
+      },
+      {
+        "ui": "C1547542",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547542",
+        "name": "Allergy - Charge Type Reason",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon dioxide",
+    "particulate matter 2.5",
+    "particulate matter 10",
+    "total volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "carbon dioxide": 280,
+      "particulate matter 2.5": "None",
+      "particulate matter 10": "None",
+      "total volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon dioxide_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract states that in severe cases, high levels of carbon dioxide (CO2), along with particulate matter and humidity, may cause allergy. This indicates a direct relationship between elevated indoor CO2 levels and the occurrence of allergy symptoms."
+      },
+      "carbon dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that high levels of carbon dioxide (CO2) indoors, as part of indoor air quality (IAQ) factors, may cause asthma among other health issues such as headache and allergy. This suggests a relationship between elevated CO2 levels and asthma symptoms or exacerbation, particularly in indoor environments."
+      }
+    },
+    {
+      "particulate matter 2.5_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract states that high levels of particulate matter (PM), including particulate matter 2.5 (PM2.5), may cause allergy among other health issues such as headache and asthma. This indicates a clear relationship between PM2.5 exposure and the occurrence of allergy symptoms in indoor environments."
+      },
+      "particulate matter 2.5_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that high levels of particulate matter (PM), including particulate matter 2.5 (PM2.5), may cause asthma among other health issues such as headache and allergy. This indicates a relationship between PM2.5 exposure and asthma, as poor indoor air quality with elevated PM2.5 levels is linked to asthma symptoms or exacerbation."
+      }
+    },
+    {
+      "particulate matter 10_allergy": {
+        "relationship": "Y",
+        "reason": "The abstract states that high levels of particulate matter (PM), including particulate matter 10 (PM10), may cause allergy among other health issues such as headache and asthma. This indicates a clear relationship between particulate matter 10 and allergy as part of indoor air quality factors affecting health."
+      },
+      "particulate matter 10_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that high levels of particulate matter (PM), including particulate matter 10 (PM10), in indoor air quality (IAQ) can cause asthma among other health issues. It specifically mentions that severe cases of elevated PM levels may lead to asthma, establishing a clear relationship between particulate matter 10 and asthma."
+      }
+    },
+    {
+      "total volatile organic compounds_allergy": {
+        "relationship": "N",
+        "reason": "The abstract mentions that high levels of carbon dioxide, particulate matter, and humidity may cause headache, allergy, and asthma. Although total volatile organic compounds (TVOCs) were measured as part of the indoor environmental data, the abstract does not provide any evidence or specific mention linking TVOCs to allergy. Therefore, based on the information in the abstract, there is no clear relationship established between total volatile organic compounds and allergy."
+      },
+      "total volatile organic compounds_asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions that high levels of carbon dioxide, particulate matter, and humidity may cause headache, allergy, and asthma, but it does not provide any specific evidence or mention of a relationship between total volatile organic compounds (TVOCs) and asthma. Although TVOCs were measured in the study, the abstract does not discuss any findings linking TVOCs to asthma or any health effects."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances such as carbon dioxide (CO2), particulate matter with sizes 2.5 and 10 micrometers (PM 2.5 and PM 10), and total volatile organic compounds (TVOCs). These are specific chemical entities or groups relevant to indoor air quality, unlike general terms like 'chemicals' or 'compounds'."
+}

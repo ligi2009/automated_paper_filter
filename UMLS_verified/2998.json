@@ -1,0 +1,46 @@
+{
+  "id": 2998,
+  "title": "Climate, Carbon Dioxide, and Plant-Based Aero-Allergens: A Deeper Botanical Perspective",
+  "Abstract": "There is global evidence of a general increase in the incidence and prevalence of respiratory diseases including allergic rhinitis and associated asthma. This increase in turn, has been related, in part, to concurrent increases in carbon dioxide (CO2) and temperature on pollen production and allergic disease generated from plant-based sources of pollen. Such links to anthropogenic climate change has suggested three significant and interrelated consequences associated with respiratory allergies or disease. First, warmer temperatures and a longer frost-free growing season can influence pollen season length and temporal exposure to airborne aeroallergens. Second, both warmer temperatures and additional CO2 can increase the amount of pollen, the seasonal intensity, from spring through fall. Thirdly, there is evidence from oak and ragweed that rising levels of CO2 could increase the allergen concentration of the pollen and symptom severity. However, while these outcomes are of obvious consequence, they do not fully encompass all of the plant derived changes that could, directly or indirectly, influence aeroallergen production, exposure, and consequences for public health. In this overview, I will delve deeper into other plant-based links to climate/CO2 that are consequential either directly or indirectly to allergic rhinitis and associated disease. Such interactions range from pollen morphology to fire occurrence, from volatile organic compounds to potential changes in pesticide usage. The goal in doing so is to provide a broader context and appreciation for the interactions between plant biology and climate that can also affect allergen production and human impact but which, to date, have received little recognition or research.",
+  "Disease_List": [
+    "allergic rhinitis",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'allergic rhinitis' and 'associated asthma' as examples of respiratory diseases influenced by environmental factors. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "allergic rhinitis",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "allergic rhinitis": [
+      {
+        "ui": "C2607914",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2607914",
+        "name": "Allergic rhinitis (disorder)",
+        "mesh_id": "D065631"
+      },
+      {
+        "ui": "C1334103",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1334103",
+        "name": "IL13 gene",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

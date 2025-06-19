@@ -1,0 +1,35 @@
+{
+  "id": 1040,
+  "title": "The chemical code for attracting Culex mosquitoes",
+  "Abstract": "Mosquitoes use chemical codes to locate and discriminate among vertebrate hosts to obtain a blood meal. Recent advances have allowed for the identification of the chemical codes used by mosquitoes to locate and discriminate humans from other vertebrate hosts. Humans are incidental “dead-end” hosts for the West Nile virus, which is maintained in an enzootic cycle, primarily through its transmission between infected birds by Culex mosquitoes. Host-seeking Culex mosquitoes are attracted to the odor of chicken, which are used in sentinel traps to monitor West Nile virus transmission. Using combined gas chromatography and electroantennography and mass spectrometry we identify a blend of volatile organic compounds present in chicken emanates, including mostly salient bioactive compounds previously identified in human emanates. When released at their identified ratios, this blend elicits behavioral responses of Culex pipiens molestus and Culex quinquefasciatus similar to that to the natural chicken odor. Tested under field conditions, this blend attract Culex spp. and other species of mosquitoes using birds among their hosts. This study provides evidence for conserved chemical codes for resource location by mosquitoes, and highlights the intricate role of CO2 for host-seeking mosquitoes. The identification of conserved chemical codes, which drive innate preference behaviors that are fundamental for survival and reproduction, provides important substrates for future control interventions targeting disease vector mosquitoes.",
+  "Disease_List": [
+    "West Nile virus"
+  ],
+  "Reason": "The abstract explicitly mentions 'West Nile virus' as a specific disease. It discusses how humans are incidental hosts for the West Nile virus and describes the transmission cycle involving mosquitoes and birds. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "West Nile virus"
+  ],
+  "UMLS_search_results": {
+    "West Nile virus": [
+      {
+        "ui": "C0043125",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043125",
+        "name": "West Nile virus",
+        "mesh_id": "D014902"
+      },
+      {
+        "ui": "C1096184",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1096184",
+        "name": "West Nile viral infection",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

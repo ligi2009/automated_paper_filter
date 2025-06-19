@@ -1,0 +1,46 @@
+{
+  "id": 2164,
+  "title": "Volatile compounds in human breath: critical review and meta-analysis",
+  "Abstract": "Volatile compounds contained in human breath reflect the inner workings of the body. A large number of studies have been published that link individual components of breath to disease, but diagnostic applications remain limited, in part due to inconsistent and conflicting identification of breath biomarkers. New approaches are therefore required to identify effective biomarker targets. Here, volatile organic compounds have been identified in the literature from four metabolically and physiologically distinct diseases and grouped into chemical functional groups (e.g. methylated hydrocarbons or aldehydes; based on known metabolic and enzymatic pathways) to support biomarker discovery and provide new insight on existing data. Using this functional grouping approach, principal component analysis doubled explanatory capacity from 19.1% to 38% relative to single individual compound approaches. Random forest and linear discriminant analysis reveal 93% classification accuracy for cancer. This review and meta-analysis provides insight for future research design by identifying volatile functional groups associated with disease. By incorporating our understanding of the complexities of the human body, along with accounting for variability in methodological and analytical approaches, this work demonstrates that a suite of targeted, functional volatile biomarkers, rather than individual biomarker compounds, will improve accuracy and success in diagnostic research and application.",
+  "Disease_List": [
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' as a specific disease when discussing classification accuracy using volatile organic compounds. Although it refers to 'four metabolically and physiologically distinct diseases,' it does not name the other diseases specifically. Therefore, only 'cancer' is identified as a specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories of chemical compounds such as 'methylated hydrocarbons' and 'aldehydes' but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,85 @@
+{
+  "id": 5344,
+  "title": "Estimation of the Concentrations of Some Pollutants Resulting from the Use of Arabian Bakhour and Their Effect in Patients with Asthma in the City of Baghdad",
+  "Abstract": "This research focus on studying 3 types of Bakhour in the markets of Baghdad city and assessing their impact on the quality of life for asthmatic whom used Bakhour at their houses through investigating particles physical properties, also estimating the levels of heavy metals (Cd, Cu, Mn, Pb and Zn), Particulate Matter PM2.5, PM10, Total Volatile Organic Compounds (TVOC) and formaldehyde (HCHO). The quality of life for asthmatic patients whom use Bakhour was assessing by Mini Asthma Quality of Life Questionnaire. The results indicated that shapes of Bakhour particles were irregular or spherical. Burning process generated the higher percent of PM ˂1μm. Type 2 Bakhour showed the highest percent of <1μm which was 73%.The amount of Cd, Cu and Pb found to have the highest concentrations in type 2 as compared to others. The mean of PM2.5, PM10, TVOC and HCHO in type 1, 2 and type 3 have recorded high as compared to the control (fresh air) values. The results of Mini Asthma Quality of Life Questionnaire AQLQ referred that Asthma patients whom consumed Bakhour recorded significantly the worse in all scores as compared with non-consumers, except Activity limitation. The regression test revealed that smoking habit and consumed Bakhour daily have more effects on asthmatic patients. This study concluded that Bakhour consuming resulted high levels of indoor air pollutants such as particles <1μm, Heavy metals, PM2.5, PM 10, TVOC and HCHO which considered harmful to human health and leads to the worse quality of life especially in asthmatic patients.",
+  "Disease_List": [
+    "Asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatic patients' and refers to the 'Mini Asthma Quality of Life Questionnaire,' indicating that the specific disease 'Asthma' is discussed. Therefore, the classification is Y, with 'Asthma' as the specific disease mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Asthma"
+  ],
+  "UMLS_search_results": {
+    "Asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Cadmium (Cd)",
+    "Copper (Cu)",
+    "Manganese (Mn)",
+    "Lead (Pb)",
+    "Zinc (Zn)",
+    "Formaldehyde (HCHO)"
+  ],
+  "compound_CID": [
+    {
+      "Cadmium (Cd)": "None",
+      "Copper (Cu)": "None",
+      "Manganese (Mn)": "None",
+      "Lead (Pb)": "None",
+      "Zinc (Zn)": 16213264,
+      "Formaldehyde (HCHO)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Cadmium (Cd)_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that burning Bakhour releases high levels of indoor air pollutants including heavy metals such as Cadmium (Cd). Asthmatic patients who consumed Bakhour showed significantly worse quality of life scores compared to non-consumers. The study concludes that exposure to these pollutants, including Cd, leads to worsened health outcomes in asthmatic patients. Therefore, there is evidence of a relationship between Cadmium exposure and asthma exacerbation or worsening."
+      }
+    },
+    {
+      "Copper (Cu)_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that burning Bakhour releases high concentrations of heavy metals including Copper (Cu), along with particulate matter and other pollutants. Asthmatic patients who used Bakhour showed significantly worse quality of life scores compared to non-users. The study concludes that exposure to these indoor air pollutants, including heavy metals like Copper, is harmful and leads to worsened health outcomes in asthmatic individuals. Therefore, there is evidence of a relationship between Copper exposure from Bakhour and asthma exacerbation."
+      }
+    },
+    {
+      "Manganese (Mn)_Asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of manganese (Mn) among the heavy metals measured in Bakhour smoke but does not indicate that manganese specifically has a significant impact on asthma or the quality of life of asthmatic patients. The study highlights that heavy metals in general, particulate matter, and other pollutants from Bakhour smoke worsen asthma symptoms and quality of life, but manganese is not singled out as a contributing factor. The regression analysis points to smoking habit and daily Bakhour consumption as factors affecting asthma, without specifying manganese's role."
+      }
+    },
+    {
+      "Lead (Pb)_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that burning Bakhour releases high concentrations of heavy metals including Lead (Pb), along with particulate matter and other pollutants. Asthmatic patients who consumed Bakhour showed significantly worse quality of life scores compared to non-consumers. The study concludes that exposure to these indoor air pollutants, including Lead (Pb), is harmful and leads to worsened quality of life in asthmatic patients, indicating a relationship between Lead exposure and asthma severity."
+      }
+    },
+    {
+      "Zinc (Zn)_Asthma": {
+        "relationship": "N",
+        "reason": "The abstract mentions the presence of Zinc (Zn) among the heavy metals measured in Bakhour smoke, but it does not provide specific evidence linking Zinc exposure to asthma or its effects on asthmatic patients. The study highlights that heavy metals in general, particulate matter, and other pollutants from Bakhour smoke worsen the quality of life in asthmatic patients, but Zinc is not singled out or directly associated with asthma outcomes. Therefore, there is no clear relationship established between Zinc and asthma based on this abstract."
+      }
+    },
+    {
+      "Formaldehyde (HCHO)_Asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that burning Bakhour releases elevated levels of formaldehyde (HCHO) along with other pollutants, and that asthmatic patients who consume Bakhour experience significantly worse quality of life scores compared to non-consumers. The study concludes that exposure to indoor air pollutants including formaldehyde is harmful and leads to worsened quality of life in asthmatic patients, indicating a relationship between formaldehyde exposure and asthma exacerbation."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions heavy metals Cadmium (Cd), Copper (Cu), Manganese (Mn), Lead (Pb), and Zinc (Zn) as well as formaldehyde (HCHO) as chemical compounds measured in the study. Other terms like PM2.5, PM10, and TVOC refer to particulate matter and total volatile organic compounds, which are general categories rather than specific chemical names."
+}

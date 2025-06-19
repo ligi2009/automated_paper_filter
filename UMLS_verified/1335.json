@@ -1,0 +1,35 @@
+{
+  "id": 1335,
+  "title": "The volatilome signatures of Plasmodium falciparum parasites during the intraerythrocytic development cycle in vitro under exposure to artemisinin drug",
+  "Abstract": "Volatile organic compounds (VOCs) comprise a diverse range of metabolites with high vapour pressure and low boiling points. Although they have received attention, they are a largely unexplored part of the metabolome. Previous studies have shown that malaria infections produce characteristic, definitive, and detectable volatile signatures. Many transcriptional and metabolic differences are observed at different stages of the parasite Intraerythrocytic Developmental Cycle (IDC) as well as when artemisinin-resistant parasites are put under drug pressure. This prompted our research to characterize whether these responses are reflected at a volatile level in malaria during the IDC stages using gas chromatography-mass spectrometry. We investigated whether the resistant P. falciparum parasites would produce their own characteristic volatilome profile compared to near-isogenic wild-type parasite in vitro ; firstly at three different stages of the IDC and secondly in the presence or absence of artemisinin drug treatment. Finally, we explored the VOC profiles from two media environments (Human serum and Albumax) of recently lab-adapted field parasite isolates, from Southeast Asia and West/East Africa, compared to long-term lab-adapted parasites. Recognizable differences were observed between IDC stages, with schizonts having the largest difference between wild type and resistant parasites, and with cyclohexanol and 2,5,5-trimethylheptane only present for resistant schizonts. Artemisinin treatment had little effect on the resistant parasite VOC profile, whilst for the wild type parasites compounds ethylbenzene and nonanal were greatly affected. Lastly, differing culturing conditions had an observable impact on parasite VOC profile and clustering patterns of parasites were specific to geographic origin. The results presented here provide the foundation for future studies on VOC based characterization of P. falciparum strains differing in abilities to tolerate artemisinin.",
+  "Disease_List": [
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'malaria infections' and discusses the parasite Plasmodium falciparum, which causes malaria. Therefore, a specific disease name, 'malaria', is clearly identified in the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

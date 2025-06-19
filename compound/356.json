@@ -1,0 +1,65 @@
+{
+  "id": 356,
+  "title": "Artificial smell sensor systems in the diagnostics of neurodegenerative diseases",
+  "Abstract": "Neurodegenerative diseases are a group of diseases of the nervous system that are characterized by a long-term latent stage, a variety of manifestations associated with heterogeneity of symptoms, different aggressiveness of the course, and progressive death of neurons. Neurodegenerative diseases are mainly diagnosed on the basis of clinical data and expensive invasive and non-invasive imaging techniques. There is no specific laboratory test for diagnosing neurodegenerative diseases. Exhaled air is the secretion of the body, and the process of its selection is simple and economical. Exhaled gas analysis offers an inexpensive, non-invasive method for detecting a wide range of diseases, including neurodegenerative ones. Molecular profiles of volatile organic compounds in exhaled air for the diagnosis of a number of neurodegenerative diseases can be obtained by analyzing human breath using an “electronic nose”. Identification of volatile organic compounds and their use as specific biomarkers of neurodegenerative diseases for obtaining accurate, reproducible and rapid diagnostics can serve as an alternative to traditional invasive methods. The review is devoted to the problems and achievements of the last decade (2014–2023) in the field of application of the \"electronic nose\" technology for determination and identification of potential highly volatile organic compounds of neurodegenerative processes. The review presents studies on the detection of potential volatile organic compounds in the exhaled air of patients with Alzheimer's disease, Parkinson's disease, multiple sclerosis, and amyotrophic lateral sclerosis using “electronic nose”, gas chromatography-mass spectrometry. Trends in the development and the use of \"electronic nose\" technology to provide medical care capable of performing accurate, sensitive determinations of key volatile organic compounds in the exhaled air are discussed.",
+  "Disease_List": [
+    "Alzheimer's disease",
+    "Parkinson's disease",
+    "multiple sclerosis",
+    "amyotrophic lateral sclerosis"
+  ],
+  "Reason": "The abstract explicitly mentions specific neurodegenerative diseases by name: Alzheimer's disease, Parkinson's disease, multiple sclerosis, and amyotrophic lateral sclerosis. These are all well-defined diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Alzheimer's disease",
+    "Parkinson's disease",
+    "multiple sclerosis",
+    "amyotrophic lateral sclerosis"
+  ],
+  "UMLS_search_results": {
+    "Alzheimer's disease": [
+      {
+        "ui": "C0002395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002395",
+        "name": "Alzheimer's Disease",
+        "mesh_id": "D000544"
+      }
+    ],
+    "Parkinson's disease": [
+      {
+        "ui": "C0030567",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030567",
+        "name": "Parkinson Disease",
+        "mesh_id": "D010300"
+      }
+    ],
+    "multiple sclerosis": [
+      {
+        "ui": "C0026769",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0026769",
+        "name": "Multiple Sclerosis",
+        "mesh_id": "D009103"
+      }
+    ],
+    "amyotrophic lateral sclerosis": [
+      {
+        "ui": "C0002736",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002736",
+        "name": "Amyotrophic Lateral Sclerosis",
+        "mesh_id": "D000690"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds in general terms and the use of electronic nose technology for detecting neurodegenerative diseases, but it does not mention any specific chemical compound names."
+}

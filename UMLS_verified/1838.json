@@ -1,0 +1,35 @@
+{
+  "id": 1838,
+  "title": "Development of an Automatic Low-Cost Air Quality Control System: A Radon Application",
+  "Abstract": "Air pollution is the fourth-largest overall risk factor for human health worldwide. Ambient air pollution (outdoors) and household air pollution (indoors) cause about 6.5 million premature deaths. The World Health Organization has established that between 3% and 14% of lung cancer cases are due to radon gas, making it the most important cause of lung cancer after smoking. This work presents a fully automated, low-cost indoor air quality control system that can monitor temperature, pressure, humidity, total volatile organic compounds (TOVC), and radon concentration. Using the radon concentration as an air quality measure, we created a prediction algorithm. The system uses those predictions to control a ventilation system automatically. We tested the algorithm for different prediction windows and compared the results with those without the ventilation system in a radon research room. In this room, the radon concentration is high 100% of the time, reaching a level eleven times higher than the recommended limit. The results show that the system can achieve an 86% reduction of the radon concentration, maintaining it low 90% of the time while having the ventilation system on during only 34% of the time. This work demonstrates that we can control air quality using low-cost resources, keeping a household or workplace safe but comfortable.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease, stating that between 3% and 14% of lung cancer cases are due to radon gas. This is a clear mention of a specific disease, justifying the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

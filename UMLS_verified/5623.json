@@ -1,0 +1,42 @@
+{
+  "id": 5623,
+  "title": "Preliminary Assessment of Occurrence, Potential Origin, and Human Health Risk of Volatile Organic Compounds in Uncontrolled Springs, North Morocco",
+  "Abstract": "In recent years, with the drastic increase in worldwide pollution rates, considerable attention has been paid to the volatile organic compounds (VOCs) that might lead to serious health problems, e.g., cancer. As there appears to be a notable lack of research on the pollution (specifically, VOCs) of water bodies in Morocco, we aimed to assess the occurrence of VOCs in some uncontrolled springs in the north of Morocco that have not been previously investigated. We also discuss the estimation of health risks posed by ingestion and dermal contact as well as the different potential origins of these pollutants. For this purpose, water samples were collected from twenty-six sampling sites and were analyzed via headspace solid-phase microextraction coupled with gas chromatography–mass spectrometry (HS-SPME-GC-MS). Out of the 60 suspected VOCs, a total of 15 compounds belonging to five distinct groups were identified and quantified. Among them, fumigants, solvents, and gasoline hydrocarbons were the most abundant groups, with proportions of 40%, 26.7%, and 20%, respectively. A heatmap clustered the provinces based on their degree of pollution, while a dendrogram was used to classify the studied springs into six main groups. Regarding carcinogenic risk, all the samples were safe for consumption as well as for dermal contact, except for S17, S18, and S8, and S19, which might present a severe threat to inhabitants due to their contents of, respectively, naphthalene (2.1 × 10−3), chloroform (2.5 × 10−4), and cis and trans-dichlropropene (1.61 × 10−4 and 1.11 × 10−4). Our investigation revealed several anthropogenic sources of water contamination, which could aid authorities in limiting contamination spread in water bodies.",
+  "Disease_List": [
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'cancer' as a serious health problem that might be caused by volatile organic compounds (VOCs). Although other health risks are discussed generally, cancer is the only specific disease named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

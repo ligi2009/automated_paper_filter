@@ -1,0 +1,35 @@
+{
+  "id": 1671,
+  "title": "Volatile metabolomic signature of human breast cancer cell lines",
+  "Abstract": "Breast cancer (BC) remains the most prevalent oncologic pathology in women, causing huge psychological, economic and social impacts on our society. Currently, the available diagnostic tools have limited sensitivity and specificity. Metabolome analysis has emerged as a powerful tool for obtaining information about the biological processes that occur in organisms, and is a useful platform for discovering new biomarkers or make disease diagnosis using different biofluids. Volatile organic compounds (VOCs) from the headspace of cultured BC cells and normal human mammary epithelial cells, were collected by headspace solid-phase microextraction (HS-SPME) and analyzed by gas chromatography combined with mass spectrometry (GC–MS), thus defining a volatile metabolomic signature. 2-Pentanone, 2-heptanone, 3-methyl-3-buten-1-ol, ethyl acetate, ethyl propanoate and 2-methyl butanoate were detected only in cultured BC cell lines. Multivariate statistical methods were used to verify the volatomic differences between BC cell lines and normal cells in order to find a set of specific VOCs that could be associated with BC, providing comprehensive insight into VOCs as potential cancer biomarkers. The establishment of the volatile fingerprint of BC cell lines presents a powerful approach to find endogenous VOCs that could be used to improve the BC diagnostic tools and explore the associated metabolomic pathways.",
+  "Disease_List": [
+    "Breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Breast cancer (BC)' multiple times as the specific disease under study. It discusses diagnostic tools and biomarkers related to breast cancer, clearly identifying it as the disease focus rather than using general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Breast cancer"
+  ],
+  "UMLS_search_results": {
+    "Breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

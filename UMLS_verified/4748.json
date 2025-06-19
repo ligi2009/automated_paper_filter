@@ -1,0 +1,28 @@
+{
+  "id": 4748,
+  "title": "Pet cats, the better sentinels for indoor organic pollutants",
+  "Abstract": "Pets are the most intimate companions of humans, as pets and people share most of their lives indoors. Based on the connections between pet animals, humans, and the environment, pet cats and dogs are often recommended as sentinels for the detection of environmental contaminants and for comorbidity tracking. However, their suitability as sentinels is yet to be established. Persistent organic pollutants and environmental hormones have replaced particulate matter (PM2.5) and volatile organic compounds (VOCs) in causing indoor air pollution. This review summarises the differences in the types and concentrations of indoor organic environmental pollutants detected in pet dogs and cats. This includes an analysis of the main exposure routes of different types of pollutants. To identify which of the two pet species are better sentinels, cats and dogs were compared based on their metabolic capacities of various indoor organic pollutants. In addition to PM2.5, a range of organic compounds including polychlorinated biphenyls, polybrominated diphenyl ethers (PBDEs), bromophenols, perfluoroalkyl substances, organochlorine pesticides, fungicides, polycyclic aromatic hydrocarbons, phthalic acid esters, organophosphate pesticides, organophosphorus flame retardants, and melamine have been detected in both dogs and cats. Pets often accumulate PBDEs from dust; however, traces of PBDEs are present in their diet. The indoor pollutant contamination levels in internal cats were generally higher than those in dogs. Cats accumulate organic pollutants associated with indoor environments, but they are sensitive to their toxicity because, unlike dogs, cats cannot metabolise most of the accumulated pollutants. Moreover, cats share similar clinical symptoms of thyroid diseases in humans. Based on the above observations of detection of indoor organic pollutants, it could be said that cats are better sentinels than dogs. Graphical Abstract",
+  "Disease_List": [
+    "thyroid diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'thyroid diseases' when discussing clinical symptoms shared between cats and humans. This is a specific disease name, which justifies a 'Y' classification. Other terms like 'disease' or 'health conditions' are not used generically but in the context of a named disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "thyroid diseases"
+  ],
+  "UMLS_search_results": {
+    "thyroid diseases": [
+      {
+        "ui": "C0040128",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0040128",
+        "name": "Thyroid Diseases",
+        "mesh_id": "D013959"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

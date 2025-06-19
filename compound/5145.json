@@ -1,0 +1,102 @@
+{
+  "id": 5145,
+  "title": "LC-MS/MS Based Volatile Organic Compound Biomarkers Analysis for Early Detection of Lung Cancer",
+  "Abstract": "Simple Summary In our work, we described and proposed a novel LC-MS/MS based approach for early lung cancer screening based on the VOC marker. Through this approach, two key volatile organic compounds (VOCs) used in the early screening and diagnosis of lung cancer were determined as 3-hydroxy-2-butanone and 2-pentanone. 3-hydroxy-2-butanone in the human body was found for the first time to be derived from the sugar metabolism of oral bacteria and we found a correlation between the bacteria that metabolize 3-hydroxy-2-butanone and lung cancer. Abstract (1) Background: lung cancer is the world’s deadliest cancer, but early diagnosis helps to improve the cure rate and thus reduce the mortality rate. Annual low-dose computed tomography (LD-CT) screening is an efficient lung cancer-screening program for a high-risk population. However, LD-CT has often been characterized by a higher degree of false-positive results. To meet these challenges, a volatolomic approach, in particular, the breath volatile organic compounds (VOCs) fingerprint analysis, has recently received increased attention for its application in early lung cancer screening thanks to its convenience, non-invasiveness, and being well tolerated by patients. (2) Methods: a LC-MS/MS-based volatolomics analysis was carried out according to P/N 5046800 standard based breath analysis of VOC as novel cancer biomarkers for distinguishing early-stage lung cancer from the healthy control group. The discriminatory accuracy of identified VOCs was assessed using subject work characterization and a random forest risk prediction model. (3) Results: the proposed technique has good performance compared with existing approaches, the differences between the exhaled VOCs of the early lung cancer patients before operation, three to seven days after the operation, as well as four to six weeks after operation under fasting and 1 h after the meal were compared with the healthy controls. The results showed that only 1 h after a meal, the concentration of seven VOCs, including 3-hydroxy-2-butanone (TG-4), glycolaldehyde (TG-7), 2-pentanone (TG-8), acrolein (TG-11), nonaldehyde (TG-19), decanal (TG-20), and crotonaldehyde (TG-22), differ significantly between lung cancer patients and control, with the invasive adenocarcinoma of the lung (IAC) having the most significant difference. (4) Conclusions: this novel, non-invasive approach can improve the detection rate of early lung cancer, and LC-MS/MS-based breath analysis could be a promising method for clinical application.",
+  "Disease_List": [
+    "lung cancer",
+    "invasive adenocarcinoma of the lung (IAC)"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the primary disease focus of the study. Additionally, it specifies a subtype called 'invasive adenocarcinoma of the lung (IAC)', which is a specific form of lung cancer. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "invasive adenocarcinoma of the lung (IAC)": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "3-hydroxy-2-butanone",
+    "2-pentanone",
+    "glycolaldehyde",
+    "acrolein",
+    "nonaldehyde",
+    "decanal",
+    "crotonaldehyde"
+  ],
+  "compound_CID": [
+    {
+      "3-hydroxy-2-butanone": 179,
+      "2-pentanone": 7895,
+      "glycolaldehyde": 756,
+      "acrolein": 7847,
+      "nonaldehyde": 31289,
+      "decanal": 8175,
+      "crotonaldehyde": 447466
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "3-hydroxy-2-butanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between 3-hydroxy-2-butanone and lung cancer. It identifies 3-hydroxy-2-butanone as one of the key volatile organic compounds (VOCs) used in early screening and diagnosis of lung cancer. The compound was found to be derived from sugar metabolism of oral bacteria, and a correlation was observed between bacteria metabolizing 3-hydroxy-2-butanone and lung cancer. Additionally, the concentration of 3-hydroxy-2-butanone in exhaled breath differed significantly between lung cancer patients and healthy controls, particularly after a meal, indicating its potential as a biomarker for early lung cancer detection."
+      }
+    },
+    {
+      "2-pentanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using LC-MS/MS-based breath analysis to identify volatile organic compounds (VOCs) as biomarkers for early lung cancer screening. Among the VOCs identified, 2-pentanone was found to have significantly different concentrations in the breath of lung cancer patients compared to healthy controls, particularly one hour after a meal. This significant difference suggests a relationship between 2-pentanone levels and lung cancer, supporting its potential use as a biomarker for early detection of the disease."
+      }
+    },
+    {
+      "glycolaldehyde_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that glycolaldehyde is one of the seven volatile organic compounds (VOCs) whose concentrations differ significantly between lung cancer patients and healthy controls, specifically 1 hour after a meal. This significant difference in glycolaldehyde levels in the breath of lung cancer patients compared to controls suggests a relationship between glycolaldehyde and lung cancer. The study highlights the potential of LC-MS/MS-based breath analysis of VOCs, including glycolaldehyde, as a non-invasive method for early lung cancer detection."
+      }
+    },
+    {
+      "acrolein_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that acrolein is one of the seven volatile organic compounds (VOCs) whose concentration differs significantly between lung cancer patients and healthy controls, specifically 1 hour after a meal. This significant difference in acrolein levels in the breath of lung cancer patients compared to controls suggests a relationship between acrolein and lung cancer. The study highlights the potential of using breath VOC analysis, including acrolein, as a non-invasive method for early lung cancer detection."
+      }
+    },
+    {
+      "nonaldehyde_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that nonaldehyde (TG-19) is one of the seven volatile organic compounds whose concentration differs significantly between lung cancer patients and healthy controls, specifically 1 hour after a meal. This significant difference in exhaled nonaldehyde levels in lung cancer patients, particularly those with invasive adenocarcinoma of the lung, suggests a relationship between nonaldehyde and lung cancer. Therefore, there is evidence supporting a relationship between the compound nonaldehyde and lung cancer based on the breath analysis findings presented."
+      }
+    },
+    {
+      "decanal_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using LC-MS/MS-based breath analysis to identify volatile organic compounds (VOCs) as biomarkers for early lung cancer screening. Among the seven VOCs that showed significant concentration differences between lung cancer patients and healthy controls 1 hour after a meal, decanal was specifically mentioned. This indicates that decanal levels in exhaled breath are significantly associated with lung cancer, particularly invasive adenocarcinoma of the lung, supporting a relationship between decanal and lung cancer."
+      }
+    },
+    {
+      "crotonaldehyde_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports that crotonaldehyde is one of the seven volatile organic compounds (VOCs) whose concentrations differ significantly between lung cancer patients and healthy controls, specifically 1 hour after a meal. This significant difference in crotonaldehyde levels in the breath of lung cancer patients compared to controls suggests a relationship between crotonaldehyde and lung cancer, supporting its potential role as a biomarker for early lung cancer detection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names seven volatile organic compounds (VOCs) identified as markers for early lung cancer screening: 3-hydroxy-2-butanone, 2-pentanone, glycolaldehyde, acrolein, nonaldehyde, decanal, and crotonaldehyde. These are distinct chemical compounds mentioned by name, as opposed to general terms like 'compounds' or 'substances'."
+}

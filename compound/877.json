@@ -1,0 +1,114 @@
+{
+  "id": 877,
+  "title": "PWE-373 Volatile organic compound (VOC) profiles as indicators of early lesions in murine colon carcinogenesis",
+  "Abstract": "Introduction Patients with inflammatory bowel disease (IBD) are at increased risk for colorectal cancer (CRC). IBD-associated CRC can be summarised as an inflammation-dysplasia-carcinoma sequence. Much effort has been spent on identifying morphologically distinctive pre-invasive mucosal lesions to help elucidate the early steps of CRC. These efforts have led to the characterisation of so-called mucin-depleted foci (MDF), formed by dysplastic crypts devoid of mucins. A metabolomics-based approach may provide a non-invasive strategy to identify volatile biomarkers of CRC, therefore improving both the early detection of CRC and patient prognosis. Method An IBD-associated CRC murine model was used. C57BL/6 female mice were housed individually and were administered one dose of 12.5mg/kg azoxymethane (AOM). Next, mice were orally exposed to 1.5% DSS for 5 days followed by 16 days ordinary water. This DSS cycle was repeated twice with animals sacrificed 12 days after final cycle. There were 2 control groups: untreated mice (n = 6) and mice treated with cycles of DSS alone (n = 6). Faecal samples were collected weekly and tissues were taken for histological analysis upon necropsy. Headspace gas surrounding samples was collected using a CAR/PDMS/DVB SPME fibre before analysis by GC-MS. Chromatograms were analysed and data were processed in-house using AMDIS and Metab. A student’s t-test was performed on samples collected at week 10 (p < 0.01). A time series analysis (two-way ANOVA) was performed on samples collected at weeks 1, 4, 7 and 10, using MetATT. Results All animals treated with AOM/DSS showed signs of pre-malignancy, visualised by Alcian blue staining of colonic sections. Signs included hyperplasic and occasionally, dysplastic crypts and MDF reported by an accredited murine pathologist. Faecal VOC analysis at week 10 yielded 93 compounds, 11 of which were significantly different between the two groups (p < 0.01). There was a significant increase in the abundance and prevalence of methyl ketones and aldehydes in treated mice and a time series analysis provided further evidence for these changes over time in VOC profiles. A PCA plot was able to clearly distinguish between untreated and treated mice based on VOCs present in the headspace of faecal samples. Furthermore, the specific compounds that were identified and differed between AOM/DSS and DSS groups may be markers of pre-malignancy. Conclusion We have shown that the early lesions of colitis-associated CRC are associated with significant metabolic alterations in the faeces of mice. Markers of chronic inflammation were found. In addition other VOCs were found in AOM/DSS treated mice which had premalignant changes in the colon. These results provide a strong rationale for future studies in humans. Disclosure of interest None Declared.",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "colorectal cancer",
+    "colitis-associated colorectal cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'inflammatory bowel disease (IBD)', 'colorectal cancer (CRC)', and 'colitis-associated colorectal cancer'. These are named diseases rather than general terms. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "colorectal cancer",
+    "colitis-associated colorectal cancer"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "colitis-associated colorectal cancer": [
+      {
+        "ui": "C5392092",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5392092",
+        "name": "Colitis-Associated Neoplasms",
+        "mesh_id": "D000083023"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "azoxymethane",
+    "methyl ketones",
+    "aldehydes"
+  ],
+  "compound_CID": [
+    {
+      "azoxymethane": 33184,
+      "methyl ketones": "None",
+      "aldehydes": 712
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "azoxymethane_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a murine model where azoxymethane (AOM) was administered in combination with dextran sulfate sodium (DSS) to induce a condition that models inflammatory bowel disease (IBD)-associated colorectal cancer (CRC). The use of AOM followed by DSS cycles led to pre-malignant changes in the colon, including hyperplasic and dysplastic crypts and mucin-depleted foci, which are linked to chronic inflammation and IBD-associated CRC. This indicates that azoxymethane is used experimentally to induce or model inflammation-related colonic changes relevant to IBD, establishing a relationship between azoxymethane and inflammatory bowel disease in this research context."
+      },
+      "azoxymethane_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using a murine model where azoxymethane (AOM) was administered to mice in combination with DSS to induce colitis-associated colorectal cancer (CRC). All animals treated with AOM/DSS showed signs of pre-malignancy, including hyperplasic and dysplastic crypts and mucin-depleted foci, which are early lesions associated with CRC. The study demonstrates that AOM administration is linked to the development of premalignant changes in the colon, indicating a clear relationship between azoxymethane and colorectal cancer in this experimental context."
+      },
+      "azoxymethane_colitis-associated_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract describes a murine model study where azoxymethane (AOM) was administered in combination with dextran sulfate sodium (DSS) to induce colitis-associated colorectal cancer (CRC). All animals treated with AOM/DSS showed signs of pre-malignancy, including hyperplasic and dysplastic crypts and mucin-depleted foci, which are early lesions of colitis-associated CRC. The study demonstrates that AOM, when used with DSS, contributes to the development of premalignant changes in the colon consistent with colitis-associated CRC. Therefore, there is clear evidence from this experimental model that azoxymethane is related to colitis-associated colorectal cancer."
+      }
+    },
+    {
+      "methyl ketones_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using a murine model of inflammatory bowel disease (IBD) associated with colorectal cancer (CRC). It reports a significant increase in the abundance and prevalence of methyl ketones in the faecal volatile organic compounds (VOCs) of mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS), which induce IBD and pre-malignant colonic lesions. These metabolic alterations, including elevated methyl ketones, were associated with early lesions of colitis-associated CRC, a complication of IBD. Therefore, there is evidence of a relationship between methyl ketones and IBD in the context of disease-associated metabolic changes."
+      },
+      "methyl ketones_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the abundance and prevalence of methyl ketones in the faecal volatile organic compounds (VOCs) of mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS), which induced pre-malignant changes associated with colitis-associated colorectal cancer (CRC). The study found that these metabolic alterations, including elevated methyl ketones, correlated with early lesions of CRC in the murine model. This suggests a relationship between methyl ketones and colorectal cancer, potentially as biomarkers of pre-malignancy."
+      },
+      "methyl ketones_colitis-associated_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the abundance and prevalence of methyl ketones in the faecal volatile organic compounds (VOCs) of mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS), which is a murine model for colitis-associated colorectal cancer (CRC). These treated mice showed premalignant changes in the colon, including hyperplasic and dysplastic crypts and mucin-depleted foci, indicative of early lesions of colitis-associated CRC. The presence and increase of methyl ketones correlated with these premalignant changes, suggesting that methyl ketones are associated with the metabolic alterations occurring in colitis-associated CRC. Therefore, there is evidence of a relationship between methyl ketones and colitis-associated colorectal cancer based on this metabolomic analysis."
+      }
+    },
+    {
+      "aldehydes_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study using a murine model of inflammatory bowel disease (IBD)-associated colorectal cancer, where mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS) showed pre-malignant colonic lesions indicative of chronic inflammation. Analysis of volatile organic compounds (VOCs) in fecal samples revealed a significant increase in aldehydes in treated mice compared to controls. These aldehydes were part of the metabolic alterations associated with early lesions of colitis-associated colorectal cancer, which arises in the context of chronic inflammation characteristic of IBD. Therefore, the data provide evidence of a relationship between aldehydes and inflammatory bowel disease, as aldehydes are elevated in the disease model and may serve as markers of inflammation and pre-malignant changes."
+      },
+      "aldehydes_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the abundance and prevalence of aldehydes in the faecal volatile organic compounds (VOCs) of mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS), which induced pre-malignant changes associated with colitis-associated colorectal cancer (CRC). The study found that these aldehydes were part of metabolic alterations linked to early lesions of CRC in this murine model. This suggests a relationship between aldehydes and colorectal cancer, as these compounds may serve as markers of pre-malignancy and chronic inflammation in the colon."
+      },
+      "aldehydes_colitis-associated_colorectal_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a significant increase in the abundance and prevalence of aldehydes in the faecal volatile organic compounds (VOCs) of mice treated with azoxymethane (AOM) and dextran sulfate sodium (DSS), which is a murine model for colitis-associated colorectal cancer (CRC). These treated mice showed premalignant changes in the colon, including hyperplasic and dysplastic crypts and mucin-depleted foci, indicative of early lesions of colitis-associated CRC. The time series analysis further supported the increase of aldehydes over time in the treated group compared to controls. Therefore, there is evidence from this metabolomics-based study that aldehydes are associated with the early metabolic alterations linked to colitis-associated colorectal cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions azoxymethane (AOM) as a chemical administered to mice. It also refers to methyl ketones and aldehydes as classes of volatile organic compounds (VOCs) that showed significant changes in treated mice. These are specific chemical compound types identified as relevant biomarkers in the study."
+}

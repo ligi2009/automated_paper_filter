@@ -1,0 +1,117 @@
+{
+  "id": 1195,
+  "title": "COVID-19 Pandemic: Impacts on Air Quality during Partial Lockdown in the Metropolitan Area of São Paulo",
+  "Abstract": "Air pollution has become one of the factors that most affect the quality of life, human health, and the environment. Gaseous pollutants from motor vehicles have a significantly harmful effect on air quality in the Metropolitan Area of São Paulo (MASP)—Brazil. Motor vehicles emit large amounts of particulate matter (PM), carbon monoxide (CO), nitrogen oxides (NOx), and volatile organic compounds (VOCs), the last three acting as the main tropospheric ozone (O3) precursors. In this study, we evaluated the effects of these pollutants on air quality in the MASP during the partial lockdown that was imposed to ensure the social distancing necessitated by the COVID-19 pandemic. We compared the monthly data for nitrogen dioxide (NO2) from the Ozone Monitoring Instrument (OMI) and CO, SO2, and BC from MERRA-2 for the period between April and May 2020 (during the pandemic) with the average for the same period for the (pre-pandemic) years 2017 to 2019 in the southeast region of Brazil. The meteorological and pollutant concentration data from the CETESB air quality monitoring stations for the MASP were compared with the diurnal cycle of three previous years, with regard to the monthly averages of April and May (2017, 2018, and 2019) and the same period in 2020, when the partial lockdown was first imposed in southeast Brazil. Our findings showed that there was a decrease in NO2 concentrations ranging from 10% to more than 60% in the MASP and the Metropolitan Area of Rio de Janeiro (MARJ), whereas in the Metropolitan Area of Belo Horizonte and Vitoria (MABH and MAV, respectively), there was a reduction of around 10%. In the case of the concentrations of CO and BC from MERRA-2, there was a considerable decrease (approx. 10%) during the period of partial lockdown caused by COVID-19 throughout almost the entire state of São Paulo, particularly in the region bordering the state of Rio de Janeiro. The concentration of SO2 from MERRA-2 was 5 to 10% lower in the MASP and MARJ and the west of the MABH, and there was a decrease of 30 to 50% on the border between the states of São Paulo and Rio de Janeiro, while in the MAV region, there was an increase in pollutant levels, as this region was not significantly affected by the COVID-19 pandemic. Sharp reductions in the average hourly concentrations of CO (38.8%), NO (44.9%), NO2 (38.7%), and PM2.5 (6%) were noted at the CETESB air quality monitoring stations in the MASP during the partial lockdown in 2020 compared with the hourly average rate in the pre-pandemic period. In contrast, there was an increase of approximately 16.0% in O3 concentrations in urban areas that are seriously affected by vehicular emissions, which is probably related to a decrease in NOx.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease 'COVID-19' multiple times in the context of the pandemic and partial lockdown measures. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "particulate matter (PM)",
+    "carbon monoxide (CO)",
+    "nitrogen oxides (NOx)",
+    "volatile organic compounds (VOCs)",
+    "tropospheric ozone (O3)",
+    "nitrogen dioxide (NO2)",
+    "sulfur dioxide (SO2)",
+    "black carbon (BC)",
+    "nitric oxide (NO)",
+    "PM2.5"
+  ],
+  "compound_CID": [
+    {
+      "particulate matter (PM)": "None",
+      "carbon monoxide (CO)": "None",
+      "nitrogen oxides (NOx)": "None",
+      "volatile organic compounds (VOCs)": "None",
+      "tropospheric ozone (O3)": "None",
+      "nitrogen dioxide (NO2)": 3032552,
+      "sulfur dioxide (SO2)": 1119,
+      "black carbon (BC)": "None",
+      "nitric oxide (NO)": 145068,
+      "PM2.5": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "particulate matter (PM)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the COVID-19 pandemic and associated partial lockdowns on air pollution levels, including particulate matter (PM). It reports decreases in PM2.5 concentrations during the lockdown period compared to pre-pandemic levels, indicating changes in air quality due to reduced vehicular emissions. However, the abstract does not provide evidence or analysis of a direct relationship between particulate matter (PM) and COVID-19 disease itself, such as PM influencing COVID-19 infection rates, severity, or outcomes. The focus is on how COVID-19-related lockdowns affected air pollution, not on how PM affects COVID-19."
+      }
+    },
+    {
+      "carbon monoxide (CO)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of the COVID-19 pandemic and associated partial lockdowns on air pollution levels, including carbon monoxide (CO) concentrations. It reports a decrease in CO levels during the lockdown period, which was implemented to control the spread of COVID-19. However, the abstract does not provide evidence of a direct relationship between carbon monoxide exposure and the disease COVID-19 itself. Instead, it focuses on how measures taken due to COVID-19 affected air pollutant levels. Therefore, there is no clear evidence from this abstract that carbon monoxide is related to COVID-19 disease in terms of causation, risk, or pathophysiology."
+      }
+    },
+    {
+      "nitrogen oxides (NOx)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of COVID-19 related partial lockdowns on air pollution levels, including nitrogen oxides (NOx), showing reductions in NOx concentrations during the pandemic period. However, it does not provide evidence of a direct relationship between nitrogen oxides (NOx) and the disease COVID-19 itself. The focus is on how COVID-19 measures affected air quality, not on how NOx influences COVID-19 disease incidence, severity, or outcomes."
+      }
+    },
+    {
+      "volatile organic compounds (VOCs)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses the impact of air pollutants, including volatile organic compounds (VOCs), on air quality during the partial lockdown imposed due to the COVID-19 pandemic. It focuses on changes in pollutant concentrations resulting from reduced vehicular emissions during the pandemic period. However, the abstract does not provide evidence or data indicating a direct relationship between VOCs and the disease COVID-19 itself. Instead, it highlights environmental changes in pollutant levels associated with pandemic-related lockdown measures, without linking VOC exposure to COVID-19 infection, severity, or outcomes."
+      }
+    },
+    {
+      "tropospheric ozone (O3)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including tropospheric ozone (O3), during the partial lockdown imposed due to the COVID-19 pandemic. It reports an increase in O3 concentrations in urban areas during this period, likely due to decreased NOx emissions from reduced vehicular traffic. However, the abstract does not provide evidence of a direct relationship between tropospheric ozone (O3) and the disease COVID-19 itself. Instead, it focuses on how the pandemic-related lockdown affected air quality parameters. Therefore, there is no clear evidence from this abstract that tropospheric ozone (O3) is related to COVID-19 disease."
+      }
+    },
+    {
+      "nitrogen dioxide (NO2)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in nitrogen dioxide (NO2) concentrations during the partial lockdown imposed due to the COVID-19 pandemic, focusing on air quality improvements and pollutant reductions. It reports decreases in NO2 levels associated with reduced vehicular emissions during the pandemic period. However, the abstract does not provide evidence or data indicating a direct relationship between NO2 exposure and the disease COVID-19 itself, such as effects on infection rates, severity, or outcomes. The relationship described is temporal and environmental (impact of lockdown on pollution), not a causal or health-related link between NO2 and COVID-19 disease."
+      }
+    },
+    {
+      "sulfur dioxide (SO2)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including sulfur dioxide (SO2), during the partial lockdown imposed due to the COVID-19 pandemic. It reports decreases and some regional increases in SO2 levels associated with changes in human activity during the pandemic. However, the abstract does not provide any evidence or analysis indicating a direct relationship between sulfur dioxide exposure and COVID-19 disease itself, such as effects on infection rates, severity, or outcomes. The focus is on air quality changes during the pandemic period rather than on a causal or correlational relationship between SO2 and COVID-19."
+      }
+    },
+    {
+      "black carbon (BC)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including black carbon (BC), during the partial lockdown imposed due to the COVID-19 pandemic. It reports a decrease in BC levels during this period but does not provide evidence of a direct relationship between black carbon exposure and COVID-19 disease itself. The focus is on air quality changes resulting from lockdown measures rather than any causal or associative link between BC and COVID-19 infection, severity, or outcomes."
+      }
+    },
+    {
+      "nitric oxide (NO)_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including nitric oxide (NO), during the partial lockdown imposed due to the COVID-19 pandemic. It reports a significant decrease in NO levels during this period, which is attributed to reduced vehicular emissions. However, the abstract does not provide any evidence or discussion of a direct relationship between nitric oxide (NO) and the disease COVID-19 itself, such as effects on disease progression, susceptibility, or treatment. The focus is on environmental air quality changes during the pandemic, not on the biological or clinical interaction between NO and COVID-19."
+      }
+    },
+    {
+      "PM2.5_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations, including PM2.5, during the partial lockdown imposed due to the COVID-19 pandemic. It reports a 6% decrease in PM2.5 levels during the lockdown compared to the pre-pandemic period. However, the abstract does not provide evidence or analysis indicating a direct relationship between PM2.5 exposure and COVID-19 disease incidence, severity, or outcomes. The focus is on air quality changes resulting from lockdown measures rather than on the impact of PM2.5 on COVID-19 itself."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution and their concentrations, including particulate matter (PM), carbon monoxide (CO), nitrogen oxides (NOx), volatile organic compounds (VOCs), tropospheric ozone (O3), nitrogen dioxide (NO2), sulfur dioxide (SO2), black carbon (BC), nitric oxide (NO), and PM2.5. These are all specific chemical substances relevant to the study of air quality."
+}

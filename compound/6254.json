@@ -1,0 +1,66 @@
+{
+  "id": 6254,
+  "title": "Environmental radon, fracking wells, and lymphoma in dogs",
+  "Abstract": "Abstract Background Multicentric lymphoma (ML) in dogs resembles non‐Hodgkin lymphoma (NHL) in humans. Human NHL is associated with multiple environmental exposures, including to radon and volatile organic compounds (VOCs). Hypothesis/Objectives The objective of this study was to determine whether ML in dogs was associated with environmental radon or proximity to horizontal oil and drilling (fracking), a source of VOC pollution. Methods We identified dogs from the Golden Retriever Lifetime Study that developed ML (n = 52) along with matched controls (n = 104). Dog home addresses were categorized by Environmental Protection Agency radon zone and average residential radon by county, as well as by distance from fracking and associated wastewater wells. Results We found no significant differences in county level radon measurements. Individual household radon measurements were not available. There was no difference in residential proximity to active fracking wells between dogs with ML and unaffected dogs. While dogs with ML lived closer to wastewater wells (123 vs 206 km; P = .01), there was no difference in the percentage of cases vs controls that lived in close proximity (20 km) to a fracking well (11.5% for cases, 6.7% for controls; OR 1.81, 95% CI 0.55 to 5.22; P = .36), or a wastewater well (6.7% for cases, 4.4% for controls; P > .99). Conclusions and Clinical Importance These data suggest that more proximate sources of chemical exposures need to be assessed in dogs with ML, including measurements of individual household radon and household VOC concentrations.",
+  "Disease_List": [
+    "Multicentric lymphoma",
+    "non‐Hodgkin lymphoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'Multicentric lymphoma (ML)' in dogs and compares it to 'non‐Hodgkin lymphoma (NHL)' in humans. Both are specific disease names related to lymphoma, a type of cancer. Therefore, the classification is Y.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "non‐Hodgkin lymphoma"
+  ],
+  "UMLS_search_results": {
+    "Multicentric lymphoma": [],
+    "non‐Hodgkin lymphoma": []
+  },
+  "MRCONSO_search_results": {
+    "Multicentric lymphoma": [],
+    "non‐Hodgkin lymphoma": [
+      "non hodgkin lymphoma",
+      "Non Hodgkin Lymphoma",
+      "B cell non hodgkin Lymphoma multigene analysis",
+      "B cell non hodgkin Lymphoma multigene analysis:Find:Pt:Bld/Tiss:Doc:Molgen",
+      "B cell non hodgkin Lymphoma multigene analysis Molgen Doc (Bld/Tiss)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "non‐Hodgkin lymphoma_via_non hodgkin lymphoma": [
+      {
+        "ui": "C0024305",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024305",
+        "name": "Lymphoma, Non-Hodgkin",
+        "mesh_id": "D008228"
+      }
+    ]
+  },
+  "gpt_extract_compound": [
+    "radon",
+    "volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "radon": 24857,
+      "volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "radon_non‐Hodgkin_lymphoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses a study investigating the association between environmental radon exposure and multicentric lymphoma (ML) in dogs, which resembles non-Hodgkin lymphoma (NHL) in humans. The study found no significant differences in county-level radon measurements between dogs with ML and controls, and individual household radon measurements were not available. Additionally, there was no difference in residential proximity to fracking wells, a source of VOC pollution. The conclusions suggest that more precise measurements of individual household radon and VOC concentrations are needed, indicating that current data do not support a clear relationship between radon exposure and ML (and by extension NHL). Therefore, based on this abstract, there is no clear evidence of a relationship between radon and non-Hodgkin lymphoma."
+      }
+    },
+    {
+      "volatile organic compounds_non‐Hodgkin_lymphoma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that human non-Hodgkin lymphoma (NHL) is associated with multiple environmental exposures, including volatile organic compounds (VOCs). Although the study focused on dogs with multicentric lymphoma (ML) as a model for human NHL and did not find significant associations with radon or proximity to fracking wells (a source of VOC pollution), it suggests that more proximate sources of chemical exposures, including household VOC concentrations, need to be assessed. This implies existing evidence supports a relationship between VOCs and NHL in humans, even if this particular study did not establish a direct link in dogs."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'radon' and 'volatile organic compounds (VOCs)' as chemical substances associated with environmental exposures relevant to the study. No other specific chemical compound names are provided."
+}

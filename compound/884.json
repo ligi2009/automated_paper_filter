@@ -1,0 +1,271 @@
+{
+  "id": 884,
+  "title": "Chemical Composition and Polyphenolic Compounds of Red Wines: Their Antioxidant Activities and Effects on Human Health—A Review",
+  "Abstract": "Red wine, an alcoholic beverage is composed of a spectrum of complex compounds such as water, alcohol, glycerol, organic acid, carbohydrates, polyphenols, and minerals as well as volatile compounds. Major factors that affect the levels of phenolic compounds in red wines are the variety of grapes and the storage of the wines. Among the constituents of red wine, phenolic compounds play a crucial role in attributes including color and mouthfeel and confer beneficial properties on health. Most importantly, phenolic compounds such as flavanols, flavonols, flavanones, flavones, tannins, anthocyanins, hydroxycinnamic acids, hydroxybenzoic acids, and resveratrol can prevent the development of cardiovascular diseases, cancers, diabetes, inflammation, and some other chronic diseases.",
+  "Disease_List": [
+    "cardiovascular diseases",
+    "cancers",
+    "diabetes",
+    "inflammation"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'cardiovascular diseases', 'cancers', 'diabetes', and 'inflammation'. These are clearly identified as diseases or health conditions that phenolic compounds in red wine can help prevent, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiovascular diseases",
+    "cancers",
+    "diabetes",
+    "inflammation"
+  ],
+  "UMLS_search_results": {
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ],
+    "cancers": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0497549",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0497549",
+        "name": "malignant neurologic neoplasms",
+        "mesh_id": "None"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "inflammation": [
+      {
+        "ui": "C0021368",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021368",
+        "name": "Inflammation",
+        "mesh_id": "D007249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "flavanols",
+    "flavonols",
+    "flavanones",
+    "flavones",
+    "tannins",
+    "anthocyanins",
+    "hydroxycinnamic acids",
+    "hydroxybenzoic acids",
+    "resveratrol"
+  ],
+  "compound_CID": [
+    {
+      "flavanols": "None",
+      "flavonols": 11349,
+      "flavanones": "None",
+      "flavones": "None",
+      "tannins": "None",
+      "anthocyanins": 145858,
+      "hydroxycinnamic acids": "None",
+      "hydroxybenzoic acids": "None",
+      "resveratrol": 445154
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "flavanols_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavanols, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between flavanols and cardiovascular health, suggesting that flavanols have protective effects against cardiovascular diseases."
+      },
+      "flavanols_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavanols, can prevent the development of cancers among other chronic diseases. This indicates a beneficial relationship between flavanols and the prevention of cancers."
+      },
+      "flavanols_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavanols, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between flavanols and diabetes, suggesting that flavanols may help in preventing or managing diabetes."
+      },
+      "flavanols_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavanols, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between flavanols and inflammation, suggesting that flavanols have properties that may reduce or prevent inflammation."
+      }
+    },
+    {
+      "flavonols_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavonols, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between flavonols and cardiovascular disease prevention."
+      },
+      "flavonols_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavonols, can prevent the development of cancers. This indicates a beneficial relationship between flavonols and the prevention of cancer, suggesting that flavonols have protective properties against cancer development."
+      },
+      "flavonols_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavonols, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between flavonols and diabetes prevention."
+      },
+      "flavonols_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavonols, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between flavonols and inflammation, suggesting that flavonols have properties that may help in preventing or reducing inflammation."
+      }
+    },
+    {
+      "flavanones_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavanones, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between flavanones and cardiovascular health."
+      },
+      "flavanones_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavanones, can prevent the development of cancers. This indicates a beneficial relationship between flavanones and the prevention of cancers."
+      },
+      "flavanones_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavanones, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between flavanones and diabetes, suggesting that flavanones may have protective effects against the development of diabetes."
+      },
+      "flavanones_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavanones, can prevent the development of inflammation among other chronic diseases. This indicates a clear relationship between flavanones and inflammation, suggesting that flavanones have beneficial properties that may help in preventing or mitigating inflammation."
+      }
+    },
+    {
+      "flavones_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavones, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between flavones and cardiovascular health, suggesting that flavones have protective effects against cardiovascular diseases."
+      },
+      "flavones_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including flavones, can prevent the development of cancers among other chronic diseases. This indicates a beneficial relationship between flavones and the prevention of cancers."
+      },
+      "flavones_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavones, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between flavones and diabetes, suggesting that flavones may have protective or preventive effects against diabetes."
+      },
+      "flavones_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including flavones, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between flavones and inflammation, suggesting that flavones have anti-inflammatory properties or effects."
+      }
+    },
+    {
+      "tannins_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds in red wine, including tannins, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between tannins and cardiovascular health, suggesting that tannins have protective effects against cardiovascular diseases."
+      },
+      "tannins_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds in red wine, including tannins, can prevent the development of cancers. This indicates a protective relationship between tannins and cancers, suggesting that tannins may have beneficial effects in reducing cancer risk."
+      },
+      "tannins_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including tannins, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between tannins and diabetes, suggesting that tannins may help in preventing or managing diabetes."
+      },
+      "tannins_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including tannins, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between tannins and inflammation, suggesting that tannins have properties that may help in preventing or reducing inflammation."
+      }
+    },
+    {
+      "anthocyanins_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including anthocyanins, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between anthocyanins and cardiovascular health."
+      },
+      "anthocyanins_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds in red wine, including anthocyanins, can prevent the development of cancers among other chronic diseases. This indicates a beneficial relationship between anthocyanins and the prevention of cancers."
+      },
+      "anthocyanins_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including anthocyanins, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between anthocyanins and diabetes, suggesting that anthocyanins may help in preventing or managing diabetes."
+      },
+      "anthocyanins_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including anthocyanins, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between anthocyanins and inflammation, suggesting that anthocyanins have anti-inflammatory properties or effects."
+      }
+    },
+    {
+      "hydroxycinnamic acids_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including hydroxycinnamic acids, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between hydroxycinnamic acids and cardiovascular disease prevention."
+      },
+      "hydroxycinnamic acids_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds in red wine, including hydroxycinnamic acids, can prevent the development of several chronic diseases, explicitly mentioning cancers among them. This indicates a beneficial relationship between hydroxycinnamic acids and the prevention of cancers."
+      },
+      "hydroxycinnamic acids_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including hydroxycinnamic acids, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between hydroxycinnamic acids and diabetes prevention."
+      },
+      "hydroxycinnamic acids_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds, including hydroxycinnamic acids, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between hydroxycinnamic acids and inflammation, suggesting that these compounds have anti-inflammatory properties or effects."
+      }
+    },
+    {
+      "hydroxybenzoic acids_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including hydroxybenzoic acids, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between hydroxybenzoic acids and cardiovascular disease prevention."
+      },
+      "hydroxybenzoic acids_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including hydroxybenzoic acids, can prevent the development of cancers. This indicates a beneficial relationship between hydroxybenzoic acids and cancer prevention."
+      },
+      "hydroxybenzoic acids_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including hydroxybenzoic acids, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between hydroxybenzoic acids and diabetes prevention."
+      },
+      "hydroxybenzoic acids_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including hydroxybenzoic acids, can prevent the development of inflammation among other chronic diseases. This indicates a beneficial relationship between hydroxybenzoic acids and inflammation, suggesting that these compounds have anti-inflammatory properties or effects."
+      }
+    },
+    {
+      "resveratrol_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract states that phenolic compounds in red wine, including resveratrol, can prevent the development of cardiovascular diseases. This indicates a beneficial relationship between resveratrol and cardiovascular diseases, suggesting that resveratrol has protective effects against these diseases."
+      },
+      "resveratrol_cancers": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including resveratrol, can prevent the development of cancers. This indicates a beneficial relationship between resveratrol and the prevention of cancer, providing evidence of a protective effect of resveratrol against cancers."
+      },
+      "resveratrol_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including resveratrol, can prevent the development of diabetes among other chronic diseases. This indicates a beneficial relationship between resveratrol and diabetes prevention."
+      },
+      "resveratrol_inflammation": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that phenolic compounds, including resveratrol, can prevent the development of inflammation among other chronic diseases. This indicates a clear relationship between resveratrol and inflammation, suggesting that resveratrol has beneficial properties in preventing or mitigating inflammation."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these named phenolic compounds found in red wine, highlighting their roles and health benefits. General terms like water, alcohol, glycerol, organic acid, carbohydrates, polyphenols, and minerals were excluded as they are broad categories rather than specific chemical compounds."
+}

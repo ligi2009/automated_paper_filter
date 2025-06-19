@@ -1,0 +1,71 @@
+{
+  "id": 4682,
+  "title": "Non-Invasive Diagnosis of Diabetes by Volatile Organic Compounds in Urine Using FAIMS and Fox4000 Electronic Nose",
+  "Abstract": "The electronic nose (eNose) is an instrument designed to mimic the human olfactory system. Usage of eNose in medical applications is more popular than ever, due to its low costs and non-invasive nature. The eNose sniffs the gases and vapours that emanate from human waste (urine, breath, and stool) for the diagnosis of variety of diseases. Diabetes mellitus type 2 (DM2) affects 8.3% of adults in the world, with 43% being underdiagnosed, resulting in 4.9 million deaths per year. In this study, we investigated the potential of urinary volatile organic compounds (VOCs) as novel non-invasive diagnostic biomarker for diabetes. In addition, we investigated the influence of sample age on the diagnostic accuracy of urinary VOCs. We analysed 140 urine samples (73 DM2, 67 healthy) with Field-Asymmetric Ion Mobility Spectrometry (FAIMS); a type of eNose; and FOX 4000 (AlphaM.O.S, Toulouse, France). Urine samples were collected at UHCW NHS Trust clinics over 4 years and stored at −80 °C within two hours of collection. Four different classifiers were used for classification, specifically Sparse Logistic Regression, Random Forest, Gaussian Process, and Support Vector on both FAIMS and FOX4000. Both eNoses showed their capability of diagnosing DM2 from controls and the effect of sample age on the discrimination. FAIMS samples were analysed for all samples aged 0–4 years (AUC: 88%, sensitivity: 87%, specificity: 82%) and then sub group samples aged less than a year (AUC (Area Under the Curve): 94%, Sensitivity: 92%, specificity: 100%). FOX4000 samples were analysed for all samples aged 0–4 years (AUC: 85%, sensitivity: 77%, specificity: 85%) and a sub group samples aged less than 18 months: (AUC: 94%, sensitivity: 90%, specificity: 89%). We demonstrated that FAIMS and FOX 4000 eNoses can discriminate DM2 from controls using urinary VOCs. In addition, we showed that urine sample age affects discriminative accuracy.",
+  "Disease_List": [
+    "Diabetes mellitus type 2",
+    "DM2"
+  ],
+  "Reason": "The abstract explicitly mentions 'Diabetes mellitus type 2 (DM2)' as a specific disease multiple times, including its prevalence, impact, and diagnostic investigation using eNose technology. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Diabetes mellitus type 2",
+    "DM2"
+  ],
+  "UMLS_search_results": {
+    "Diabetes mellitus type 2": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "DM2": [
+      {
+        "ui": "C3273677",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3273677",
+        "name": "CNBP wt Allele",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1300562",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1300562",
+        "name": "square decimeter",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1824763",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1824763",
+        "name": "CNBP gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1415938",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1415938",
+        "name": "IGHD1-14 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C2931689",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2931689",
+        "name": "Dystrophia myotonica 2",
+        "mesh_id": "D009223"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses the use of electronic noses to detect urinary volatile organic compounds (VOCs) for diagnosing diabetes mellitus type 2, but it does not mention any specific chemical compound names."
+}

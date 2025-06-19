@@ -1,0 +1,39 @@
+{
+  "id": 795,
+  "title": "The Olfaction Ability of Medical Detection Canine to Detect Prostate Cancer From Urine Samples: Progress Captured in Systematic Review and Meta-Analysis",
+  "Abstract": "Background To date, early cancer detection is considered vital to reduce the global cancer burden through low-cost, but accurate screening modalities. The anatomical positioning of prostate cancer (PCa) created a potentially distinctive diagnostic method through the identification of volatile organic compounds (VOCs) in urine, which might be detectable not by humans but by canine species. This review aimed to capture the potential of the medical detection canine (MDC) to detect PCa by providing its diagnostic accuracy estimation on urine odor testing. Methods Databases, e.g., MEDLINE, Cochrane, ScienceDirect, and ProQuest, were searched to identify the studies. We focused on accessible original research, comparing the diagnostic utility of trained female MDC and histopathology examination as the gold standard for PCa diagnosis. The statistical analysis was performed in Meta-DiSc 1.4 and presented in diagnostic values, i.e., sensitivity (Sn), specificity (Sp), positive or negative likelihood ratio (LR+ or LR-), diagnostic odd ratio (DOR), and area under the curve (AUC) value, to conclude the Sn-Sp in a single outcome. Results Female German Shepherds were the most commonly utilized MDC from the five studies included in the final analysis. We estimate the pooled diagnostic value of eight different MDCs, with the findings as follows: Sn (0.95 (0.94 - 0.97)), Sp (0.92 (0.90 - 0.93)), LR+ (4.48 (1.90 - 10.58)), LR- (0.12 (0.01 - 1.42)), DOR (35.39 (2.90 - 432.53)), and an AUC value of 0.9232. Conclusions MDC’s olfaction ability holds considerable potential on its diagnostic accuracies to distinguish the urine of PCa individuals by identifying its volatilome property.",
+  "Disease_List": [
+    "prostate cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'prostate cancer (PCa)' multiple times as the specific disease being detected and studied. This is a clearly named disease rather than a general term like 'disease' or 'illness'. Therefore, the classification is Y with 'prostate cancer' listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "prostate cancer"
+  ],
+  "UMLS_search_results": {
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in urine as a general class of chemicals but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,50 @@
+{
+  "id": 4125,
+  "title": "Environmental Pollution Caused by Gas and Petrochemical Industries and Its Effects on the Health of Residents of Assaluyeh Region, Irani-an Energy Capital: A Review Study",
+  "Abstract": "Gas and petrochemical industries in Assaluyeh produce various types of pollutants such as PM2.5, PM10, O3, NOx, SOx, volatile organic compounds (VOCs), sulfide hydrogen (H2S), heavy metals and hazardous air pollutants (HAP) including nickel, chromium, cadmium and selenium, benzene, hexane, toluene, xylene, propylene and naphthalene, which have irreparable effects on ecosystem, environment and human health. Several studies have reported the presence of hazardous pollutants such as heavy metals and polycyclic aromatic hydrocarbons (PAHs) in coastal sediments in the South Pars region. Studies on marine aquatic organisms such as bivalves showed high and toxic concentrations of heavy metals (cadmium, lead, arsenic, sternium, tin, silver, antimony, and molybdenum). Moreover, several studies have shown extremely high concentrations of heavy metals in the trees of Assaluyeh region compared to non-polluted areas. Some studies have reported that pollen allergenicity has increased dramatically due to changes in protein profiles and the biological structure of tree pollens caused by pollutants in the gas and petrochemical industries in Assaluyeh. In addition, studies conducted in residents of Assaluyeh showed that urinary levels of heavy metals such as arsenic, vanadium, manganese and nickel are significantly higher than those in the controls. The prevalence of asthma, nasal allergy and eczema is also higher in Assaluyeh region than that in other cities of Iran.",
+  "Disease_List": [
+    "asthma",
+    "nasal allergy",
+    "eczema"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: asthma, nasal allergy, and eczema. These are named health conditions related to the effects of pollutants from the gas and petrochemical industries in Assaluyeh. Although the abstract discusses general health impacts and pollutants, it specifically identifies these three diseases, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "nasal allergy",
+    "eczema"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "nasal allergy": [
+      {
+        "ui": "C0847614",
+        "rootSource": "HPO",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0847614",
+        "name": "Nasal allergies",
+        "mesh_id": "None"
+      }
+    ],
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

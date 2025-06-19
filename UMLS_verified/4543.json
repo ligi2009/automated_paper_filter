@@ -1,0 +1,35 @@
+{
+  "id": 4543,
+  "title": "Use of Sensor Array Analysis to Detect Ovarian Cancer through Breath, Urine, and Blood: A Case-Control Study",
+  "Abstract": "Ovarian cancer (OC) is the eighth most common cancer in women. Since screening programs do not exist, it is often diagnosed in advanced stages. Today, the detection of OC is based on clinical examination, transvaginal ultrasound (US), and serum biomarker (Carbohydrate Antigen 125 (CA 125) and Human Epididymis Protein 4 (HE4)) dosage, with a sensitivity of 88% and 95%, respectively, and a specificity of 84% for US and 76% for biomarkers. These methods are clearly not enough, and OC in its early stages is often missed. Many scientists have recently focused their attention on volatile organic compounds (VOCs). These are gaseous molecules, found in the breath, that could provide interesting information on several diseases, including solid tumors. To detect VOCs, an electronic nose was invented by a group of researchers. A similar device, the e-tongue, was later created to detect specific molecules in liquids. For the first time in the literature, we investigated the potential use of the electronic nose and the electronic tongue to detect ovarian cancer not just from breath but also from urine, blood, and plasma samples.",
+  "Disease_List": [
+    "Ovarian cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Ovarian cancer (OC)' multiple times as a specific disease. It discusses the diagnosis and detection methods for ovarian cancer, making it clear that a specific disease name is mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Ovarian cancer"
+  ],
+  "UMLS_search_results": {
+    "Ovarian cancer": [
+      {
+        "ui": "C1140680",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1140680",
+        "name": "Malignant neoplasm of ovary",
+        "mesh_id": "D010051"
+      },
+      {
+        "ui": "C0919267",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0919267",
+        "name": "ovarian neoplasm",
+        "mesh_id": "D010051"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

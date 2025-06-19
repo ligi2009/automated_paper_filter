@@ -1,0 +1,171 @@
+{
+  "id": 5446,
+  "title": "Determination of volatile organic compounds exhaled by cell lines derived from hematological malignancies",
+  "Abstract": "Background: The gas human exhaled contains many volatile organic compounds (VOCs), which is related to the health status of body. Analysis of VOCs has been proposed as a noninvasive diagnostic tool for certain cancers. Detailed research on the VOCs in gas exhaled by cell can characterize cell type specific metabolites and may be helpful to detect the cancer markers in clinical practice. Methods: Solid-phase microextraction (SPME) gas chromatography–mass spectrometry was used to detect VOCs in the headspace of tissue culture flask in non-Hodgkin’s lymphoma (NHL) cell line JEKO and acute mononuclear leukemia cell line SHI-1, to elaborate the characteristic gaseous biomarkers of hematological malignancies. While macrophage cells and lymphocytic cells were acted as control. The blank group was only the RPMI 1640 medium containing 10% fetal calf serum that without cells. Results: Comparing with control group, the concentration of dimethyl sulfide, 2,4-dimethylheptane, methylbenzene, o-xylene, dodecane, and 1,3-di-tert-butylbenzene in JEKO cells was relatively higher, while the concentration of ethanol, hexanal, and benzaldehyde was lower. In SHI-1 cells, the levels of 2,4-dimethylheptane, benzene, 4-methyldecane, chloroform, 3,7-dimethyl dodecane, and hexadecane were significantly elevated, but the levels of hexanol and cyclohexanol were distinctly reduced. Conclusions: This pilot study revealed that the malignant hematological cells could change the components of VOCs in the cell culture flask in a cell type-specific pattern. The traits of VOCs in our setting offered new strategy for hematological malignancies tracing, and would act as potential biomarkers in diagnosis of malignant hematological diseases.",
+  "Disease_List": [
+    "non-Hodgkin’s lymphoma",
+    "acute mononuclear leukemia",
+    "hematological malignancies",
+    "malignant hematological diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'non-Hodgkin’s lymphoma' and 'acute mononuclear leukemia'. It also refers to 'hematological malignancies' and 'malignant hematological diseases', which are broader disease categories but still specific to types of blood cancers. Therefore, the classification is 'Y' because specific disease names are clearly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hematological malignancies"
+  ],
+  "UMLS_search_results": {
+    "non-Hodgkin’s lymphoma": [],
+    "acute mononuclear leukemia": [],
+    "hematological malignancies": [
+      {
+        "ui": "C0376545",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376545",
+        "name": "Hematologic Neoplasms",
+        "mesh_id": "D019337"
+      }
+    ],
+    "malignant hematological diseases": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "dimethyl sulfide",
+    "2,4-dimethylheptane",
+    "methylbenzene",
+    "o-xylene",
+    "dodecane",
+    "1,3-di-tert-butylbenzene",
+    "ethanol",
+    "hexanal",
+    "benzaldehyde",
+    "benzene",
+    "4-methyldecane",
+    "chloroform",
+    "3,7-dimethyl dodecane",
+    "hexadecane",
+    "hexanol",
+    "cyclohexanol"
+  ],
+  "compound_CID": [
+    {
+      "dimethyl sulfide": 1068,
+      "2,4-dimethylheptane": 16656,
+      "methylbenzene": 1140,
+      "o-xylene": 7237,
+      "dodecane": 8182,
+      "1,3-di-tert-butylbenzene": 136810,
+      "ethanol": 702,
+      "hexanal": 6184,
+      "benzaldehyde": 240,
+      "benzene": 241,
+      "4-methyldecane": 17835,
+      "chloroform": 6212,
+      "3,7-dimethyl dodecane": "None",
+      "hexadecane": 11006,
+      "hexanol": 8103,
+      "cyclohexanol": 7966
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "dimethyl sulfide_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of dimethyl sulfide is relatively higher in the headspace of the tissue culture flask containing JEKO cells, which are a non-Hodgkin’s lymphoma (a type of hematological malignancy) cell line, compared to control groups. This indicates that dimethyl sulfide is associated with malignant hematological cells and may serve as a potential biomarker for hematological malignancies. Therefore, there is evidence of a relationship between dimethyl sulfide and hematological malignancies."
+      }
+    },
+    {
+      "2,4-dimethylheptane_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 2,4-dimethylheptane is relatively higher in the headspace of tissue culture flasks containing non-Hodgkin’s lymphoma (NHL) cell line JEKO and acute mononuclear leukemia cell line SHI-1, both of which are malignant hematological cells. This indicates that 2,4-dimethylheptane is elevated in the presence of hematological malignancies and may serve as a potential biomarker for these diseases. Therefore, there is evidence of a relationship between 2,4-dimethylheptane and hematological malignancies."
+      }
+    },
+    {
+      "methylbenzene_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of methylbenzene was relatively higher in the headspace of the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control groups. Since JEKO cells represent malignant hematological cells, this indicates that methylbenzene is associated with hematological malignancies. The study suggests that changes in volatile organic compounds, including methylbenzene, could serve as potential biomarkers for diagnosis of malignant hematological diseases, supporting a relationship between methylbenzene and hematological malignancies."
+      }
+    },
+    {
+      "o-xylene_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of o-xylene was relatively higher in the headspace of the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control groups. Since JEKO cells represent malignant hematological cells, this indicates that o-xylene levels are altered in the presence of hematological malignancies. The study suggests that such volatile organic compounds, including o-xylene, could serve as potential biomarkers for diagnosis of malignant hematological diseases, demonstrating a relationship between o-xylene and hematological malignancies."
+      }
+    },
+    {
+      "dodecane_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of dodecane was relatively higher in the headspace of the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control groups. Since JEKO cells are malignant hematological cells, this indicates that dodecane levels are elevated in the context of hematological malignancies. The study suggests that changes in volatile organic compounds, including dodecane, are characteristic of malignant hematological cells and could serve as potential biomarkers for diagnosis. Therefore, there is evidence of a relationship between dodecane and hematological malignancies."
+      }
+    },
+    {
+      "1,3-di-tert-butylbenzene_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that the concentration of 1,3-di-tert-butylbenzene was relatively higher in the headspace of the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control groups. Since JEKO cells are malignant hematological cells, this indicates that 1,3-di-tert-butylbenzene is associated with hematological malignancies. The study suggests that changes in volatile organic compounds, including 1,3-di-tert-butylbenzene, could serve as potential biomarkers for diagnosis of malignant hematological diseases, supporting a relationship between this compound and hematological malignancies."
+      }
+    },
+    {
+      "ethanol_hematological_malignancies": {
+        "relationship": "N",
+        "reason": "The abstract reports that ethanol levels were lower in the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control cells, indicating a change in ethanol concentration associated with hematological malignancies. However, the study does not provide evidence that ethanol itself is causally related to hematological malignancies or acts as a biomarker for these diseases. Instead, ethanol is mentioned as one of several volatile organic compounds whose levels differ in malignant cells, without establishing a direct relationship between ethanol and the disease. Therefore, there is no clear evidence of a relationship between ethanol and hematological malignancies based on this abstract."
+      }
+    },
+    {
+      "hexanal_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the non-Hodgkin’s lymphoma (NHL) cell line JEKO, which is a model of hematological malignancy, the concentration of hexanal was lower compared to control groups. This indicates that hexanal levels are altered in the presence of malignant hematological cells. Although the level is decreased rather than increased, this change suggests a relationship between hexanal and hematological malignancies, supporting its potential role as a biomarker for these diseases."
+      }
+    },
+    {
+      "benzaldehyde_hematological_malignancies": {
+        "relationship": "N",
+        "reason": "The abstract reports that the concentration of benzaldehyde was lower in the non-Hodgkin’s lymphoma (NHL) cell line JEKO compared to control cells, indicating a change in its level associated with hematological malignancies. However, the study does not provide evidence that benzaldehyde is directly related to causing or being a biomarker specifically for hematological malignancies. Instead, it is mentioned as one of several volatile organic compounds whose levels vary in malignant cells, without establishing a clear relationship or diagnostic utility for benzaldehyde itself."
+      }
+    },
+    {
+      "benzene_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of benzene were significantly elevated compared to controls. This indicates that benzene is associated with the presence of malignant hematological cells and may serve as a volatile organic compound biomarker for hematological malignancies. Therefore, there is evidence of a relationship between benzene and hematological malignancies based on the altered VOC profile in malignant cells."
+      }
+    },
+    {
+      "4-methyldecane_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of 4-methyldecane were significantly elevated compared to controls. This indicates that 4-methyldecane is associated with malignant hematological cells and may serve as a potential biomarker for hematological malignancies. Therefore, there is evidence of a relationship between 4-methyldecane and hematological malignancies based on the VOC profile changes observed in the study."
+      }
+    },
+    {
+      "chloroform_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of chloroform were significantly elevated compared to controls. This indicates that chloroform is associated with the presence of malignant hematological cells and may serve as a volatile organic compound biomarker for hematological malignancies. Therefore, there is evidence of a relationship between chloroform and hematological malignancies based on the altered VOC profile in malignant cells."
+      }
+    },
+    {
+      "3,7-dimethyl dodecane_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of 3,7-dimethyl dodecane were significantly elevated compared to controls. This indicates that 3,7-dimethyl dodecane is associated with malignant hematological cells and may serve as a potential biomarker for hematological malignancies. Therefore, there is evidence of a relationship between 3,7-dimethyl dodecane and hematological malignancies based on the altered volatile organic compound profile in malignant cells."
+      }
+    },
+    {
+      "hexadecane_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a type of hematological malignancy, the levels of hexadecane were significantly elevated compared to controls. This indicates that hexadecane is associated with the presence of malignant hematological cells and may serve as a potential biomarker for hematological malignancies. Therefore, there is evidence of a relationship between hexadecane and hematological malignancies based on the changes in volatile organic compounds detected in the study."
+      }
+    },
+    {
+      "hexanol_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of hexanol were distinctly reduced compared to controls. This indicates that hexanol levels are altered in the presence of hematological malignancies, suggesting a relationship between hexanol and these diseases. The study highlights that volatile organic compounds, including hexanol, show cell type-specific changes in malignant hematological cells, supporting the potential use of hexanol as a biomarker for hematological malignancies."
+      }
+    },
+    {
+      "cyclohexanol_hematological_malignancies": {
+        "relationship": "Y",
+        "reason": "The abstract reports that in the acute mononuclear leukemia cell line SHI-1, which is a model of hematological malignancy, the levels of cyclohexanol were distinctly reduced compared to controls. This indicates that cyclohexanol levels are altered in the presence of hematological malignancies, suggesting a relationship between cyclohexanol and these diseases. The study highlights that changes in volatile organic compounds, including cyclohexanol, could serve as potential biomarkers for diagnosis of malignant hematological diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions these chemical compounds as volatile organic compounds (VOCs) detected and analyzed in the study related to hematological malignancies. These are distinct chemical substances with specific names, unlike general terms such as 'compounds' or 'substances'."
+}

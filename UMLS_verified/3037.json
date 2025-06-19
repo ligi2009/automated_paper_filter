@@ -1,0 +1,39 @@
+{
+  "id": 3037,
+  "title": "Effects of Emissions From Oriented Strand Board on the Development of Atopic Dermatitis Using Two Different Experimental Mouse Models",
+  "Abstract": "Atopic dermatitis (AD) is an allergic skin disease widespread in children, which later in life can predispose them to asthma. Oriented strand board (OSB), increasingly used in the construction industry, emits volatile organic compounds in the indoor air, some of which may exacerbate AD development in humans. The aim of this study was to evaluate the effects of OSB emissions on the development of AD and lung inflammation. Two different murine AD models, induced by calcipotriol or oxazolone, were exposed to higher‐ or lower‐emitting OSB throughout the experiments. Physiological, biochemical, and immunological parameters of skin disease development, as well as lung inflammatory parameters, were evaluated. Exposure to higher‐emitting OSB, characterised especially by high 3‐carene emissions, exacerbated some parameters of AD, such as skin barrier function and thickness, with accumulation of eosinophils and 15‐lipoxygenase (15‐LOX)‐driven mediators in both models, whereas IL‐4 or 5‐LOX‐positive cells were increased in only the calcipotriol or oxazolone model, respectively. In the lungs of calcipotriol‐treated mice, higher‐emitting OSB increased lung eosinophil recruitment. Exposure to lower‐emitting OSB had no or even beneficial effects on the skin or lungs of murine AD models. 3‐carene in OSB emissions, alone or in combination with other substances, may promote the development of AD and prime the lungs towards an allergic phenotype. Identification and quantification of potentially harmful emitting sources in indoor air may be important for AD prevention or control.",
+  "Disease_List": [
+    "Atopic dermatitis",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'Atopic dermatitis (AD)' as a specific allergic skin disease and also refers to 'asthma' as a related condition that AD can predispose to later in life. These are specific disease names rather than general terms.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Atopic dermatitis",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "Atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 4846,
+  "title": "Recent advances in measuring the effects of diet on gastrointestinal physiology: Sniffing luminal gases and fecal volatile organic compounds",
+  "Abstract": "Despite the huge pool of ideas on how diet can be manipulated to ameliorate or prevent illnesses, our understanding of how specific changes in diet influence the gastrointestinal tract is limited. This review aims to describe two innovative investigative techniques that are helping lift the veil of mystery about the workings of the gut. First, the gas‐sensing capsule is a telemetric swallowable device that provides unique information on gastric physiology, small intestinal microbial activity, and fermentative patterns in the colon. Its ability to accurately measure regional and whole‐gut transit times in ambulant humans has been confirmed. Luminal concentrations of hydrogen and carbon dioxide are measured by sampling through the gastrointestinal tract, and such application has enabled mapping of the relative amounts of fermentation of carbohydrates in proximal‐versus‐distal colon after manipulation of the types and amounts of dietary fiber. Second, changes in the smell of feces, via analysis of volatile organic compounds, occur in response to the diet, and by the presence and therapy of irritable bowel syndrome and inflammatory bowel disease. Such information is likely to aid our understanding of what dietary change can do to the colonic luminal microenvironment, and may value‐add to diagnosis and therapeutic design. In conclusion, such methodologies enable a more complete physiological profile of the gastrointestinal tract to be created. Systematic description in various cohorts and effects of dietary interventions, particularly when co‐ordinated with the analysis of microbiome, are needed.",
+  "Disease_List": [
+    "irritable bowel syndrome",
+    "inflammatory bowel disease"
+  ],
+  "Reason": "The abstract explicitly mentions two specific diseases: 'irritable bowel syndrome' and 'inflammatory bowel disease'. These are named conditions related to the gastrointestinal tract, distinguishing them from general terms like 'illnesses' or 'disease'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "irritable bowel syndrome",
+    "inflammatory bowel disease"
+  ],
+  "UMLS_search_results": {
+    "irritable bowel syndrome": [
+      {
+        "ui": "C0022104",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022104",
+        "name": "Irritable Bowel Syndrome",
+        "mesh_id": "D043183"
+      }
+    ],
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "hydrogen",
+    "carbon dioxide"
+  ],
+  "compound_CID": [
+    {
+      "hydrogen": 783,
+      "carbon dioxide": 280
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "hydrogen_irritable_bowel_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract describes the use of a gas-sensing capsule that measures luminal concentrations of hydrogen in the gastrointestinal tract, which helps map fermentation patterns in the colon. It also mentions that changes in volatile organic compounds, including gases like hydrogen, occur in response to the presence and therapy of irritable bowel syndrome (IBS). This indicates that hydrogen levels are relevant in the context of IBS, suggesting a relationship between hydrogen and the disease, particularly in understanding gut physiology and potentially aiding diagnosis and therapy."
+      },
+      "hydrogen_inflammatory_bowel_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the measurement of hydrogen concentrations in the gastrointestinal tract as a marker of microbial fermentation and transit times, and separately mentions inflammatory bowel disease (IBD) in the context of changes in fecal volatile organic compounds. However, it does not provide evidence of a direct relationship between hydrogen itself and IBD. Hydrogen is described as a measurable gas reflecting fermentation patterns, but no causal or associative link between hydrogen levels and IBD pathophysiology or treatment is established in the abstract."
+      }
+    },
+    {
+      "carbon dioxide_irritable_bowel_syndrome": {
+        "relationship": "N",
+        "reason": "The abstract discusses the measurement of carbon dioxide concentrations in the gastrointestinal tract as part of assessing fermentation patterns and gut physiology. It also mentions that changes in volatile organic compounds in feces are associated with irritable bowel syndrome (IBS). However, the abstract does not provide direct evidence or a clear relationship between carbon dioxide itself and IBS. Instead, carbon dioxide is described as a marker measured to understand gut fermentation and physiology, while IBS is linked to changes in fecal volatile compounds more generally. Therefore, based on this abstract, there is no clear evidence of a direct relationship between carbon dioxide and irritable bowel syndrome."
+      },
+      "carbon dioxide_inflammatory_bowel_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the measurement of carbon dioxide concentrations in the gastrointestinal tract as part of assessing fermentation patterns and gut physiology. It also mentions that changes in volatile organic compounds in feces, related to diet and diseases including inflammatory bowel disease (IBD), can aid understanding and diagnosis. However, the abstract does not provide direct evidence or a clear relationship between carbon dioxide itself and inflammatory bowel disease. Carbon dioxide is described as a marker measured to understand gut fermentation and transit, not as a causative or directly related factor to IBD."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the measurement of luminal concentrations of hydrogen and carbon dioxide gases in the gastrointestinal tract, which are specific chemical compounds relevant to the study described."
+}

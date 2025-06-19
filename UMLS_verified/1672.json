@@ -1,0 +1,39 @@
+{
+  "id": 1672,
+  "title": "Airway Hyperresponsiveness, Inflammation, and Pulmonary Emphysema in Rodent Models Designed to Mimic Exposure to Fuel Oil–Derived Volatile Organic Compounds Encountered during an Experimental Oil Spill",
+  "Abstract": "Background: Fuel oil–derived volatile organic compounds (VOCs) inhalation is associated with accidental marine spills. After the Prestige petroleum tanker sank off northern Spain in 2002 and the Deepwater Horizon oil rig catastrophe in 2009, subjects involved in environmental decontamination showed signs of ongoing or residual lung disease up to 5 y after the exposure. Objectives: We aimed at investigating mechanisms driving persistent respiratory disease by developing an animal model of inhalational exposure to fuel oil–derived VOCs. Methods: Female Wistar and Brown Norway (BN) rats and C57BL mice were exposed to VOCs produced from fuel oil mimicking the Prestige spill. Exposed animals inhaled the VOCs 2 h daily, 5 d per week, for 3 wk. Airway responsiveness to methacholine (MCh) was assessed, and bronchoalveolar lavage (BAL) and lung tissues were analyzed after the exposure and following a 2-wk washout. Results: Consistent with data from human studies, both strains of rats that inhaled fuel oil–derived VOCs developed airway hyperresponsiveness that persisted after the washout period, in the absence of detectable inflammation in any lung compartment. Histopathology and quantitative morphology revealed the development of peripherally distributed pulmonary emphysema, which persisted after the washout period, associated with increased alveolar septal cell apoptosis, microvascular endothelial damage of the lung parenchyma, and inhibited expression of vascular endothelial growth factor (VEGF). Discussion: In this rat model, fuel oil VOCs inhalation elicited alveolar septal cell apoptosis, likely due to DNA damage. In turn, the development of a peculiar pulmonary emphysema pattern altered lung mechanics and caused persistent noninflammatory airway hyperresponsiveness. Such findings suggest to us that humans might also respond to VOCs through physiopathological pathways different from those chiefly involved in typical cigarette smoke–driven emphysema in chronic obstructive pulmonary disease (COPD). If so, this study could form the basis for a novel disease mechanism for lasting respiratory disease following inhalational exposure to catastrophic fuel oil spills. https://doi.org/10.1289/EHP4178",
+  "Disease_List": [
+    "pulmonary emphysema",
+    "chronic obstructive pulmonary disease (COPD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'pulmonary emphysema' as a specific disease developed in the animal model after exposure to fuel oil–derived VOCs. It also references 'chronic obstructive pulmonary disease (COPD)' when comparing the observed emphysema pattern to typical cigarette smoke–driven emphysema in COPD. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "pulmonary emphysema",
+    "chronic obstructive pulmonary disease (COPD)"
+  ],
+  "UMLS_search_results": {
+    "pulmonary emphysema": [
+      {
+        "ui": "C0034067",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0034067",
+        "name": "Pulmonary Emphysema",
+        "mesh_id": "D011656"
+      }
+    ],
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

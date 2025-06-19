@@ -1,0 +1,119 @@
+{
+  "id": 5923,
+  "title": "Real-world emissions and ozone formation potential of carbonyl compounds originating from construction machinery based on a portable emission measurement system",
+  "Abstract": "There are serious air pollution problems in Chinese cities, which are manifested as high levels of ground ozone (O3) and particulate matter (PM) with an aerodynamic diameter of 2.5 μmor smaller (PM2.5) (Dong et al., 2014). Carbonyl compounds are a class of oxygen-containing volatile organic compounds that are important precursors of the formation of O3 and secondary organic aerosols (SOAs), these compounds can contribute 17%–50% to the ozone formation potential (OFP) (Duan et al., 2008; Han et al., 2019), and they can lead to the generation of photochemical smog (Shen et al., 2013; Zhang et al., 2019; Shen H. et al., 2021). Carbonyl compounds include aldehydes, ketones and dicarbonyl compounds, which are harmful to human health. Formaldehyde and acetaldehyde have been identified as toxic air pollutants and can generate carcinogenic effects (World Health Organization, 2000). Formaldehyde can irritate the upper respiratory tract and can affect health after acute or chronic exposure through inhalation and other forms of exposure, including through the eyes, nasopharynx and throat. Formaldehyde was included in the first list of human carcinogens by the International Agency for Research on Cancer (Cogliano et al., 2011; Luecken et al., 2018). Acetaldehyde can cause digestive tract diseases (Ho et al., 2015), and acrolein can damage the cardiovascular system and cause cardiomyopathy and heart failure (Henning et al., 2017). The main sources of atmospheric carbonyl compounds are anthropogenic, natural and atmospheric photochemical reactions (Christensen et al., 2000; Ho et al., 2002), the anthropogenic sources include vehicle exhaust, biomass combustion, industrial processes, OPEN ACCESS",
+  "Disease_List": [
+    "carcinogenic effects",
+    "digestive tract diseases",
+    "cardiomyopathy",
+    "heart failure"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and health conditions such as carcinogenic effects caused by formaldehyde, digestive tract diseases caused by acetaldehyde, and cardiovascular diseases including cardiomyopathy and heart failure caused by acrolein. These are specific disease names or clearly defined disease conditions, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cardiomyopathy",
+    "heart failure"
+  ],
+  "UMLS_search_results": {
+    "carcinogenic effects": [],
+    "digestive tract diseases": [],
+    "cardiomyopathy": [
+      {
+        "ui": "C0878544",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0878544",
+        "name": "Cardiomyopathies",
+        "mesh_id": "D009202"
+      }
+    ],
+    "heart failure": [
+      {
+        "ui": "C0018801",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018801",
+        "name": "Heart failure",
+        "mesh_id": "D006333"
+      },
+      {
+        "ui": "C0018802",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018802",
+        "name": "Congestive heart failure",
+        "mesh_id": "D006333"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "O3",
+    "PM2.5",
+    "Formaldehyde",
+    "Acetaldehyde",
+    "Acrolein"
+  ],
+  "compound_CID": [
+    {
+      "O3": 24823,
+      "PM2.5": "None",
+      "Formaldehyde": 712,
+      "Acetaldehyde": 177,
+      "Acrolein": 7847
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "O3_cardiomyopathy": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of ground ozone (O3) as a component of air pollution and mentions carbonyl compounds as precursors to O3 formation. While it highlights that acrolein, a carbonyl compound, can damage the cardiovascular system and cause cardiomyopathy and heart failure, there is no direct evidence or mention of O3 itself causing cardiomyopathy. The relationship between O3 and cardiomyopathy is not established or indicated in the abstract."
+      },
+      "O3_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of ground ozone (O3) as a component of air pollution and mentions various harmful effects of carbonyl compounds, including their role in ozone formation and their health impacts. However, the specific link between O3 itself and heart failure is not established in the abstract. While acrolein, a carbonyl compound, is noted to cause cardiovascular damage including heart failure, there is no direct evidence or statement connecting O3 exposure to heart failure in the provided text."
+      }
+    },
+    {
+      "PM2.5_cardiomyopathy": {
+        "relationship": "N",
+        "reason": "The abstract discusses PM2.5 as a component of air pollution and mentions various harmful effects of carbonyl compounds and other pollutants. While acrolein, a carbonyl compound, is specifically linked to cardiovascular damage including cardiomyopathy, there is no direct evidence or mention in the abstract linking PM2.5 itself to cardiomyopathy. The relationship between PM2.5 and cardiomyopathy is not clearly established or described in the provided text."
+      },
+      "PM2.5_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract discusses PM2.5 as a component of air pollution and mentions various harmful effects of carbonyl compounds and specific pollutants like formaldehyde, acetaldehyde, and acrolein. While acrolein is noted to cause cardiovascular damage including heart failure, there is no direct evidence or mention in the abstract linking PM2.5 itself to heart failure. The relationship between PM2.5 and heart failure is not explicitly established or supported by the information provided."
+      }
+    },
+    {
+      "Formaldehyde_cardiomyopathy": {
+        "relationship": "N",
+        "reason": "The abstract discusses formaldehyde as a toxic air pollutant with carcinogenic effects and irritation to the respiratory tract, but it does not mention any direct relationship between formaldehyde and cardiomyopathy. Instead, it specifically attributes cardiomyopathy and heart failure to acrolein, another carbonyl compound. Therefore, based on the abstract, there is no clear evidence linking formaldehyde to cardiomyopathy."
+      },
+      "Formaldehyde_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract discusses formaldehyde as a toxic air pollutant that can cause irritation to the upper respiratory tract and is classified as a human carcinogen. However, it does not provide any evidence linking formaldehyde exposure to heart failure. Instead, the abstract specifically mentions acrolein as the carbonyl compound associated with cardiovascular damage and heart failure. Therefore, based on the information in the abstract, there is no clear relationship established between formaldehyde and heart failure."
+      }
+    },
+    {
+      "Acetaldehyde_cardiomyopathy": {
+        "relationship": "N",
+        "reason": "The abstract identifies acetaldehyde as a toxic air pollutant that can cause digestive tract diseases, but it does not mention any direct relationship between acetaldehyde and cardiomyopathy. Instead, the abstract specifically attributes damage to the cardiovascular system and the causation of cardiomyopathy and heart failure to acrolein, another compound. Therefore, based on the information provided in the abstract, there is no clear evidence of a relationship between acetaldehyde and cardiomyopathy."
+      },
+      "Acetaldehyde_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract identifies acetaldehyde as a toxic air pollutant that can cause digestive tract diseases, but it does not provide evidence linking acetaldehyde to heart failure. Instead, the abstract specifically attributes damage to the cardiovascular system and the causation of cardiomyopathy and heart failure to acrolein, another compound. Therefore, based on the information in the abstract, there is no clear relationship established between acetaldehyde and heart failure."
+      }
+    },
+    {
+      "Acrolein_cardiomyopathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acrolein can damage the cardiovascular system and cause cardiomyopathy and heart failure (Henning et al., 2017). This indicates a clear relationship between the compound acrolein and the disease cardiomyopathy."
+      },
+      "Acrolein_heart_failure": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acrolein can damage the cardiovascular system and cause cardiomyopathy and heart failure (Henning et al., 2017). This indicates a clear relationship between the compound acrolein and the disease heart failure."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds including ozone (O3), particulate matter with diameter 2.5 micrometers or smaller (PM2.5), and specific carbonyl compounds such as formaldehyde, acetaldehyde, and acrolein. These are distinct chemical substances named explicitly in the text."
+}

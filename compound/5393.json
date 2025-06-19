@@ -1,0 +1,108 @@
+{
+  "id": 5393,
+  "title": "Double Trouble: Flu Intensifies Effects of Ozone",
+  "Abstract": "Environmental health scientists have long speculated that the influenza virus could intensify the pulmonary effects of air pollution or vice versa. Like air pollution, influenza affects primarily the respiratory system, and ambient air pollutants may either lower resistance to viral infection or provide a vehicle that facilitates the spread of the virus, or both. There have been a number of laboratory-based animal studies on this potential relationship but no epidemiologic research. Researchers at the University of Hong Kong, in the first study of the influenza–air pollution interaction in humans, now report that respiratory hospitalizations and mortality significantly increased when ozone (O3) levels rose during flu season [EHP 117:248–253; Wong et al.]. \n \nThe authors conducted a retrospective population-based study focusing on hospitalization and mortality rates for respiratory and cardiovascular disease. Medical data on patients diagnosed with respiratory or cardiovascular disease between 1996 and 2002 came from 14 Hong Kong hospitals. The authors determined “influenza intensity” during the same period as the percentage of respiratory specimens that tested positive for influenza each week. The Hong Kong Environmental Protection Department provided data on average daily concentrations of nitrogen dioxide (NO2), sulfur dioxide (SO2), particulate matter smaller than 10 μm (PM10), and O3. \n \nAs O3 levels increased during times of high influenza intensity, so did the number of hospitalizations and deaths from respiratory disease. The association was stronger in women than men, the researchers reported. There was no significant relationship between O3 and cardiovascular disease hospitalizations or mortality, and the data reflected no significant modification by influenza on the health effects of the other pollutants studied. Hong Kong has two flu seasons, peaking in January–February and May–July. O3 levels in Hong Kong typically peak in the sunniest months of September–December, when ultraviolet radiation reacts with nitrogen oxides and volatile organic compounds to form the noxious gas. \n \nA surprising finding was a decrease in hospitalization for respiratory illness when peak PM10 concentrations coincided with flu outbreaks, whereas PM10 increases at other times were associated with increased hospitalizations. The researchers hypothesize that PM10 may diminish the flu effect by limiting the amount of ultraviolet light entering the atmosphere, which in turn would reduce the production of ozone. \n \nThe authors found weak interactions between influenza and both NO2 and SO2, but cautioned against drawing conclusions about individual pollutants that react in the atmosphere. NO2, for example, can combine with oxygen to form O3. The researchers propose that future studies focus on influenza’s potential interactions with a combination of pollutants in the atmosphere.",
+  "Disease_List": [
+    "influenza"
+  ],
+  "Reason": "The abstract explicitly mentions 'influenza' multiple times as a specific disease affecting the respiratory system. Although it also refers to 'respiratory disease' and 'cardiovascular disease', these are general terms and not specific disease names. Therefore, the classification is Y because 'influenza' is a specific disease name explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "influenza"
+  ],
+  "UMLS_search_results": {
+    "influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "ozone",
+    "O3",
+    "nitrogen dioxide",
+    "NO2",
+    "sulfur dioxide",
+    "SO2",
+    "particulate matter smaller than 10 μm",
+    "PM10"
+  ],
+  "compound_CID": [
+    {
+      "ozone": 24823,
+      "O3": 24823,
+      "nitrogen dioxide": 3032552,
+      "NO2": "None",
+      "sulfur dioxide": 1119,
+      "SO2": 1119,
+      "particulate matter smaller than 10 μm": "None",
+      "PM10": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "ozone_influenza": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between ozone (O3) and influenza. It reports that respiratory hospitalizations and mortality significantly increased when ozone levels rose during periods of high influenza intensity. This suggests that elevated ozone levels during flu seasons exacerbate respiratory disease outcomes associated with influenza. The study found no significant relationship between ozone and cardiovascular disease, indicating the effect is specific to respiratory conditions linked to influenza. Additionally, the interaction was stronger in women than men. Although the authors caution about the complexity of pollutant interactions, the data clearly indicate that increased ozone levels during influenza outbreaks are associated with worsened respiratory health outcomes, supporting a relationship between ozone and influenza."
+      }
+    },
+    {
+      "O3_influenza": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between ozone (O3) levels and influenza. Specifically, it reports that respiratory hospitalizations and mortality significantly increased when O3 levels rose during periods of high influenza intensity. This suggests that elevated O3 levels during flu seasons exacerbate respiratory disease outcomes associated with influenza. Although the study found no significant relationship between O3 and cardiovascular disease, the data clearly indicate that O3 interacts with influenza to worsen respiratory health effects. The authors also note that O3 levels peak in months different from the main flu seasons, but the observed increase in hospitalizations and deaths during times of high influenza intensity and elevated O3 supports a meaningful relationship."
+      }
+    },
+    {
+      "nitrogen dioxide_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports weak interactions between influenza and nitrogen dioxide (NO2), but these findings are not strong enough to establish a clear relationship. The study found significant associations primarily with ozone (O3) levels during flu season, while no significant modification by influenza was observed for NO2 or other pollutants. The authors caution against drawing conclusions about individual pollutants like NO2 due to their reactive nature in the atmosphere and suggest future research focus on combined pollutant effects. Therefore, based on this abstract, there is no clear evidence of a direct relationship between nitrogen dioxide and influenza."
+      }
+    },
+    {
+      "NO2_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports weak interactions between influenza and NO2 but explicitly cautions against drawing conclusions about individual pollutants like NO2 due to their reactive nature in the atmosphere. The study found no significant modification by influenza on the health effects of NO2, and the stronger observed effects were related to ozone (O3) rather than NO2. Therefore, there is no clear evidence of a direct relationship between NO2 and influenza based on this study."
+      }
+    },
+    {
+      "sulfur dioxide_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports weak interactions between influenza and sulfur dioxide (SO2), but explicitly cautions against drawing conclusions about individual pollutants like SO2 due to their reactive nature in the atmosphere. The study found no significant modification by influenza on the health effects of SO2, and the main significant relationship was observed between ozone (O3) levels and respiratory hospitalizations during flu season. Therefore, there is no clear evidence of a direct relationship between sulfur dioxide and influenza based on this study."
+      }
+    },
+    {
+      "SO2_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports weak interactions between influenza and SO2 but explicitly cautions against drawing conclusions about individual pollutants like SO2 due to their reactive nature in the atmosphere. The study found no significant modification by influenza on the health effects of SO2, and the main significant relationship observed was between ozone (O3) levels and increased respiratory hospitalizations and mortality during flu seasons. Therefore, there is no clear evidence of a direct relationship between SO2 and influenza based on this study."
+      }
+    },
+    {
+      "particulate matter smaller than 10 μm_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports a surprising finding that during peak PM10 concentrations coinciding with flu outbreaks, there was a decrease in hospitalization for respiratory illness, suggesting that PM10 may actually diminish the flu effect by reducing ultraviolet light and thus ozone production. Additionally, the data showed no significant modification by influenza on the health effects of PM10. Therefore, there is no clear evidence of a positive relationship between particulate matter smaller than 10 μm (PM10) and influenza; rather, the findings suggest a potential mitigating effect or no clear relationship."
+      }
+    },
+    {
+      "PM10_influenza": {
+        "relationship": "N",
+        "reason": "The abstract reports a surprising finding that peak PM10 concentrations coinciding with flu outbreaks were associated with a decrease in hospitalizations for respiratory illness, suggesting a potential mitigating effect rather than a harmful interaction. Additionally, PM10 increases at other times were linked to increased hospitalizations, but no clear evidence indicates a direct relationship between PM10 and influenza. The authors hypothesize that PM10 may reduce ultraviolet light, thereby decreasing ozone production, which is more strongly associated with influenza-related respiratory hospitalizations. Overall, the data do not demonstrate a clear or direct relationship between PM10 and influenza."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds related to air pollution, including ozone (O3), nitrogen dioxide (NO2), sulfur dioxide (SO2), and particulate matter smaller than 10 μm (PM10). These are distinct chemical substances or particulate pollutants identified by their chemical names or standard abbreviations, which are relevant to the study of influenza and air pollution interactions."
+}

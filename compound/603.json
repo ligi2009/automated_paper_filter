@@ -1,0 +1,61 @@
+{
+  "id": 603,
+  "title": "Sensing Technologies for Detection of Acetone in Human Breath for Diabetes Diagnosis and Monitoring",
+  "Abstract": "The review describes the technologies used in the field of breath analysis to diagnose and monitor diabetes mellitus. Currently the diagnosis and monitoring of blood glucose and ketone bodies that are used in clinical studies involve the use of blood tests. This method entails pricking fingers for a drop of blood and placing a drop on a sensitive area of a strip which is pre-inserted into an electronic reading instrument. Furthermore, it is painful, invasive and expensive, and can be unsafe if proper handling is not undertaken. Human breath analysis offers a non-invasive and rapid method for detecting various volatile organic compounds thatare indicators for different diseases. In patients with diabetes mellitus, the body produces excess amounts of ketones such as acetoacetate, beta-hydroxybutyrate and acetone. Acetone is exhaled during respiration. The production of acetone is a result of the body metabolising fats instead of glucose to produce energy. There are various techniques that are used to analyse exhaled breath including Gas Chromatography Mass Spectrometry (GC–MS), Proton Transfer Reaction Mass Spectrometry (PTR–MS), Selected Ion Flow Tube-Mass Spectrometry (SIFT–MS), laser photoacoustic spectrometry and so on. All these techniques are not portable, therefore this review places emphasis on how nanotechnology, through semiconductor sensing nanomaterials, has the potential to help individuals living with diabetes mellitus monitor their disease with cheap and portable devices.",
+  "Disease_List": [
+    "diabetes mellitus"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'diabetes mellitus' multiple times, discussing its diagnosis, monitoring, and related metabolic processes. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetoacetate",
+    "beta-hydroxybutyrate",
+    "acetone"
+  ],
+  "compound_CID": [
+    {
+      "acetoacetate": 6971017,
+      "beta-hydroxybutyrate": 3541112,
+      "acetone": 180
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetoacetate_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that in patients with diabetes mellitus, the body produces excess amounts of ketones including acetoacetate. This suggests a clear relationship between acetoacetate and diabetes mellitus, as acetoacetate is a ketone body whose elevated production is associated with the metabolic changes occurring in diabetes. The abstract further discusses the use of breath analysis to detect ketones as indicators for diabetes, reinforcing the link between acetoacetate and the disease."
+      }
+    },
+    {
+      "beta-hydroxybutyrate_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that in patients with diabetes mellitus, the body produces excess amounts of ketones including beta-hydroxybutyrate. This suggests a clear relationship between beta-hydroxybutyrate and diabetes mellitus, as the compound is a biomarker produced in excess due to altered metabolism in diabetic patients. The review also discusses monitoring these ketones as part of disease management, further supporting the relationship."
+      }
+    },
+    {
+      "acetone_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract clearly indicates a relationship between acetone and diabetes mellitus. It explains that in patients with diabetes mellitus, the body produces excess ketones including acetone, which is exhaled during respiration. This occurs because the body metabolizes fats instead of glucose to produce energy, leading to increased acetone production. Therefore, acetone serves as a biomarker for diabetes mellitus and can be detected through breath analysis techniques to monitor the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the ketone bodies acetoacetate, beta-hydroxybutyrate, and acetone as chemical compounds produced in excess in patients with diabetes mellitus. These are specific chemical substances relevant to the diagnosis and monitoring of diabetes through breath analysis."
+}

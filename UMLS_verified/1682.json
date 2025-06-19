@@ -1,0 +1,46 @@
+{
+  "id": 1682,
+  "title": "Elevated Carbon Monoxide in the Exhaled Breath of Mice during a Systemic Bacterial Infection",
+  "Abstract": "Blood is the specimen of choice for most laboratory tests for diagnosis and disease monitoring. Sampling exhaled breath is a noninvasive alternative to phlebotomy and has the potential for real-time monitoring at the bedside. Improved instrumentation has advanced breath analysis for several gaseous compounds from humans. However, application to small animal models of diseases and physiology has been limited. To extend breath analysis to mice, we crafted a means for collecting nose-only breath samples from groups and individual animals who were awake. Samples were subjected to gas chromatography and mass spectrometry procedures developed for highly sensitive analysis of trace volatile organic compounds (VOCs) in the atmosphere. We evaluated the system with experimental systemic infections of severe combined immunodeficiency Mus musculus with the bacterium Borrelia hermsii. Infected mice developed bacterial densities of ∼107 per ml of blood by day 4 or 5 and in comparison to uninfected controls had hepatosplenomegaly and elevations of both inflammatory and anti-inflammatory cytokines. While 12 samples from individual infected mice on days 4 and 5 and 6 samples from uninfected mice did not significantly differ for 72 different VOCs, carbon monoxide (CO) was elevated in samples from infected mice, with a mean (95% confidence limits) effect size of 4.2 (2.8–5.6), when differences in CO2 in the breath were taken into account. Normalized CO values declined to the uninfected range after one day of treatment with the antibiotic ceftriaxone. Strongly correlated with CO in the breath were levels of heme oxygenase-1 protein in serum and HMOX1 transcripts in whole blood. These results (i) provide further evidence of the informativeness of CO concentration in the exhaled breath during systemic infection and inflammation, and (ii) encourage evaluation of this noninvasive analytic approach in other various other rodent models of infection and for utility in clinical management.",
+  "Disease_List": [
+    "severe combined immunodeficiency",
+    "Borrelia hermsii infection"
+  ],
+  "Reason": "The abstract explicitly mentions 'severe combined immunodeficiency' as a specific disease condition in the mouse model. It also refers to infection with the bacterium 'Borrelia hermsii', which causes a specific infectious disease. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "severe combined immunodeficiency",
+    "Borrelia hermsii infection"
+  ],
+  "UMLS_search_results": {
+    "severe combined immunodeficiency": [
+      {
+        "ui": "C0085110",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0085110",
+        "name": "Severe Combined Immunodeficiency",
+        "mesh_id": "D016511"
+      },
+      {
+        "ui": "C1334116",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1334116",
+        "name": "IL2RG gene",
+        "mesh_id": "None"
+      }
+    ],
+    "Borrelia hermsii infection": [
+      {
+        "ui": "C0275767",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0275767",
+        "name": "Borrelia hermsii Infection",
+        "mesh_id": "D012061"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

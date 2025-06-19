@@ -1,0 +1,198 @@
+{
+  "id": 957,
+  "title": "Fine, Ultrafine, and Yellow Dust: Emerging Health Problems in Korea",
+  "Abstract": "Concerns regarding health problems due to fine, ultrafine, and yellow dust have rapidly grown since winter 2013 in Korea. Yellow dust (also called yellow sand or Asian dust), which originates from the deserts of Mongolia, northern China, is not a novel issue in Korea; it has been an issue for decades during springtime. However, public awareness on fine and ultrafine dust has been raised after the preliminary dust forecast in August 2013 and formal forecast in February 2014. Despite the increasing public concern regarding the dust, the medical society needs to be prepared in many aspects, including scientific evidence of health hazards, measures for risk prevention and reduction, and risk communication. \n \nThe forecast system provides a 5-level air quality index that ranges from good (level 1) to severe hazardous (level 5). Precautionary actions, including restriction of outdoor activity among vulnerable populations such as the elderly, children, and respiratory and cardiac disease patients, are needed from level 3 onwards. Besides the positive aspects of the forecast and alarm systems, the validity of the prediction has been tackled. The lack of shared information and modeling experiences between government bodies such as the National Institute of Environmental Research and Meteorological Agency make it difficult for these agencies to provide reliable forecasts and warnings on dust. \n \nAlthough the major components of yellow dust are sand and materials from the earth's crust, various industrial pollutants, including mercury and cadmium, have also contributed to the dust problem because of the rapid industrialization of China. The smaller, reparable portion of yellow dust has greater health effects. While yellow dust is of natural origin, fine and ultrafine dust is largely of man-made origin. Secondary particles from the oxidation of primary particles forming sulfuric acid, nitric acid, ammonium salts, volatile organic compounds, and black carbon are hazardous. The major anthropogenic source of the dust is combustion products of fossil fuel. Approximately 30% of sulfuric acid and 40% of nitric acid in ambient air in Korea might have been migrated from China. To reduce the transboundary pollution from China, collaborative actions between Korea and China are needed. These actions should be multidimensional, including scientific, administrative, and political aspects. In addition to transboundary pollution is a substantial proportion of national sources of dust. However, research studies on the amount and role of national and transboundary pollutants are in their early stages. \n \nThe scientific nomenclature of fine dust consists of fine particulate matter (PM). Fine PM is smaller than 10 µm in diameter (PM10), and ultrafine PM is smaller than 2.5 µm in diameter (PM2.5). Because dust smaller than PM10 penetrates deep into the lung alveoli, it is called reparable dust. Reparable dust with a diameter of approximately 2 µm is found in maximum deposition in the alveolar region; thus, PM2.5 has worse health effects than PM10. Very small particles, smaller than 100 nanometers (<0.1 µm), can penetrate the lungs into the blood or lymphatic system and reach other organs, including the brain or fetal organs, penetrating the brain blood or placental barrier via the cell membranes. However, the distribution and effect of this dust on the human body has not been fully proven by experimental models such as a physiologically based pharmacokinetic model. \n \nReparable PMs can cause various health effects, including lung cancer, bronchial asthma, cardiocerebral vascular diseases, pulmonary mortality, atherosclerosis, coronary heart disease, birth defects, and premature death (1, 2, 3). Moreover, PM2.5, even at low levels, has been argued to be related to increased mortality attributable to diabetes (4). PM in diesel exhaust was declared as a group 1 human carcinogen in June 2012 and ambient air pollution was classified as a group 1 human carcinogen in October 2013 by the International Agency for Research on Cancer of the World Health Organization (WHO) (5, 6). The proposed pathophysiological effects of PMs are widely varied, including oxidative stress, mitochondrial perturbation, inflammation, protein denaturation, nuclear uptake, neuronal tissue uptake, phagocytic function perturbation, endothelial dysfunction, neoantigen generation, and DNA damage (7). Although the epidemiological evidence of the effects of PMs is relatively substantial, their toxicological mechanisms are not well explained. The following questions have not yet been answered: which of the PM sizes and/or components are more toxic? Which is more toxic, low-level chronic exposure or short-term high exposure? Can a specific component or ultrafine size alone cause any of the above-mentioned toxic effects? \n \nThe national ambient air quality standard (AQS) of PM10 in Korea is 50 µg/m3 (yearly) or 100 µg/m3 (24 hours), and the future AQS of PM2.5, which will be introduced in January 2015, is 25 µg/m3 (yearly) or 50 µg/m3 (24 hours). The AQSs of PM10 and PM2.5 are higher than those established by the WHO, the European Union, and developed countries. Although regulatory standards depend on political and practical plausibility, as well as scientific evidence, the scientific background of the AQS in Korea makes us question whether these standards are enough to protect Koreans. \n \nThe global burden of fine and ultrafine PMs on health is significant. The recently reported population attributable fractions (%) of PM2.5 on causes of mortality in ischemic heart disease, cerebrovascular disease, chronic obstructive pulmonary disease, acute lower respiratory infection, and lung cancer are 2-41, 1-43, 1-21, 1-38, and 1-25, respectively (8). Although several research studies on PMs among the Korean population have been published (9, 10), the amount and characteristics of the effects of PMs on the Korean population have not been well established. \n \nFine and ultrafine dust has recently become a major public concern in Korea. Although evidence of the health effects of dust has been accumulated, little is known about specific dust-related problems in Korea. Medical experts need to conduct more research studies on the health effects of dust. Moreover, the medical society has the responsibility of providing proper information, communicating risk, and implementing practical means to protect public health from dust.",
+  "Disease_List": [
+    "lung cancer",
+    "bronchial asthma",
+    "cardiocerebral vascular diseases",
+    "pulmonary mortality",
+    "atherosclerosis",
+    "coronary heart disease",
+    "birth defects",
+    "premature death",
+    "diabetes",
+    "ischemic heart disease",
+    "cerebrovascular disease",
+    "chronic obstructive pulmonary disease",
+    "acute lower respiratory infection"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases related to the health effects of fine and ultrafine particulate matter (PM), including lung cancer, bronchial asthma, cardiocerebral vascular diseases, pulmonary mortality, atherosclerosis, coronary heart disease, birth defects, premature death, diabetes, ischemic heart disease, cerebrovascular disease, chronic obstructive pulmonary disease, and acute lower respiratory infection. These are all named diseases rather than general terms like 'disease' or 'illness', which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "bronchial asthma",
+    "atherosclerosis",
+    "coronary heart disease",
+    "birth defects",
+    "premature death",
+    "diabetes",
+    "ischemic heart disease",
+    "cerebrovascular disease",
+    "chronic obstructive pulmonary disease",
+    "acute lower respiratory infection"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "bronchial asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "cardiocerebral vascular diseases": [],
+    "pulmonary mortality": [],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ],
+    "coronary heart disease": [
+      {
+        "ui": "C0010068",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010068",
+        "name": "Coronary heart disease",
+        "mesh_id": "D003327"
+      }
+    ],
+    "birth defects": [
+      {
+        "ui": "C0000768",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0000768",
+        "name": "Congenital Abnormality",
+        "mesh_id": "D000013"
+      },
+      {
+        "ui": "C4019266",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4019266",
+        "name": "Birth defects diagnosis:Find:Pt:^Patient:Nar",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0220810",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220810",
+        "name": "Congenital defects",
+        "mesh_id": "Q000002"
+      },
+      {
+        "ui": "C2186260",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2186260",
+        "name": "reported family history of birth defects (history)",
+        "mesh_id": "None"
+      }
+    ],
+    "premature death": [
+      {
+        "ui": "C1855073",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1855073",
+        "name": "Mortality, Premature",
+        "mesh_id": "D061213"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "ischemic heart disease": [
+      {
+        "ui": "C1313980",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1313980",
+        "name": "Family history of ischemic heart disease",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0151744",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151744",
+        "name": "Myocardial Ischemia",
+        "mesh_id": "D017202"
+      }
+    ],
+    "cerebrovascular disease": [
+      {
+        "ui": "C0007820",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007820",
+        "name": "Cerebrovascular Disorders",
+        "mesh_id": "D002561"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "acute lower respiratory infection": [
+      {
+        "ui": "C0238990",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0238990",
+        "name": "Acute lower respiratory tract infection",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

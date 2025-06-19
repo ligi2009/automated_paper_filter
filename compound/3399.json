@@ -1,0 +1,284 @@
+{
+  "id": 3399,
+  "title": "IOT based Voice Controlled Robot with Pollution Detection",
+  "Abstract": "Air pollution is a serious situation which ruins future generations.as of increasing population daily, lots of exploitation of resources takes place which in turn causes pollution. Mainly pollution due to vehicles & industries leads to much damage of health hazards and turned out to be one of the major problem world is facing now. Apart from oxygen, we breathe in fumes. outdoor air pollution has existed for a long time. Radon, volatile organic compounds, formaldehyde, biological contaminants, and combustion by-products such as carbon monoxide, carbon dioxide, sulfur dioxide, hydrocarbons, nitrogen dioxides, and particles contribute to indoor air pollution, sulfur dioxide, carbon monoxide, nitrogen oxides, ozone, total suspended particle matter, lead, carbon dioxide, and hazardous pollutants are the principal pollutants that contribute to outdoor air pollution. Air pollution causes severe diseases like asthma, cancer, breathing, skin irritation, and liver problems. We see there’s a lot of pollution around us makes it difficult for plants, animals, and humans to survive as the air becomes polluted. the pollution due to vehicles is one of the major aspects of pollution. this is because of in efficient fuel in vehicles and long term of vehicles (internal problem). so we have come up with a solution by testing this application by making voice controlled robot with pollution detection at toll gates.",
+  "Disease_List": [
+    "asthma",
+    "cancer",
+    "skin irritation",
+    "liver problems"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases caused by air pollution, including 'asthma', 'cancer', 'skin irritation', and 'liver problems'. Although 'breathing' is mentioned, it is not a disease name. Therefore, the classification is Y with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "cancer",
+    "skin irritation",
+    "liver problems"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "skin irritation": [
+      {
+        "ui": "C0152030",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0152030",
+        "name": "Skin irritation",
+        "mesh_id": "None"
+      }
+    ],
+    "liver problems": [
+      {
+        "ui": "C0577060",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0577060",
+        "name": "Liver problem",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Radon",
+    "formaldehyde",
+    "carbon monoxide",
+    "carbon dioxide",
+    "sulfur dioxide",
+    "hydrocarbons",
+    "nitrogen dioxides",
+    "ozone",
+    "lead",
+    "nitrogen oxides"
+  ],
+  "compound_CID": [
+    {
+      "Radon": 24857,
+      "formaldehyde": 712,
+      "carbon monoxide": 281,
+      "carbon dioxide": 280,
+      "sulfur dioxide": 1119,
+      "hydrocarbons": "None",
+      "nitrogen dioxides": "None",
+      "ozone": 24823,
+      "lead": 5352425,
+      "nitrogen oxides": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Radon_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists radon as one of the contributors to indoor air pollution and states that air pollution causes severe diseases including asthma. Although the abstract does not explicitly link radon alone to asthma, it groups radon with other pollutants that contribute to air pollution, which is associated with asthma. Therefore, there is evidence of a relationship between radon (as part of air pollution) and asthma."
+      },
+      "Radon_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists Radon as one of the contributors to indoor air pollution and states that air pollution causes severe diseases including cancer. Although the abstract does not provide detailed mechanistic evidence, it explicitly associates air pollution components such as Radon with cancer, indicating a relationship between Radon exposure and cancer risk."
+      },
+      "Radon_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists Radon as one of the contributors to indoor air pollution and states that air pollution causes several severe diseases including skin irritation. Although the abstract does not explicitly link Radon alone to skin irritation, it groups Radon among pollutants responsible for air pollution, which is associated with skin irritation. Therefore, there is evidence of a relationship between Radon (as part of air pollution) and skin irritation."
+      },
+      "Radon_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists Radon as one of the contributors to indoor air pollution and states that air pollution causes severe diseases including liver problems. Although the abstract does not explicitly link Radon alone to liver problems, it implies that Radon, as a component of air pollution, is associated with health issues including liver problems. Therefore, there is evidence of a relationship between Radon and liver problems through its role in air pollution."
+      }
+    },
+    {
+      "formaldehyde_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists formaldehyde as one of the volatile organic compounds contributing to indoor air pollution. It also states that air pollution causes severe diseases including asthma. Since formaldehyde is explicitly mentioned as a pollutant contributing to air pollution, and air pollution is linked to asthma, there is evidence of a relationship between formaldehyde exposure and asthma."
+      },
+      "formaldehyde_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists formaldehyde as one of the volatile organic compounds contributing to indoor air pollution. It also states that air pollution causes severe diseases including cancer. Since formaldehyde is explicitly mentioned as a pollutant contributing to air pollution, and air pollution is linked to cancer, there is evidence in the abstract supporting a relationship between formaldehyde and cancer."
+      },
+      "formaldehyde_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists formaldehyde as one of the volatile organic compounds contributing to indoor air pollution. It also states that air pollution causes several severe diseases including skin irritation. Since formaldehyde is explicitly mentioned as a pollutant contributing to air pollution, and air pollution is linked to skin irritation, there is evidence of a relationship between formaldehyde exposure and skin irritation."
+      },
+      "formaldehyde_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists formaldehyde as one of the volatile organic compounds contributing to indoor air pollution. It also states that air pollution causes severe diseases including liver problems. Although the abstract does not explicitly link formaldehyde alone to liver problems, it implies that formaldehyde, as a component of air pollution, is associated with health hazards including liver problems. Therefore, there is evidence of a relationship between formaldehyde exposure and liver problems based on the abstract."
+      }
+    },
+    {
+      "carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that air pollution, which includes combustion by-products such as carbon monoxide, causes severe diseases like asthma. It identifies carbon monoxide as a principal pollutant contributing to both indoor and outdoor air pollution, and links air pollution directly to asthma among other health issues. Therefore, there is evidence in the abstract of a relationship between carbon monoxide and asthma."
+      },
+      "carbon monoxide_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the combustion by-products contributing to indoor and outdoor air pollution. It further states that air pollution causes severe diseases including cancer. Although the abstract does not explicitly link carbon monoxide alone to cancer, it includes carbon monoxide among the principal pollutants associated with air pollution, which is stated to cause cancer. Therefore, there is evidence of a relationship between carbon monoxide and cancer based on the abstract."
+      },
+      "carbon monoxide_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the combustion by-products contributing to indoor and outdoor air pollution. It also states that air pollution causes several severe diseases, including skin irritation. Although the abstract does not explicitly link carbon monoxide alone to skin irritation, it groups carbon monoxide among pollutants responsible for health hazards such as skin irritation. Therefore, there is evidence of a relationship between carbon monoxide exposure and skin irritation within the context of air pollution."
+      },
+      "carbon monoxide_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the combustion by-products contributing to air pollution. It also explicitly states that air pollution causes severe diseases including liver problems. Since carbon monoxide is identified as a principal pollutant in both indoor and outdoor air pollution, and air pollution is linked to liver problems, there is evidence of a relationship between carbon monoxide exposure and liver problems based on the abstract."
+      }
+    },
+    {
+      "carbon dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon dioxide as one of the combustion by-products contributing to both indoor and outdoor air pollution. It further states that air pollution causes severe diseases including asthma. Therefore, there is evidence in the abstract that carbon dioxide, as a component of air pollution, is related to asthma."
+      },
+      "carbon dioxide_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon dioxide as one of the combustion by-products contributing to both indoor and outdoor air pollution. It further states that air pollution causes severe diseases including cancer. Although the abstract does not specify a direct causal link between carbon dioxide alone and cancer, it includes carbon dioxide among the pollutants associated with air pollution, which is linked to cancer. Therefore, based on the abstract, there is evidence of a relationship between carbon dioxide as a pollutant and cancer as a disease."
+      },
+      "carbon dioxide_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon dioxide as one of the principal pollutants contributing to both indoor and outdoor air pollution. It also states that air pollution causes severe diseases including skin irritation. Although the abstract does not explicitly link carbon dioxide alone to skin irritation, it groups carbon dioxide among pollutants responsible for health hazards such as skin irritation, indicating a relationship between carbon dioxide exposure and skin irritation within the context of air pollution."
+      },
+      "carbon dioxide_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists carbon dioxide as one of the principal pollutants contributing to air pollution and states that air pollution causes severe diseases including liver problems. Although the abstract does not detail the specific mechanism linking carbon dioxide to liver problems, it groups carbon dioxide among pollutants associated with health hazards such as liver problems, indicating a recognized relationship."
+      }
+    },
+    {
+      "sulfur dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists sulfur dioxide as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including asthma. Therefore, there is evidence in the abstract that sulfur dioxide, as a component of air pollution, is related to the disease asthma."
+      },
+      "sulfur dioxide_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that air pollution causes severe diseases including cancer, and lists sulfur dioxide as one of the principal pollutants contributing to both indoor and outdoor air pollution. This indicates a relationship between sulfur dioxide exposure and cancer as part of the broader impact of air pollution on health."
+      },
+      "sulfur dioxide_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists sulfur dioxide as one of the principal pollutants contributing to both indoor and outdoor air pollution. It also explicitly states that air pollution causes severe diseases including skin irritation. Since sulfur dioxide is identified as a key pollutant in the air pollution mix and skin irritation is mentioned as a resulting health effect of air pollution, there is evidence of a relationship between sulfur dioxide and skin irritation based on the abstract."
+      },
+      "sulfur dioxide_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists sulfur dioxide as one of the principal pollutants contributing to air pollution and states that air pollution causes severe diseases including liver problems. Although it does not detail the specific mechanism linking sulfur dioxide to liver problems, the inclusion of sulfur dioxide among the pollutants and liver problems among the diseases caused by air pollution indicates a relationship between sulfur dioxide exposure and liver problems."
+      }
+    },
+    {
+      "hydrocarbons_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists hydrocarbons as one of the combustion by-products contributing to indoor air pollution. It also states that air pollution causes severe diseases including asthma. Since hydrocarbons are identified as a component of air pollution and air pollution is linked to asthma, there is evidence of a relationship between hydrocarbons and asthma."
+      },
+      "hydrocarbons_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists hydrocarbons as one of the combustion by-products contributing to air pollution. It also states that air pollution causes severe diseases including cancer. Therefore, there is evidence in the abstract that hydrocarbons, as a component of air pollution, are related to cancer."
+      },
+      "hydrocarbons_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists hydrocarbons as one of the combustion by-products contributing to indoor air pollution. It also states that air pollution causes severe diseases including skin irritation. Since hydrocarbons are identified as a component of air pollution and air pollution is linked to skin irritation, there is evidence of a relationship between hydrocarbons and skin irritation based on the abstract."
+      },
+      "hydrocarbons_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists hydrocarbons as one of the combustion by-products contributing to air pollution. It also states that air pollution causes severe diseases including liver problems. Although the abstract does not explicitly link hydrocarbons alone to liver problems, it implies that hydrocarbons, as part of air pollution, are associated with liver problems. Therefore, there is evidence of a relationship between hydrocarbons and liver problems based on the abstract."
+      }
+    },
+    {
+      "nitrogen dioxides_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen dioxides as one of the combustion by-products contributing to indoor and outdoor air pollution. It further states that air pollution causes severe diseases including asthma. Therefore, there is evidence in the abstract indicating a relationship between nitrogen dioxides and asthma as part of the broader impact of air pollution on respiratory health."
+      },
+      "nitrogen dioxides_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen dioxides as one of the combustion by-products contributing to indoor and outdoor air pollution. It further states that air pollution causes severe diseases including cancer. Therefore, there is evidence in the abstract indicating a relationship between nitrogen dioxides and cancer as part of the broader context of air pollution-related health hazards."
+      },
+      "nitrogen dioxides_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists nitrogen dioxides as one of the combustion by-products contributing to indoor and outdoor air pollution. It also explicitly states that air pollution causes severe diseases including skin irritation. Since nitrogen dioxides are identified as a principal pollutant in air pollution and skin irritation is mentioned as a health effect caused by air pollution, there is evidence of a relationship between nitrogen dioxides and skin irritation based on the abstract."
+      },
+      "nitrogen dioxides_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists nitrogen dioxides as one of the combustion by-products contributing to air pollution. It also explicitly states that air pollution causes severe diseases including liver problems. Although the abstract does not provide a direct causal link between nitrogen dioxides specifically and liver problems, it groups nitrogen dioxides among the principal pollutants responsible for air pollution, which is associated with liver problems. Therefore, there is evidence of a relationship between nitrogen dioxides and liver problems based on the abstract."
+      }
+    },
+    {
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists ozone as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including asthma. Therefore, there is evidence in the abstract indicating a relationship between ozone exposure and asthma."
+      },
+      "ozone_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists ozone as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including cancer. Although the abstract does not explicitly link ozone alone to cancer, it groups ozone among pollutants associated with air pollution-related diseases such as cancer, indicating a relationship between ozone exposure and cancer risk."
+      },
+      "ozone_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists ozone as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including skin irritation. Although the abstract does not explicitly link ozone alone to skin irritation, it groups ozone among pollutants responsible for health hazards such as skin irritation, indicating a relationship between ozone exposure and skin irritation."
+      },
+      "ozone_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists ozone as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including liver problems. Although the abstract does not explicitly link ozone alone to liver problems, it implies that ozone, as a major air pollutant, is part of the overall air pollution that leads to liver problems. Therefore, there is evidence of a relationship between ozone and liver problems based on the abstract."
+      }
+    },
+    {
+      "lead_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract lists lead as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including asthma. Although the abstract does not explicitly link lead alone to asthma, it implies that lead, as a component of air pollution, is associated with asthma. Therefore, there is evidence of a relationship between lead and asthma based on the abstract."
+      },
+      "lead_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract lists lead as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including cancer. Although the abstract does not explicitly link lead alone to cancer, it implies that lead, as a significant pollutant in air pollution, is associated with diseases such as cancer. Therefore, there is evidence of a relationship between lead and cancer based on the context of air pollution-related health hazards described."
+      },
+      "lead_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists lead as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including skin irritation. Although the abstract does not explicitly link lead alone to skin irritation, it implies that lead, as a key pollutant in air pollution, is associated with health effects such as skin irritation. Therefore, there is evidence of a relationship between lead and skin irritation based on the context provided."
+      },
+      "lead_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract lists lead as one of the principal pollutants contributing to outdoor air pollution and states that air pollution causes severe diseases including liver problems. Although the abstract does not explicitly link lead alone to liver problems, it implies that lead, as a key pollutant, is associated with health hazards including liver problems. Therefore, there is evidence of a relationship between lead and liver problems based on the abstract."
+      }
+    },
+    {
+      "nitrogen oxides_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that air pollution causes severe diseases including asthma. It lists nitrogen oxides among the principal pollutants contributing to outdoor air pollution. Since nitrogen oxides are identified as a key pollutant and asthma is mentioned as a disease caused by air pollution, there is evidence of a relationship between nitrogen oxides and asthma based on the abstract."
+      },
+      "nitrogen oxides_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen oxides as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including cancer. Since nitrogen oxides are identified as a key pollutant within air pollution, and air pollution is linked to cancer, there is evidence of a relationship between nitrogen oxides and cancer based on the abstract."
+      },
+      "nitrogen oxides_skin_irritation": {
+        "relationship": "Y",
+        "reason": "The abstract lists nitrogen oxides as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including skin irritation. Although the abstract does not explicitly link nitrogen oxides alone to skin irritation, it groups nitrogen oxides among pollutants responsible for health hazards such as skin irritation, indicating a relationship between nitrogen oxides and skin irritation."
+      },
+      "nitrogen oxides_liver_problems": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly lists nitrogen oxides as one of the principal pollutants contributing to outdoor air pollution. It also states that air pollution causes severe diseases including liver problems. Although the abstract does not provide a direct mechanistic link between nitrogen oxides specifically and liver problems, it groups nitrogen oxides among pollutants responsible for health hazards including liver problems, indicating an implied relationship."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution, including gases and elements such as Radon, formaldehyde, carbon monoxide, carbon dioxide, sulfur dioxide, hydrocarbons, nitrogen dioxides, ozone, lead, and nitrogen oxides. These are distinct chemical substances rather than general terms."
+}

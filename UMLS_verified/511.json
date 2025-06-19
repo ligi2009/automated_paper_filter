@@ -1,0 +1,35 @@
+{
+  "id": 511,
+  "title": "Plasmodium falciparum Breath Metabolomics (Breathomics) Analysis as a Non-Invasive Practical Method to Diagnose Malaria in Pediatric",
+  "Abstract": "Children under 5 years of age are particularly vulnerable to malaria. Malaria has caused 445,000 deaths worldwide. Currently, rapid diagnostic tests (RDTs) are the fastest method to diagnose malaria. However, there are limitations that exist such as low sensitivity in detecting infections with low parasitemia. Practical, non-invasive and high ability tests to detect parasite are needed to find specific biomarkers for P. falciparum infection to determine the potential of P. falciparum 4 thioether in breathomics analysis by GC-MS as a practical non-invasive method in diagnosing malaria in pediatrics. Literature reviews from Google Scholar and ProQuest were published no later than the last 5 years. The concept of breathomics is that the breath’s volatile organic compounds (VOCs) profile is altered when the health condition changes. Breath samples from individuals infected with P. falciparum malaria were taken by exhalation. Through GC-MS analysis, it was found that 4 thioether compounds (allyl methyl sulfide (AMS), 1-methylthio-propane, (Z) -1-methylthio-1-propene and (E) -1-methylthio-1-propene) underwent a significant change in concentration during the infection. Based on experiments conducted on mice and humans, the breathomics method is known to be able to detect parasitemia levels up to <100 parasites/μL, has a sensitivity level of about 71% to 91% and a specificity of about 75% to 94%. The discovery of 4 thioether compounds by GC-MS is a strong indication of malaria, because it has the potential for high sensitivity and specificity, and the detection power exceeds the ability of RDTs.",
+  "Disease_List": [
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease 'malaria' multiple times, including references to 'P. falciparum infection' which is a species causing malaria. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

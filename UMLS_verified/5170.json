@@ -1,0 +1,35 @@
+{
+  "id": 5170,
+  "title": "Genotoxicity Response of Fibroblast Cells and Human Epithelial Adenocarcinoma In Vitro Model Exposed to Bare and Ozone-Treated Silica Microparticles",
+  "Abstract": "Indoor air pollutants (IAP), which can pose a serious risk to human health, include biological pollutants, nitric oxide (NO), nitrogen dioxide (NO2), volatile organic compounds (VOC), sulfur dioxide (SO2), carbon monoxide (CO), carbon dioxide (CO2), silica, metals, radon, and particulate matter (PM). The aim of our work is to conduct a multidisciplinary study of fine silica particles (<2.5 μm) in the presence or absence of ozone (O3), and evaluate their potential cytotoxicity using MTS, micronucleus, and the comet test in two cell lines. We analyzed A549 (human basal alveolar epithelial cell adenocarcinoma) and Hs27 (human normal fibroblasts) exposed to dynamic conditions by an IRC simulator under ozone flow (120 ppb) and in the presence of silica particles (40 μg/h). The viability of A549 and Hs27 cells at 48 and 72 h of exposure to silica or silica/ozone decreases, except at 72 h in Hs27 treated with silica/ozone. The micronucleus and comet tests showed a significant increase in the number of micronuclei and the % of DNA in the queue, compared to the control, in both lines in all treatments, even if in different cell times/types. We found that silica alone or with more O3 causes more pronounced genotoxic effects in A549 tumor cells than in normal Hs27 fibroblasts.",
+  "Disease_List": [
+    "adenocarcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'A549 (human basal alveolar epithelial cell adenocarcinoma)', which refers to a specific type of cancer (adenocarcinoma). Although the main focus is on cytotoxicity and genotoxicity of silica and ozone, the mention of adenocarcinoma is a specific disease name, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "adenocarcinoma"
+  ],
+  "UMLS_search_results": {
+    "adenocarcinoma": [
+      {
+        "ui": "C0001418",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001418",
+        "name": "Adenocarcinoma",
+        "mesh_id": "D000230"
+      },
+      {
+        "ui": "C5551397",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5551397",
+        "name": "Malignant adenomatous neoplasm",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

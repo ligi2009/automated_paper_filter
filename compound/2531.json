@@ -1,0 +1,240 @@
+{
+  "id": 2531,
+  "title": "Optimization of a simple, effective, and greener methodology for polycyclic aromatic hydrocarbon extraction from human adipose tissue.",
+  "Abstract": "Polycyclic aromatic hydrocarbons (PAHs) are environmentally persistent organic pollutants formed during incomplete combustion and pyrolysis processes. Humans are continuously exposed to PAHs which are linked to severe health effects such as diabetes, cancer, infertility, and poor foetal development, amongst others. PAHs are lipophilic compounds prone to accumulating in adipose tissue. Even though adipose tissue is the ideal matrix to assess over time accumulation of lipophilic pollutants, only a few analytical methods have been developed for this matrix. Aiming to reduce the existent gap, a method for the extraction of PAHs from adipose tissue samples using ultrasound-assisted extraction (UAE) was developed. The behaviour of PAHs (retention, adsorption, and volatilization) over several steps of the analytical procedure was studied. Validation tests were performed on the optimized method. PAHs were quantified using a high performance liquid chromatography (HPLC) system equipped with a photodiode array (PDA) and fluorescence (FLD) detector inline. The method achieved a low matrix effect and presents low method detection (MDL) and quantification (MQL) limits, showing suitability for a selective and sensitive determination of PAHs in adipose tissue. The extraction is performed with 0.4 g of adipose tissue and 6 mL of n-hexane and it does not require clean-up afterwards. Additionally, an Eco-Scale score of 74 and an Analytical GREEnness score of 0.66 were obtained. The method achieved is effective, simpler, greener, and easy to perform, being an alternative to conventional extraction methods. Furthermore, this method can be used as a multi-analyte methodology since it has been previously validated by the authors for the analysis of other lipophilic compounds. Naphthalene (Naph), acenaphthene (Ace), fluorene (Flu), phenanthrene (Phe), anthracene (Ant), fluoranthene (Fln), pyrene (Pyr) and benzo[k]fluoranthene (B[k]Ft) were found in all the tested adipose tissue samples.",
+  "Disease_List": [
+    "diabetes",
+    "cancer",
+    "infertility",
+    "poor foetal development"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases and health conditions linked to PAHs exposure, including diabetes, cancer, infertility, and poor foetal development. These are named diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes",
+    "cancer",
+    "infertility"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ],
+    "infertility": [
+      {
+        "ui": "C0021359",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021359",
+        "name": "Infertility",
+        "mesh_id": "D007246"
+      },
+      {
+        "ui": "C4074771",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4074771",
+        "name": "Sterility, Reproductive",
+        "mesh_id": "D007246"
+      }
+    ],
+    "poor foetal development": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Naphthalene",
+    "acenaphthene",
+    "fluorene",
+    "phenanthrene",
+    "anthracene",
+    "fluoranthene",
+    "pyrene",
+    "benzo[k]fluoranthene",
+    "n-hexane"
+  ],
+  "compound_CID": [
+    {
+      "Naphthalene": 931,
+      "acenaphthene": 6734,
+      "fluorene": 6853,
+      "phenanthrene": 995,
+      "anthracene": 8418,
+      "fluoranthene": 9154,
+      "pyrene": 31423,
+      "benzo[k]fluoranthene": 9158,
+      "n-hexane": 8058
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Naphthalene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes naphthalene, are linked to severe health effects such as diabetes. Since naphthalene is explicitly mentioned as one of the PAHs found in adipose tissue samples, there is evidence suggesting a relationship between naphthalene exposure and diabetes."
+      },
+      "Naphthalene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes naphthalene, are linked to severe health effects such as cancer. Although the abstract focuses on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs which are associated with cancer among other diseases. Since naphthalene is identified as one of the PAHs found in adipose tissue samples, there is evidence supporting a relationship between naphthalene and cancer."
+      },
+      "Naphthalene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes naphthalene, are linked to severe health effects such as infertility. Since naphthalene is explicitly mentioned as one of the PAHs found in adipose tissue samples, there is evidence supporting a relationship between naphthalene exposure and infertility."
+      }
+    },
+    {
+      "acenaphthene_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) as a group being linked to severe health effects including diabetes. However, it does not provide any specific evidence or mention a direct relationship between the compound acenaphthene and diabetes. Acenaphthene is listed among the PAHs detected in adipose tissue samples, but no causal or associative link to diabetes is described in the abstract."
+      },
+      "acenaphthene_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) as a group being linked to severe health effects including cancer. Acenaphthene is mentioned as one of the PAHs detected in adipose tissue samples. However, the abstract does not provide specific evidence or data linking acenaphthene individually to cancer. The relationship is described generally for PAHs as a class, without isolating acenaphthene's specific role or carcinogenicity. Therefore, based on this abstract alone, there is no clear evidence of a direct relationship between acenaphthene and cancer."
+      },
+      "acenaphthene_infertility": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) as a group being linked to various health effects including infertility. Acenaphthene is mentioned as one of the PAHs detected in adipose tissue samples. However, the abstract does not provide any specific evidence or data directly linking acenaphthene itself to infertility. The relationship is described generally for PAHs as a class, without isolating acenaphthene's individual effect on infertility."
+      }
+    },
+    {
+      "fluorene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include fluorene, are linked to severe health effects such as diabetes. Fluorene is specifically mentioned as one of the PAHs found in adipose tissue samples. Therefore, there is evidence in the abstract indicating a relationship between fluorene (as a PAH) and diabetes."
+      },
+      "fluorene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include fluorene, are linked to severe health effects such as cancer. Although the abstract primarily focuses on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs and that these compounds are associated with cancer among other diseases. Since fluorene is listed as one of the PAHs found in adipose tissue samples, there is evidence supporting a relationship between fluorene and cancer."
+      },
+      "fluorene_infertility": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) as a group being linked to various health effects including infertility. However, it does not provide specific evidence or data linking the compound fluorene individually to infertility. Fluorene is mentioned as one of the PAHs detected in adipose tissue samples, but no direct relationship or effect of fluorene on infertility is described or established in the abstract."
+      }
+    },
+    {
+      "phenanthrene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include phenanthrene, are linked to severe health effects such as diabetes. Phenanthrene is explicitly mentioned as one of the PAHs found in adipose tissue samples. Therefore, there is evidence in the abstract indicating a relationship between phenanthrene (as a PAH) and diabetes."
+      },
+      "phenanthrene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include phenanthrene, are linked to severe health effects such as cancer. Although the abstract primarily focuses on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs and that these compounds are associated with cancer among other health issues. Since phenanthrene is listed as one of the PAHs found in adipose tissue samples, there is evidence supporting a relationship between phenanthrene and cancer."
+      },
+      "phenanthrene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include phenanthrene, are linked to severe health effects such as infertility. Since phenanthrene is explicitly mentioned as one of the PAHs found in adipose tissue samples, there is evidence suggesting a relationship between phenanthrene exposure and infertility."
+      }
+    },
+    {
+      "anthracene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes anthracene, are linked to severe health effects such as diabetes. Anthracene is specifically mentioned as one of the PAHs found in adipose tissue samples. Although the abstract focuses primarily on the analytical method for detecting PAHs in adipose tissue, it explicitly connects PAHs exposure to diabetes, indicating a relationship between anthracene (a PAH) and diabetes."
+      },
+      "anthracene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes anthracene, are linked to severe health effects such as cancer. Anthracene is specifically mentioned as one of the PAHs found in adipose tissue samples. Although the abstract focuses primarily on the analytical method for detecting PAHs in adipose tissue, it clearly establishes a link between PAHs exposure and cancer, thereby implying a relationship between anthracene and cancer."
+      },
+      "anthracene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include anthracene, are linked to severe health effects such as infertility. Anthracene is explicitly listed among the PAHs found in adipose tissue samples. Therefore, there is evidence in the abstract indicating a relationship between anthracene (as a PAH) and infertility."
+      }
+    },
+    {
+      "fluoranthene_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) as a group being linked to severe health effects including diabetes. However, it does not provide specific evidence or data linking the individual compound fluoranthene to diabetes. Fluoranthene is mentioned as one of the PAHs detected in adipose tissue samples, but no direct relationship or causal association with diabetes is described in the abstract."
+      },
+      "fluoranthene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include fluoranthene, are linked to severe health effects such as cancer. Fluoranthene is specifically mentioned as one of the PAHs found in adipose tissue samples. Therefore, there is evidence in the abstract indicating a relationship between fluoranthene and cancer."
+      },
+      "fluoranthene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), a class of compounds that includes fluoranthene, are linked to severe health effects such as infertility. Since fluoranthene is explicitly mentioned as one of the PAHs found in adipose tissue samples, there is evidence suggesting a relationship between fluoranthene exposure and infertility."
+      }
+    },
+    {
+      "pyrene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include pyrene, are linked to severe health effects such as diabetes. Although the primary focus of the abstract is on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs and that these compounds are associated with diabetes among other diseases. Since pyrene is one of the PAHs detected in adipose tissue samples, there is evidence of a relationship between pyrene exposure and diabetes."
+      },
+      "pyrene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include pyrene, are linked to severe health effects such as cancer. Although the abstract primarily focuses on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs and that these compounds are associated with cancer among other health issues. Since pyrene is listed as one of the PAHs found in adipose tissue samples and PAHs as a class are linked to cancer, there is evidence of a relationship between pyrene and cancer."
+      },
+      "pyrene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include pyrene, are linked to severe health effects such as infertility. Pyrene is specifically mentioned as one of the PAHs found in adipose tissue samples. Therefore, there is evidence in the abstract indicating a relationship between pyrene (a PAH) and infertility."
+      }
+    },
+    {
+      "benzo[k]fluoranthene_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include benzo[k]fluoranthene, are linked to severe health effects such as diabetes. Additionally, benzo[k]fluoranthene was detected in all tested adipose tissue samples, indicating human exposure. Although the abstract primarily focuses on the analytical method for detecting PAHs in adipose tissue, it explicitly mentions a link between PAHs and diabetes, supporting a relationship between benzo[k]fluoranthene and diabetes."
+      },
+      "benzo[k]fluoranthene_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include benzo[k]fluoranthene, are linked to severe health effects such as cancer. Although the abstract primarily focuses on the development of a method to extract and quantify PAHs from adipose tissue, it explicitly mentions that humans are continuously exposed to PAHs and that these compounds are associated with cancer among other health issues. Since benzo[k]fluoranthene is identified as one of the PAHs found in adipose tissue samples, there is evidence supporting a relationship between benzo[k]fluoranthene and cancer."
+      },
+      "benzo[k]fluoranthene_infertility": {
+        "relationship": "Y",
+        "reason": "The abstract states that polycyclic aromatic hydrocarbons (PAHs), which include benzo[k]fluoranthene, are linked to severe health effects such as infertility. Since benzo[k]fluoranthene is identified as one of the PAHs found in adipose tissue samples, there is evidence of a relationship between benzo[k]fluoranthene and infertility based on the general association of PAHs with this disease."
+      }
+    },
+    {
+      "n-hexane_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) and their link to diabetes and other health effects. It mentions the use of n-hexane as a solvent in the extraction method for PAHs from adipose tissue samples. However, there is no evidence or indication in the abstract that n-hexane itself is related to diabetes. The role of n-hexane is purely as an extraction solvent in the analytical procedure, not as a compound linked to the disease."
+      },
+      "n-hexane_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) and their link to cancer and other health effects. It mentions the use of n-hexane as a solvent in the extraction method for PAHs from adipose tissue samples. However, the abstract does not provide any evidence or information linking n-hexane itself to cancer. The role of n-hexane is limited to being an extraction solvent in the analytical procedure, and no toxicological or epidemiological data regarding n-hexane and cancer are presented."
+      },
+      "n-hexane_infertility": {
+        "relationship": "N",
+        "reason": "The abstract discusses polycyclic aromatic hydrocarbons (PAHs) and their association with infertility among other health effects. It mentions the use of n-hexane as a solvent in the extraction method for PAHs from adipose tissue samples. However, there is no evidence or indication in the abstract that n-hexane itself is linked to infertility. The role of n-hexane is purely as a chemical reagent in the analytical procedure, not as a compound associated with the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several polycyclic aromatic hydrocarbons (PAHs) detected in adipose tissue samples, including naphthalene, acenaphthene, fluorene, phenanthrene, anthracene, fluoranthene, pyrene, and benzo[k]fluoranthene. Additionally, n-hexane is mentioned as the solvent used for extraction. These are specific chemical compounds rather than general terms."
+}

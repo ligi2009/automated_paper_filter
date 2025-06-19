@@ -1,0 +1,74 @@
+{
+  "id": 4662,
+  "title": "Diagnosis Biomarkers of Cholangiocarcinoma in Human Bile: An Evidence-Based Study",
+  "Abstract": "Simple Summary A liquid biopsy has the characteristics of low trauma and easy acquisition in the diagnosis of cholangiocarcinoma. Many researchers try to find diagnostic or prognostic biomarkers of CCA through blood, urine, bile and other body fluids. Due to the close proximity of bile to the lesion and the stable nature, bile gradually comes into people’s view. The evaluation of human bile diagnostic biomarkers is not only to the benefit of screening more suitable clinical markers but also of exploring the pathological changes of the disease. Abstract Cholangiocarcinoma (CCA) is a multifactorial malignant tumor of the biliary tract, and the incidence of CCA is increasing in recent years. At present, the diagnosis of CCA mainly depends on imaging and invasive examination, with limited specificity and sensitivity and late detection. The early diagnosis of CCA always faces the dilemma of lacking specific diagnostic biomarkers. Non-invasive methods to assess the degree of CAA have been developed throughout the last decades. Among the many specimens looking for CCA biomarkers, bile has gotten a lot of attention lately. This paper mainly summarizes the recent developments in the current research on the diagnostic biomarkers for CCA in human bile at the levels of the gene, protein, metabolite, extracellular vesicles and volatile organic compounds.",
+  "Disease_List": [
+    "cholangiocarcinoma",
+    "CCA"
+  ],
+  "Reason": "The abstract explicitly mentions 'cholangiocarcinoma' and its abbreviation 'CCA' multiple times as a specific disease. Cholangiocarcinoma is identified as a multifactorial malignant tumor of the biliary tract, which is a specific disease entity rather than a general term.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cholangiocarcinoma",
+    "CCA"
+  ],
+  "UMLS_search_results": {
+    "cholangiocarcinoma": [
+      {
+        "ui": "C0206698",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206698",
+        "name": "Cholangiocarcinoma",
+        "mesh_id": "D018281"
+      },
+      {
+        "ui": "C0740277",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0740277",
+        "name": "Bile duct carcinoma",
+        "mesh_id": "D001650"
+      }
+    ],
+    "CCA": [
+      {
+        "ui": "C0220668",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220668",
+        "name": "Congenital contractural arachnodactyly",
+        "mesh_id": "C536211"
+      },
+      {
+        "ui": "C0035236",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035236",
+        "name": "Respiratory syncytial virus",
+        "mesh_id": "D012136"
+      },
+      {
+        "ui": "C0206698",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206698",
+        "name": "Cholangiocarcinoma",
+        "mesh_id": "D018281"
+      },
+      {
+        "ui": "C1414543",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1414543",
+        "name": "FBN2 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C4049873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4049873",
+        "name": "FBN2 wt Allele",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

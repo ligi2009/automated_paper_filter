@@ -1,0 +1,32 @@
+{
+  "id": 2087,
+  "title": "Drosophila melanogaster as a Model for Studying Aspergillus fumigatus",
+  "Abstract": "Abstract Drosophila melanogaster is a useful model organism that offers essential insights into developmental and cellular processes shared with humans, which has been adapted for large scale analysis of medically important microbes and to test the toxicity of heavy metals, industrial solvents and other poisonous substances. We here give a brief review of the use of the Drosophila model in medical mycology, discuss the volatile organic compounds (VOCs) produced by the opportunistic human pathogen, Aspergillus fumigatus, and give a brief summary of what is known about the toxicity of some common fungal VOCs. Further, we discuss the use of VOC detection as an indirect indicator of fungal growth, including for early diagnosis of aspergillosis. Finally, we hypothesize that D. melanogaster has promise for investigating the role of VOCs synthesized by A. fumigatus as possible virulence factors.",
+  "Disease_List": [
+    "aspergillosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'aspergillosis' as a specific disease in the context of early diagnosis using VOC detection. Although it discusses general topics like fungal growth and toxicity, aspergillosis is a named disease caused by the pathogen Aspergillus fumigatus, making the classification 'Y' appropriate.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "aspergillosis"
+  ],
+  "UMLS_search_results": {
+    "aspergillosis": [
+      {
+        "ui": "C0004030",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004030",
+        "name": "Aspergillosis",
+        "mesh_id": "D001228"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories such as volatile organic compounds (VOCs) and heavy metals but does not specify any particular chemical compound names."
+}

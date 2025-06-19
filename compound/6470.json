@@ -1,0 +1,67 @@
+{
+  "id": 6470,
+  "title": "Smartphone Enabled Wearable Diabetes Monitoring System",
+  "Abstract": "Glucose is a vital biomarker involved in numerous physiological and pathological processes, making its detection a key factor in diabetes monitoring. To enhance convenience, real-time tracking, comfort, and accuracy, glucose measurement techniques are rapidly advancing towards smartphone integrated wearable, non-invasive, and low power systems. In this work, a diabetes monitoring system is developed which can be used as a wearable health tracker. The device offers dual ways of monitoring glucose levels in diabetic patients; first by glucose measurement via blood using a screen-printed electrode sensor (SPES), second by volatile organic compounds (VOCs) measurement via breath analysis using an ethanol sensor. Additionally, an oximetry sensor is included in the system to monitor important human vitals such as heart rate and blood oxygen saturation (SpO2), similar to commercial health trackers. The system is fabricated on a printed circuit board and its size is 3 cm $\\times 3$ cm which is suitable as a wearable device. It also consumes low power and has capabilities of wired/wireless charging and wired/wireless communication. Furthermore, customized Windows and Android applications have been developed to visualize the obtained data in user’s computer or smartphone. The conducted experiments aimed at validating the performance of each sensors have yielded promising results. These findings indicate that the developed system has significant potential to be utilized as a point-of-care testing device for real-time diabetes monitoring.",
+  "Disease_List": [
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions 'diabetes' multiple times, specifically in the context of diabetes monitoring and diabetic patients. This is a specific disease name, not a general term, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Glucose",
+    "Ethanol"
+  ],
+  "compound_CID": [
+    {
+      "Glucose": 5793,
+      "Ethanol": 702
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Glucose_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract clearly establishes a relationship between glucose and diabetes by describing glucose as a vital biomarker for diabetes monitoring. It discusses the development of a diabetes monitoring system that measures glucose levels in diabetic patients, indicating that glucose measurement is integral to diabetes management and diagnosis."
+      }
+    },
+    {
+      "Ethanol_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract describes a diabetes monitoring system that includes an ethanol sensor to measure volatile organic compounds in breath as part of glucose monitoring. However, it does not provide evidence that ethanol itself has a direct relationship with diabetes. Instead, ethanol measurement is used as a biomarker or sensor modality within the device for monitoring purposes, not as a causative or associated compound with the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'Glucose' as a biomarker for diabetes monitoring and 'Ethanol' as a volatile organic compound detected via breath analysis using an ethanol sensor. These are specific chemical compounds named in the context of the study."
+}

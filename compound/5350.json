@@ -1,0 +1,105 @@
+{
+  "id": 5350,
+  "title": "HPLC Analysis and Risk Assessment of 15 Priority PAHs in Human Blood Serum of COPD Patient from Urban and Rural Areas, Iasi (Romania)",
+  "Abstract": "One of the leading risk factors for environmental health problems is air pollution. The World Health Organization (WHO) reports that this risk factor is associated with one of every nine deaths worldwide. Epidemiological studies conducted in this field have shown a solid connection between respiratory pathology and polycyclic aromatic hydrocarbon (PAH) exposure. COPD and asthma are respiratory diseases that were shown to have a strong association with exposure to PAHs. The purpose of the present study was to assess the serum levels of 15 PAHs in 102 COPD patients and to evaluate the results according to the residence environment of the investigated subjects. Analyses were carried out using a high-performance liquid chromatograph Nexera X2—Shimadzu Japan, which was equipped with an LC–30AD pump and an SIL–30AC autosampler. Spiked matrices, procedure blanks, spiked controls, and calibration standards in the acetonitrile were used as quality-assurance samples. Benzo(a)pyrene is the main representative of PAHs and was determined in higher concentrations in subjects with COPD versus the control group from the urban area (0.90/0.47 ng/mL) and rural area (0.73/0.44 ng/mL). The values obtained for the Benzo(a)pyrene-equivalent factor indicate a higher carcinogenic potential for patients diagnosed with COPD in urban areas compared to those in rural areas. These results could be due to traffic and vehicle emissions. This research identifies the need for legislative action to decrease semi-volatile organic compounds, especially PAHs, mainly in urban cities, in order to improve environmental management and health conditions.",
+  "Disease_List": [
+    "COPD",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: COPD (Chronic Obstructive Pulmonary Disease) and asthma. These are identified as respiratory diseases strongly associated with exposure to polycyclic aromatic hydrocarbons (PAHs). Therefore, the classification is 'Y' because specific disease names are clearly stated.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COPD",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "polycyclic aromatic hydrocarbon",
+    "Benzo(a)pyrene",
+    "acetonitrile"
+  ],
+  "compound_CID": [
+    {
+      "polycyclic aromatic hydrocarbon": "None",
+      "Benzo(a)pyrene": 2336,
+      "acetonitrile": 6342
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polycyclic aromatic hydrocarbon_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract provides clear evidence of a relationship between polycyclic aromatic hydrocarbons (PAHs) and COPD. It states that epidemiological studies have shown a strong association between respiratory diseases, including COPD, and exposure to PAHs. The study measured serum levels of PAHs in COPD patients and found higher concentrations of Benzo(a)pyrene, a representative PAH, in COPD patients compared to controls. The findings suggest that exposure to PAHs, particularly in urban areas with traffic emissions, is linked to COPD, indicating a significant relationship between the compound and the disease."
+      },
+      "polycyclic aromatic hydrocarbon_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that epidemiological studies have shown a solid connection between respiratory pathology and polycyclic aromatic hydrocarbon (PAH) exposure. It specifically mentions that asthma, along with COPD, is a respiratory disease strongly associated with exposure to PAHs. Therefore, there is clear evidence in the abstract supporting a relationship between polycyclic aromatic hydrocarbons and asthma."
+      }
+    },
+    {
+      "Benzo(a)pyrene_COPD": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between Benzo(a)pyrene, a representative polycyclic aromatic hydrocarbon (PAH), and COPD. It reports higher serum concentrations of Benzo(a)pyrene in COPD patients compared to controls in both urban and rural areas. Additionally, the Benzo(a)pyrene-equivalent factor indicates a higher carcinogenic potential in COPD patients, particularly in urban areas, likely due to traffic and vehicle emissions. This suggests that exposure to Benzo(a)pyrene is associated with COPD, supporting a clear relationship between the compound and the disease."
+      },
+      "Benzo(a)pyrene_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a strong association between exposure to polycyclic aromatic hydrocarbons (PAHs), of which Benzo(a)pyrene is a main representative, and respiratory diseases including asthma. Although the study specifically measured Benzo(a)pyrene levels in COPD patients, it acknowledges that both COPD and asthma have a strong association with PAH exposure. Therefore, there is evidence supporting a relationship between Benzo(a)pyrene and asthma based on the general link between PAHs and respiratory diseases mentioned in the abstract."
+      }
+    },
+    {
+      "acetonitrile_COPD": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between polycyclic aromatic hydrocarbons (PAHs) and COPD, highlighting that PAHs exposure is strongly associated with COPD. Acetonitrile is mentioned only as a solvent used in the analytical procedure (quality-assurance samples) and not as an exposure or risk factor related to COPD. There is no evidence in the abstract indicating that acetonitrile itself has any direct or indirect relationship with COPD."
+      },
+      "acetonitrile_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between polycyclic aromatic hydrocarbons (PAHs) and respiratory diseases such as COPD and asthma, highlighting PAHs as risk factors. Acetonitrile is mentioned only as a solvent used in the analytical procedure (quality-assurance samples) and not as an exposure or risk factor related to asthma. There is no evidence in the abstract indicating a direct or indirect relationship between acetonitrile exposure and asthma."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'polycyclic aromatic hydrocarbon (PAH)' as a class of compounds studied, with 'Benzo(a)pyrene' identified as a main representative PAH measured in serum samples. Additionally, 'acetonitrile' is mentioned as a solvent used in calibration standards during analysis. These are specific chemical names rather than general terms."
+}

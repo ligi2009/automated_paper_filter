@@ -1,0 +1,28 @@
+{
+  "id": 6338,
+  "title": "MYIASIS, ITS TYPES, CAUSES, AND THE RELATIONSHIP OF SOME BACTERIAL SPECIES TO ITS EVENTS /( ARTICLE REVIEW )",
+  "Abstract": "Myiasis is one of the most complex and interesting relationships that we see in nature, as it represents the relationship between small larvae of the order of Diptera and other creatures such as humans and animals. It is also considered an economic problem that causes heavy losses in livestock. And in both animals, where these larvae belong to three families 1. Oestridae 2. Sarcophagidae 3. Calliphoridae, feed on live and dead tissues, it has also been shown that wounds contaminated with bacteria, Streptococcus spp. Staphylococcus aureus ، Klebsiella peneumonia, ،Pseudomonas spp. ، Enterobacter spp. و Proteus mirabilis are more likely to suffer from myiasis due to their ability to produce volatile organic compounds that are considered as stimuli for flies. Therefore, Artiana, in this scientific article, dealt with a brief and comprehensive review of myiasis, including the classification of its types, the classification of the larvae that cause it, and the bacterial infections associated with myiasis.",
+  "Disease_List": [
+    "Myiasis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Myiasis' as a specific disease, describing it as a relationship involving larvae that feed on live and dead tissues and cause economic losses in livestock. Although bacterial infections are mentioned, they are referred to by bacterial species names rather than specific diseases. Therefore, 'Myiasis' is the specific disease named in the abstract.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Myiasis"
+  ],
+  "UMLS_search_results": {
+    "Myiasis": [
+      {
+        "ui": "C0027030",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0027030",
+        "name": "Myiasis",
+        "mesh_id": "D009198"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

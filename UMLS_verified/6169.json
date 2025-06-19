@@ -1,0 +1,41 @@
+{
+  "id": 6169,
+  "title": "Scent dogs identify SARS-CoV-2-infections in respiratory samples from experimentally infected ferrets and hamsters—a pilot study",
+  "Abstract": "Rapid and sensitive diagnostic measures are a pre-requisite for the control of SARS-CoV-2 outbreaks. Dogs detect SARS-CoV-2-infected human individuals with high speed due to their extraordinary olfactory acuity. In the post-pandemic phase of SARS-CoV-2 it is difficult to obtain samples from infected humans for scent dog training. Established animal models for COVID-19 include hamsters and ferrets, which could overcome this shortcoming and have the advantage that samples are generated under controlled conditions. Respiratory samples from humans, hamsters and ferrets infected with SARS-CoV-2 and from ferrets infected with an H7-Influenza A virus were inactivated with β-propiolactone and presented via a device called “Detection Dog Training System” (DDTS). DDTS allows a fast, blinded, randomized, and automated sample presentation without trainer interference. Scent dogs generally showed a similar diagnostic sensitivity (DSe) and specificity (Dsp) for four tested scenarios (S1-4) and as reported previously for respiratory samples from humans. (S1) Human with COVID-19: DSe 88.1 [74.0–100.0% CI95%] and DSp 89.6 [80.6–98.5% CI95%]. (S2) Hamster with COVID-19: DSe 82.4 [74.1–90.7% CI95%] and DSp 96.7 [93.7–99.7% CI95%]. (S3) Ferret with COVID-19: DSe 86.2 [69.8–100.0% CI95%] and DSp 95.1 [89.5–100.0% CI95%]. (S4) Ferrets infected with an H7 Influenza A-virus (IAV) as a distractor: DSe 96.9 [57.2–100.0% CI95%] and DSp 89.86 [40.3–100.0% CI95%]. We provide evidence that scent dogs detect samples from SARS-CoV-2-infected hamsters and ferrets with a similar accuracy as reported for humans. The study highlights that volatile organic compound odor patterns are similar in humans, hamsters, and ferrets after SARS-CoV-2 infection, but distinct after IAV-infection.",
+  "Disease_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection",
+    "H7 Influenza A-virus infection"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases including COVID-19 and infections caused by SARS-CoV-2 and H7 Influenza A virus. COVID-19 is repeatedly referenced as the disease in humans, hamsters, and ferrets. Additionally, H7 Influenza A-virus infection is mentioned as a distractor infection in ferrets. These are specific disease names rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19",
+    "SARS-CoV-2 infection"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "SARS-CoV-2 infection": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "H7 Influenza A-virus infection": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

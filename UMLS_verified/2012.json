@@ -1,0 +1,35 @@
+{
+  "id": 2012,
+  "title": "Volatile Markers for Cancer in Exhaled Breath—Could They Be the Signature of the Gut Microbiota?",
+  "Abstract": "It has been shown that the gut microbiota plays a central role in human health and disease. A wide range of volatile metabolites present in exhaled breath have been linked with gut microbiota and proposed as a non-invasive marker for monitoring pathological conditions. The aim of this study was to examine the possible correlation between volatile organic compounds (VOCs) in exhaled breath and the fecal microbiome by multivariate statistical analysis in gastric cancer patients (n = 16) and healthy controls (n = 33). Shotgun metagenomic sequencing was used to characterize the fecal microbiota. Breath-VOC profiles in the same participants were identified by an untargeted gas chromatography–mass spectrometry (GC–MS) technique. A multivariate statistical approach involving a canonical correlation analysis (CCA) and sparse principal component analysis identified the significant relationship between the breath VOCs and fecal microbiota. This relation was found to differ between gastric cancer patients and healthy controls. In 16 cancer cases, 14 distinct metabolites identified from the breath belonging to hydrocarbons, alcohols, aromatics, ketones, ethers, and organosulfur compounds were highly correlated with 33 fecal bacterial taxa (correlation of 0.891, p-value 0.045), whereas in 33 healthy controls, 7 volatile metabolites belonging to alcohols, aldehydes, esters, phenols, and benzamide derivatives correlated with 17 bacterial taxa (correlation of 0.871, p-value 0.0007). This study suggested that the correlation between fecal microbiota and breath VOCs was effective in identifying exhaled volatile metabolites and the functional effects of microbiome, thus helping to understand cancer-related changes and improving the survival and life expectancy in gastric cancer patients.",
+  "Disease_List": [
+    "gastric cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'gastric cancer' multiple times, identifying it as a specific disease studied in the context of gut microbiota and volatile organic compounds in exhaled breath. Therefore, the classification is Y with 'gastric cancer' listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "gastric cancer"
+  ],
+  "UMLS_search_results": {
+    "gastric cancer": [
+      {
+        "ui": "C0024623",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024623",
+        "name": "Malignant neoplasm of stomach",
+        "mesh_id": "D013274"
+      },
+      {
+        "ui": "C0699791",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699791",
+        "name": "Stomach Carcinoma",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 5402,
+  "title": "Were biogenic volatile organic compounds mainly responsible for ozone pollution during the COVID-19 lockdown In Mexico City?",
+  "Abstract": "During the COVID-19 lockdown in Mexico City (March 23 to May 20, 2020), criteria air pollutants decreased their concentration from -19 % (PM10) to -54 % (NO), except for ozone which increased its concentration by +6 % in comparison with the same period of 2019. After the lockdown, the concentration of criteria air pollutants returned to levels before COVID-19, while ozone remained unchanged. As meteorological variables did not modify their trends from 2017 to 2021, all differences in concentration during the lockdown were linked to changes in human activities. The spatial trends during the COVID-19 lockdown were similar to previous years, where the north and center of Mexico City were the most polluted sites, except for ozone which had the highest concentrations in the south and west of the city. During the lockdown, O3 concentration was related to high wind speeds in the direction of green areas, which was attributed to O3 formation from the reaction between biogenic and domestic volatile organic compounds with local NOx emissions. Besides, we did not find evidence that criteria air pollutants were related to COVID-19 spreading. Significant correlations were found only between the number of infections and nitrogen oxides, which may reflect that infected people mobility transmitted the virus in both external and internal spaces. We encourage authorities to pay more attention to other sources besides vehicular for regulation as we demonstrated that although human activities were restricted, pollution could remain at high levels in focused sources.\n \nResumen. Durante el confinamiento por COVID-19 en la Ciudad de México (23 de marzo al 20 de mayo de 2020), los contaminantes atmosféricos criterio disminuyeron su concentración de -19 % (PM10) a -54 % (NO), excepto el ozono que aumentó su concentración +6 %. en comparación con el mismo período de 2019. Después del confinamiento, la concentración de contaminantes atmosféricos criterio volvió a los niveles anteriores al COVID-19, mientras que el ozono se mantuvo sin cambios. Como las variables meteorológicas no modificaron sus tendencias de 2017 a 2021, todas las diferencias de concentración durante el confinamiento estuvieron vinculadas a cambios en las actividades humanas. El análisis espacial mostró tendencias similares a años previos donde el norte y centro de la Ciudad de México fueron los sitios más contaminados excepto ozono, el cual tuvo las concentraciones más elevadas en el sur y oeste de la ciudad. Durante el confinamiento, la concentración de O3 estuvo relacionada con las altas velocidades del viento en dirección a las áreas verdes, lo que se atribuyó a la formación de O3 a partir de la reacción entre los compuestos orgánicos volátiles biogénicos y domésticos y las emisiones locales de NOx. Además, no se encontró evidencia de que los contaminantes atmosféricos criterio estuvieran relacionados con la propagación de COVID-19, ya que solo se encontraron correlaciones significativas entre el número de infecciones y los óxidos de nitrógeno, lo que puede reflejar que la movilidad de las personas infectadas transmitió el virus tanto en espacios externos como internos. Alentamos a las autoridades a prestar más atención a otras fuentes además de los vehículos para la regulación, ya que demostramos que, aunque las actividades humanas estaban restringidas, la contaminación podría permanecer en niveles altos en fuentes focalizadas.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'COVID-19' multiple times in relation to the lockdown period and infection spreading. Therefore, it qualifies as mentioning a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "PM10",
+    "NO",
+    "ozone",
+    "O3",
+    "volatile organic compounds",
+    "NOx",
+    "nitrogen oxides"
+  ],
+  "compound_CID": [
+    {
+      "PM10": "None",
+      "NO": 24822,
+      "ozone": 24823,
+      "O3": 24823,
+      "volatile organic compounds": "None",
+      "NOx": "None",
+      "nitrogen oxides": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "PM10_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that during the COVID-19 lockdown in Mexico City, concentrations of criteria air pollutants including PM10 decreased by 19%. However, the study found no evidence that these criteria air pollutants, including PM10, were related to the spread of COVID-19. Significant correlations with COVID-19 infections were only found for nitrogen oxides, which likely reflect virus transmission related to infected individuals' mobility rather than a direct effect of the pollutants. Therefore, based on the abstract, there is no clear relationship between PM10 and COVID-19."
+      }
+    },
+    {
+      "NO_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that during the COVID-19 lockdown in Mexico City, concentrations of nitrogen oxides (NOx), including NO, decreased significantly. However, the study found no evidence that criteria air pollutants, including NO, were related to the spread of COVID-19. Although significant correlations were observed between the number of infections and nitrogen oxides, these correlations likely reflect the mobility of infected individuals transmitting the virus rather than a direct causal relationship between NO exposure and COVID-19. Therefore, based on the abstract, there is no clear evidence of a direct relationship between the compound NO and the disease COVID-19."
+      }
+    },
+    {
+      "ozone_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that during the COVID-19 lockdown in Mexico City, ozone concentrations increased by 6% compared to the same period in 2019, while other air pollutants decreased. However, the study found no evidence linking ozone or other criteria air pollutants to the spread of COVID-19. Significant correlations with COVID-19 infections were only found for nitrogen oxides, likely reflecting virus transmission related to infected individuals' mobility rather than pollutant effects. Therefore, based on the abstract, there is no clear relationship between ozone levels and COVID-19 disease."
+      }
+    },
+    {
+      "O3_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that during the COVID-19 lockdown in Mexico City, ozone (O3) concentrations increased by 6%, unlike other criteria air pollutants which decreased. However, the study found no evidence linking criteria air pollutants, including ozone, to the spread of COVID-19. Significant correlations with COVID-19 infections were only found for nitrogen oxides, likely reflecting virus transmission via infected individuals' mobility rather than a direct effect of pollutants. Therefore, based on the abstract, there is no clear relationship between O3 and COVID-19."
+      }
+    },
+    {
+      "volatile organic compounds_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollutant concentrations during the COVID-19 lockdown in Mexico City, noting that while ozone levels increased due to reactions involving biogenic and domestic volatile organic compounds (VOCs) and local NOx emissions, there was no evidence found linking criteria air pollutants, including VOCs, to the spread of COVID-19. Significant correlations with COVID-19 infections were only observed with nitrogen oxides, likely reflecting virus transmission via infected individuals' mobility rather than a direct effect of VOCs. Therefore, based on the abstract, there is no clear relationship between volatile organic compounds and COVID-19."
+      }
+    },
+    {
+      "NOx_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that during the COVID-19 lockdown, concentrations of criteria air pollutants including NOx decreased significantly due to reduced human activities. Although significant correlations were found between the number of COVID-19 infections and nitrogen oxides (NOx), the authors clarify that this likely reflects the mobility of infected individuals transmitting the virus rather than a direct causal relationship between NOx exposure and COVID-19 spread. Furthermore, the study explicitly states that no evidence was found linking criteria air pollutants, including NOx, to the propagation of COVID-19. Therefore, the relationship between NOx and COVID-19 is not supported as a direct or causal one based on this abstract."
+      }
+    },
+    {
+      "nitrogen oxides_COVID-19": {
+        "relationship": "N",
+        "reason": "The abstract reports that no evidence was found linking criteria air pollutants, including nitrogen oxides (NOx), to the spread of COVID-19. Although significant correlations were observed between the number of infections and nitrogen oxides, this was interpreted as reflecting the mobility of infected individuals transmitting the virus, rather than a direct causal relationship between nitrogen oxides exposure and COVID-19 infection or severity. Therefore, the data do not support a clear relationship between nitrogen oxides and COVID-19 disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution: PM10 (particulate matter), NO (nitric oxide), ozone (O3), volatile organic compounds (VOCs), NOx (nitrogen oxides as a group), and nitrogen oxides. These are specific named chemical substances relevant to the study of air quality and pollution changes during COVID-19 lockdown."
+}

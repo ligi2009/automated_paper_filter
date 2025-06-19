@@ -1,0 +1,50 @@
+{
+  "id": 198,
+  "title": "From air to mind: unraveling the impact of indoor pollutants on psychiatric disorders",
+  "Abstract": "Epidemiological evidence from the past 20 years indicates that environmental chemicals brought into the air by the vaporization of volatile organic compounds and other anthropogenic pollutants might be involved, at least in part, in the development or progression of psychiatric disorders. This evidence comes primarily from occupational work studies in humans, with indoor occupations being the most important sources of airborne pollutants affecting neural circuits implicated in mood disorders (e.g., major depressive disorder and bipolar disorder). The current mini review brings together recent findings of indoor airborne pollution from different fields of research, including genetics, neuropathology, and neuroimaging, for gauging underlying physiological mechanisms leading to emotional disturbances that impact nearly all aspects of human behavior. A better understanding of how indoor airborne pollutants affect brain neurons to augment clinical symptoms associated with psychiatric disorders will undoubtedly be useful in the subsequent treatment of patients with major depressive and/or bipolar disorders. This article is part of the themed issue, “Understanding the Link Between Environmental Pollutants, Brain & Behavior.”",
+  "Disease_List": [
+    "major depressive disorder",
+    "bipolar disorder"
+  ],
+  "Reason": "The abstract explicitly mentions specific psychiatric disorders by name, including 'major depressive disorder' and 'bipolar disorder'. These are well-defined diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "major depressive disorder",
+    "bipolar disorder"
+  ],
+  "UMLS_search_results": {
+    "major depressive disorder": [
+      {
+        "ui": "C1269683",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1269683",
+        "name": "Major Depressive Disorder",
+        "mesh_id": "D003865"
+      },
+      {
+        "ui": "C0041696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041696",
+        "name": "Unipolar Depression",
+        "mesh_id": "D003866"
+      }
+    ],
+    "bipolar disorder": [
+      {
+        "ui": "C0005586",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005586",
+        "name": "Bipolar Disorder",
+        "mesh_id": "D001714"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories such as 'volatile organic compounds' and 'airborne pollutants' but does not specify any particular chemical compound names."
+}

@@ -1,0 +1,42 @@
+{
+  "id": 6404,
+  "title": "Independent and combined associations of VOCs exposure and MetS in the NHANES 2017–2020",
+  "Abstract": "Introduction As a worldwide public health concern, Metabolic syndrome (MetS) seriously endangers human health and life safety. It`s reported that there is a strong association between chemical pollutants and the development of MetS in recent years. Volatile organic compounds (VOCs), the primary emission pollutant in atmospheric pollutants, were closely associated with development of chronic diseases. However, the association between VOCs exposure and MetS is unclear. We aimed to investigate the association between VOCs and MetS and identify the behavioral patterns in which MetS patients may be exposed to VOCs. Methods We conducted a cross-sectional data analysis from 15,560 VOC-exposed participants in the NHANES. Multivariable logistic regression model, weighted quantile sum (WQS) regression model, and Bayesian kernel machine regression (BKMR) regression model were employed to explore chemical exposure`s independent and combined effects on MetS, respectively. Results A total of 2,531 individuals were included in our study, of whom 51.28% had MetS and 48.72% were non-MetS. The logistic regression model identified the association between N-acetyl-S-(N- methylcarbamoyl)-L-cysteine (AMCC), N-acetyl-S-(2-carboxyethyl)-L-cysteine (CEMA), N-acetyl-S-(2- cyanoethyl)-L- cysteine (CYMA) and MetS. In WQS regression analysis, the WQS index was significantly associated with AMCC, trans,trans-Muconic acid (t,t-MA), N-Acetyl-S-(1-cyano-2- hydroxyethyl)- L-cysteine (CYHA), CEMA, 2-Thioxothiazolidine-4-carboxylic acid (TTCA), N-acetyl- S-(3- hydroxypropyl-1-methyl)-L-cysteine (HPMM), CYMA, N-acetyl-S-(3,4-dihydroxybutyl)-L-cysteine (NADB), and N-Acetyl-S-(4-hydroxy-2-methyl-2-buten-1-yl)-L-cysteine (IPM3 cysteine). Finally, the combined association of MetS was positively associated with CEMA and CYMA in the BKMR regression model. Discussion In summary, we demonstrated that VOCs and their` metabolism were significantly associated with MetS. Compared results from these three models, CEMA and CYMA were identified as the factors associated with MetS. This study provides a research direction for the mechanism of VOCs that may induce the onset and development of MetS.",
+  "Disease_List": [
+    "Metabolic syndrome (MetS)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Metabolic syndrome (MetS)' multiple times as a specific disease entity. The study focuses on the association between volatile organic compounds (VOCs) exposure and Metabolic syndrome, clearly identifying it as the disease of interest. No other specific diseases are named.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Metabolic syndrome (MetS)"
+  ],
+  "UMLS_search_results": {
+    "Metabolic syndrome (MetS)": []
+  },
+  "MRCONSO_search_results": {
+    "Metabolic syndrome (MetS)": [
+      "Metabolic Syndrome X",
+      "Metabolic syndrome X",
+      "metabolic syndrome x",
+      "metabolic syndrome X",
+      "METABOLIC SYNDROME X"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Metabolic syndrome (MetS)_via_Metabolic Syndrome X": [
+      {
+        "ui": "C0524620",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524620",
+        "name": "Metabolic Syndrome X",
+        "mesh_id": "D024821"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "Error parsing response: Unterminated string starting at: line 13 column 13 (char 553)"
+}

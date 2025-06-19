@@ -1,0 +1,155 @@
+{
+  "id": 2139,
+  "title": "Impact of Sawmill Industry on Ambient Air Quality: A Case Study of Ilorin Metropolis, Kwara State, Nigeria",
+  "Abstract": "Amid sawmill busy lives, air pollution is one of the greatest casualties of our time and has increased worldwide since 1990. Today, the history of air pollution in sawmills accounts for 93.32% of the total number of wood processing industries in Nigeria, it seems daunting, overwhelming and have positioned the country at a perilous crossroad. For emerging nations such as Nigeria with a population projected to hit 410.6 million humans by 2050 with up to 40-60 million people with mental disorders at the moment, consequently more than 40,000 deaths a year will be due to air pollution. 7 million deaths worldwide is attributed to air pollution with the number set to increase significantly in coming decades mostly through non-communicable diseases like lung cancer, stroke and chronic obstructive pulmonary disease but also through acute respiratory infections like pneumonia. Similarly, around 90% of all people breathe air contaminated with pollutants. In 2015, tobacco caused 7 million deaths, 1.2 million AIDS, 1.1 million cases of tuberculosis and 0.7 million of malaria, 19% of all cardiovascular deaths, 24% of all deaths due to ischaemic heart disease. 21% of stroke deaths, and 23% of deaths from lung cancer. Non-communicable diseases are responsible for 70% of deaths from air pollution and are a major cause of unexplained infections. In addition, air pollution seems to be significant but it is still not a determinant factor of the risk of neurodegenerative disorders in children and neurodegenerative diseases in adults. This study assessed ambient air quality in major sawmill sites in Ilorin Metropolis, Kwara State, Nigeria. Air pollution measurements were made using direct reading through automatic in situ gas monitors; Hand held mobile multi-gas monitor with model AS8900 (Combustible (LEL), and Oxygen (O2)), BLATN with model BR—Smart Series air quality monitor (PM10, Formaldehyde) and air quality multimeter with model B SIDE EET100 (Dust (PM2.5), VOC, Temperature and Relative Humidity). The results show that the mean concentrations of CO, O2 and other measured parameters such as Formaldehyde (HcHo) etc., are commonly lower and within acceptable range of National and International regulatory standards for air quality indices. There are however some exceptions such as mean concentrations of Volatile Organic Compounds (VOCs), PM2.5, PM10 and Combustible (LEL) respectively high when compared to National and International standards. This high value is attributed to the amount of pollutant present in the sawmills due to the input of influents it receives from activities of the sawmill. This is why there has been air pollution in Ilorin metropolis and were however, found to be polluted. Given the high cost of additional measures to lessen air pollution and the new perspectives suggesting that health effects can be observed at low concentrations, the health effects of air pollution should be of scientific and regulatory interest in coming years. In the absence of aggressive control, ambient air pollution is expected to cause between 6 and 9 million deaths a year by 2060.",
+  "Disease_List": [
+    "lung cancer",
+    "stroke",
+    "chronic obstructive pulmonary disease",
+    "pneumonia",
+    "AIDS",
+    "tuberculosis",
+    "malaria",
+    "ischaemic heart disease",
+    "neurodegenerative disorders",
+    "neurodegenerative diseases"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases such as lung cancer, stroke, chronic obstructive pulmonary disease, pneumonia, AIDS, tuberculosis, malaria, ischaemic heart disease, neurodegenerative disorders, and neurodegenerative diseases. These are all named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases extracted from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "stroke",
+    "chronic obstructive pulmonary disease",
+    "pneumonia",
+    "AIDS",
+    "tuberculosis",
+    "malaria",
+    "ischaemic heart disease",
+    "neurodegenerative disorders",
+    "neurodegenerative diseases"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "stroke": [
+      {
+        "ui": "C5977286",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5977286",
+        "name": "Stroke (heart beat)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0038454",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038454",
+        "name": "Cerebrovascular accident",
+        "mesh_id": "D020521"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "pneumonia": [
+      {
+        "ui": "C0032285",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0032285",
+        "name": "Pneumonia",
+        "mesh_id": "D011014"
+      }
+    ],
+    "AIDS": [
+      {
+        "ui": "C0001175",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0001175",
+        "name": "Acquired Immunodeficiency Syndrome",
+        "mesh_id": "D000163"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "ischaemic heart disease": [
+      {
+        "ui": "C0151744",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151744",
+        "name": "Myocardial Ischemia",
+        "mesh_id": "D017202"
+      },
+      {
+        "ui": "C0010054",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010054",
+        "name": "Coronary Arteriosclerosis",
+        "mesh_id": "D003324"
+      }
+    ],
+    "neurodegenerative disorders": [
+      {
+        "ui": "C0524851",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524851",
+        "name": "Neurodegenerative Disorders",
+        "mesh_id": "D019636"
+      }
+    ],
+    "neurodegenerative diseases": [
+      {
+        "ui": "C0524851",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0524851",
+        "name": "Neurodegenerative Disorders",
+        "mesh_id": "D019636"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

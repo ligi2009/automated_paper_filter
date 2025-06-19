@@ -1,0 +1,68 @@
+{
+  "id": 51,
+  "title": "Volatile organic compounds associated with Plasmodium falciparum infection in vitro",
+  "Abstract": "BackgroundIn order to identify new ways to prevent transmission of vector-borne diseases such as malaria, efforts have been made to understand how insects are attracted to humans. Vector-host interaction studies have shown that several volatile compounds play an important role in attracting mosquitoes to human targets. A headspace solid-phase micro-extraction/gas chromatography-mass spectrometry (HSPME GC-MS) analysis of the volatile organic composition of extracellular vesicles (EVs) and supernatants of ultracentrifugation (SNUs) was carried out in Plasmodium falciparum-infected cultures with high and low parasitemias.ResultsA list of 18 volatile organic compounds (VOCs) was obtained from the EVs of both infected and uninfected RBCs with 1,2,3-Propanetriol, diacetate (diacetin) increased in the infected EVs, regardless of the parasitemia of the culture. The supernatant analysis, however, gave off 56 VOCs, with pentane 2,2,4-trimethyl being present in all the SNUs of uninfected erythrocytes but absent from the parasite-infected ones. Standing out in this study was hexanal, a reported insect attractant, which was the only VOC present in all samples from SNUs from infected erythrocytes and absent from uninfected ones, suggesting that it originates during parasite infection.ConclusionsThe hexanal compound, reportedly a low-level component found in healthy human samples such as breath and plasma, had not been found in previous analyses of P. falciparum-infected patients or cultures. This compound has been reported as an Anopheles gambiae attractant in plants. While the compound could be produced during infection by the malaria parasite in human erythrocytes, the A. gambiae attraction could be used by the parasite as a strategy for transmission.",
+  "Disease_List": [
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'malaria' as a specific vector-borne disease. It discusses efforts to prevent transmission of vector-borne diseases such as malaria and focuses on Plasmodium falciparum, the parasite responsible for malaria. Therefore, the classification is Y with 'malaria' listed as the specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "1,2,3-Propanetriol, diacetate (diacetin)",
+    "pentane 2,2,4-trimethyl",
+    "hexanal"
+  ],
+  "compound_CID": [
+    {
+      "1,2,3-Propanetriol, diacetate (diacetin)": "None",
+      "pentane 2,2,4-trimethyl": "None",
+      "hexanal": 6184
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "1,2,3-Propanetriol, diacetate (diacetin)_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 1,2,3-Propanetriol, diacetate (diacetin) levels are increased in extracellular vesicles from Plasmodium falciparum-infected red blood cells compared to uninfected cells. Since P. falciparum is the parasite responsible for malaria, the increased presence of diacetin in infected cultures indicates a relationship between this compound and malaria infection. Although the abstract does not explicitly state the functional role of diacetin in malaria pathogenesis or transmission, its elevated presence in infected samples suggests an association with the disease."
+      }
+    },
+    {
+      "pentane 2,2,4-trimethyl_malaria": {
+        "relationship": "N",
+        "reason": "The abstract indicates that pentane 2,2,4-trimethyl was present in all supernatants of uninfected erythrocytes but absent from parasite-infected ones. There is no evidence suggesting that pentane 2,2,4-trimethyl is produced or involved in malaria infection or transmission. Instead, the study highlights hexanal as a compound associated with malaria infection and mosquito attraction. Therefore, no clear relationship between pentane 2,2,4-trimethyl and malaria is established in this abstract."
+      }
+    },
+    {
+      "hexanal_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between hexanal and malaria. Hexanal was identified as a volatile organic compound present exclusively in supernatants from Plasmodium falciparum-infected erythrocytes and absent in uninfected ones, suggesting its production during malaria parasite infection. Additionally, hexanal is a known attractant for Anopheles gambiae mosquitoes, the vector responsible for malaria transmission. The presence of hexanal during infection may represent a parasite strategy to enhance mosquito attraction and thus facilitate malaria transmission."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions three chemical compounds by name: 1,2,3-Propanetriol, diacetate (diacetin), which was increased in infected extracellular vesicles; pentane 2,2,4-trimethyl, found in supernatants of uninfected erythrocytes but absent in infected ones; and hexanal, noted as an insect attractant present only in infected samples. These are specific chemical substances identified in the study."
+}

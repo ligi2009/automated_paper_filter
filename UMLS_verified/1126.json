@@ -1,0 +1,108 @@
+{
+  "id": 1126,
+  "title": "Use of Respiratory Volatile Organic Compounds in the Diagnosis of Infections",
+  "Abstract": "Introduction: Infectious diseases continue to significantly affect global human health. Conducting infection diagnostic tests can be difficult due to limited resources, time limitations, or the inadequacy of current diagnostic techniques. There is a growing interest in developing diagnostic methods through the analysis of exhaled air, as breath sampling is non-invasive, safe, and convenient. Volatile organic compounds (VOCs) present in exhaled air provide insights into the metabolic and biophysical processes associated with various diseases. This review highlights recent advancements in breath-based diagnosis for respiratory infections, including those caused by the influenza virus, SARS-CoV-2, Mycobacterium tuberculosis, Pseudomonas aeruginosa, and Aspergillus fumigatus. Furthermore, this review also examines the contemporary viewpoint on diagnosing two significant infections: Helicobacter pylori and malaria. \nConclusion: Certain volatile organic compounds (VOCs) linked to respiratory conditions are specifically and often associated with multiple infectious diseases, indicating that breath analysis could be a valuable approach for creating diagnostic tools. However, existing challenges encompass the absence of standardized protocols for collecting and analyzing breath samples, as well as a deficiency in validation studies. Additional research is essential to broaden the use of breath analysis in clinical practice.  ",
+  "Disease_List": [
+    "influenza",
+    "COVID-19",
+    "tuberculosis",
+    "Pseudomonas aeruginosa infection",
+    "Aspergillosis",
+    "Helicobacter pylori infection",
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions specific infectious diseases such as influenza virus infection, SARS-CoV-2 (which causes COVID-19), Mycobacterium tuberculosis (causing tuberculosis), infections caused by Pseudomonas aeruginosa and Aspergillus fumigatus (which cause Pseudomonas aeruginosa infection and aspergillosis respectively), Helicobacter pylori infection, and malaria. These are all named diseases rather than general terms, so the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "influenza",
+    "COVID-19",
+    "tuberculosis",
+    "Pseudomonas aeruginosa infection",
+    "Aspergillosis",
+    "Helicobacter pylori infection",
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ],
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "Pseudomonas aeruginosa infection": [
+      {
+        "ui": "C0854135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0854135",
+        "name": "Pseudomonas aeruginosa infection",
+        "mesh_id": "D011552"
+      }
+    ],
+    "Aspergillosis": [
+      {
+        "ui": "C0004030",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004030",
+        "name": "Aspergillosis",
+        "mesh_id": "D001228"
+      }
+    ],
+    "Helicobacter pylori infection": [
+      {
+        "ui": "C0850666",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0850666",
+        "name": "Infection caused by Helicobacter pylori",
+        "mesh_id": "None"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

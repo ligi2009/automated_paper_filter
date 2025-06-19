@@ -1,0 +1,76 @@
+{
+  "id": 1125,
+  "title": "Sugar-fermenting yeast as an organic source of carbon dioxide to attract the malaria mosquito Anopheles gambiae s.s.",
+  "Abstract": "Background: Carbon dioxide (CO2) plays an important role in the host-seeking process of opportunistic, zoophilic and anthropophilic mosquito species and is, therefore, commonly added to mosquito sampling tools. The African malaria vector Anopheles gambiae sensu stricto is attracted to human volatiles augmented by CO2. This study investigated whether CO2, usually supplied from gas cylinders acquired from commercial industry, could be replaced by CO2 derived from fermenting yeast (yeast-produced CO2). Methods: Trapping experiments were conducted in the laboratory, semi-field and field, with An. gambiae s.s. as the target species. MM-X traps were baited with volatiles produced by mixtures of yeast, sugar and water, prepared in 1.5, 5 or 25 L bottles. Catches were compared with traps baited with industrial CO2. The additional effect of human odours was also examined. In the laboratory and semi-field facility dual-choice experiments were conducted. The effect of traps baited with yeast-produced CO2 on the number of mosquitoes entering an African house was studied in the MalariaSphere. Carbon dioxide baited traps, placed outside human dwellings, were also tested in an African village setting. The laboratory and semi-field data were analysed by a c-test, the field data by GLM. In addition, CO2 concentrations produced by yeast-sugar solutions were measured over time. Results: Traps baited with yeast-produced CO2 caught significantly more mosquitoes than unbaited traps (up to 34 h post mixing the ingredients) and also significantly more than traps baited with industrial CO2, both in the laboratory and semi-field. Adding yeast-produced CO2 to traps baited with human odour significantly increased trap catches. In the MalariaSphere, outdoor traps baited with yeast-produced or industrial CO2 + human odour reduced house entry of mosquitoes with a human host sleeping under a bed net indoors. Anopheles gambiae s.s. was not caught during the field trials. However, traps baited with yeast-produced CO2 caught similar numbers of Anopheles arabiensis as traps baited with industrial CO2. Addition of human odour increased trap catches. Conclusions: Yeast-produced CO2 can effectively replace industrial CO2 for sampling of An. gambiae s.s.. This will significantly reduce costs and allow sustainable mass-application of odour-baited devices for mosquito sampling in remote areas. Background Carbon dioxide (CO2), a major constituent of vertebrate breath, plays an important role in the host-seeking process of mosquitoes [1-6]. Therefore, the compound is commonly added to traps used for mosquito surveillance [7-9]. Among malaria vectors, opportunistic, zoophilic as well as anthropophilic mosquito species are affected by CO2 [2,4,6,10-13]. In Anopheles gambiae sensu stricto, an important vector of human malaria in sub-Saharan Africa and considered to be highly anthropophilic [14], CO2 augments the attractiveness of human odour [6,12] and it is an essential cue to lure the female mosquitoes into the vicinity of mosquito traps [5,13]. * Correspondence: renate.smallegange@wur.nl Laboratory of Entomology, Wageningen University, P.O. Box 8031, 6700 EH, Wageningen, The Netherlands Full list of author information is available at the end of the article Smallegange et al. Malaria Journal 2010, 9:292 http://www.malariajournal.com/content/9/1/292 © 2010 Smallegange et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Even though CO2 has a positive effect on the number of mosquitoes that are caught by suction traps, in resource-poor areas, like sub-Saharan Africa, it is hard to obtain CO2 sources that are reliable, cheap, easy to manage and durable. Propane-powered traps that produce CO2 [15] are difficult to obtain, heavy and expensive. The same is true for industrially-acquired CO2, which, packaged in steel cylinders, has the advantage that the release rate of CO2 can be regulated, but leakage at the connections may occur. In addition, flow meters may be costly and sensitive to dust and high humidity. Dry ice, an alternative source of CO2, is cheap and easier to handle than pressurized CO2 cylinders, but is difficult to obtain and transport in the tropics, besides the need for replenishment on a regular basis. Moreover, dry ice has the disadvantage that the release rate of CO2 is highly variable and diminishes over time [2,16]. Saitoh et al [16] developed an easy and cheap method to produce CO2 by using a yeast-sugar solution in plastic bottles. Under anaerobic conditions, yeast (synonym for strains of Saccharomyces cerevisiae or baker’s yeast) converts sugar into CO2 and ethanol [17-20]. In Japan, traps baited with yeast-generated CO2 caught higher numbers of Aedes and Culex spp. than unbaited traps. The objective of the present study was to investigate, under laboratory, semi-field and African field conditions, whether this method is valuable to lure An. gambiae s.s. females towards suction traps, as an alternative for industrial-acquired CO2.",
+  "Disease_List": [
+    "malaria"
+  ],
+  "Reason": "The abstract explicitly mentions 'malaria' as a specific disease multiple times, particularly in relation to the African malaria vector Anopheles gambiae sensu stricto. The study focuses on mosquito species that are vectors for malaria, a well-known specific disease, thus classifying this as 'Y' for specific disease names mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Carbon dioxide",
+    "CO2",
+    "ethanol",
+    "Saccharomyces cerevisiae"
+  ],
+  "compound_CID": [
+    {
+      "Carbon dioxide": 280,
+      "CO2": 280,
+      "ethanol": 702,
+      "Saccharomyces cerevisiae": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Carbon dioxide_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between carbon dioxide (CO2) and malaria through the role of CO2 in attracting Anopheles gambiae sensu stricto mosquitoes, which are important vectors of human malaria in sub-Saharan Africa. CO2 is described as a key cue that enhances the attractiveness of human odors to these mosquitoes, facilitating their host-seeking behavior. The study investigates the use of CO2, both industrially produced and yeast-generated, to bait traps for sampling An. gambiae s.s., demonstrating that CO2 effectively increases mosquito catches. This indicates that CO2 is directly involved in the ecology of malaria transmission by influencing mosquito behavior, which is critical for malaria vector surveillance and control. Therefore, there is a clear relationship between carbon dioxide and malaria as CO2 affects the behavior of malaria vectors."
+      }
+    },
+    {
+      "CO2_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between CO2 and malaria through the role of CO2 in attracting Anopheles gambiae sensu stricto mosquitoes, which are important vectors of human malaria in sub-Saharan Africa. CO2 is described as a key cue that enhances the attractiveness of human odors to these mosquitoes, facilitating their host-seeking behavior. The study investigates the use of CO2, both industrially produced and yeast-generated, to bait traps for sampling An. gambiae s.s., demonstrating that CO2 effectively increases mosquito catches. Since An. gambiae s.s. is a primary malaria vector, the use of CO2 in mosquito surveillance and control directly relates to malaria transmission dynamics. Therefore, there is a clear relationship between CO2 and malaria as CO2 influences the behavior of malaria vectors."
+      }
+    },
+    {
+      "ethanol_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of CO2 produced by yeast fermentation as an attractant for malaria vector mosquitoes, specifically Anopheles gambiae s.s., to improve mosquito trapping methods. It mentions that yeast fermentation produces both CO2 and ethanol, but the focus is on CO2 as the key attractant compound. There is no evidence or discussion in the abstract indicating a direct relationship between ethanol and malaria, either in terms of disease causation, prevention, or treatment. Ethanol is only mentioned as a byproduct of yeast fermentation, not as a factor influencing malaria or its vectors."
+      }
+    },
+    {
+      "Saccharomyces cerevisiae_malaria": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of Saccharomyces cerevisiae (yeast) as a biological source to produce carbon dioxide (CO2) for mosquito traps aimed at sampling malaria vector mosquitoes, specifically Anopheles gambiae s.s. The yeast itself is not implicated as a cause or treatment of malaria; rather, it is used to generate CO2 to attract mosquitoes for surveillance purposes. There is no evidence in the abstract that Saccharomyces cerevisiae has a direct biological or pathological relationship with malaria disease. The relationship is indirect and functional, related to vector monitoring rather than disease causation or therapy."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions Carbon dioxide (CO2) as the primary chemical compound involved in mosquito attraction and sampling. Ethanol is mentioned as a product of yeast fermentation. Saccharomyces cerevisiae is identified as the yeast strain responsible for producing CO2 and ethanol during fermentation. These are specific chemical substances or biological compounds named in the text, whereas general terms like 'chemicals' or 'compounds' are not included."
+}

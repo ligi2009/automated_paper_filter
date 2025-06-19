@@ -1,0 +1,32 @@
+{
+  "id": 2636,
+  "title": "Lactic acid bacterial symbionts in honeybees – an unknown key to honey's antimicrobial and therapeutic activities",
+  "Abstract": "Could honeybees' most valuable contribution to mankind besides pollination services be alternative tools against infections? Today, due to the emerging antibiotic‐resistant pathogens, we are facing a new era of searching for alternative tools against infections. Natural products such as honey have been applied against human's infections for millennia without sufficient scientific evidence. A unique lactic acid bacterial (LAB) microbiota was discovered by us, which is in symbiosis with honeybees and present in large amounts in fresh honey across the world. This work investigates if the LAB symbionts are the source to the unknown factors contributing to honey's properties. Hence, we tested the LAB against severe wound pathogens such as methicillin‐resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa and vancomycin‐resistant Enterococcus (VRE) among others. We demonstrate a strong antimicrobial activity from each symbiont and a synergistic effect, which counteracted all the tested pathogens. The mechanisms of action are partly shown by elucidating the production of active compounds such as proteins, fatty acids, anaesthetics, organic acids, volatiles and hydrogen peroxide. We show that the symbionts produce a myriad of active compounds that remain in variable amounts in mature honey. Further studies are now required to investigate if these symbionts have a potential in clinical applications as alternative tools against topical human and animal infections.",
+  "Disease_List": [
+    "methicillin‐resistant Staphylococcus aureus (MRSA) infection",
+    "Pseudomonas aeruginosa infection",
+    "vancomycin‐resistant Enterococcus (VRE) infection"
+  ],
+  "Reason": "The abstract explicitly mentions specific pathogens associated with severe wound infections: methicillin‐resistant Staphylococcus aureus (MRSA), Pseudomonas aeruginosa, and vancomycin‐resistant Enterococcus (VRE). These are well-known causes of specific infectious diseases, particularly antibiotic-resistant infections. Although the abstract does not name diseases by traditional names, the pathogens mentioned are directly linked to specific infectious diseases, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Pseudomonas aeruginosa infection"
+  ],
+  "UMLS_search_results": {
+    "methicillin‐resistant Staphylococcus aureus (MRSA) infection": [],
+    "Pseudomonas aeruginosa infection": [
+      {
+        "ui": "C0854135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0854135",
+        "name": "Pseudomonas aeruginosa infection",
+        "mesh_id": "D011552"
+      }
+    ],
+    "vancomycin‐resistant Enterococcus (VRE) infection": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": 4334,
+  "title": "Particulate Matter and Subjective Respiratory Health Effect Measurements in Palembang During Forest Fire Episode in October 2015",
+  "Abstract": "Particulate matter is a mixture of solid particles and liquid droplets that can gather in the atmosphere. Wild land fires are uncontrollable land fires that consume combustible plants and emit significant amounts of carbon dioxide, methane, non-methane volatile organic compounds, nitrogen oxides, and particulates. This research was conducted to measure the fine particulate matter (PM2.5) pollution during October 2015 that was caused by a September forest fire in Palembang, one of the cities most affected by wildfires in Indonesia. Sampling was based on the United States Environmental Protection Agency (US EPA) IP 10-A Method updated by SKC Ltd and was conducted every day for a week for six hours each day, divided into morning and evening sequences. Coarse and fine particles were filtered using a Sioutas Impactor and a Leland Legacy personal pump with a flow rate of 9 L/min. Quartz fiber filters were placed in every stage of the impactor to collect the particles. Particulate matter (PM) concentration was measured using the gravimetric method. The weighing was done using a Mettler Toledo MX5 microbalance. Questionnaires were used to gather information on health problems from 63 adults and 54 children from Palembang. The mean concentrations of coarse and fine particulate matter (PM10 and PM2.5) in Palembang during the measurement periods were determined to be 818.78 μg/m3 and 672.99 μg/m3respectively. The peak measurements for the 24-hour mean concentrations ofPM10 and PM2.5on October 21, 2015 were 1,369.34μg/m3and 1,246.92 μg/m3respectively. Both PM groups exceeded the 24-hour standards for PM10 and PM2.5concentrations outlined in the WHO Air Quality Guidelines and the US EPA National Ambient Air Quality Standards. Based on the results of the questionnaires, more than two-thirds of both children and adults experienced sneezing, nasal congestion, influenza, and dry cough during the forest fire episode. In conclusion, the particle pollution in Palembang city that was caused by the forest fire was hazardous to human health, and further research is needed to explore the health effects resulting from forest fire pollution that may affect Palembang’s citizens.",
+  "Disease_List": [
+    "influenza"
+  ],
+  "Reason": "The abstract explicitly mentions 'influenza' as a specific disease experienced by both children and adults during the forest fire episode. Other terms like sneezing, nasal congestion, and dry cough are symptoms, not specific diseases. Therefore, since influenza is a named disease, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "influenza"
+  ],
+  "UMLS_search_results": {
+    "influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

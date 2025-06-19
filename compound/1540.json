@@ -1,0 +1,69 @@
+{
+  "id": 1540,
+  "title": "Asthma Identification Using Gas Sensors and Support Vector Machine",
+  "Abstract": "The exhaled breath analysis is a procedure of measuring several types of gases that aim to identify various diseases in the human body. The purpose of this study is to analyze the gases contained in the exhaled breath in order to recognize healthy and asthma subjects with varying severity. An electronic nose consisting of seven gas sensors equipped with the Support Vector Machine classification method is used to analyze the gases to determine the patient's condition. Non-linear binary classification is used to identify healthy and asthma subjects, whereas the multiclass classification is applied to recognize the subjects of asthma with different severity. The result of this study showed that the system provided a low accuracy to distinguish the subjects of asthma with varying severity. This system can only differentiate between partially controlled and uncontrolled asthma subjects with good accuracy. However, this system can provide high sensitivity, specificity, and accuracy to distinguish between healthy and asthma subjects. The use of five gas sensors in the electronic nose system has the best accuracy in the classification results of 89.5%. The gases of carbon monoxide, nitric oxide, volatile organic compounds, hydrogen, and carbon dioxide contained in the exhaled breath are the dominant indications as biomarkers of asthma.The performance of electronic nose was highly dependent on the ability of sensor array to analyze gas type in the sample. Therefore, in further study we will employ the sensors having higher sensitivity to detect lower concentration of the marker gases.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' multiple times as a specific disease being studied and analyzed using exhaled breath gases. It discusses distinguishing between healthy subjects and asthma subjects, as well as asthma severity levels, which clearly identifies asthma as the specific disease of interest.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon monoxide",
+    "nitric oxide",
+    "hydrogen",
+    "carbon dioxide"
+  ],
+  "compound_CID": [
+    {
+      "carbon monoxide": 281,
+      "nitric oxide": 145068,
+      "hydrogen": 783,
+      "carbon dioxide": 280
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon monoxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that carbon monoxide is one of the dominant gases found in the exhaled breath that serves as a biomarker for asthma. The study used an electronic nose with gas sensors to analyze exhaled gases, including carbon monoxide, to distinguish between healthy and asthma subjects with high accuracy. This suggests a clear relationship between carbon monoxide levels in exhaled breath and the presence of asthma."
+      }
+    },
+    {
+      "nitric oxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitric oxide is one of the dominant gases in exhaled breath that serves as a biomarker for asthma. The study used an electronic nose with gas sensors to analyze exhaled gases, including nitric oxide, to distinguish between healthy and asthma subjects with high sensitivity, specificity, and accuracy. This suggests a clear relationship between nitric oxide levels and the presence of asthma."
+      }
+    },
+    {
+      "hydrogen_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that hydrogen is one of the gases contained in the exhaled breath that serves as a dominant indication or biomarker of asthma. The study used an electronic nose with gas sensors to analyze exhaled gases, including hydrogen, to distinguish between healthy and asthma subjects with high sensitivity, specificity, and accuracy. This suggests a clear relationship between hydrogen levels in exhaled breath and the presence of asthma."
+      }
+    },
+    {
+      "carbon dioxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that carbon dioxide, along with other gases such as carbon monoxide, nitric oxide, volatile organic compounds, and hydrogen, is contained in the exhaled breath and serves as a dominant indication or biomarker of asthma. The study used an electronic nose with gas sensors to analyze these gases and successfully distinguished between healthy and asthma subjects with high sensitivity, specificity, and accuracy. This suggests a clear relationship between carbon dioxide levels in exhaled breath and the presence of asthma."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the gases carbon monoxide, nitric oxide, hydrogen, and carbon dioxide as dominant indications and biomarkers of asthma in exhaled breath analysis. Volatile organic compounds are mentioned but not specified as individual chemical names, so they are excluded."
+}

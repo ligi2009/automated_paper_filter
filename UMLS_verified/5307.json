@@ -1,0 +1,82 @@
+{
+  "id": 5307,
+  "title": "The sophisticated evolution of Trichoderma to control insect pests",
+  "Abstract": "Trichoderma (Ascomycota, teleomorph: Hypocrea) is comprised of species that are multipurpose, plant-beneficial fungi with importance in agriculture as a direct biological control agent (BCA). However, due to its interaction with plants, it has become recognized also as an indirect BCA and a biostimulant, permitting reduced applications of agrochemicals, thus promoting an ecosustainable agriculture (1). Phylogenomic analysis has shown that the genus shared a last common ancestor with entomoparasitic hypocrealean fungi (e.g., Cordyceps, Beauveria) and evolved from a predecessor with limited cellulolytic capability that fed on either fungi or arthropods (2). Trichoderma evolution was subsequently directed toward successive host shifts combining mycotrophy and phytophagy (3), and it is widely accepted that mycoparasitism is the ancestral lifestyle of the genus (4). However, direct activity against insects, together with indirect biocontrol via activation of plant defenses or attraction of insect pest enemies, either by Trichoderma-produced metabolites or induced phytocompound release from the plant by this fungus, are traits that the species of Trichoderma have retained and acquired during its evolutionary leaps (1). Di Lelio et al. (5), in PNAS, describe how a multitrophic fungus–plant–animal–bacteria interaction (Fig. 1) leads to a novel mechanism of Trichodermamediated insect pest biocontrol by modification of the bacterial microbiome in the phytophagous larvae feeding on leaves from a plant whose metabolome has been modified following Trichoderma colonization. The separation of the Trichoderma genus from the entomopathogenic fungi reveals the possession of hydrolytic enzymes, such as chitinases and proteases, as a starting arsenal for feeding on insects. During various evolutionary leaps, in the soil and rhizosphere, Trichoderma spp. developed the ability to uptake a plethora of genes encoding for other enzymes, and secondary metabolites, as evidenced in the genome sequences of existing fungal species (https://mycocosm.jgi. doe.gov/Trichoderma400_project), enabling them to mycoparasitize Ascomycota fungi and feeding on other soil-borne organisms, such as Basidiomycetes, Oomycetes, nematodes, and even insects (1, 3). Furthermore, Trichoderma can also reprogram plant immunological memory, generating faster and stronger, long-lasting and heritable, defense responses, by activating a mechanism known as priming (6). Trichoderma, as soil colonizers and producers of secreted enzymes have demonstrated direct biocontrol of insects, such as phytophagous Lepidoptera, by disrupting the structure and permeability of midgut peritrophic matrix (7). The insecticidal capacity of Trichoderma extends beyond agriculture, as crude extracts of secondary metabolites have shown inhibitory effects on larvae of the Anopheles mosquito, the vector of malaria (8), and enzymatic activity may inhibit cuticle formation of the mosquito Aedes aegypti that transmits human diseases such as yellow fever, dengue and Zika (9). As free-living soil microorganisms, Trichoderma can exert another form of biocontrol by releasing volatile organic compounds (VOCs), such as 1-octen-3-ol and 6-pentyl-2H-pyran2-one (6-PP), that can attract parasitoids and predators of insect pests (10) or have aboveground (11) or belowground (12) antifeedant effects that mitigate herbivore attack. The leap to colonizing the surface of and living endophytically in the roots, has permitted Trichoderma strains with this ability to “communicate” with plants to promote growth and induce priming. In relation to herbivores, this plant symbiont is interested in maintaining the health of its plant host, therefore the priming activated by the Trichoderma does not exclude effects on insects. To this end, Trichoderma has developed the capacity to activate plant responses (1): i) up-regulate genes involved in oxidative burst reactions, ii) produce changes in the metabolome that result in phytocompounds",
+  "Disease_List": [
+    "malaria",
+    "yellow fever",
+    "dengue",
+    "Zika"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases transmitted by mosquitoes, including malaria, yellow fever, dengue, and Zika. These are well-known specific diseases, not general terms, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria",
+    "yellow fever",
+    "dengue",
+    "Zika"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "yellow fever": [
+      {
+        "ui": "C0043395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043395",
+        "name": "Yellow Fever",
+        "mesh_id": "D015004"
+      },
+      {
+        "ui": "C0301508",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0301508",
+        "name": "yellow fever vaccine",
+        "mesh_id": "D022341"
+      }
+    ],
+    "dengue": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      }
+    ],
+    "Zika": [
+      {
+        "ui": "C0318793",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0318793",
+        "name": "Zika Virus",
+        "mesh_id": "D000071244"
+      },
+      {
+        "ui": "C0276289",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276289",
+        "name": "Zika Virus Infection",
+        "mesh_id": "D000071243"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

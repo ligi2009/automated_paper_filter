@@ -1,0 +1,212 @@
+{
+  "id": 318,
+  "title": "Changes in air pollution and childhood respiratory viral infections in Korea post-COVID-19 outbreak",
+  "Abstract": "To the editor Since the initial outbreak of coronavirus disease 2019 (COVID19), global lockdowns have been implemented, resulting in a decline in overall human activities, including economies, industries, and lifestyles. The government of South Korea enforced an executive order on public health measures, such as social distancing and compulsory mask-wearing. The ambient air pollution, a global health burden for several decades, seems to have improved worldwide compared to the prepandemic period.1) The global health status also underwent significant changes after the COVID19 outbreak, such as fewer hospital visits and decreased respiratory tract infection rates.2,3) The present study aimed to observe the changes in air pollution levels and the number of respiratory viral infections among hospitalized children in South Korea before versus after the COVID-19 pandemic, especially after implementation of the public health measures. The government of South Korea organized the COVID-19 Central Disaster and Safety Countermeasures Headquarters comprising experts from various organizations and implemented nationwide social distancing measures on March 22, 2020. They released basic guidelines for maintaining distance in daily life to prevent viral penetration into individual living spaces, removing conditions favorable for pathogen transmission and survival, minimizing the excretion of the virus from the body, and blocking the pathogen’s transmission.4) They classified 4 levels of social distancing and announced them on a regular basis. Additionally, online office work and school work and gathering restrictions resulted in decreased traffic and activity volumes. Daily mean concentrations of air pollutants (particulate matter [PM]2.5, PM10, ozone [O3], nitrogen dioxide [NO2], carbon monoxide [CO], and sulfur dioxide [SO2]) in 5 metropolitan cities (Seoul, Daejeon, Daegu, Gwangju, and Busan) were gathered to represent the national data of South Korea. Data on ambient air pollution were measured and recorded by air pollutant observatory stations in each city under NAMIS (National Ambient Air Quality Monitoring Information System) surveillance. Data on national air quality were accessed through the AIRKOREA website provided by the Korea Ministry of Environment and the Korea Environment Corporation.5) Since air quality in South Korea traditionally exhibited relatively poor levels in winter and spring under the influence of Asian fine dust, we designated the study period from February 1 to May 31 each year.6) Weekly respiratory virus data provided by the Korea Disease Control and Prevention Agency were collected from February to May annually in 2015–2021.7) A total of 125,463 cases of respiratory viruses from hospitalized children were collected from the Korea Disease Control and Prevention Agency during the study period: 42,279 cases of rhinovirus, 20,602 cases of metapneumovirus, 16,361 cases of adenovirus, 15,537 cases of parainfluenza virus, 12,585 cases of bocavirus, 10,181 cases of respiratory syncytial virus, and 7,918 cases of coronavirus. We observed decreasing trends in ambient NO2, PM2.5, PM10, and SO2 levels in 2020 since the beginning of the pandemic and following lockdowns compared to the same periods before the pandemic (Fig. 1). Since industrial emissions and traffic contribute largely to these air pollutants, noticeable decreases were observed after the implementation of the lockdowns. However, the levels of CO and O3 did not show significant changes compared to those in previous years. A marked reduction of ambient NO2 and paradoxical increase of ambient O3 levels at urban stations during the pandemic were also observed abroad, such as in Brazil, China, and Europe.8) Increased O3 levels during lockdowns may be attributed to a reduction in NOx emissions, which leads to lower O3 titration, since its formation depends on the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds in the atmosphere.8) In 2021, when social distancing between individuals persisted while most industries in South Korea and nearby countries such as China and India resumed, several parameters including PM2.5, PM10, SO2, and O3 exhibited slight increases compared to those in 2020 (Fig. 1). A steep increase in ambient PM10 seems to have resulted from several sandstorms that began and spread from the Eastern Gobi desert steppe during March 2021.9) Respiratory viral infections in the childhood population showed a dramatic decrease after the COVID-19 outbreak since public health measures were implemented (Fig. 2). The average number of respiratory virus detections from February to May each year before the pandemic was 23,120, but in 2020 and 2021, only 5,563 and 4,298 cases were detected, showing reductions of 75.9% and 81.4%, respectively. Several studies from abroad also demonstrated decreased trends in respiratory viruses and hospital use. A reduction in pediatric asthma encounters and decreased steroid prescriptions were observed, probably due to decreased rhinovirus infections during the pandemic.3) In addition, the global decline in influenza virus circulation was concurrent with the pandemic, and most other respiratory viruses exhibited de-",
+  "Disease_List": [
+    "coronavirus disease 2019 (COVID-19)",
+    "respiratory tract infection",
+    "pediatric asthma",
+    "influenza"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'coronavirus disease 2019 (COVID-19)', 'respiratory tract infection', 'pediatric asthma', and 'influenza'. These are named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory tract infection",
+    "pediatric asthma",
+    "influenza"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019 (COVID-19)": [],
+    "respiratory tract infection": [
+      {
+        "ui": "C0035243",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035243",
+        "name": "Respiratory Tract Infections",
+        "mesh_id": "D012141"
+      }
+    ],
+    "pediatric asthma": [
+      {
+        "ui": "C0264408",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0264408",
+        "name": "Childhood asthma",
+        "mesh_id": "None"
+      }
+    ],
+    "influenza": [
+      {
+        "ui": "C0021400",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021400",
+        "name": "Influenza",
+        "mesh_id": "D007251"
+      },
+      {
+        "ui": "C0021403",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021403",
+        "name": "Influenza virus vaccine",
+        "mesh_id": "D007252"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "particulate matter (PM2.5)",
+    "particulate matter (PM10)",
+    "ozone (O3)",
+    "nitrogen dioxide (NO2)",
+    "carbon monoxide (CO)",
+    "sulfur dioxide (SO2)",
+    "nonmethane hydrocarbons",
+    "nitrogen oxides",
+    "volatile organic compounds"
+  ],
+  "compound_CID": [
+    {
+      "particulate matter (PM2.5)": "None",
+      "particulate matter (PM10)": "None",
+      "ozone (O3)": 24823,
+      "nitrogen dioxide (NO2)": 3032552,
+      "carbon monoxide (CO)": "None",
+      "sulfur dioxide (SO2)": 1119,
+      "nonmethane hydrocarbons": "None",
+      "nitrogen oxides": "None",
+      "volatile organic compounds": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "particulate matter (PM2.5)_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a clear association between particulate matter (PM2.5) levels and respiratory tract infections. It reports that during the COVID-19 pandemic, public health measures and lockdowns led to decreased human activities, resulting in reduced ambient air pollution levels, including PM2.5. Concurrently, there was a marked decrease in respiratory viral infections among hospitalized children. The data show that reductions in PM2.5 and other pollutants coincided with a significant decline in respiratory tract infection rates, suggesting a relationship where lower PM2.5 levels are associated with fewer respiratory infections. Although the decrease in infections is also attributed to public health measures like social distancing and mask-wearing, the parallel reduction in PM2.5 supports a link between this pollutant and respiratory tract infections."
+      },
+      "particulate matter (PM2.5)_pediatric_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that during the COVID-19 pandemic, there was a notable decrease in ambient PM2.5 levels due to lockdowns and reduced industrial and traffic activities. Concurrently, there was a reduction in pediatric asthma encounters and decreased steroid prescriptions, which the authors attribute in part to decreased respiratory viral infections. While the abstract primarily links reduced pediatric asthma cases to fewer viral infections, the observed decrease in PM2.5, a known air pollutant associated with respiratory issues, alongside reduced asthma cases suggests a relationship between PM2.5 exposure and pediatric asthma. Therefore, the evidence supports a relationship between particulate matter (PM2.5) and pediatric asthma."
+      },
+      "particulate matter (PM2.5)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including PM2.5, and respiratory viral infections among hospitalized children before and after the COVID-19 pandemic in South Korea. It notes a decrease in PM2.5 levels following lockdowns and public health measures, alongside a marked reduction in respiratory viral infections, including a global decline in influenza virus circulation concurrent with the pandemic. However, the abstract attributes the reduction in influenza and other respiratory viruses primarily to public health interventions such as social distancing and mask-wearing, rather than directly linking PM2.5 levels to influenza incidence. There is no explicit evidence or analysis presented in the abstract that establishes a direct relationship between PM2.5 exposure and influenza infection rates."
+      }
+    },
+    {
+      "particulate matter (PM10)_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a clear association between particulate matter (PM10) levels and respiratory tract infections. It reports that during the COVID-19 pandemic, public health measures and lockdowns led to decreased human activities, resulting in reduced ambient air pollution levels, including PM10. Concurrently, there was a dramatic decrease in respiratory viral infections among hospitalized children. The data show that reductions in PM10 and other pollutants coincided with significant declines in respiratory tract infection rates. Furthermore, when PM10 levels increased again in 2021 due to sandstorms and resumed industrial activities, respiratory infections remained low likely due to ongoing social distancing, but the initial evidence supports a relationship where higher PM10 levels contribute to increased respiratory tract infections. Thus, the abstract provides evidence of a relationship between PM10 exposure and respiratory tract infections."
+      },
+      "particulate matter (PM10)_pediatric_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that during the COVID-19 pandemic, there was a noticeable decrease in ambient PM10 levels following lockdowns and social distancing measures. Concurrently, there was a reduction in pediatric asthma encounters and decreased steroid prescriptions, which the abstract attributes probably to decreased rhinovirus infections. While the direct causal link between PM10 and pediatric asthma is not explicitly detailed, the observed parallel trends suggest a relationship where reductions in air pollutants including PM10, along with decreased respiratory viral infections, are associated with reduced pediatric asthma exacerbations. This implies that PM10, as a component of air pollution, is related to pediatric asthma outcomes."
+      },
+      "particulate matter (PM10)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract describes changes in ambient air pollution levels, including particulate matter (PM10), and respiratory viral infections before and after the COVID-19 pandemic in South Korea. It notes a decrease in PM10 levels during 2020 following lockdowns and a subsequent increase in 2021 due to sandstorms. Concurrently, there was a dramatic decrease in respiratory viral infections, including influenza, attributed primarily to public health measures such as social distancing and mask-wearing rather than changes in air pollution. The abstract does not provide direct evidence linking PM10 levels to influenza incidence; instead, it emphasizes that reductions in viral infections were related to behavioral and public health interventions rather than air pollutant concentrations. Therefore, no clear relationship between PM10 and influenza is established in this study."
+      }
+    },
+    {
+      "ozone (O3)_respiratory_tract_infection": {
+        "relationship": "N",
+        "reason": "The abstract describes changes in ambient air pollution and respiratory viral infections before and after the COVID-19 pandemic in South Korea. It notes that while levels of several pollutants (NO2, PM2.5, PM10, SO2) decreased during lockdowns, ozone (O3) levels did not show significant changes or even increased paradoxically. Despite these ozone level changes, the incidence of respiratory viral infections dramatically decreased, attributed primarily to public health measures such as social distancing and mask-wearing rather than changes in ozone levels. The abstract does not provide evidence linking ozone (O3) levels directly to respiratory tract infection rates, nor does it suggest that ozone influenced the observed changes in respiratory infections. Therefore, there is no clear relationship established between ozone (O3) and respiratory tract infection in this study."
+      },
+      "ozone (O3)_pediatric_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including ozone (O3), and respiratory viral infections among hospitalized children before and after the COVID-19 pandemic. It notes that ozone levels did not show significant changes during the pandemic and even increased paradoxically in some urban areas. The abstract also reports a reduction in pediatric asthma encounters and steroid prescriptions, which is attributed primarily to decreased rhinovirus infections rather than changes in ozone levels. There is no direct evidence or discussion in the abstract linking ozone (O3) exposure to pediatric asthma outcomes. Therefore, based on the provided abstract, there is no clear relationship established between ozone (O3) and pediatric asthma."
+      },
+      "ozone (O3)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including ozone (O3), and respiratory viral infections during the COVID-19 pandemic in South Korea. It notes that ozone levels did not show significant changes compared to previous years, with some slight increases in 2021. The study observed a dramatic decrease in respiratory viral infections, including influenza, coinciding with public health measures such as social distancing and mask-wearing. However, the abstract does not provide evidence of a direct relationship between ozone (O3) levels and influenza incidence. The decrease in influenza cases is attributed primarily to public health interventions rather than changes in ozone levels. Therefore, based on the abstract, there is no clear evidence of a relationship between ozone (O3) and influenza."
+      }
+    },
+    {
+      "nitrogen dioxide (NO2)_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract describes a clear association between ambient nitrogen dioxide (NO2) levels and respiratory tract infections. It reports that during the COVID-19 pandemic, public health measures and lockdowns led to decreased human activities, resulting in a marked reduction in ambient NO2 levels in South Korea. Concurrently, there was a dramatic decrease in respiratory viral infections among hospitalized children, with respiratory virus detections dropping by approximately 75.9% to 81.4% compared to pre-pandemic years. The reduction in NO2, a pollutant largely contributed by industrial emissions and traffic, coincided with decreased respiratory tract infection rates, suggesting a relationship between NO2 exposure and respiratory infections. Although the abstract does not establish direct causality, the temporal correlation and known health impacts of NO2 on respiratory health support the existence of a relationship."
+      },
+      "nitrogen dioxide (NO2)_pediatric_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that during the COVID-19 pandemic, there was a notable decrease in ambient nitrogen dioxide (NO2) levels in South Korea due to reduced industrial emissions and traffic from lockdown measures. Concurrently, there was a reported reduction in pediatric asthma encounters and decreased steroid prescriptions, which the authors attribute in part to decreased respiratory viral infections such as rhinovirus. While the abstract does not explicitly state a direct causal link between NO2 levels and pediatric asthma, the observed parallel decrease in NO2 and pediatric asthma-related healthcare utilization suggests an association. Given that NO2 is a known air pollutant linked to respiratory issues, the data imply a relationship between reduced NO2 exposure and improved pediatric asthma outcomes during the study period."
+      },
+      "nitrogen dioxide (NO2)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient nitrogen dioxide (NO2) levels and respiratory viral infections, including influenza, in South Korea before and after the COVID-19 pandemic. It notes a decrease in NO2 levels following lockdowns and public health measures, alongside a marked reduction in respiratory viral infections, including influenza. However, the abstract attributes the decrease in influenza cases primarily to public health interventions such as social distancing and mask-wearing, rather than directly linking NO2 exposure to influenza incidence. There is no explicit evidence or discussion in the abstract indicating a causal or direct relationship between nitrogen dioxide levels and influenza disease occurrence."
+      }
+    },
+    {
+      "carbon monoxide (CO)_respiratory_tract_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels and respiratory viral infections before and after the COVID-19 pandemic in South Korea. It specifically notes that while levels of several air pollutants such as NO2, PM2.5, PM10, and SO2 decreased significantly during the pandemic, the levels of carbon monoxide (CO) did not show significant changes compared to previous years. Concurrently, there was a marked decrease in respiratory viral infections among hospitalized children, attributed mainly to public health measures like social distancing and mask-wearing rather than changes in CO levels. The abstract does not provide evidence linking carbon monoxide levels to respiratory tract infection rates, nor does it suggest that CO influences respiratory infections. Therefore, based on the abstract, there is no clear relationship between carbon monoxide (CO) and respiratory tract infection."
+      },
+      "carbon monoxide (CO)_pediatric_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including carbon monoxide (CO), and respiratory viral infections among hospitalized children before and after the COVID-19 pandemic. It notes that CO levels did not show significant changes during the pandemic period. While there was a reported reduction in pediatric asthma encounters and steroid prescriptions, this improvement is attributed primarily to decreased rhinovirus infections and other respiratory viruses, rather than changes in CO levels. The abstract does not provide evidence linking carbon monoxide exposure to pediatric asthma outcomes. Therefore, based on the abstract, there is no clear relationship established between carbon monoxide (CO) and pediatric asthma."
+      },
+      "carbon monoxide (CO)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including carbon monoxide (CO), and respiratory viral infections, including influenza, before and after the COVID-19 pandemic. It notes that CO levels did not show significant changes during the pandemic period, unlike other pollutants such as NO2, PM2.5, PM10, and SO2. The abstract also reports a marked decrease in respiratory viral infections, including influenza, attributed primarily to public health measures like social distancing and mask-wearing rather than changes in air pollution levels. There is no direct evidence or discussion in the abstract linking carbon monoxide exposure to influenza incidence or severity. Therefore, based on the provided information, there is no clear relationship established between carbon monoxide (CO) and influenza."
+      }
+    },
+    {
+      "sulfur dioxide (SO2)_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ambient sulfur dioxide (SO2) levels decreased significantly during the COVID-19 pandemic lockdowns in South Korea, coinciding with a marked reduction in respiratory viral infections among hospitalized children. The decrease in SO2, along with other pollutants such as NO2 and particulate matter, is attributed to reduced industrial emissions and traffic during lockdowns. This temporal association suggests a relationship where lower SO2 levels may contribute to reduced respiratory tract infections, likely due to improved air quality reducing respiratory irritation and susceptibility to infections. Therefore, there is evidence of a relationship between sulfur dioxide exposure and respiratory tract infections based on the observed parallel trends in the abstract."
+      },
+      "sulfur dioxide (SO2)_pediatric_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract reports a decrease in ambient sulfur dioxide (SO2) levels during the COVID-19 pandemic lockdowns in South Korea, coinciding with a reduction in respiratory viral infections and a noted reduction in pediatric asthma encounters and steroid prescriptions. The decrease in pediatric asthma is attributed in part to reduced respiratory viral infections, which are known triggers for asthma exacerbations. Since SO2 is an air pollutant that can exacerbate respiratory conditions, the observed decrease in SO2 alongside reduced pediatric asthma cases suggests a relationship where lower SO2 exposure may contribute to improved asthma outcomes in children. Therefore, there is evidence of a relationship between sulfur dioxide levels and pediatric asthma based on the changes observed during the pandemic period."
+      },
+      "sulfur dioxide (SO2)_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including sulfur dioxide (SO2), and respiratory viral infections among hospitalized children before and after the COVID-19 pandemic. It notes a decrease in SO2 levels following lockdowns and a concurrent dramatic decrease in respiratory viral infections, including influenza. However, the abstract attributes the reduction in influenza and other respiratory viruses primarily to public health measures such as social distancing and mask-wearing, rather than directly linking changes in SO2 levels to influenza incidence. There is no explicit evidence or analysis in the abstract establishing a direct relationship between sulfur dioxide exposure and influenza infection rates."
+      }
+    },
+    {
+      "nonmethane hydrocarbons_respiratory_tract_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollution and respiratory viral infections before and after the COVID-19 pandemic, noting decreases in several pollutants (NO2, PM2.5, PM10, SO2) and respiratory viral infections due to public health measures. Nonmethane hydrocarbons are mentioned only in the context of their role in ozone formation chemistry, specifically the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds affecting ozone levels. However, there is no direct evidence or discussion linking nonmethane hydrocarbons themselves to respiratory tract infections in the abstract. The focus is on overall air pollution changes and viral infection rates, without establishing a clear relationship between nonmethane hydrocarbons and respiratory tract infections."
+      },
+      "nonmethane hydrocarbons_pediatric_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollution and respiratory viral infections in children before and after the COVID-19 pandemic, noting decreases in pollutants such as NO2, PM2.5, PM10, and SO2, and changes in respiratory virus infections and pediatric asthma encounters. While it mentions that increased O3 levels during lockdowns may be related to the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds, there is no direct evidence or discussion linking nonmethane hydrocarbons specifically to pediatric asthma in the abstract. The observed reduction in pediatric asthma encounters is attributed mainly to decreased rhinovirus infections rather than changes in nonmethane hydrocarbons. Therefore, no clear relationship between nonmethane hydrocarbons and pediatric asthma is established in this abstract."
+      },
+      "nonmethane hydrocarbons_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in air pollution and respiratory viral infections, including influenza, in the context of COVID-19 pandemic-related public health measures and lockdowns. It mentions that ambient ozone (O3) levels are influenced by the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds in the atmosphere. However, there is no direct evidence or discussion linking nonmethane hydrocarbons specifically to influenza incidence or infection rates. The observed decrease in influenza and other respiratory viruses is attributed primarily to public health interventions such as social distancing and mask-wearing, rather than changes in nonmethane hydrocarbon levels. Therefore, based on the abstract, there is no clear relationship established between nonmethane hydrocarbons and influenza."
+      }
+    },
+    {
+      "nitrogen oxides_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a relationship between nitrogen oxides (NO2, a component of nitrogen oxides) and respiratory tract infections. It describes a marked reduction in ambient NO2 levels following COVID-19 lockdowns and public health measures, which coincided with a dramatic decrease in respiratory viral infections among hospitalized children. The decrease in nitrogen oxides is linked to reduced industrial emissions and traffic, which are major sources of these pollutants. Since respiratory tract infections decreased concurrently with the reduction in nitrogen oxides and other pollutants, the data suggest a relationship where lower nitrogen oxide levels are associated with reduced respiratory tract infection rates."
+      },
+      "nitrogen oxides_pediatric_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a decrease in ambient nitrogen dioxide (NO2), a component of nitrogen oxides (NOx), following COVID-19 lockdowns and public health measures in South Korea. This reduction in nitrogen oxides coincided with a marked reduction in respiratory viral infections among children and a reported reduction in pediatric asthma encounters and steroid prescriptions. The decrease in pediatric asthma is attributed, at least in part, to decreased respiratory viral infections, which are known triggers for asthma exacerbations. Since nitrogen oxides are air pollutants linked to respiratory health, the observed decrease in nitrogen oxides alongside reduced pediatric asthma cases suggests a relationship between nitrogen oxides exposure and pediatric asthma exacerbations. Therefore, the abstract provides evidence supporting a relationship between nitrogen oxides and pediatric asthma."
+      },
+      "nitrogen oxides_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including nitrogen dioxide (NO2), a component of nitrogen oxides, and respiratory viral infections before and after the COVID-19 pandemic. It notes a decrease in nitrogen dioxide levels following lockdowns and public health measures, alongside a marked reduction in respiratory viral infections, including influenza. However, the abstract attributes the reduction in influenza and other respiratory viruses primarily to public health interventions such as social distancing and mask-wearing, rather than to changes in nitrogen oxides or air pollution levels. There is no direct evidence or explicit link presented in the abstract that nitrogen oxides influence influenza infection rates. Therefore, based on the abstract, there is no clear relationship established between nitrogen oxides and influenza."
+      }
+    },
+    {
+      "volatile organic compounds_respiratory_tract_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses changes in ambient air pollution levels, including volatile organic compounds (VOCs), and their relationship with respiratory viral infections, a subset of respiratory tract infections. It notes that the formation of ozone (O3) depends on the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds in the atmosphere, indicating VOCs' role in air pollution chemistry. The study observed decreased levels of several air pollutants, including those influenced by VOCs, during COVID-19 lockdowns, coinciding with a marked reduction in respiratory viral infections among hospitalized children. This suggests an indirect relationship where changes in VOC-related air pollution levels are associated with changes in respiratory tract infection rates. Therefore, there is evidence supporting a relationship between volatile organic compounds and respiratory tract infections based on the observed epidemiological and environmental data."
+      },
+      "volatile organic compounds_pediatric_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollutants such as NO2, PM2.5, PM10, SO2, CO, and O3 in relation to the COVID-19 pandemic and public health measures in South Korea. It mentions volatile organic compounds (VOCs) only in the context of their role in ozone formation chemistry but does not provide direct evidence linking VOC exposure to pediatric asthma. The observed reduction in pediatric asthma encounters is attributed primarily to decreased respiratory viral infections, especially rhinovirus, rather than changes in VOC levels. Therefore, based on this abstract, there is no clear evidence of a relationship between volatile organic compounds and pediatric asthma."
+      },
+      "volatile organic compounds_influenza": {
+        "relationship": "N",
+        "reason": "The abstract discusses changes in ambient air pollution and respiratory viral infections, including influenza, in the context of COVID-19 pandemic-related public health measures and lockdowns. It mentions various air pollutants such as PM2.5, PM10, NO2, SO2, CO, and O3, and notes that the formation of O3 depends on the ratio of nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds (VOCs) in the atmosphere. However, the abstract does not provide any direct evidence or data linking volatile organic compounds specifically to influenza infection rates or disease outcomes. The observed decrease in influenza and other respiratory viral infections is attributed primarily to social distancing, mask-wearing, and reduced human activity rather than changes in VOC levels. Therefore, based on the abstract, there is no clear relationship established between volatile organic compounds and influenza."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution monitoring, including particulate matter fractions PM2.5 and PM10, and gaseous pollutants such as ozone (O3), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2). It also refers to nonmethane hydrocarbons, nitrogen oxides, and volatile organic compounds in the context of atmospheric chemistry affecting ozone formation. These are specific chemical substances named in the study."
+}

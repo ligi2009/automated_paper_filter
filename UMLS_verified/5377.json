@@ -1,0 +1,60 @@
+{
+  "id": 5377,
+  "title": "Chemical constituents of tobacco smoke induce the production of interleukin-8 in human bronchial epithelium, 16HBE cells",
+  "Abstract": "BackgroundInterleukin-8 (IL-8) functions as a major chemoattractant and plays pivotal roles in the initiation and development of chronic obstructive pulmonary disease (COPD), and tobacco smoke is a most risk factor contributing to the development of COPD. Hence, we have screened some of the tobacco smoke-derived chemical compounds that potentially induce the production of IL-8 in human bronchial epithelium, 16HBE cells.MethodsTwenty-eight hazardous smoke components belonging to 9 classes including nicotine, ammonia, aromatic amines, polycyclic aromatic hydrocarbons, phenols, carbonyls, hydrocyanic acid, nitrosamines and other volatile organics were used in the experiments. Proliferation of 16HBE cells was determined by cell counting kit-8 kit, luciferase activity was measured in IL-8 reporter gene-expressing 16HBE cells, and IL-8 levels in culture supernatants were quantified by enzyme-linked immunosorbent assay.ResultsAt the non-toxic dosages, chemical compounds belonging to nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics dose-dependently increased IL-8 reporter gene expression. Consistently, the representative compounds belonging to nicotine, aromatic amines, benzopyrene, phenols, aldehydes, and some other volatile organics significantly and dose-dependently increased IL-8 levels in the culture supernatants of 16HBE cells, among these compounds, benzopyrene is a most potent stimulator for inducing IL-8 production.ConclusionsThe present study has identified particular tobacco smoke constituents responsible for inducing the IL-8 production in human bronchial epithelium, which might help shed light on the pathogenesis of tobacco smoke-induced COPD.",
+  "Disease_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "Reason": "The abstract explicitly mentions 'chronic obstructive pulmonary disease (COPD)' multiple times as a specific disease related to the study. Therefore, it qualifies as mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "chronic obstructive pulmonary disease",
+    "COPD"
+  ],
+  "UMLS_search_results": {
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

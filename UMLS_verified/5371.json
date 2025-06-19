@@ -1,0 +1,93 @@
+{
+  "id": 5371,
+  "title": "Simultaneous Analysis of Sensor Data for Breath Control in Respiratory Air",
+  "Abstract": "There is a broad field of applications of breath monitoring in human health care, medical applications and alcohol control. In this report, an innovative mobile sensor system for breath control in respiratory air called AGaMon will be introduced. The sensor system is able to recognize a multitude of different gases like ethanol (which is the leading component of alcoholic drinks), H2S (which is the leading component for halitosis), H2 (which is the leading component for dyspepsia and food intolerance), NO (which is the leading component for asthma) or acetone (which is the leading component for diabetes), thus ,covering almost all significant aspects. An innovative calibration and evaluation procedure called SimPlus was developed which is able to evaluate the sensor data simultaneously. That means, SimPlus is able to identify the samples simultaneously; for example, whether the measured sample is ethanol or another substance under consideration. Furthermore, SimPlus is able to determine the concentration of the identified sample. This will be demonstrated in this report for the application of ethanol, H2, acetone and the binary mixture ethanol-H2. It has been shown that SimPlus could identify the investigated gases and volatile organic compounds (VOCs) very well and that the relative analysis errors were smaller than 10% in all considered applications.",
+  "Disease_List": [
+    "halitosis",
+    "dyspepsia",
+    "food intolerance",
+    "asthma",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as halitosis, dyspepsia, food intolerance, asthma, and diabetes in relation to the gases detected by the sensor system (H2S for halitosis, H2 for dyspepsia and food intolerance, NO for asthma, and acetone for diabetes). Therefore, it is classified as 'Y' for mentioning specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "halitosis",
+    "dyspepsia",
+    "food intolerance",
+    "asthma",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "halitosis": [
+      {
+        "ui": "C0018520",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018520",
+        "name": "Halitosis",
+        "mesh_id": "D006209"
+      }
+    ],
+    "dyspepsia": [
+      {
+        "ui": "C0013395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013395",
+        "name": "Dyspepsia",
+        "mesh_id": "D004415"
+      }
+    ],
+    "food intolerance": [
+      {
+        "ui": "C0149696",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0149696",
+        "name": "Food intolerance (disorder)",
+        "mesh_id": "D000073923"
+      },
+      {
+        "ui": "C3665356",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3665356",
+        "name": "food intolerance (history)",
+        "mesh_id": "None"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

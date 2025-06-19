@@ -1,0 +1,28 @@
+{
+  "id": 6323,
+  "title": "Release and uptake of volatile organic compounds by human hepatocellular carcinoma cells (HepG2) in vitro",
+  "Abstract": "Volatile organic compounds (VOCs) emitted by human body offer a unique insight into biochemical processes ongoing in healthy and diseased human organisms. Unfortunately, in many cases their origin and metabolic fate have not been yet elucidated in sufficient depth, thus limiting their clinical application. The primary goal of this work was to identify and quantify volatile organic compounds being released or metabolized by HepG2 hepatocellular carcinoma cells. The hepatocellular carcinoma cells were incubated in specially designed head-space 1-L glass bottles sealed for 24 hours prior to measurements. Identification and quantification of volatiles released and consumed by cells under study were performed by gas chromatography with mass spectrometric detection (GC-MS) coupled with head-space needle trap device extraction (HS-NTD) as the pre-concentration technique. Most of the compounds were identified both by spectral library match as well as retention time comparison based on standards. A total of nine compounds were found to be metabolised and further twelve released by the cells under study (Wilcoxon signed-rank test, p<0.05). The former group comprised 6 aldehydes (2-methyl 2-propenal, 2-methyl propanal, 2-ethylacrolein, 3-methyl butanal, n-hexanal and benzaldehyde), n-propyl propionate, n-butyl acetate, and isoprene. Amongst the released species there were five ketones (2-pentanone, 3-heptanone, 2-heptanone, 3-octanone, 2-nonanone), five volatile sulphur compounds (dimethyl sulfide, ethyl methyl sulfide, 3-methyl thiophene, 2-methyl-1-(methylthio)- propane and 2-methyl-5-(methylthio) furan), n-propyl acetate, and 2-heptene. The emission and uptake of the aforementioned VOCs may reflect the activity of abundant liver enzymes and support the potential of VOC analysis for the assessment of enzymes function.",
+  "Disease_List": [
+    "hepatocellular carcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'hepatocellular carcinoma cells,' which refers to a specific type of liver cancer. This is a clearly named disease, thus the classification is Y. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,543 @@
+{
+  "id": 957,
+  "title": "Fine, Ultrafine, and Yellow Dust: Emerging Health Problems in Korea",
+  "Abstract": "Concerns regarding health problems due to fine, ultrafine, and yellow dust have rapidly grown since winter 2013 in Korea. Yellow dust (also called yellow sand or Asian dust), which originates from the deserts of Mongolia, northern China, is not a novel issue in Korea; it has been an issue for decades during springtime. However, public awareness on fine and ultrafine dust has been raised after the preliminary dust forecast in August 2013 and formal forecast in February 2014. Despite the increasing public concern regarding the dust, the medical society needs to be prepared in many aspects, including scientific evidence of health hazards, measures for risk prevention and reduction, and risk communication. \n \nThe forecast system provides a 5-level air quality index that ranges from good (level 1) to severe hazardous (level 5). Precautionary actions, including restriction of outdoor activity among vulnerable populations such as the elderly, children, and respiratory and cardiac disease patients, are needed from level 3 onwards. Besides the positive aspects of the forecast and alarm systems, the validity of the prediction has been tackled. The lack of shared information and modeling experiences between government bodies such as the National Institute of Environmental Research and Meteorological Agency make it difficult for these agencies to provide reliable forecasts and warnings on dust. \n \nAlthough the major components of yellow dust are sand and materials from the earth's crust, various industrial pollutants, including mercury and cadmium, have also contributed to the dust problem because of the rapid industrialization of China. The smaller, reparable portion of yellow dust has greater health effects. While yellow dust is of natural origin, fine and ultrafine dust is largely of man-made origin. Secondary particles from the oxidation of primary particles forming sulfuric acid, nitric acid, ammonium salts, volatile organic compounds, and black carbon are hazardous. The major anthropogenic source of the dust is combustion products of fossil fuel. Approximately 30% of sulfuric acid and 40% of nitric acid in ambient air in Korea might have been migrated from China. To reduce the transboundary pollution from China, collaborative actions between Korea and China are needed. These actions should be multidimensional, including scientific, administrative, and political aspects. In addition to transboundary pollution is a substantial proportion of national sources of dust. However, research studies on the amount and role of national and transboundary pollutants are in their early stages. \n \nThe scientific nomenclature of fine dust consists of fine particulate matter (PM). Fine PM is smaller than 10 µm in diameter (PM10), and ultrafine PM is smaller than 2.5 µm in diameter (PM2.5). Because dust smaller than PM10 penetrates deep into the lung alveoli, it is called reparable dust. Reparable dust with a diameter of approximately 2 µm is found in maximum deposition in the alveolar region; thus, PM2.5 has worse health effects than PM10. Very small particles, smaller than 100 nanometers (<0.1 µm), can penetrate the lungs into the blood or lymphatic system and reach other organs, including the brain or fetal organs, penetrating the brain blood or placental barrier via the cell membranes. However, the distribution and effect of this dust on the human body has not been fully proven by experimental models such as a physiologically based pharmacokinetic model. \n \nReparable PMs can cause various health effects, including lung cancer, bronchial asthma, cardiocerebral vascular diseases, pulmonary mortality, atherosclerosis, coronary heart disease, birth defects, and premature death (1, 2, 3). Moreover, PM2.5, even at low levels, has been argued to be related to increased mortality attributable to diabetes (4). PM in diesel exhaust was declared as a group 1 human carcinogen in June 2012 and ambient air pollution was classified as a group 1 human carcinogen in October 2013 by the International Agency for Research on Cancer of the World Health Organization (WHO) (5, 6). The proposed pathophysiological effects of PMs are widely varied, including oxidative stress, mitochondrial perturbation, inflammation, protein denaturation, nuclear uptake, neuronal tissue uptake, phagocytic function perturbation, endothelial dysfunction, neoantigen generation, and DNA damage (7). Although the epidemiological evidence of the effects of PMs is relatively substantial, their toxicological mechanisms are not well explained. The following questions have not yet been answered: which of the PM sizes and/or components are more toxic? Which is more toxic, low-level chronic exposure or short-term high exposure? Can a specific component or ultrafine size alone cause any of the above-mentioned toxic effects? \n \nThe national ambient air quality standard (AQS) of PM10 in Korea is 50 µg/m3 (yearly) or 100 µg/m3 (24 hours), and the future AQS of PM2.5, which will be introduced in January 2015, is 25 µg/m3 (yearly) or 50 µg/m3 (24 hours). The AQSs of PM10 and PM2.5 are higher than those established by the WHO, the European Union, and developed countries. Although regulatory standards depend on political and practical plausibility, as well as scientific evidence, the scientific background of the AQS in Korea makes us question whether these standards are enough to protect Koreans. \n \nThe global burden of fine and ultrafine PMs on health is significant. The recently reported population attributable fractions (%) of PM2.5 on causes of mortality in ischemic heart disease, cerebrovascular disease, chronic obstructive pulmonary disease, acute lower respiratory infection, and lung cancer are 2-41, 1-43, 1-21, 1-38, and 1-25, respectively (8). Although several research studies on PMs among the Korean population have been published (9, 10), the amount and characteristics of the effects of PMs on the Korean population have not been well established. \n \nFine and ultrafine dust has recently become a major public concern in Korea. Although evidence of the health effects of dust has been accumulated, little is known about specific dust-related problems in Korea. Medical experts need to conduct more research studies on the health effects of dust. Moreover, the medical society has the responsibility of providing proper information, communicating risk, and implementing practical means to protect public health from dust.",
+  "Disease_List": [
+    "lung cancer",
+    "bronchial asthma",
+    "cardiocerebral vascular diseases",
+    "pulmonary mortality",
+    "atherosclerosis",
+    "coronary heart disease",
+    "birth defects",
+    "premature death",
+    "diabetes",
+    "ischemic heart disease",
+    "cerebrovascular disease",
+    "chronic obstructive pulmonary disease",
+    "acute lower respiratory infection"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases related to the health effects of fine and ultrafine particulate matter (PM), including lung cancer, bronchial asthma, cardiocerebral vascular diseases, pulmonary mortality, atherosclerosis, coronary heart disease, birth defects, premature death, diabetes, ischemic heart disease, cerebrovascular disease, chronic obstructive pulmonary disease, and acute lower respiratory infection. These are all named diseases rather than general terms like 'disease' or 'illness', which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "bronchial asthma",
+    "atherosclerosis",
+    "coronary heart disease",
+    "birth defects",
+    "premature death",
+    "diabetes",
+    "ischemic heart disease",
+    "cerebrovascular disease",
+    "chronic obstructive pulmonary disease",
+    "acute lower respiratory infection"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "bronchial asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "cardiocerebral vascular diseases": [],
+    "pulmonary mortality": [],
+    "atherosclerosis": [
+      {
+        "ui": "C0004153",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004153",
+        "name": "Atherosclerosis",
+        "mesh_id": "D050197"
+      },
+      {
+        "ui": "C0003850",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0003850",
+        "name": "Arteriosclerosis",
+        "mesh_id": "D001161"
+      }
+    ],
+    "coronary heart disease": [
+      {
+        "ui": "C0010068",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010068",
+        "name": "Coronary heart disease",
+        "mesh_id": "D003327"
+      }
+    ],
+    "birth defects": [
+      {
+        "ui": "C0000768",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0000768",
+        "name": "Congenital Abnormality",
+        "mesh_id": "D000013"
+      },
+      {
+        "ui": "C4019266",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4019266",
+        "name": "Birth defects diagnosis:Find:Pt:^Patient:Nar",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0220810",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220810",
+        "name": "Congenital defects",
+        "mesh_id": "Q000002"
+      },
+      {
+        "ui": "C2186260",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2186260",
+        "name": "reported family history of birth defects (history)",
+        "mesh_id": "None"
+      }
+    ],
+    "premature death": [
+      {
+        "ui": "C1855073",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1855073",
+        "name": "Mortality, Premature",
+        "mesh_id": "D061213"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "ischemic heart disease": [
+      {
+        "ui": "C1313980",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1313980",
+        "name": "Family history of ischemic heart disease",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0151744",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151744",
+        "name": "Myocardial Ischemia",
+        "mesh_id": "D017202"
+      }
+    ],
+    "cerebrovascular disease": [
+      {
+        "ui": "C0007820",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007820",
+        "name": "Cerebrovascular Disorders",
+        "mesh_id": "D002561"
+      }
+    ],
+    "chronic obstructive pulmonary disease": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "acute lower respiratory infection": [
+      {
+        "ui": "C0238990",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0238990",
+        "name": "Acute lower respiratory tract infection",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "mercury",
+    "cadmium",
+    "sulfuric acid",
+    "nitric acid",
+    "ammonium salts",
+    "volatile organic compounds",
+    "black carbon"
+  ],
+  "compound_CID": [
+    {
+      "mercury": 23931,
+      "cadmium": 23973,
+      "sulfuric acid": 1118,
+      "nitric acid": 944,
+      "ammonium salts": "None",
+      "volatile organic compounds": "None",
+      "black carbon": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "mercury_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including lung cancer, and mentions that yellow dust contains various industrial pollutants such as mercury. However, it does not provide any direct evidence or specific information linking mercury itself to lung cancer. The focus is primarily on particulate matter and its components like sulfuric acid, nitric acid, and combustion products, with PM in diesel exhaust and ambient air pollution classified as carcinogens. Mercury is mentioned only as a component of yellow dust without any explicit association with lung cancer. Therefore, based on the abstract, there is no clear relationship established between mercury and lung cancer."
+      },
+      "mercury_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that mercury is one of the industrial pollutants contributing to yellow dust, which includes fine and ultrafine particulate matter (PM). These PMs, especially those smaller than 10 µm and 2.5 µm, can penetrate deep into the lungs and cause various health effects, including bronchial asthma. Although the abstract does not explicitly link mercury alone to bronchial asthma, it states that reparable PMs containing industrial pollutants like mercury can cause bronchial asthma among other respiratory diseases. Therefore, there is evidence of a relationship between mercury as a component of dust pollution and bronchial asthma."
+      },
+      "mercury_atherosclerosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including atherosclerosis, and mentions that yellow dust contains various industrial pollutants such as mercury. However, it does not provide any direct or specific evidence linking mercury itself to atherosclerosis. The health effects described are generally attributed to particulate matter and its components collectively, without isolating mercury as a causative agent for atherosclerosis. Therefore, based on the abstract, there is no clear relationship established between mercury and atherosclerosis."
+      },
+      "mercury_coronary_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including coronary heart disease, and mentions that industrial pollutants such as mercury contribute to yellow dust. However, it does not provide direct evidence or specific information linking mercury itself to coronary heart disease. The relationship described is between particulate matter exposure and coronary heart disease, without isolating mercury as a causative factor. Therefore, based on this abstract, there is no clear evidence of a direct relationship between mercury and coronary heart disease."
+      },
+      "mercury_birth_defects": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of mercury as an industrial pollutant contributing to yellow dust and fine particulate matter (PM), which have various health effects. It mentions that reparable PMs can cause several health issues including birth defects. However, the abstract does not provide specific evidence or direct linkage between mercury itself and birth defects. The relationship described is between fine and ultrafine particulate matter in general and birth defects, without isolating mercury as a causative agent. Therefore, based on this abstract, there is no clear evidence of a direct relationship between mercury and birth defects."
+      },
+      "mercury_premature_death": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including premature death, and mentions that various industrial pollutants such as mercury contribute to the dust problem. However, it does not provide specific evidence or direct linkage between mercury exposure and premature death. The health effects described are generally attributed to particulate matter as a whole or other components like sulfuric acid, nitric acid, and combustion products, without isolating mercury's role. Therefore, based on this abstract, there is no clear evidence of a direct relationship between mercury and premature death."
+      },
+      "mercury_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses health concerns related to fine, ultrafine, and yellow dust, mentioning that yellow dust contains industrial pollutants including mercury. It also notes that fine particulate matter (PM2.5) has been argued to be related to increased mortality attributable to diabetes. However, the abstract does not provide any direct evidence or specific information linking mercury itself to diabetes. The relationship mentioned is between particulate matter in general and diabetes, not mercury specifically. Therefore, based on the abstract, there is no clear evidence of a relationship between mercury and diabetes."
+      },
+      "mercury_ischemic_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including ischemic heart disease, and mentions that industrial pollutants such as mercury contribute to yellow dust. However, it does not provide specific evidence or direct linkage between mercury exposure and ischemic heart disease. The relationship described is primarily between PM exposure in general and ischemic heart disease, without isolating mercury as a causative factor. Therefore, based on the abstract, there is no clear evidence of a direct relationship between mercury and ischemic heart disease."
+      },
+      "mercury_cerebrovascular_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of mercury as one of the industrial pollutants contributing to yellow dust and fine particulate matter (PM). It also highlights the health effects of fine and ultrafine particulate matter, including cerebrovascular disease. However, the abstract does not provide specific evidence or direct linkage between mercury exposure and cerebrovascular disease. The relationship described is between fine particulate matter in general and cerebrovascular disease, without isolating mercury as a causative or contributing factor. Therefore, based on the abstract, there is no clear evidence of a direct relationship between mercury and cerebrovascular disease."
+      },
+      "mercury_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of mercury as one of the industrial pollutants contributing to yellow dust and fine particulate matter pollution. It highlights the health effects of fine and ultrafine particulate matter (PM), including chronic obstructive pulmonary disease (COPD), and mentions the global burden of PM2.5 on COPD mortality. However, the abstract does not provide specific evidence or direct linkage between mercury exposure and COPD. The health effects described are generally attributed to particulate matter as a whole or other components such as sulfuric acid, nitric acid, and combustion products, rather than mercury specifically. Therefore, based on this abstract, there is no clear evidence of a direct relationship between mercury and chronic obstructive pulmonary disease."
+      },
+      "mercury_acute_lower_respiratory_infection": {
+        "relationship": "N",
+        "reason": "The abstract discusses the presence of mercury as one of the industrial pollutants contributing to yellow dust and fine particulate matter (PM) pollution. It highlights the health effects of fine and ultrafine particulate matter, including associations with various diseases such as lung cancer, bronchial asthma, cardiocerebral vascular diseases, and acute lower respiratory infection (ALRI). However, the abstract does not provide specific evidence or direct linkage between mercury itself and acute lower respiratory infection. The health effects mentioned are generally attributed to fine particulate matter as a whole or to combustion products and secondary particles, rather than to mercury specifically. Therefore, based on the abstract, there is no clear evidence of a direct relationship between mercury and acute lower respiratory infection."
+      }
+    },
+    {
+      "cadmium_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including lung cancer, and mentions that various industrial pollutants such as cadmium contribute to yellow dust. However, it does not provide direct evidence or specific information linking cadmium itself to lung cancer. The focus is primarily on particulate matter as a whole and its general health impacts, with no clear causal or epidemiological relationship established between cadmium exposure and lung cancer within the abstract."
+      },
+      "cadmium_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes various industrial pollutants such as cadmium. It states that reparable PMs can cause various health effects, including bronchial asthma. Although the abstract does not explicitly isolate cadmium as a direct cause of bronchial asthma, it identifies cadmium as a contributing industrial pollutant in yellow dust and links fine particulate matter exposure to bronchial asthma. Therefore, there is evidence of a relationship between cadmium (as part of fine particulate matter) and bronchial asthma."
+      },
+      "cadmium_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that yellow dust contains industrial pollutants including cadmium, which contribute to dust-related health problems. It also states that fine and ultrafine particulate matter (PM), which can include components like cadmium, are associated with various health effects including atherosclerosis. Although the abstract does not explicitly isolate cadmium as the sole cause, it implies that cadmium as a component of dust is part of the complex mixture contributing to atherosclerosis and other cardiovascular diseases. Therefore, there is evidence of a relationship between cadmium exposure via dust and atherosclerosis."
+      },
+      "cadmium_coronary_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including coronary heart disease, and mentions that industrial pollutants such as cadmium contribute to yellow dust. However, it does not provide direct evidence or specific information linking cadmium itself to coronary heart disease. The relationship described is between particulate matter exposure in general and coronary heart disease, without isolating cadmium as a causative or contributing factor. Therefore, based on the abstract, there is no clear evidence of a direct relationship between cadmium and coronary heart disease."
+      },
+      "cadmium_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fine and ultrafine particulate matter (PM), which includes components such as cadmium due to industrial pollution, can cause various health effects including birth defects. Although the abstract does not explicitly isolate cadmium as the sole cause, it mentions that industrial pollutants including cadmium contribute to the dust problem and that reparable PMs can cause birth defects. Furthermore, very small particles can penetrate the placental barrier and reach fetal organs, suggesting a plausible mechanism for cadmium-containing particles to contribute to birth defects. Therefore, there is evidence of a relationship between cadmium (as part of industrial pollutants in dust) and birth defects."
+      },
+      "cadmium_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cadmium is one of the industrial pollutants contributing to yellow dust, which is part of fine and ultrafine particulate matter (PM). The abstract further explains that reparable PMs, which include fine and ultrafine dust containing various pollutants such as cadmium, can cause multiple health effects including premature death. Although the abstract does not isolate cadmium specifically as the sole cause, it clearly associates cadmium as a component of harmful dust linked to premature death. Therefore, there is evidence of a relationship between cadmium exposure via dust and premature death."
+      },
+      "cadmium_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses health concerns related to fine, ultrafine, and yellow dust, mentioning that yellow dust contains industrial pollutants including cadmium. It highlights various health effects of particulate matter (PM), such as lung cancer, bronchial asthma, cardiovascular diseases, and increased mortality attributable to diabetes linked to PM2.5 exposure. However, the abstract does not provide any direct or specific evidence linking cadmium itself to diabetes. The mention of diabetes is in the context of PM2.5 exposure generally, without isolating cadmium as a causative or contributing factor. Therefore, based on the abstract, there is no clear relationship established between cadmium and diabetes."
+      },
+      "cadmium_ischemic_heart_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including their association with ischemic heart disease. It mentions that various industrial pollutants, including cadmium, contribute to yellow dust. However, the abstract does not provide specific evidence or direct linkage between cadmium exposure and ischemic heart disease. The relationship described is primarily between PM exposure in general and ischemic heart disease, without isolating cadmium as a causative or contributing factor. Therefore, based on this abstract alone, there is no clear evidence of a direct relationship between cadmium and ischemic heart disease."
+      },
+      "cadmium_cerebrovascular_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including cerebrovascular disease, and mentions that various industrial pollutants such as cadmium contribute to dust pollution. However, it does not provide specific evidence or direct linkage between cadmium exposure and cerebrovascular disease. The relationship described is between PM exposure in general and cerebrovascular disease, without isolating cadmium as a causative or contributing factor. Therefore, based on this abstract alone, there is no clear evidence of a direct relationship between cadmium and cerebrovascular disease."
+      },
+      "cadmium_chronic_obstructive_pulmonary_disease": {
+        "relationship": "N",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including various diseases such as chronic obstructive pulmonary disease (COPD). It mentions that industrial pollutants like cadmium contribute to yellow dust, which is part of the dust problem. However, the abstract does not provide direct evidence or specific information linking cadmium exposure to COPD. The relationship between PM exposure and COPD is noted, but no clear causal or associative link between cadmium specifically and COPD is established in the text."
+      },
+      "cadmium_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes various industrial pollutants such as cadmium. It highlights that these particles can penetrate deep into the lungs and cause various respiratory and cardiovascular diseases. Specifically, the abstract mentions that the global burden of fine and ultrafine PMs includes mortality from acute lower respiratory infection, with population attributable fractions ranging from 1-38%. Although the abstract does not isolate cadmium's effects alone, it identifies cadmium as a contributing industrial pollutant in yellow dust and fine particulate matter, which are linked to acute lower respiratory infections. Therefore, there is evidence of a relationship between cadmium exposure via particulate matter and acute lower respiratory infection."
+      }
+    },
+    {
+      "sulfuric acid_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfuric acid is a secondary particle formed from the oxidation of primary particles contributing to fine and ultrafine particulate matter (PM). These PMs, especially PM2.5, are associated with various health effects including lung cancer. The abstract specifically mentions that reparable PMs can cause lung cancer and that ambient air pollution, which includes components like sulfuric acid, has been classified as a group 1 human carcinogen by the International Agency for Research on Cancer (IARC). Although the abstract does not isolate sulfuric acid alone as a direct cause, it identifies sulfuric acid as a hazardous component of PM that contributes to the overall carcinogenic risk of ambient air pollution linked to lung cancer."
+      },
+      "sulfuric acid_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as sulfuric acid. It states that reparable PMs can cause various health effects, including bronchial asthma. Since sulfuric acid is identified as a component of these hazardous secondary particles contributing to fine and ultrafine dust, and these dust particles are linked to bronchial asthma, there is evidence of a relationship between sulfuric acid (as part of fine particulate matter) and bronchial asthma."
+      },
+      "sulfuric acid_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as sulfuric acid, is hazardous to health. It specifically mentions that reparable PMs can cause various health effects including atherosclerosis. Since sulfuric acid is identified as a component of these secondary particles contributing to fine and ultrafine dust, and these dust particles are linked to atherosclerosis, there is evidence of a relationship between sulfuric acid (as part of these particles) and atherosclerosis."
+      },
+      "sulfuric acid_coronary_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfuric acid is a secondary particle formed from the oxidation of primary particles in fine and ultrafine dust, which is largely of man-made origin. It states that reparable particulate matter (PM), which includes components such as sulfuric acid, can cause various health effects including coronary heart disease. The abstract also highlights that fine particulate matter (PM2.5), which contains sulfuric acid among other components, has been linked to cardiocerebral vascular diseases and coronary heart disease. Therefore, there is evidence in the abstract supporting a relationship between sulfuric acid (as part of fine particulate matter) and coronary heart disease."
+      },
+      "sulfuric acid_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as sulfuric acid. It states that reparable PMs can cause various health effects, including birth defects. Although the abstract does not explicitly isolate sulfuric acid alone as the cause, it identifies sulfuric acid as a component of hazardous secondary particles contributing to fine and ultrafine dust, which is linked to birth defects among other health issues. Therefore, there is evidence of a relationship between sulfuric acid (as part of fine particulate matter) and birth defects."
+      },
+      "sulfuric acid_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as sulfuric acid. It states that reparable PMs, which include components like sulfuric acid, can cause various health effects including premature death. Although the abstract does not isolate sulfuric acid alone as the sole cause, it clearly identifies sulfuric acid as a hazardous secondary particle contributing to fine dust pollution, which is linked to premature death among other health issues. Therefore, there is evidence of a relationship between sulfuric acid (as a component of fine particulate matter) and premature death."
+      },
+      "sulfuric acid_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from the oxidation of primary particles such as sulfuric acid. It highlights that PM2.5 exposure has been argued to be related to increased mortality attributable to diabetes. Although the abstract does not explicitly isolate sulfuric acid as a direct cause of diabetes, it identifies sulfuric acid as a component of hazardous secondary particles contributing to fine particulate matter, which is associated with diabetes-related mortality. Therefore, there is evidence of a relationship between sulfuric acid (as part of PM) and diabetes."
+      },
+      "sulfuric acid_ischemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as sulfuric acid. It highlights that these fine PMs can cause various health effects including cardiocerebral vascular diseases and coronary heart disease, which are related to ischemic heart disease. Furthermore, the abstract cites population attributable fractions of PM2.5 on mortality causes including ischemic heart disease, indicating a significant global burden. Although the toxicological mechanisms are not fully explained and specific causality of sulfuric acid alone is not definitively established, the evidence suggests that sulfuric acid as a component of fine particulate matter is related to ischemic heart disease through its contribution to air pollution and PM toxicity."
+      },
+      "sulfuric acid_cerebrovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfuric acid is a secondary particle formed from the oxidation of primary particles in fine and ultrafine dust, which is largely of man-made origin. These fine particulate matters (PM2.5 and smaller) can penetrate deep into the lungs and even enter the bloodstream, potentially reaching other organs including the brain. The abstract explicitly mentions that reparable particulate matter can cause various health effects, including cardiocerebral vascular diseases, which encompass cerebrovascular disease. Furthermore, population attributable fractions of PM2.5 on mortality include cerebrovascular disease, suggesting a link between exposure to components of fine particulate matter such as sulfuric acid and cerebrovascular disease. Although the exact toxicological mechanisms are not fully explained, the evidence presented supports a relationship between sulfuric acid (as a component of fine particulate matter) and cerebrovascular disease."
+      },
+      "sulfuric acid_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfuric acid is a secondary particle formed from the oxidation of primary particles and is a component of fine and ultrafine particulate matter (PM). These fine PMs, especially PM2.5, are known to penetrate deep into the lungs and cause various health effects, including pulmonary mortality. The abstract specifically mentions that the population attributable fraction of PM2.5 on mortality includes chronic obstructive pulmonary disease (COPD) with a range of 1-21%. Since sulfuric acid is a significant component of these harmful fine particles, there is evidence supporting a relationship between sulfuric acid exposure and COPD. Although the abstract does not isolate sulfuric acid alone as the sole cause, it clearly implicates sulfuric acid-containing fine particulate matter in the pathogenesis and increased mortality of COPD."
+      },
+      "sulfuric acid_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulfuric acid is a secondary particle formed from the oxidation of primary particles in fine and ultrafine dust, which is largely of man-made origin. These fine particulate matters (PM2.5 and smaller) can penetrate deep into the lungs and cause various health effects. The abstract specifically mentions that the global burden of fine and ultrafine particulate matter includes mortality from acute lower respiratory infection, with population attributable fractions ranging from 1-38%. Since sulfuric acid is a component of these harmful secondary particles in ambient air pollution, there is evidence supporting a relationship between sulfuric acid exposure (as part of fine particulate matter) and acute lower respiratory infection."
+      }
+    },
+    {
+      "nitric acid_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitric acid is a secondary particle formed from the oxidation of primary particles contributing to fine and ultrafine dust, which is largely of man-made origin. Fine particulate matter (PM), including components such as nitric acid, is associated with various health effects including lung cancer. The abstract specifically mentions that reparable particulate matter (PM2.5 and smaller) can cause lung cancer and that ambient air pollution, which includes particles like nitric acid, has been classified as a group 1 human carcinogen by the International Agency for Research on Cancer (IARC). Although the abstract does not isolate nitric acid alone as the sole cause, it clearly links nitric acid as a component of harmful particulate matter contributing to lung cancer risk."
+      },
+      "nitric acid_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitric acid is a secondary particle formed from the oxidation of primary particles and is a component of fine and ultrafine dust, which is largely of man-made origin. These fine particulate matters (PM2.5 and smaller) can penetrate deep into the lungs and cause various health effects, including bronchial asthma. The abstract explicitly lists bronchial asthma among the diseases caused by reparable particulate matter exposure. Although the abstract does not isolate nitric acid alone as the sole causative agent, it identifies nitric acid as a significant component of the hazardous secondary particles contributing to the fine dust mixture that is linked to bronchial asthma. Therefore, there is evidence of a relationship between nitric acid (as part of fine particulate matter) and bronchial asthma."
+      },
+      "nitric acid_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It states that reparable PMs can cause various health effects including atherosclerosis. Although the abstract does not explicitly isolate nitric acid as the sole causative agent, it identifies nitric acid as a component of hazardous secondary particles contributing to fine dust pollution, which is linked to atherosclerosis among other diseases. Therefore, there is evidence of a relationship between nitric acid (as part of fine particulate matter) and atherosclerosis."
+      },
+      "nitric acid_coronary_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid, is associated with various health effects including coronary heart disease. It specifically mentions that reparable PMs can cause cardiocerebral vascular diseases and coronary heart disease. Nitric acid is identified as a component of these secondary particles contributing to fine and ultrafine dust, which are linked to adverse cardiovascular outcomes. Therefore, there is evidence in the abstract supporting a relationship between nitric acid (as part of secondary particles in ambient air pollution) and coronary heart disease."
+      },
+      "nitric acid_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It states that reparable PMs can cause various health effects, including birth defects. Although the abstract does not explicitly isolate nitric acid as the sole cause, it identifies nitric acid as a component of hazardous secondary particles contributing to fine dust, which is linked to birth defects. Therefore, there is evidence of a relationship between nitric acid (as part of fine particulate matter) and birth defects."
+      },
+      "nitric acid_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid, is associated with various adverse health effects including premature death. It specifically mentions that reparable PMs, which contain components like nitric acid, can cause premature death among other diseases. Although the abstract does not isolate nitric acid alone as the sole cause, it clearly identifies nitric acid as a hazardous secondary particle contributing to the fine dust mixture linked to premature mortality. Therefore, there is evidence of a relationship between nitric acid (as part of fine particulate matter) and premature death."
+      },
+      "nitric acid_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including components such as nitric acid formed from the oxidation of primary particles. It specifically mentions that PM2.5, which includes secondary particles like nitric acid, has been argued to be related to increased mortality attributable to diabetes. Although the abstract does not isolate nitric acid alone as the causative agent, it identifies nitric acid as a significant component of hazardous secondary particles contributing to PM2.5, which is linked to diabetes-related mortality. Therefore, there is evidence of a relationship between nitric acid (as part of PM2.5) and diabetes."
+      },
+      "nitric acid_ischemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It highlights that these fine particles, including those containing nitric acid, are hazardous and contribute to air pollution primarily from fossil fuel combustion. The abstract specifically mentions that fine and ultrafine PMs have a significant global health burden and provides population attributable fractions of PM2.5-related mortality for ischemic heart disease ranging from 2-41%. Since nitric acid is identified as a component of these secondary particles contributing to PM2.5, there is evidence suggesting a relationship between nitric acid (as part of fine particulate matter) and ischemic heart disease. However, the abstract does not isolate nitric acid alone but includes it as part of the complex mixture of pollutants contributing to cardiovascular disease risk."
+      },
+      "nitric acid_cerebrovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It states that these particles are hazardous and contribute to air pollution originating from combustion products of fossil fuels. The abstract specifically mentions that fine particulate matter (PM2.5) is associated with various health effects, including cardiocerebral vascular diseases, which encompass cerebrovascular disease. Furthermore, it highlights that the population attributable fractions of PM2.5 on mortality include cerebrovascular disease, indicating a significant relationship. Since nitric acid is identified as a component of these secondary particles contributing to PM2.5, there is evidence supporting a relationship between nitric acid (as part of particulate matter) and cerebrovascular disease."
+      },
+      "nitric acid_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It highlights that these particles are hazardous and contribute to respiratory diseases. Specifically, the abstract mentions that PM2.5 is associated with increased mortality from chronic obstructive pulmonary disease (COPD) among other diseases. Since nitric acid is identified as a component of these secondary particles contributing to fine particulate matter, there is evidence suggesting a relationship between nitric acid (as part of PM) and COPD. Although the abstract does not isolate nitric acid alone as a direct cause, it implicates it as part of the harmful particulate matter linked to COPD."
+      },
+      "nitric acid_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as nitric acid. It highlights that these particles are hazardous and contribute to respiratory diseases. Specifically, the abstract mentions that the global burden of fine and ultrafine PMs includes acute lower respiratory infection, with population attributable fractions ranging from 1-38%. Since nitric acid is identified as a component of these secondary particles contributing to fine particulate matter, there is evidence suggesting a relationship between nitric acid (as part of particulate matter) and acute lower respiratory infection."
+      }
+    },
+    {
+      "ammonium salts_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from oxidation of primary particles such as ammonium salts, as hazardous components of air pollution. It states that reparable PMs can cause various health effects, including lung cancer. Furthermore, ambient air pollution, which includes components like ammonium salts, has been classified as a group 1 human carcinogen by the International Agency for Research on Cancer (IARC). Although the abstract does not isolate ammonium salts specifically as a sole cause, it includes ammonium salts as part of the secondary particles contributing to fine particulate matter linked to lung cancer. Therefore, there is evidence of a relationship between ammonium salts (as part of fine particulate matter) and lung cancer."
+      },
+      "ammonium salts_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from the oxidation of primary particles such as sulfuric acid, nitric acid, and ammonium salts, as hazardous components of air pollution. It states that reparable PMs can cause various health effects, including bronchial asthma. Although the abstract does not isolate ammonium salts as a sole causative agent, it includes ammonium salts among the secondary particles contributing to fine particulate matter, which is linked to bronchial asthma. Therefore, there is evidence of a relationship between ammonium salts (as part of fine particulate matter) and bronchial asthma."
+      },
+      "ammonium salts_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from compounds such as ammonium salts, as components of air pollution. It states that reparable PMs can cause various health effects, explicitly including atherosclerosis. Although the abstract does not isolate ammonium salts alone as a direct cause, it identifies ammonium salts as part of the hazardous secondary particles contributing to fine particulate matter, which is linked to atherosclerosis among other diseases. Therefore, there is evidence of a relationship between ammonium salts (as part of fine particulate matter) and atherosclerosis."
+      },
+      "ammonium salts_coronary_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fine and ultrafine particulate matter (PM), which includes secondary particles such as ammonium salts formed from oxidation of primary particles, are hazardous. It specifically mentions that reparable PMs can cause various health effects including coronary heart disease. Although the abstract does not isolate ammonium salts alone as a direct cause, it identifies ammonium salts as a component of the harmful secondary particles contributing to fine and ultrafine dust, which is linked to coronary heart disease. Therefore, there is evidence of a relationship between ammonium salts (as part of fine particulate matter) and coronary heart disease."
+      },
+      "ammonium salts_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), which includes secondary particles formed from compounds such as ammonium salts. It states that reparable PMs can cause various health effects, explicitly including birth defects. Although the abstract does not isolate ammonium salts as a sole causative agent, it identifies ammonium salts as a component of hazardous secondary particles contributing to fine and ultrafine dust. Since these PMs are linked to birth defects, there is evidence of a relationship between ammonium salts (as part of these particles) and birth defects."
+      },
+      "ammonium salts_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ammonium salts are components of secondary particles formed in fine and ultrafine dust, which are largely man-made and hazardous. It further states that reparable particulate matter (PM), which includes these secondary particles, can cause various health effects including premature death. Although the abstract does not isolate ammonium salts specifically as the sole cause, it clearly links ammonium salts as part of the harmful particulate matter contributing to health risks such as premature death."
+      },
+      "ammonium salts_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), which includes secondary particles such as ammonium salts, as components of air pollution. It states that PM2.5, which can contain ammonium salts, has been argued to be related to increased mortality attributable to diabetes. Although the abstract does not isolate ammonium salts specifically as a cause, it includes ammonium salts as part of the hazardous secondary particles contributing to PM2.5, which is linked to diabetes-related mortality. Therefore, there is evidence of a relationship between ammonium salts (as part of PM2.5) and diabetes."
+      },
+      "ammonium salts_ischemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), which includes secondary particles formed from compounds such as ammonium salts. It highlights that these fine particles can penetrate deep into the lungs and bloodstream, causing various health effects including cardiocerebral vascular diseases and coronary heart disease, which are related to ischemic heart disease. Furthermore, the abstract cites population attributable fractions of PM2.5 on mortality causes including ischemic heart disease, indicating a significant health burden. Although the abstract does not isolate ammonium salts specifically as a sole causative agent, it identifies ammonium salts as a component of hazardous secondary particles contributing to fine particulate matter linked to ischemic heart disease. Therefore, there is evidence of a relationship between ammonium salts (as part of fine particulate matter) and ischemic heart disease."
+      },
+      "ammonium salts_cerebrovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ammonium salts are components of secondary particles formed from the oxidation of primary particles in fine and ultrafine dust. It further explains that fine particulate matter (PM), which includes these secondary particles, is associated with various health effects including cardiocerebral vascular diseases such as cerebrovascular disease. Additionally, the global burden of fine and ultrafine PMs on health includes a significant population attributable fraction of PM2.5 on mortality from cerebrovascular disease. Therefore, there is evidence suggesting a relationship between ammonium salts as part of fine particulate matter and cerebrovascular disease."
+      },
+      "ammonium salts_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from oxidation of primary particles such as ammonium salts, as hazardous components of air pollution. It highlights that fine PM (PM2.5) can penetrate deep into the lungs and cause various health effects, including chronic obstructive pulmonary disease (COPD). The global burden of PM2.5 on mortality includes COPD with a population attributable fraction of 1-21%. Since ammonium salts are specifically mentioned as part of the secondary particles contributing to fine and ultrafine dust, and fine PM is linked to COPD, there is evidence of a relationship between ammonium salts and chronic obstructive pulmonary disease."
+      },
+      "ammonium salts_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from oxidation of primary particles such as ammonium salts, as hazardous components of air pollution. It highlights that fine and ultrafine PMs can penetrate deep into the lungs and cause various health effects, including acute lower respiratory infection. Specifically, the abstract states that the population attributable fraction of PM2.5 on mortality includes acute lower respiratory infection (1-38%). Since ammonium salts are identified as part of the secondary particles contributing to fine and ultrafine dust, there is evidence suggesting a relationship between ammonium salts and acute lower respiratory infection through their role in particulate matter air pollution."
+      }
+    },
+    {
+      "volatile organic compounds_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from oxidation of primary particles such as volatile organic compounds (VOCs), are hazardous. It states that reparable PMs can cause various health effects including lung cancer. Furthermore, PM in diesel exhaust (which contains VOCs) is classified as a group 1 human carcinogen by the International Agency for Research on Cancer (IARC). Although the abstract does not isolate VOCs alone as a direct cause, it clearly links VOCs as components of hazardous secondary particles contributing to PM, which is associated with lung cancer. Therefore, there is evidence of a relationship between volatile organic compounds and lung cancer through their role in forming carcinogenic particulate matter."
+      },
+      "volatile organic compounds_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from volatile organic compounds (VOCs). It states that reparable PMs can cause various health effects, including bronchial asthma. Although the abstract does not explicitly isolate VOCs as a sole cause, it identifies VOCs as components of hazardous secondary particles contributing to air pollution and respiratory diseases. Therefore, there is evidence supporting a relationship between volatile organic compounds and bronchial asthma through their role in forming harmful particulate matter that affects respiratory health."
+      },
+      "volatile organic compounds_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from volatile organic compounds (VOCs), is associated with various health effects including atherosclerosis. It states that secondary particles from the oxidation of primary particles forming volatile organic compounds are hazardous. Furthermore, reparable PMs can cause cardiocerebral vascular diseases and atherosclerosis. Although the exact toxicological mechanisms are not fully explained, the epidemiological evidence supports a relationship between components of fine particulate matter, including VOCs, and atherosclerosis."
+      },
+      "volatile organic compounds_coronary_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from volatile organic compounds (VOCs), as components of air pollution that have significant health effects. It specifically mentions that reparable PMs can cause various health effects, including coronary heart disease. VOCs are identified as part of the secondary particles contributing to hazardous dust. Although the abstract does not isolate VOCs alone as a direct cause, it includes VOCs within the complex mixture of pollutants linked to coronary heart disease through the effects of fine particulate matter. Therefore, there is evidence of a relationship between volatile organic compounds (as part of secondary particles) and coronary heart disease."
+      },
+      "volatile organic compounds_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including components such as volatile organic compounds (VOCs), as part of secondary particles formed from oxidation of primary particles. It states that reparable PMs, which include these components, can cause various health effects including birth defects. Although the abstract does not isolate VOCs specifically as the sole cause, it includes VOCs as part of the hazardous secondary particles contributing to health effects. Therefore, there is evidence of a relationship between volatile organic compounds and birth defects within the context of fine particulate matter exposure."
+      },
+      "volatile organic compounds_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as volatile organic compounds (VOCs), are hazardous. It states that reparable PMs can cause various health effects including premature death. Since VOCs are mentioned as components contributing to the formation of these harmful secondary particles, there is evidence suggesting a relationship between volatile organic compounds and premature death through their role in forming toxic particulate matter that adversely affects health."
+      },
+      "volatile organic compounds_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), including components such as volatile organic compounds (VOCs). It specifically mentions that PM2.5, which includes secondary particles formed from volatile organic compounds among other substances, has been argued to be related to increased mortality attributable to diabetes. Although the abstract does not isolate VOCs alone as a direct cause, it includes VOCs as part of the hazardous secondary particles contributing to PM2.5, which is linked to diabetes-related mortality. Therefore, there is evidence of a relationship between volatile organic compounds (as part of PM2.5) and diabetes."
+      },
+      "volatile organic compounds_ischemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from the oxidation of primary particles such as volatile organic compounds (VOCs), is hazardous to health. It specifically mentions that reparable PMs can cause various health effects including cardiocerebral vascular diseases and coronary heart disease, which are related to ischemic heart disease. Furthermore, the abstract cites population attributable fractions of PM2.5 on mortality causes including ischemic heart disease, indicating a significant health burden. Although the abstract does not isolate VOCs alone as a direct cause, it identifies VOCs as components contributing to secondary particles that are linked to ischemic heart disease. Therefore, there is evidence of a relationship between volatile organic compounds (as part of secondary particles) and ischemic heart disease."
+      },
+      "volatile organic compounds_cerebrovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses that fine and ultrafine particulate matter (PM), which includes secondary particles formed from volatile organic compounds (VOCs), is associated with various health effects including cardiocerebral vascular diseases. It specifically mentions that fine particulate matter (PM2.5) has a significant global burden on health and includes cerebrovascular disease among the causes of mortality attributable to PM2.5 exposure. Since VOCs are identified as components contributing to the formation of these hazardous secondary particles, there is evidence supporting a relationship between volatile organic compounds and cerebrovascular disease through their role in particulate matter pollution."
+      },
+      "volatile organic compounds_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the health effects of fine and ultrafine particulate matter (PM), which includes secondary particles formed from volatile organic compounds (VOCs) among other substances. It highlights that these particles, originating largely from combustion products of fossil fuels, contribute to air pollution and have significant health impacts. Specifically, the abstract mentions that the global burden of fine and ultrafine PMs on health includes chronic obstructive pulmonary disease (COPD), with population attributable fractions ranging from 1-21%. Although the abstract does not isolate VOCs alone as a direct cause, it identifies VOCs as components of hazardous secondary particles contributing to PM-related health effects. Therefore, there is evidence of a relationship between volatile organic compounds (as part of fine particulate matter) and chronic obstructive pulmonary disease."
+      },
+      "volatile organic compounds_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including secondary particles formed from volatile organic compounds (VOCs), as components of air pollution that have significant health effects. It specifically mentions that the global burden of fine and ultrafine PMs includes acute lower respiratory infection (ALRI) among the diseases with attributable mortality fractions ranging from 1-38%. Since VOCs are identified as part of the hazardous secondary particles contributing to fine particulate matter, and fine PM exposure is linked to ALRI, there is evidence supporting a relationship between volatile organic compounds and acute lower respiratory infection."
+      }
+    },
+    {
+      "black carbon_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that black carbon is a component of fine and ultrafine particulate matter (PM), which are largely man-made and originate from combustion products of fossil fuels. It states that reparable PMs, including PM2.5 which contains black carbon, can cause various health effects including lung cancer. Furthermore, particulate matter in diesel exhaust, which contains black carbon, has been classified as a group 1 human carcinogen by the International Agency for Research on Cancer (IARC). The abstract also mentions that ambient air pollution, which includes black carbon, is classified as a group 1 human carcinogen and is associated with lung cancer. Therefore, there is evidence in the abstract supporting a relationship between black carbon and lung cancer."
+      },
+      "black carbon_bronchial_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon, as hazardous components largely originating from combustion products of fossil fuels. It states that reparable PMs, which include fine particles such as black carbon, can cause various health effects including bronchial asthma. Although the abstract does not isolate black carbon specifically as the sole cause, it identifies black carbon as a significant component of fine particulate matter linked to respiratory diseases such as bronchial asthma. Therefore, there is evidence of a relationship between black carbon and bronchial asthma based on the described health effects of fine particulate matter containing black carbon."
+      },
+      "black carbon_atherosclerosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon, as components of air pollution that have various health effects. It specifically mentions that reparable PMs can cause cardiocerebral vascular diseases and atherosclerosis among other conditions. Black carbon is identified as a hazardous secondary particle from combustion products of fossil fuels, which are a major anthropogenic source of fine and ultrafine dust. Therefore, there is evidence in the abstract linking black carbon, as part of fine particulate matter, to atherosclerosis."
+      },
+      "black carbon_coronary_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that black carbon is a component of fine and ultrafine particulate matter (PM), which are largely of man-made origin and include combustion products of fossil fuels. It states that reparable PMs, which include fine and ultrafine particles such as black carbon, can cause various health effects including coronary heart disease. The abstract also highlights that PM2.5, which includes black carbon, has been linked to increased mortality from cardiovascular diseases. Therefore, there is evidence in the abstract supporting a relationship between black carbon exposure and coronary heart disease."
+      },
+      "black carbon_birth_defects": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon as a secondary particle from combustion products, as hazardous components of air pollution. It states that reparable PMs can cause various health effects, explicitly including birth defects. Although the abstract does not isolate black carbon alone as the sole cause, it identifies black carbon as part of the hazardous fine and ultrafine dust mixture linked to adverse health outcomes such as birth defects. Therefore, there is evidence of a relationship between black carbon and birth defects based on its inclusion in the harmful particulate matter associated with these outcomes."
+      },
+      "black carbon_premature_death": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that black carbon is a component of fine and ultrafine particulate matter (PM), which are largely of man-made origin and include combustion products of fossil fuels. It states that reparable PMs, which include PM2.5 and ultrafine particles such as black carbon, can cause various health effects including premature death. The abstract also highlights that PM2.5 has worse health effects than larger particles and that fine and ultrafine PMs have been linked to increased mortality from several diseases. Therefore, there is evidence in the abstract that black carbon, as a component of harmful fine particulate matter, is related to premature death."
+      },
+      "black carbon_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon as a component of secondary particles from combustion products, as hazardous to health. It specifically mentions that PM2.5, which includes black carbon, has been argued to be related to increased mortality attributable to diabetes. Although the exact toxicological mechanisms are not fully explained and more research is needed, there is epidemiological evidence suggesting a relationship between exposure to fine particulate matter containing black carbon and diabetes-related mortality."
+      },
+      "black carbon_ischemic_heart_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that black carbon is a component of fine and ultrafine particulate matter (PM), which are combustion products of fossil fuels and are hazardous. It further states that fine and ultrafine PMs, including components like black carbon, have been linked to various health effects such as cardiocerebral vascular diseases and coronary heart disease. Additionally, the global burden of PM2.5 on mortality includes ischemic heart disease, with population attributable fractions ranging from 2-41%. This suggests that exposure to black carbon, as part of fine particulate matter, is related to ischemic heart disease."
+      },
+      "black carbon_cerebrovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that black carbon is a component of fine and ultrafine particulate matter (PM), which are hazardous and largely originate from combustion products of fossil fuels. It states that fine and ultrafine PMs, including components like black carbon, can cause various health effects such as cardiocerebral vascular diseases, which include cerebrovascular disease. Additionally, the abstract mentions that population attributable fractions of PM2.5 on mortality include cerebrovascular disease, supporting a link between fine particulate matter exposure and cerebrovascular health outcomes. Therefore, there is evidence in the abstract supporting a relationship between black carbon and cerebrovascular disease."
+      },
+      "black carbon_chronic_obstructive_pulmonary_disease": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon, as hazardous components largely originating from combustion products of fossil fuels. It highlights that fine PM, such as PM2.5, can penetrate deep into the lungs and cause various health effects, including pulmonary mortality. Specifically, the abstract states that the population attributable fraction of PM2.5 on mortality includes chronic obstructive pulmonary disease (COPD) with a range of 1-21%. Black carbon is mentioned as a secondary particle contributing to the hazardous fine and ultrafine dust. Therefore, there is evidence in the abstract linking black carbon, as part of fine particulate matter, to adverse health effects including COPD."
+      },
+      "black carbon_acute_lower_respiratory_infection": {
+        "relationship": "Y",
+        "reason": "The abstract discusses fine and ultrafine particulate matter (PM), including black carbon, as hazardous components largely originating from combustion products of fossil fuels. It highlights that fine and ultrafine PMs can penetrate deep into the lungs and cause various health effects. Specifically, the abstract mentions that the global burden of fine and ultrafine PMs on health includes a population attributable fraction for acute lower respiratory infection ranging from 1-38%. Since black carbon is identified as a secondary particle and a component of fine and ultrafine dust with known health hazards, there is evidence supporting a relationship between black carbon exposure and acute lower respiratory infection."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds contributing to dust pollution and health hazards, including mercury and cadmium as industrial pollutants, sulfuric acid and nitric acid as secondary particles from oxidation, ammonium salts, volatile organic compounds, and black carbon as components of fine and ultrafine dust. These are specific chemical substances named explicitly in the text."
+}

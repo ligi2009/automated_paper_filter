@@ -1,0 +1,37 @@
+{
+  "id": 2684,
+  "title": "Detection of Volatile Compounds Emitted from Nasal Secretions and Serum: Towards Non-Invasive Identification of Diseased Cattle Biomarkers",
+  "Abstract": "Non-invasive diagnostics and finding biomarkers of disease in humans have been a very active research area. Some of the analytical technologies used for finding biomarkers of human disease are finding their use in livestock. Non-invasive sample collection from diseased cattle using breath and headspace of fecal samples have been reported. In this work, we explore the use of volatile organic compounds (VOCs) emitted from bovine nasal secretions and serum for finding biomarkers for bovine respiratory disease (BRD). One hundred nasal swabs and 100 serum samples (n = 50 for both ‘sick’ and ‘healthy’) were collected at the time of treatment for suspected BRD. Solid-phase microextraction (SPME) was used to collect headspace samples that were analyzed using gas chromatography-mass spectrometry (GC-MS). It was possible to separate sick cattle using non-invasive analyses of nasal swabs and also serum samples by analyzing and comparing volatiles emitted from each group of samples. Four volatile compounds were found to be statistically significantly different between ‘sick’ and ‘normal’ cattle nasal swabs samples. Five volatile compounds were found to be significantly different between ‘sick’ and ‘normal’ cattle serum samples, with phenol being the common marker. Future studies are warranted to improve the extraction efficiency targeting VOCs preliminarily identified in this study. These findings bring us closer to the long-term goal of real-time, animal-side detection and separation of sick cattle.",
+  "Disease_List": [
+    "bovine respiratory disease (BRD)"
+  ],
+  "Reason": "The abstract explicitly mentions 'bovine respiratory disease (BRD)' as a specific disease affecting cattle. The study focuses on finding biomarkers for this particular disease, which is a clearly named and specific disease entity rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "bovine respiratory disease (BRD)"
+  ],
+  "UMLS_search_results": {
+    "bovine respiratory disease (BRD)": []
+  },
+  "MRCONSO_search_results": {
+    "bovine respiratory disease (BRD)": [
+      "Complex, Bovine Respiratory Disease",
+      "Bovine Respiratory Disease Complex",
+      "Bovine respiratory disease complex",
+      "Bovine respiratory disease complex (disorder)"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "bovine respiratory disease (BRD)_via_Complex, Bovine Respiratory Disease": [
+      {
+        "ui": "C1449809",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1449809",
+        "name": "Bovine Respiratory Disease Complex",
+        "mesh_id": "D048090"
+      }
+    ]
+  }
+}

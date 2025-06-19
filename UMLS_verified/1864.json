@@ -1,0 +1,96 @@
+{
+  "id": 1864,
+  "title": "Human Urinary Volatilome Analysis in Renal Cancer by Electronic Nose",
+  "Abstract": "Currently, in clinical practice there are still no useful markers available that are able to diagnose renal cancer in the early stages in the context of population screening. This translates into very high costs for healthcare systems around the world. Analysing urine using an electronic nose (EN) provides volatile organic compounds that can be easily used in the diagnosis of urological diseases. Although no convincing results have been published, some previous studies suggest that dogs trained to sniff urine can recognize different types of tumours (bladder, lung, breast cancer) with different success rates. We therefore hypothesized that urinary volatilome profiling may be able to distinguish patients with renal cancer from healthy controls. A total of 252 individuals, 110 renal patients and 142 healthy controls, were enrolled in this pilot monocentric study. For each participant, we collected, stabilized (at 37 °C) and analysed urine samples using a commercially available electronic nose (Cyranose 320®). Principal component (PCA) analyses, discriminant analysis (CDA) and ROC curves were performed to provide a complete statistical analysis of the sensor responses. The best discriminating principal component groups were identified with univariable ANOVA analysis. The study correctly identified 79/110 patients and 127/142 healthy controls, respectively (specificity 89.4%, sensitivity 71.8%, positive predictive value 84.04%, negative predictive value 80.37%). In order to test the study efficacy, the Cross Validated Accuracy was calculated (CVA 81.7%, p < 0.001). At ROC analysis, the area under the curve was 0.85. The results suggest that urine volatilome profiling by e-Nose seems a promising, accurate and non-invasive diagnostic tool in discriminating patients from controls. The low costs and ease of execution make this test useful in clinical practice.",
+  "Disease_List": [
+    "renal cancer",
+    "bladder cancer",
+    "lung cancer",
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'renal cancer', 'bladder cancer', 'lung cancer', and 'breast cancer'. These are all specific types of cancer and thus specific diseases. The mention of these diseases is clear and explicit, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "renal cancer",
+    "bladder cancer",
+    "lung cancer",
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "renal cancer": [
+      {
+        "ui": "C0740457",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0740457",
+        "name": "Malignant neoplasm of kidney",
+        "mesh_id": "D007680"
+      },
+      {
+        "ui": "C1378703",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1378703",
+        "name": "Renal carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder cancer": [
+      {
+        "ui": "C0005684",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005684",
+        "name": "Malignant neoplasm of urinary bladder",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

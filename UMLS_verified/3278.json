@@ -1,0 +1,53 @@
+{
+  "id": 3278,
+  "title": "Non-volatile organic compounds in exhaled breath particles correspond to active tuberculosis",
+  "Abstract": "Human breath contains trace amounts of non-volatile organic compounds (NOCs) which might provide non-invasive methods for evaluating individual health. In previous work, we demonstrated that lipids detected in exhaled breath aerosol (EBA) could be used as markers of active tuberculosis (TB). Here, we advanced our analytical platform for characterizing small metabolites and lipids in EBA samples collected from participants enrolled in clinical trials designed to identify molecular signatures of active TB. EBA samples from 26 participants with active TB and 73 healthy participants were processed using a dual-phase extraction method, and metabolites and lipids were identified via mass spectrometry database matching. In total, 13 metabolite and 9 lipid markers were identified with statistically different optimized relative standard deviation values between individuals diagnosed with active TB and the healthy controls. Importantly, EBA lipid profiles can be used to separate the two sample types, indicating the diagnostic potential of the identified molecules. A feature ranking algorithm reduced this number to 10 molecules, with the membrane glycerophospholipid, phosphatidylinositol 24:4, emerging as the top driver of segregation between the two groups. These results support the use of this approach to identify consistent NOC signatures from EBA samples in active TB cases. This suggests the potential to apply this method to other human diseases which alter respiratory NOC release.",
+  "Disease_List": [
+    "active tuberculosis",
+    "TB"
+  ],
+  "Reason": "The abstract explicitly mentions 'active tuberculosis (TB)' multiple times as the specific disease being studied. The terms 'active TB' and 'tuberculosis' are specific disease names, not general terms. Therefore, the classification is Y with the disease list including 'active tuberculosis' and its abbreviation 'TB'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "active tuberculosis",
+    "TB"
+  ],
+  "UMLS_search_results": {
+    "active tuberculosis": [
+      {
+        "ui": "C0151332",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151332",
+        "name": "Active tuberculosis",
+        "mesh_id": "None"
+      }
+    ],
+    "TB": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      },
+      {
+        "ui": "C0332289",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0332289",
+        "name": "Transmitted by",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0077025",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0077025",
+        "name": "tributyrin",
+        "mesh_id": "C005830"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

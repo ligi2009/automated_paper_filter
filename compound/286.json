@@ -1,0 +1,167 @@
+{
+  "id": 286,
+  "title": "Association between blood volatile organic aromatic compound concentrations and hearing loss in US adults",
+  "Abstract": "Objective Benzene, ethylbenzene, meta/para-xylene, and ortho-xylene, collectively referred to as benzene, ethylbenzene, and xylene (BEX), constitute the main components of volatile organic aromatic compounds (VOACs) and can have adverse effects on human health. The relationship between exposure to BEX and hearing loss (HL) in the adult U.S. population was aimed to be assessed. Methods Cross-sectional data from the National Health and Nutrition Examination Survey (NHANES) for the years 2003–2004, 2011–2012, and 2015–2016 were analyzed. This dataset included complete demographic characteristics, pure-tone audiometry measurements, and volatile organic compound detection data from the NHANES database. A weighted multivariate logistic regression model was employed to investigate the associations between blood BEX concentrations HL, low-frequency hearing loss (SFHL), and high-frequency hearing loss (HFHL). Results 2174 participants were included, with weighted prevalence rates of HL, SFHL, and HFHL being 46.81%, 25.23%, and 45.86%, respectively. Exposure to benzene, ethylbenzene, meta/para-xylene, and ortho-xylene, and cumulative BEX concentrations increased the risk of hearing loss (odds ratios [ORs] were 1.36, 1.22, 1.42, 1.23, and 1.31, respectively; all P < 0.05). In the analysis with SFHL as the outcome, ethylbenzene, m-/p-xylene, o-xylene, benzene, and overall BEX increased the risk (OR 1.26, 1.21, 1.28, 1.20, and 1.25, respectively; all P < 0.05). For HFHL, exposure to ethylbenzene, m-/p-xylene, o-xylene, benzene, and overall BEX increased the risk (OR 1.36, 1.22, 1.42, 1.22, and 1.31, respectively; all P < 0.05). Conclusion Our study indicated that a positive correlation between individual or cumulative exposure to benzene, ethylbenzene, meta/para-xylene, and ortho-xylene and the risk of HL, SFHL, and HFHL. Further research is imperative to acquire a more comprehensive understanding of the mechanisms by which organic compounds, notably BEX, in causing hearing loss and to validate these findings in longitudinal environmental studies. Supplementary Information The online version contains supplementary material available at 10.1186/s12889-024-18065-0.",
+  "Disease_List": [
+    "hearing loss",
+    "low-frequency hearing loss",
+    "high-frequency hearing loss"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to hearing impairment: 'hearing loss (HL)', 'low-frequency hearing loss (SFHL)', and 'high-frequency hearing loss (HFHL)'. These are specific conditions rather than general health terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hearing loss",
+    "low-frequency hearing loss",
+    "high-frequency hearing loss"
+  ],
+  "UMLS_search_results": {
+    "hearing loss": [
+      {
+        "ui": "C1384666",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1384666",
+        "name": "hearing impairment",
+        "mesh_id": "D034381"
+      },
+      {
+        "ui": "C3887873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3887873",
+        "name": "Hearing Loss",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0018772",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018772",
+        "name": "Partial Hearing Loss",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C2029884",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2029884",
+        "name": "hearing loss by exam",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011053",
+        "name": "Deafness",
+        "mesh_id": "D003638"
+      }
+    ],
+    "low-frequency hearing loss": [
+      {
+        "ui": "C0271514",
+        "rootSource": "HPO",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0271514",
+        "name": "Low-frequency hearing loss",
+        "mesh_id": "None"
+      }
+    ],
+    "high-frequency hearing loss": [
+      {
+        "ui": "C0018780",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018780",
+        "name": "Hearing Loss, High-Frequency",
+        "mesh_id": "D006316"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "benzene",
+    "ethylbenzene",
+    "meta-xylene",
+    "para-xylene",
+    "ortho-xylene"
+  ],
+  "compound_CID": [
+    {
+      "benzene": 241,
+      "ethylbenzene": 7500,
+      "meta-xylene": 7929,
+      "para-xylene": 7809,
+      "ortho-xylene": 7237
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "benzene_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract presents evidence of a positive correlation between exposure to benzene and the risk of hearing loss (HL), including both low-frequency hearing loss (SFHL) and high-frequency hearing loss (HFHL). The study analyzed data from 2174 participants and found that exposure to benzene significantly increased the risk of HL, with odds ratios around 1.20 to 1.36 and all P-values less than 0.05, indicating statistical significance. The findings suggest that benzene, as part of the volatile organic aromatic compounds (BEX), is associated with an increased risk of hearing loss, supporting a clear relationship between benzene exposure and hearing loss."
+      },
+      "benzene_low-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to benzene and the risk of low-frequency hearing loss (SFHL). Specifically, the odds ratio for benzene exposure increasing the risk of SFHL was 1.20 with a statistically significant p-value (P < 0.05). This indicates that benzene exposure is associated with an increased risk of low-frequency hearing loss in the studied population."
+      },
+      "benzene_high-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to benzene and the risk of high-frequency hearing loss (HFHL). Specifically, the study found that exposure to benzene increased the risk of HFHL with an odds ratio of 1.22 (P < 0.05), indicating a statistically significant association. This was determined using weighted multivariate logistic regression analysis on data from a large population sample. Therefore, there is clear evidence from this study supporting a relationship between benzene exposure and high-frequency hearing loss."
+      }
+    },
+    {
+      "ethylbenzene_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract presents evidence of a positive correlation between exposure to ethylbenzene and hearing loss (HL), including both low-frequency hearing loss (SFHL) and high-frequency hearing loss (HFHL). The study analyzed data from 2174 participants and found that exposure to ethylbenzene significantly increased the risk of HL, with odds ratios of 1.22 for overall HL, 1.26 for SFHL, and 1.36 for HFHL, all with P-values less than 0.05, indicating statistical significance. These findings support a clear relationship between ethylbenzene exposure and increased risk of hearing loss."
+      },
+      "ethylbenzene_low-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a statistically significant association between exposure to ethylbenzene and an increased risk of low-frequency hearing loss (SFHL). Specifically, the odds ratio for ethylbenzene exposure increasing the risk of SFHL is 1.26 with a P value less than 0.05, indicating a positive correlation. This evidence supports a relationship between ethylbenzene exposure and low-frequency hearing loss."
+      },
+      "ethylbenzene_high-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to ethylbenzene and the risk of high-frequency hearing loss (HFHL). Specifically, the study found that exposure to ethylbenzene increased the risk of HFHL with an odds ratio of 1.36 (P < 0.05), indicating a statistically significant association. This evidence supports a relationship between ethylbenzene exposure and high-frequency hearing loss."
+      }
+    },
+    {
+      "meta-xylene_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of hearing loss (HL), including both low-frequency hearing loss (SFHL) and high-frequency hearing loss (HFHL). The study analyzed data from NHANES and found that exposure to meta/para-xylene significantly increased the odds of hearing loss, with odds ratios greater than 1 and P-values less than 0.05, indicating statistical significance. Therefore, there is clear evidence from this study that meta-xylene exposure is associated with an increased risk of hearing loss."
+      },
+      "meta-xylene_low-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of low-frequency hearing loss (SFHL). Specifically, the study found that exposure to meta/para-xylene increased the risk of SFHL with an odds ratio of 1.21 (P < 0.05), indicating a statistically significant association. This evidence supports a relationship between meta-xylene exposure and low-frequency hearing loss."
+      },
+      "meta-xylene_high-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of high-frequency hearing loss (HFHL). Specifically, the study found that exposure to meta/para-xylene increased the risk of HFHL with an odds ratio of 1.22 (P < 0.05), indicating a statistically significant association. This evidence supports a relationship between meta-xylene exposure and high-frequency hearing loss."
+      }
+    },
+    {
+      "para-xylene_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of hearing loss (HL), including both low-frequency hearing loss (SFHL) and high-frequency hearing loss (HFHL). Statistical analysis showed that exposure to meta/para-xylene significantly increased the risk of HL with odds ratios greater than 1 and P-values less than 0.05, indicating a statistically significant association. Therefore, there is clear evidence from this study that para-xylene exposure is related to an increased risk of hearing loss."
+      },
+      "para-xylene_low-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of low-frequency hearing loss (SFHL). Specifically, the odds ratio for SFHL associated with meta/para-xylene exposure was 1.21 with a statistically significant p-value (P < 0.05), indicating increased risk. This evidence supports a relationship between para-xylene exposure and low-frequency hearing loss."
+      },
+      "para-xylene_high-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to meta/para-xylene and the risk of high-frequency hearing loss (HFHL). Specifically, the odds ratio for HFHL associated with meta/para-xylene exposure was 1.22 with a statistically significant p-value (P < 0.05), indicating that exposure to para-xylene increases the risk of HFHL. This evidence supports a clear relationship between para-xylene exposure and high-frequency hearing loss."
+      }
+    },
+    {
+      "ortho-xylene_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract presents evidence of a positive correlation between exposure to ortho-xylene and the risk of hearing loss (HL), including both low-frequency hearing loss (SFHL) and high-frequency hearing loss (HFHL). The study analyzed data from 2174 participants and found that exposure to ortho-xylene increased the risk of HL with statistically significant odds ratios (ORs) greater than 1 (ORs of 1.23 for HL, 1.28 for SFHL, and 1.42 for HFHL, all with P < 0.05). These findings indicate that ortho-xylene exposure is associated with an increased risk of hearing loss, supporting a clear relationship between the compound and the disease."
+      },
+      "ortho-xylene_low-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to ortho-xylene and the risk of low-frequency hearing loss (SFHL). Specifically, the odds ratio for ortho-xylene increasing the risk of SFHL was 1.28 with a statistically significant p-value (P < 0.05). This indicates that exposure to ortho-xylene is associated with an increased risk of low-frequency hearing loss in the studied population."
+      },
+      "ortho-xylene_high-frequency_hearing_loss": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between exposure to ortho-xylene and the risk of high-frequency hearing loss (HFHL). Specifically, the study found that exposure to ortho-xylene increased the risk of HFHL with an odds ratio of 1.42 (P < 0.05), indicating a statistically significant association. This evidence supports a relationship between ortho-xylene exposure and high-frequency hearing loss."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions benzene, ethylbenzene, and the isomers of xylene (meta-xylene, para-xylene, and ortho-xylene) as the chemical compounds studied for their association with hearing loss. These are distinct chemical substances named explicitly, unlike general terms such as 'compounds' or 'substances'."
+}

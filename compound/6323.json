@@ -1,0 +1,205 @@
+{
+  "id": 6323,
+  "title": "Release and uptake of volatile organic compounds by human hepatocellular carcinoma cells (HepG2) in vitro",
+  "Abstract": "Volatile organic compounds (VOCs) emitted by human body offer a unique insight into biochemical processes ongoing in healthy and diseased human organisms. Unfortunately, in many cases their origin and metabolic fate have not been yet elucidated in sufficient depth, thus limiting their clinical application. The primary goal of this work was to identify and quantify volatile organic compounds being released or metabolized by HepG2 hepatocellular carcinoma cells. The hepatocellular carcinoma cells were incubated in specially designed head-space 1-L glass bottles sealed for 24 hours prior to measurements. Identification and quantification of volatiles released and consumed by cells under study were performed by gas chromatography with mass spectrometric detection (GC-MS) coupled with head-space needle trap device extraction (HS-NTD) as the pre-concentration technique. Most of the compounds were identified both by spectral library match as well as retention time comparison based on standards. A total of nine compounds were found to be metabolised and further twelve released by the cells under study (Wilcoxon signed-rank test, p<0.05). The former group comprised 6 aldehydes (2-methyl 2-propenal, 2-methyl propanal, 2-ethylacrolein, 3-methyl butanal, n-hexanal and benzaldehyde), n-propyl propionate, n-butyl acetate, and isoprene. Amongst the released species there were five ketones (2-pentanone, 3-heptanone, 2-heptanone, 3-octanone, 2-nonanone), five volatile sulphur compounds (dimethyl sulfide, ethyl methyl sulfide, 3-methyl thiophene, 2-methyl-1-(methylthio)- propane and 2-methyl-5-(methylthio) furan), n-propyl acetate, and 2-heptene. The emission and uptake of the aforementioned VOCs may reflect the activity of abundant liver enzymes and support the potential of VOC analysis for the assessment of enzymes function.",
+  "Disease_List": [
+    "hepatocellular carcinoma"
+  ],
+  "Reason": "The abstract explicitly mentions 'hepatocellular carcinoma cells,' which refers to a specific type of liver cancer. This is a clearly named disease, thus the classification is Y. No other specific diseases are named.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2-methyl 2-propenal",
+    "2-methyl propanal",
+    "2-ethylacrolein",
+    "3-methyl butanal",
+    "n-hexanal",
+    "benzaldehyde",
+    "n-propyl propionate",
+    "n-butyl acetate",
+    "isoprene",
+    "2-pentanone",
+    "3-heptanone",
+    "2-heptanone",
+    "3-octanone",
+    "2-nonanone",
+    "dimethyl sulfide",
+    "ethyl methyl sulfide",
+    "3-methyl thiophene",
+    "2-methyl-1-(methylthio)-propane",
+    "2-methyl-5-(methylthio) furan",
+    "n-propyl acetate",
+    "2-heptene"
+  ],
+  "compound_CID": [
+    {
+      "2-methyl 2-propenal": "None",
+      "2-methyl propanal": "None",
+      "2-ethylacrolein": 70203,
+      "3-methyl butanal": 11552,
+      "n-hexanal": 6184,
+      "benzaldehyde": 240,
+      "n-propyl propionate": 7803,
+      "n-butyl acetate": 31272,
+      "isoprene": 6557,
+      "2-pentanone": 7895,
+      "3-heptanone": 7802,
+      "2-heptanone": 8051,
+      "3-octanone": 246728,
+      "2-nonanone": 13187,
+      "dimethyl sulfide": 1068,
+      "ethyl methyl sulfide": 12230,
+      "3-methyl thiophene": 12024,
+      "2-methyl-1-(methylthio)-propane": "None",
+      "2-methyl-5-(methylthio) furan": "None",
+      "n-propyl acetate": 7997,
+      "2-heptene": 11611
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2-methyl 2-propenal_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically identifies 2-methyl 2-propenal as one of the six aldehydes metabolized by these hepatocellular carcinoma cells. This indicates a direct biochemical interaction between 2-methyl 2-propenal and hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. The metabolism of 2-methyl 2-propenal by hepatocellular carcinoma cells implies that this compound is involved in or affected by the biochemical processes of the cancer cells."
+      }
+    },
+    {
+      "2-methyl propanal_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically mentions that 2-methyl propanal, an aldehyde, is among the compounds metabolized by these hepatocellular carcinoma cells. This indicates a direct biochemical interaction between 2-methyl propanal and hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. The study implies that the metabolism of 2-methyl propanal by these cancer cells may reflect liver enzyme activity associated with hepatocellular carcinoma."
+      }
+    },
+    {
+      "2-ethylacrolein_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where HepG2 hepatocellular carcinoma cells were incubated and their volatile organic compound (VOC) emissions and metabolism were analyzed. Among the compounds metabolized by these hepatocellular carcinoma cells is 2-ethylacrolein, indicating that this compound is biochemically involved with the cancer cells. Although the abstract does not explicitly state that 2-ethylacrolein causes or results from hepatocellular carcinoma, the fact that it is metabolized by hepatocellular carcinoma cells demonstrates a clear biochemical relationship between the compound and the disease."
+      }
+    },
+    {
+      "3-methyl butanal_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells were identified and quantified. Among the compounds metabolized by these hepatocellular carcinoma cells is 3-methyl butanal, an aldehyde. This indicates that 3-methyl butanal is directly involved in the metabolic activity of hepatocellular carcinoma cells, establishing a relationship between the compound and the disease. The study suggests that the metabolism of 3-methyl butanal by these cancer cells may reflect liver enzyme activity associated with hepatocellular carcinoma."
+      }
+    },
+    {
+      "n-hexanal_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically mentions that n-hexanal, an aldehyde, is among the compounds metabolized by these hepatocellular carcinoma cells. This indicates a direct biochemical interaction between n-hexanal and hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. The study implies that the metabolism of n-hexanal by these cancer cells may reflect liver enzyme activity associated with hepatocellular carcinoma."
+      }
+    },
+    {
+      "benzaldehyde_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Benzaldehyde is specifically mentioned as one of the six aldehydes metabolized by these cancer cells. This indicates a direct biochemical interaction between benzaldehyde and hepatocellular carcinoma cells, suggesting a relationship between the compound benzaldehyde and the disease hepatocellular carcinoma. The study implies that benzaldehyde metabolism is linked to the enzymatic activity of liver cancer cells, supporting the potential relevance of benzaldehyde in the context of hepatocellular carcinoma."
+      }
+    },
+    {
+      "n-propyl propionate_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically identifies n-propyl propionate as one of the compounds metabolized by these cancer cells. This indicates a direct biochemical interaction between n-propyl propionate and hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. The metabolism of n-propyl propionate by hepatocellular carcinoma cells implies that this compound is involved in or affected by the biochemical processes of the cancerous liver cells."
+      }
+    },
+    {
+      "n-butyl acetate_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically mentions that n-butyl acetate is among the compounds metabolized by these cancer cells. This indicates a direct biochemical interaction between n-butyl acetate and hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. Although the abstract does not elaborate on the pathological role of n-butyl acetate in hepatocellular carcinoma, the fact that the cancer cells metabolize this compound provides evidence of a relationship."
+      }
+    },
+    {
+      "isoprene_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Isoprene is specifically mentioned as one of the compounds metabolized by these hepatocellular carcinoma cells. This indicates a direct biochemical interaction between isoprene and hepatocellular carcinoma cells, suggesting a relationship between the compound isoprene and the disease hepatocellular carcinoma. The study implies that isoprene metabolism may reflect liver enzyme activity in the context of hepatocellular carcinoma."
+      }
+    },
+    {
+      "2-pentanone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-pentanone is one of the volatile organic compounds released by HepG2 hepatocellular carcinoma cells. This indicates a direct association between 2-pentanone and hepatocellular carcinoma cells, suggesting that the presence and emission of 2-pentanone may be linked to the metabolic activity of these cancer cells. Therefore, there is evidence of a relationship between 2-pentanone and hepatocellular carcinoma based on its release by the cancer cells."
+      }
+    },
+    {
+      "3-heptanone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Among the compounds released by these cancer cells, 3-heptanone, a ketone, was specifically identified. This indicates that 3-heptanone is emitted by hepatocellular carcinoma cells, suggesting a relationship between the compound and the disease. The emission of 3-heptanone may reflect the metabolic activity of liver enzymes in the cancer cells, supporting its association with hepatocellular carcinoma."
+      }
+    },
+    {
+      "2-heptanone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Among the compounds released by these cancer cells, 2-heptanone, a ketone, was specifically identified. This indicates that 2-heptanone is associated with the metabolic activity of hepatocellular carcinoma cells. Although the abstract does not explicitly state a causal or pathological role of 2-heptanone in hepatocellular carcinoma, the fact that it is released by these cancer cells suggests a relationship between the compound and the disease, likely reflecting altered enzymatic activity in the cancerous liver cells."
+      }
+    },
+    {
+      "3-octanone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Among the compounds released by these cancer cells, 3-octanone, a ketone, was specifically identified as one of the emitted VOCs. This indicates that 3-octanone is associated with the metabolic activity of hepatocellular carcinoma cells, suggesting a relationship between 3-octanone and hepatocellular carcinoma. The emission of 3-octanone by these cancer cells may reflect altered enzyme activity related to the disease."
+      }
+    },
+    {
+      "2-nonanone_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-nonanone is among the volatile organic compounds released by HepG2 hepatocellular carcinoma cells. This indicates a direct association between 2-nonanone and hepatocellular carcinoma cells, suggesting that the compound is produced or emitted by these cancer cells. Although the abstract does not describe a causal role or pathological mechanism, the presence of 2-nonanone as a released metabolite from hepatocellular carcinoma cells supports a relationship between the compound and the disease."
+      }
+    },
+    {
+      "dimethyl sulfide_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that HepG2 hepatocellular carcinoma cells release dimethyl sulfide as one of the volatile sulfur compounds identified. This indicates a direct association between dimethyl sulfide and hepatocellular carcinoma cells, suggesting that dimethyl sulfide is metabolically linked to the disease state. Therefore, there is evidence of a relationship between dimethyl sulfide and hepatocellular carcinoma based on the metabolic activity of these cancer cells."
+      }
+    },
+    {
+      "ethyl methyl sulfide_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that ethyl methyl sulfide, a volatile sulfur compound, is released by HepG2 hepatocellular carcinoma cells during incubation. This indicates a direct association between ethyl methyl sulfide and hepatocellular carcinoma cells, suggesting that the compound is involved in or a marker of the biochemical processes occurring in these cancer cells. Therefore, there is evidence of a relationship between ethyl methyl sulfide and hepatocellular carcinoma based on the metabolic activity of the cancer cells."
+      }
+    },
+    {
+      "3-methyl thiophene_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 3-methyl thiophene, a volatile sulfur compound, is released by HepG2 hepatocellular carcinoma cells during incubation. This indicates a direct association between the compound and hepatocellular carcinoma cells, suggesting that 3-methyl thiophene is linked to the metabolic activity of these cancer cells. Therefore, there is evidence of a relationship between 3-methyl thiophene and hepatocellular carcinoma based on its emission by the cancer cells."
+      }
+    },
+    {
+      "2-methyl-1-(methylthio)-propane_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-methyl-1-(methylthio)-propane, a volatile sulfur compound, is released by HepG2 hepatocellular carcinoma cells. This indicates a direct metabolic relationship between the compound and hepatocellular carcinoma cells, suggesting that the presence and emission of this compound are associated with the disease state. Therefore, there is evidence of a relationship between 2-methyl-1-(methylthio)-propane and hepatocellular carcinoma."
+      }
+    },
+    {
+      "2-methyl-5-(methylthio) furan_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract reports that 2-methyl-5-(methylthio) furan is among the volatile sulfur compounds released by HepG2 hepatocellular carcinoma cells. This indicates a direct association between the compound and hepatocellular carcinoma cells, suggesting that the presence or metabolism of this compound is related to the disease state. Although the abstract does not elaborate on the pathological role of the compound, its specific release by hepatocellular carcinoma cells supports a relationship between 2-methyl-5-(methylthio) furan and hepatocellular carcinoma."
+      }
+    },
+    {
+      "n-propyl acetate_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. It specifically mentions that n-propyl acetate is among the compounds released by these cancer cells. This indicates a relationship between n-propyl acetate and hepatocellular carcinoma, as the compound is produced by the cancer cells, reflecting their metabolic activity. Therefore, there is evidence of a relationship based on the compound's emission by hepatocellular carcinoma cells."
+      }
+    },
+    {
+      "2-heptene_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study investigating volatile organic compounds (VOCs) released or metabolized by HepG2 hepatocellular carcinoma cells. Among the compounds released by these cancer cells, 2-heptene is specifically mentioned. This indicates that 2-heptene is associated with the metabolic activity of hepatocellular carcinoma cells, suggesting a relationship between the compound 2-heptene and hepatocellular carcinoma. The presence of 2-heptene as a released VOC from these cancer cells supports the potential use of VOC analysis in assessing liver enzyme function related to this disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names 21 chemical compounds identified as volatile organic compounds metabolized or released by HepG2 hepatocellular carcinoma cells. These include aldehydes, ketones, volatile sulfur compounds, esters, and hydrocarbons, all explicitly listed by their chemical names."
+}

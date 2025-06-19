@@ -1,0 +1,105 @@
+{
+  "id": 5062,
+  "title": "Health risk assessment of volatile organic compounds exposure near Daegu dyeing industrial complex in South Korea",
+  "Abstract": "BackgroundStudying human health in areas with industrial contamination is a serious and complex issue. In recent years, attention has increasingly focused on the health implications of large industrial complexes. A variety of potential toxic chemicals have been produced during manufacturing processes and activities in industrial complexes in South Korea. A large number of dyeing industries gathered together in Daegu dyeing industrial complex. The residents near the industrial complex could be often exposed to volatile organic compounds. This study aimed to evaluate VOCs levels in the ambient air of DDIC, to assess the impact on human health risks, and to find more convincing evidences to prove these VOCs emitted from DDIC.MethodsAccording to deterministic risk assessment, inhalation was the most important route. Residential indoor, outdoor and personal exposure air VOCs were measured by passive samplers in exposed area and controlled area in different seasons. Satisfaction with ambient environments and self-reported diseases were also obtained by questionnaire survey. The VOCs concentrations in exposed area and controlled area was compared by t-test. The relationships among every VOC were tested by correlation. The values of hazard quotient (HQ) and life cancer risk were estimated.ResultsThe concentrations of measured VOCs were presented, moreover, the variety of concentrations according the distances from the residential settings to the industrial complex site in exposed area. The residential indoor, outdoor, and personal exposure concentrations of toluene, DMF and chloroform in exposed area were significantly higher than the corresponding concentrations in controlled area both in summer and autumn. Toluene, DMF, chloroform and MEK had significantly positive correlations with each other in indoor and outdoor, and even in personal exposure. The HQ for DMF exceeded 1, and the life cancer risk of chloroform was greater than 10− 4 in exposed area. The prevalence of respiratory diseases, anaphylactic diseases and cardiovascular diseases in exposed area were significantly higher than in controlled area.ConclusionsThis study showed that adverse cancer and non-cancer health effects may occur by VOCs emitted from DDIC, and some risk managements are needed. Moreover, this study provides a convenient preliminarily method for pollutants source characteristics.",
+  "Disease_List": [
+    "respiratory diseases",
+    "anaphylactic diseases",
+    "cardiovascular diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific categories of diseases: 'respiratory diseases', 'anaphylactic diseases', and 'cardiovascular diseases'. Although these are broad categories rather than specific named diseases (e.g., asthma, anaphylaxis, heart disease), they are specific disease types rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with these disease categories listed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory diseases",
+    "cardiovascular diseases"
+  ],
+  "UMLS_search_results": {
+    "respiratory diseases": [
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      },
+      {
+        "ui": "C0035242",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035242",
+        "name": "Respiratory Tract Diseases",
+        "mesh_id": "D012140"
+      }
+    ],
+    "anaphylactic diseases": [],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "toluene",
+    "DMF",
+    "chloroform",
+    "MEK"
+  ],
+  "compound_CID": [
+    {
+      "toluene": 1140,
+      "DMF": 6228,
+      "chloroform": 6212,
+      "MEK": 6569
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "toluene_respiratory_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residents near the Daegu dyeing industrial complex (DDIC) were exposed to elevated levels of volatile organic compounds (VOCs), including toluene. It specifically states that the residential indoor, outdoor, and personal exposure concentrations of toluene were significantly higher in the exposed area compared to the control area. Additionally, the prevalence of respiratory diseases was significantly higher in the exposed area. Although the abstract does not explicitly state a direct causal link between toluene and respiratory diseases, the co-occurrence of elevated toluene exposure and increased respiratory disease prevalence in the exposed population suggests a relationship. The study highlights adverse health effects related to VOC exposure, supporting the inference of a relationship between toluene exposure and respiratory diseases."
+      },
+      "toluene_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residents near the industrial complex, who were exposed to higher concentrations of toluene among other VOCs, had a significantly higher prevalence of cardiovascular diseases compared to a controlled area. Although the study does not establish a direct causal link specifically between toluene and cardiovascular diseases, the significant association between elevated toluene exposure and increased cardiovascular disease prevalence in the exposed population suggests a relationship. Therefore, there is evidence of a relationship between toluene exposure and cardiovascular diseases based on the reported findings."
+      }
+    },
+    {
+      "DMF_respiratory_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residents near the Daegu dyeing industrial complex (DDIC) were exposed to higher concentrations of DMF compared to a controlled area. It also states that the prevalence of respiratory diseases in the exposed area was significantly higher than in the controlled area. Additionally, the hazard quotient (HQ) for DMF exceeded 1, indicating a potential health risk. These findings suggest a relationship between DMF exposure and increased respiratory diseases among the exposed population."
+      },
+      "DMF_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residents near the Daegu dyeing industrial complex (DDIC) had significantly higher exposure to DMF compared to a controlled area. It also states that the prevalence of cardiovascular diseases in the exposed area was significantly higher than in the controlled area. While the study does not explicitly establish a direct causal link between DMF and cardiovascular diseases, the co-occurrence of elevated DMF exposure and increased cardiovascular disease prevalence in the exposed population suggests a potential relationship. Additionally, the hazard quotient (HQ) for DMF exceeded 1, indicating a potential health risk. Therefore, there is evidence supporting a relationship between DMF exposure and cardiovascular diseases based on this abstract."
+      }
+    },
+    {
+      "chloroform_respiratory_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residential indoor, outdoor, and personal exposure concentrations of chloroform in the exposed area were significantly higher than in the controlled area. Additionally, the prevalence of respiratory diseases in the exposed area was significantly higher than in the controlled area. While the study does not explicitly state a direct causal link between chloroform and respiratory diseases, the co-occurrence of elevated chloroform exposure and increased respiratory disease prevalence, along with the indication of adverse health effects from VOCs including chloroform, supports evidence of a relationship between chloroform exposure and respiratory diseases."
+      },
+      "chloroform_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that residents in the exposed area near the industrial complex had significantly higher concentrations of chloroform in indoor, outdoor, and personal exposure measurements compared to the control area. Additionally, the prevalence of cardiovascular diseases was significantly higher in the exposed area. While the study does not explicitly establish a direct causal link between chloroform exposure and cardiovascular diseases, the co-occurrence of elevated chloroform levels and increased cardiovascular disease prevalence in the exposed population suggests a potential relationship. Therefore, there is evidence supporting a relationship between chloroform exposure and cardiovascular diseases based on the data presented."
+      }
+    },
+    {
+      "MEK_respiratory_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that MEK (methyl ethyl ketone) had significantly positive correlations with other VOCs such as toluene, DMF, and chloroform in indoor, outdoor, and personal exposure measurements near the industrial complex. Additionally, the prevalence of respiratory diseases was significantly higher in the exposed area compared to the controlled area. Although the abstract does not explicitly state a direct causal link between MEK and respiratory diseases, the positive correlation of MEK with other VOCs and the increased prevalence of respiratory diseases in the exposed population suggest an association between MEK exposure and respiratory health effects."
+      },
+      "MEK_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract reports that MEK (methyl ethyl ketone) had significantly positive correlations with other VOCs such as toluene, DMF, and chloroform in indoor, outdoor, and personal exposure measurements near the industrial complex. Additionally, the prevalence of cardiovascular diseases was significantly higher in the exposed area compared to the controlled area. While the study does not explicitly state a direct causal link between MEK and cardiovascular diseases, the co-occurrence of elevated MEK exposure and increased cardiovascular disease prevalence in the exposed population suggests an association. Therefore, there is evidence of a relationship between MEK exposure and cardiovascular diseases based on the observed correlations and health outcomes in the exposed area."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds toluene, DMF (dimethylformamide), chloroform, and MEK (methyl ethyl ketone) as volatile organic compounds (VOCs) measured in the study. These are specific chemical substances identified by name, unlike general terms such as 'chemicals' or 'compounds'."
+}

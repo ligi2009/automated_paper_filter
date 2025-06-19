@@ -1,0 +1,39 @@
+{
+  "id": 2578,
+  "title": "Development of Exhaled Breath Diagnosis Sensors for Rapid Identification of COVID-19 Patients",
+  "Abstract": "The novel coronavirus pneumonia, a global pandemic disease named as coronavirus disease 2019, has caused enormous losses on the health and economies of people all over the world, while there is still a lack of quick and sensitive diagnostic method and effective therapy. Developing rapid diagnostic method for coronavirus disease 2019 has become exceptional urgent. Herein we report a rapid diagnostic method for the novel coronavirus through monitoring the volatile biomarkers in human exhaled breath. The breath volatile biomarkers are derived from the metabolism of novel coronavirus, including acetoin, 2,4,6-trimethylpyridine, 3-methyl tridecane, tetradecane, isooctyl alcohol, pentadecane, hexadecane, 1-methylene-1H-indene. By comparing the types and concentrations of the volatile biomarkers in human exhaled breath combined with SERS sensor, we could distinguish between the healthy person and the patients with coronavirus disease 2019. This work confirms that various volatile organic compounds metabolized by novel coronavirus can be employed for rapidly screening of patients with coronavirus disease 2019, and has broad application prospects in the prevention and control of the epidemic.",
+  "Disease_List": [
+    "coronavirus disease 2019",
+    "novel coronavirus pneumonia"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'coronavirus disease 2019' and 'novel coronavirus pneumonia'. These are clearly identified diseases related to the novel coronavirus pandemic, thus classifying the response as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "coronavirus disease 2019",
+    "novel coronavirus pneumonia"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "novel coronavirus pneumonia": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

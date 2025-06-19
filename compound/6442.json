@@ -1,0 +1,144 @@
+{
+  "id": 6442,
+  "title": "Blood and breath profiles of volatile organic compounds in patients with end-stage renal disease",
+  "Abstract": "BackgroundMonitoring of volatile organic compounds (VOCs) in exhaled breath shows great potential as a non-invasive method for assessing hemodialysis efficiency. In this work we aim at identifying and quantifying of a wide range of VOCs characterizing uremic breath and blood, with a particular focus on species responding to the dialysis treatment.MethodsGas chromatography with mass spectrometric detection coupled with solid-phase microextraction as pre-concentration method.ResultsA total of 60 VOCs were reliably identified and quantified in blood and breath of CKD patients. Excluding contaminants, six compounds (isoprene, dimethyl sulfide, methyl propyl sulfide, allyl methyl sulfide, thiophene and benzene) changed their blood and breath levels during the hemodialysis treatment.ConclusionsUremic breath and blood patterns were found to be notably affected by the contaminants from the extracorporeal circuits and hospital room air. Consequently, patient exposure to a wide spectrum of volatile species (hydrocarbons, aldehydes, ketones, aromatics, heterocyclic compounds) is expected during hemodialysis. Whereas highly volatile pollutants were relatively quickly removed from blood by exhalation, more soluble ones were retained and contributed to the uremic syndrome. At least two of the species observed (cyclohexanone and 2-propenal) are uremic toxins. Perhaps other volatile substances reported within this study may be toxic and have negative impact on human body functions. Further studies are required to investigate if VOCs responding to HD treatment could be used as markers for monitoring hemodialysis efficiency.",
+  "Disease_List": [
+    "Chronic Kidney Disease",
+    "uremic syndrome"
+  ],
+  "Reason": "The abstract explicitly mentions 'CKD patients', where CKD stands for Chronic Kidney Disease, a specific disease. It also refers to 'uremic syndrome', which is a specific pathological condition associated with kidney failure. These are specific disease names rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic Kidney Disease",
+    "uremic syndrome"
+  ],
+  "UMLS_search_results": {
+    "Chronic Kidney Disease": [
+      {
+        "ui": "C1561643",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1561643",
+        "name": "Chronic Kidney Diseases",
+        "mesh_id": "D051436"
+      }
+    ],
+    "uremic syndrome": [
+      {
+        "ui": "C0302810",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0302810",
+        "name": "Uremia syndrome",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "isoprene",
+    "dimethyl sulfide",
+    "methyl propyl sulfide",
+    "allyl methyl sulfide",
+    "thiophene",
+    "benzene",
+    "cyclohexanone",
+    "2-propenal"
+  ],
+  "compound_CID": [
+    {
+      "isoprene": 6557,
+      "dimethyl sulfide": 1068,
+      "methyl propyl sulfide": 19754,
+      "allyl methyl sulfide": 66282,
+      "thiophene": 8030,
+      "benzene": 241,
+      "cyclohexanone": 7967,
+      "2-propenal": 7847
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "isoprene_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that isoprene is one of six volatile organic compounds (VOCs) whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that isoprene is associated with the uremic breath and blood patterns characteristic of CKD and responds to dialysis treatment. Although the abstract does not explicitly state that isoprene is a uremic toxin or directly causes CKD, its altered levels in CKD patients and response to treatment suggest a relationship between isoprene and the disease state."
+      },
+      "isoprene_uremic_syndrome": {
+        "relationship": "N",
+        "reason": "The abstract identifies isoprene as one of six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease. However, it does not explicitly state that isoprene contributes to or is a toxin involved in uremic syndrome. The abstract specifically names cyclohexanone and 2-propenal as uremic toxins, while suggesting that other volatile substances may potentially have toxic effects but without direct evidence. Therefore, there is no clear evidence from this abstract that isoprene is related to uremic syndrome as a causative or contributing compound."
+      }
+    },
+    {
+      "dimethyl sulfide_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies dimethyl sulfide as one of six volatile organic compounds (VOCs) whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that dimethyl sulfide is present and responsive in the context of CKD and its treatment. Although the abstract does not explicitly state that dimethyl sulfide causes or directly contributes to CKD, it is clearly associated with the disease state and the uremic syndrome related to CKD. The compound's levels are affected by the disease and its treatment, suggesting a relationship worth further investigation."
+      },
+      "dimethyl sulfide_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies dimethyl sulfide as one of the six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease, which is associated with uremic syndrome. It also notes that more soluble volatile compounds, potentially including dimethyl sulfide, are retained and contribute to the uremic syndrome. Although the abstract does not explicitly label dimethyl sulfide as a uremic toxin, its altered levels during treatment and potential retention suggest a relationship with uremic syndrome."
+      }
+    },
+    {
+      "methyl propyl sulfide_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies methyl propyl sulfide as one of six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that methyl propyl sulfide is associated with the uremic condition characteristic of CKD and responds to dialysis, suggesting a relationship between this compound and the disease. Although the abstract does not explicitly state that methyl propyl sulfide is a uremic toxin or directly causes CKD, its altered levels in CKD patients undergoing hemodialysis imply a relevant connection worthy of further investigation."
+      },
+      "methyl propyl sulfide_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies methyl propyl sulfide as one of six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease. It also states that more soluble volatile compounds retained in the blood contribute to uremic syndrome. Although methyl propyl sulfide is not explicitly labeled as a uremic toxin, its altered levels during treatment and presence in uremic breath and blood suggest a relationship with uremic syndrome. The abstract further implies that some volatile substances detected may have toxic effects related to uremic syndrome, supporting a potential link."
+      }
+    },
+    {
+      "allyl methyl sulfide_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that allyl methyl sulfide is one of six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that allyl methyl sulfide is present and responsive in the context of CKD and its treatment. Although the abstract does not explicitly state that allyl methyl sulfide causes or directly contributes to CKD, its altered levels in CKD patients undergoing hemodialysis suggest a relationship between the compound and the disease state or its management."
+      },
+      "allyl methyl sulfide_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies allyl methyl sulfide as one of the six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease, which is associated with uremic syndrome. It also notes that more soluble volatile compounds retained in the blood contribute to uremic syndrome, suggesting that allyl methyl sulfide may be involved in or indicative of the syndrome. Although the abstract calls for further studies to confirm toxicity and impact, the observed changes in allyl methyl sulfide levels during treatment imply a relationship with uremic syndrome."
+      }
+    },
+    {
+      "thiophene_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that thiophene is one of six volatile organic compounds (VOCs) whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that thiophene is present and responsive in the context of CKD and its treatment. Although the abstract does not explicitly state that thiophene causes CKD or is a direct uremic toxin, its altered levels in CKD patients undergoing hemodialysis suggest a relationship between thiophene and the disease state. Therefore, there is evidence of a relationship between thiophene and CKD based on its involvement in the uremic breath and blood profile."
+      },
+      "thiophene_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies thiophene as one of the six volatile organic compounds (VOCs) whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease (CKD). The study discusses that certain volatile substances retained in the blood contribute to the uremic syndrome, and while only cyclohexanone and 2-propenal are explicitly identified as uremic toxins, the abstract suggests that other VOCs, including thiophene, may also be toxic and negatively impact human body functions. Therefore, there is evidence of a relationship between thiophene and uremic syndrome, although further studies are needed to clarify its specific role."
+      }
+    },
+    {
+      "benzene_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies benzene as one of the six volatile organic compounds (VOCs) whose blood and breath levels change during hemodialysis treatment in patients with Chronic Kidney Disease (CKD). This indicates that benzene is present and responsive in the context of CKD and its treatment. Although the abstract does not explicitly state that benzene causes CKD, it suggests that benzene is involved in the uremic breath and blood patterns of CKD patients and may contribute to the uremic syndrome. Therefore, there is evidence of a relationship between benzene and CKD, at least in terms of benzene being a relevant compound in the disease's biochemical environment and treatment monitoring."
+      },
+      "benzene_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies benzene as one of the six volatile organic compounds whose blood and breath levels change during hemodialysis treatment in patients with chronic kidney disease (CKD). It also notes that more soluble volatile species, including aromatics like benzene, are retained and contribute to the uremic syndrome. Although benzene is not explicitly labeled as a uremic toxin in this study, its altered levels during treatment and retention in the body suggest a relationship with uremic syndrome. The abstract further implies that some volatile compounds may have toxic effects impacting human body functions, supporting a potential link between benzene and uremic syndrome."
+      }
+    },
+    {
+      "cyclohexanone_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cyclohexanone as one of the volatile organic compounds present in the blood and breath of patients with Chronic Kidney Disease (CKD) undergoing hemodialysis. It specifically mentions that cyclohexanone is considered a uremic toxin, implying it accumulates due to impaired kidney function and may contribute to the uremic syndrome associated with CKD. This indicates a clear relationship between cyclohexanone and CKD, as the compound is involved in the disease's pathophysiology and is affected by the dialysis treatment."
+      },
+      "cyclohexanone_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies cyclohexanone as one of the volatile organic compounds present in the blood and breath of chronic kidney disease patients undergoing hemodialysis. It specifically states that cyclohexanone is considered a uremic toxin, implying it contributes to the uremic syndrome. The study highlights that certain volatile compounds, including cyclohexanone, are retained in the body and contribute to the pathology of uremic syndrome, establishing a clear relationship between cyclohexanone and the disease."
+      }
+    },
+    {
+      "2-propenal_Chronic_Kidney_Disease": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 2-propenal as one of the volatile organic compounds present in the blood and breath of patients with Chronic Kidney Disease (CKD). It specifically mentions that 2-propenal is considered a uremic toxin, which implies it accumulates due to impaired kidney function and may contribute to the uremic syndrome associated with CKD. This indicates a clear relationship between 2-propenal and CKD, as the compound is involved in the disease's pathophysiology and is affected by hemodialysis treatment."
+      },
+      "2-propenal_uremic_syndrome": {
+        "relationship": "Y",
+        "reason": "The abstract identifies 2-propenal as one of the volatile organic compounds (VOCs) present in the blood and breath of chronic kidney disease (CKD) patients undergoing hemodialysis. It specifically states that 2-propenal is considered a uremic toxin, implying it contributes to the uremic syndrome. The study highlights that certain VOCs, including 2-propenal, are retained in the body and contribute to the uremic syndrome, establishing a clear relationship between the compound 2-propenal and the disease uremic syndrome."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names eight chemical compounds identified and quantified in the study related to volatile organic compounds in uremic breath and blood. These compounds are isoprene, dimethyl sulfide, methyl propyl sulfide, allyl methyl sulfide, thiophene, benzene, cyclohexanone, and 2-propenal. These were highlighted due to their changes during hemodialysis treatment or their relevance as uremic toxins."
+}

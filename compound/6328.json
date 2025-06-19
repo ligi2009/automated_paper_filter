@@ -1,0 +1,93 @@
+{
+  "id": 6328,
+  "title": "Stable isotope profiles reveal active production of VOCs from human-associated microbes",
+  "Abstract": "Volatile organic compounds (VOCs) measured from exhaled breath have great promise for the diagnosis of bacterial infections. However, determining human or microbial origin of VOCs detected in breath remains a great challenge. For example, the microbial fermentation product 2,3-butanedione was recently found in the breath of Cystic Fibrosis (CF) patients; parallel culture-independent metagenomic sequencing of the same samples revealed that Streptococcus and Rothia spp. have the genetic capacity to produce 2,3-butanedione. To investigate whether the genetic capacity found in metagenomes translates to bacterial production of a VOC of interest such as 2,3-butanedione, we fed stable isotopes to three bacterial strains isolated from patients: two gram-positive bacteria, Rothia mucilaginosa and Streptococcus salivarius, and a dominant opportunistic gram-negative pathogen, Pseudomonas aeruginosa. Culture headspaces were collected and analyzed using a gas chromatographic system to quantify the abundance of VOCs of interest; mass spectroscopy was used to determine whether the stable isotope label had been incorporated. Our results show that R. mucilaginosa and S. salivarius consumed D-Glucose-13C6 to produce labeled 2,3-butanedione. R. mucilaginosa and S. salivarius also produced labeled acetaldehyde and ethanol when grown with 2H2O. Additionally, we find that P. aeruginosa growth and dimethyl sulfide production are increased when exposed to lactic acid in culture. These results highlight the importance VOCs produced by P. aeruginosa, R. mucilaginosa, and S. salivarius as nutrients and signals in microbial communities, and as potential biomarkers in a CF infection.",
+  "Disease_List": [
+    "Cystic Fibrosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'Cystic Fibrosis (CF)' as a specific disease in the context of breath analysis for bacterial infections. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Cystic Fibrosis"
+  ],
+  "UMLS_search_results": {
+    "Cystic Fibrosis": [
+      {
+        "ui": "C0010674",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010674",
+        "name": "Cystic Fibrosis",
+        "mesh_id": "D003550"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2,3-butanedione",
+    "D-Glucose-13C6",
+    "acetaldehyde",
+    "ethanol",
+    "2H2O",
+    "dimethyl sulfide",
+    "lactic acid"
+  ],
+  "compound_CID": [
+    {
+      "2,3-butanedione": 650,
+      "D-Glucose-13C6": 66509130,
+      "acetaldehyde": 177,
+      "ethanol": 702,
+      "2H2O": "None",
+      "dimethyl sulfide": 1068,
+      "lactic acid": 612
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2,3-butanedione_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between 2,3-butanedione and Cystic Fibrosis (CF). It states that 2,3-butanedione, a microbial fermentation product, was found in the breath of CF patients. The study further identifies that bacteria commonly present in CF patients, such as Streptococcus and Rothia species, have the genetic capacity to produce 2,3-butanedione. Experimental results confirmed that these bacteria produce labeled 2,3-butanedione when fed stable isotopes, indicating active production of this compound in the microbial communities associated with CF. Therefore, 2,3-butanedione is linked to CF through its production by bacteria involved in CF infections and may serve as a potential biomarker for CF-related bacterial infections."
+      }
+    },
+    {
+      "D-Glucose-13C6_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study involving bacterial strains isolated from Cystic Fibrosis (CF) patients, including Rothia mucilaginosa and Streptococcus salivarius, which consume D-Glucose-13C6 to produce labeled volatile organic compounds such as 2,3-butanedione. Since these VOCs are detected in the breath of CF patients and are linked to microbial activity in CF infections, there is evidence that D-Glucose-13C6 is metabolized by bacteria relevant to CF, indicating a relationship between the compound and the disease."
+      }
+    },
+    {
+      "acetaldehyde_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetaldehyde is produced by bacterial strains isolated from Cystic Fibrosis (CF) patients, specifically Rothia mucilaginosa and Streptococcus salivarius. These bacteria, found in CF patients, produce acetaldehyde as a volatile organic compound (VOC) when grown under certain conditions. This suggests a relationship between acetaldehyde and CF, as acetaldehyde is part of the microbial metabolic activity associated with the disease environment and may serve as a potential biomarker in CF infections."
+      }
+    },
+    {
+      "ethanol_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that ethanol is produced by bacterial strains (Rothia mucilaginosa and Streptococcus salivarius) isolated from Cystic Fibrosis (CF) patients when grown with 2H2O. This suggests that ethanol is a volatile organic compound (VOC) associated with the microbial communities present in CF infections. Therefore, there is evidence of a relationship between ethanol and CF, as ethanol is produced by bacteria relevant to the disease environment and may serve as a potential biomarker in CF infection."
+      }
+    },
+    {
+      "2H2O_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract describes that when bacterial strains isolated from Cystic Fibrosis (CF) patients were grown with 2H2O (heavy water), they produced labeled acetaldehyde and ethanol. This indicates that 2H2O was used in experiments involving bacteria relevant to CF infections, showing a metabolic interaction. Although 2H2O itself is not directly implicated as a cause or treatment of CF, its use in studying bacterial VOC production linked to CF suggests a relationship in the context of microbial metabolism and potential biomarkers in CF infection."
+      }
+    },
+    {
+      "dimethyl sulfide_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dimethyl sulfide production is increased by Pseudomonas aeruginosa when exposed to lactic acid in culture. Pseudomonas aeruginosa is described as a dominant opportunistic pathogen isolated from Cystic Fibrosis (CF) patients. The study highlights volatile organic compounds (VOCs) produced by P. aeruginosa, including dimethyl sulfide, as potential biomarkers in CF infection. Therefore, there is evidence of a relationship between dimethyl sulfide and Cystic Fibrosis through its association with P. aeruginosa in CF patients."
+      }
+    },
+    {
+      "lactic acid_Cystic_Fibrosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that lactic acid influences the growth and dimethyl sulfide production of Pseudomonas aeruginosa, a dominant opportunistic pathogen in Cystic Fibrosis (CF) patients. This suggests that lactic acid plays a role in the microbial environment associated with CF infections, highlighting a relationship between lactic acid and CF through its effect on bacterial behavior relevant to the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds by name, including 2,3-butanedione, a microbial fermentation product; D-Glucose-13C6, a stable isotope-labeled glucose; acetaldehyde and ethanol, produced by bacteria; 2H2O (deuterium oxide), used in bacterial growth experiments; dimethyl sulfide, produced by Pseudomonas aeruginosa; and lactic acid, which influences bacterial growth and metabolite production. These are all specific chemical substances relevant to the study."
+}

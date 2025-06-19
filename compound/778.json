@@ -1,0 +1,45 @@
+{
+  "id": 778,
+  "title": "Mediating role of systemic inflammation in the association between volatile organic compounds exposure and periodontitis: NHANES 2011–2014",
+  "Abstract": "Background Volatile organic compounds (VOCs) are ubiquitous environmental pollutants which have been suggested to have adverse effects on human health. While the influence of environmental pollutant exposures on periodontitis has attracted elevating attention in recent years, the epidemiological evidence on the association between VOCs exposure and periodontitis was scarce. This study aimed to investigate the potential mediating role of systemic inflammation factors in the complex association between VOCs exposure and periodontitis. Methods Utilizing data from the National Health and Nutrition Examination Survey (NHANES) 2011–2014, we examined the impacts of VOCs exposure on periodontitis. Concentrations of urinary metabolites of VOCs (mVOCs) were measured using electrospray tandem mass spectrometry to evaluate internal VOCs exposure. Multivariable logistic regression, restricted cubic spline regression (RCS), Bayesian kernel machine regression (BKMR) and Quantile g-computation (QGC) models were performed to investigate the impacts of VOCs exposure on periodontitis. Mediation models were applied to assess the mediated effects of systemic inflammation on the association between mixed VOCs exposure and periodontitis. Besides, we analyzed the association between mixed VOCs exposure and periodontitis in stratified age, gender, and smoking status subgroups. Results 1,551 participants were ultimately included for further analyses, of whom 45.20% suffering from periodontitis. Multivariable logistic regression and RCS identified positive associations between single urinary mVOCs and periodontitis (P < 0.05). Notably, BKMR and QGC models suggested that mixed VOCs exposure was significantly associated with periodontitis, with 2-Aminothiazoline-4-carboxylic acid (ATCA) contributing the most (conditional posterior inclusion probability = 0.997). Moreover, systemic inflammation markers (leukocyte and lymphocyte counts) were found to partly mediate the association between VOCs exposure and periodontitis (P < 0.05). No interaction effect was identified between mixed VOCs exposure and periodontitis in age, gender and smoking status subgroups (P > 0.05). Conclusion This study demonstrated a positive association between VOCs exposure and periodontitis, which was potentially mediated by systemic inflammation factors. Further longitudinal researches are demanded to clarify the underlying mechanisms. Supplementary Information The online version contains supplementary material available at 10.1186/s12903-024-05110-y.",
+  "Disease_List": [
+    "periodontitis"
+  ],
+  "Reason": "The abstract explicitly mentions 'periodontitis' multiple times as a specific disease being studied in relation to VOCs exposure. Therefore, it meets the criteria for 'Y' since a specific disease name is clearly identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "periodontitis"
+  ],
+  "UMLS_search_results": {
+    "periodontitis": [
+      {
+        "ui": "C0031099",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031099",
+        "name": "Periodontitis",
+        "mesh_id": "D010518"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "2-Aminothiazoline-4-carboxylic acid (ATCA)"
+  ],
+  "compound_CID": [
+    {
+      "2-Aminothiazoline-4-carboxylic acid (ATCA)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "2-Aminothiazoline-4-carboxylic acid (ATCA)_periodontitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive association between exposure to volatile organic compounds (VOCs) and periodontitis. Specifically, among the urinary metabolites of VOCs analyzed, 2-Aminothiazoline-4-carboxylic acid (ATCA) was identified as the compound contributing the most to this association, with a very high conditional posterior inclusion probability (0.997). This indicates strong evidence that ATCA exposure is linked to periodontitis. Additionally, systemic inflammation markers were found to partly mediate this association, supporting a biological mechanism. Therefore, the data provide clear evidence of a relationship between ATCA and periodontitis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 2-Aminothiazoline-4-carboxylic acid (ATCA) as a urinary metabolite of VOCs that contributed most significantly to the association between VOCs exposure and periodontitis. No other specific chemical compound names are provided."
+}

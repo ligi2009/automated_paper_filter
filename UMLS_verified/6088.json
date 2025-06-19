@@ -1,0 +1,57 @@
+{
+  "id": 6088,
+  "title": "Reduction of formaldehyde in ambient air through application of special acrylic co-polymer in paint-and-lacquer coatings",
+  "Abstract": "Application of modern coatings in interior decoration is becoming increasingly popular. With their help, new decorative effects are created and implemented, which contribute to the desired aesthetic pleasure. The development of the chemical industry allows to produce a wide range of decorative coatings, paints and water-based enamels, as well as other finishing building materials that are widely used by designers and craftsmen in the design of premises. As a result, manufacturing companies face a clear challenge in creating safe materials for human health. It is known that the use of preservatives, plasticizers and opalescent additives in coatings are a source of harmful volatile organic compounds (VOCs), in particular phenol-formaldehyde resins, which provoke dangerous human diseases, and formaldehyde itself (H2–C=O) is a carcinogen and can cause lungs, nasopharyngeal cancer and cause acute myeloid leukemia. Formulation models of coatings based on PRIMAL™ SF-208 ER acrylic copolymer dispersion have been developed, which, among the required operational and quality characteristics, have the ability to reduce the content of formaldehyde. There is defined the regularity of the increase in the amount of phenol-formaldehyde absorbed by the paint from the ambient air from the increase in the quantitative content of the dispersion in the paint.",
+  "Disease_List": [
+    "lungs cancer",
+    "nasopharyngeal cancer",
+    "acute myeloid leukemia"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to exposure to formaldehyde and phenol-formaldehyde resins, including 'lungs cancer', 'nasopharyngeal cancer', and 'acute myeloid leukemia'. These are specific disease names rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lungs cancer",
+    "nasopharyngeal cancer",
+    "acute myeloid leukemia"
+  ],
+  "UMLS_search_results": {
+    "lungs cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      }
+    ],
+    "nasopharyngeal cancer": [
+      {
+        "ui": "C0153392",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153392",
+        "name": "Malignant neoplasm of nasopharynx",
+        "mesh_id": "D009303"
+      },
+      {
+        "ui": "C2931822",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2931822",
+        "name": "Nasopharyngeal carcinoma",
+        "mesh_id": "D000077274"
+      }
+    ],
+    "acute myeloid leukemia": [
+      {
+        "ui": "C0023467",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023467",
+        "name": "Leukemia, Myelocytic, Acute",
+        "mesh_id": "D015470"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

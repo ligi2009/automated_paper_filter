@@ -1,0 +1,78 @@
+{
+  "id": 286,
+  "title": "Association between blood volatile organic aromatic compound concentrations and hearing loss in US adults",
+  "Abstract": "Objective Benzene, ethylbenzene, meta/para-xylene, and ortho-xylene, collectively referred to as benzene, ethylbenzene, and xylene (BEX), constitute the main components of volatile organic aromatic compounds (VOACs) and can have adverse effects on human health. The relationship between exposure to BEX and hearing loss (HL) in the adult U.S. population was aimed to be assessed. Methods Cross-sectional data from the National Health and Nutrition Examination Survey (NHANES) for the years 2003–2004, 2011–2012, and 2015–2016 were analyzed. This dataset included complete demographic characteristics, pure-tone audiometry measurements, and volatile organic compound detection data from the NHANES database. A weighted multivariate logistic regression model was employed to investigate the associations between blood BEX concentrations HL, low-frequency hearing loss (SFHL), and high-frequency hearing loss (HFHL). Results 2174 participants were included, with weighted prevalence rates of HL, SFHL, and HFHL being 46.81%, 25.23%, and 45.86%, respectively. Exposure to benzene, ethylbenzene, meta/para-xylene, and ortho-xylene, and cumulative BEX concentrations increased the risk of hearing loss (odds ratios [ORs] were 1.36, 1.22, 1.42, 1.23, and 1.31, respectively; all P < 0.05). In the analysis with SFHL as the outcome, ethylbenzene, m-/p-xylene, o-xylene, benzene, and overall BEX increased the risk (OR 1.26, 1.21, 1.28, 1.20, and 1.25, respectively; all P < 0.05). For HFHL, exposure to ethylbenzene, m-/p-xylene, o-xylene, benzene, and overall BEX increased the risk (OR 1.36, 1.22, 1.42, 1.22, and 1.31, respectively; all P < 0.05). Conclusion Our study indicated that a positive correlation between individual or cumulative exposure to benzene, ethylbenzene, meta/para-xylene, and ortho-xylene and the risk of HL, SFHL, and HFHL. Further research is imperative to acquire a more comprehensive understanding of the mechanisms by which organic compounds, notably BEX, in causing hearing loss and to validate these findings in longitudinal environmental studies. Supplementary Information The online version contains supplementary material available at 10.1186/s12889-024-18065-0.",
+  "Disease_List": [
+    "hearing loss",
+    "low-frequency hearing loss",
+    "high-frequency hearing loss"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to hearing impairment: 'hearing loss (HL)', 'low-frequency hearing loss (SFHL)', and 'high-frequency hearing loss (HFHL)'. These are specific conditions rather than general health terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hearing loss",
+    "low-frequency hearing loss",
+    "high-frequency hearing loss"
+  ],
+  "UMLS_search_results": {
+    "hearing loss": [
+      {
+        "ui": "C1384666",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1384666",
+        "name": "hearing impairment",
+        "mesh_id": "D034381"
+      },
+      {
+        "ui": "C3887873",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3887873",
+        "name": "Hearing Loss",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0018772",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018772",
+        "name": "Partial Hearing Loss",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C2029884",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2029884",
+        "name": "hearing loss by exam",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011053",
+        "name": "Deafness",
+        "mesh_id": "D003638"
+      }
+    ],
+    "low-frequency hearing loss": [
+      {
+        "ui": "C0271514",
+        "rootSource": "HPO",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0271514",
+        "name": "Low-frequency hearing loss",
+        "mesh_id": "None"
+      }
+    ],
+    "high-frequency hearing loss": [
+      {
+        "ui": "C0018780",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018780",
+        "name": "Hearing Loss, High-Frequency",
+        "mesh_id": "D006316"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

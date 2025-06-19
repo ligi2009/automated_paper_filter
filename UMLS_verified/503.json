@@ -1,0 +1,35 @@
+{
+  "id": 503,
+  "title": "Tracking the Progression of Triple Negative Mammary Tumors over Time by Chemometric Analysis of Urinary Volatile Organic Compounds",
+  "Abstract": "Simple Summary Volatile organic compounds (VOCs) in urine have been shown to be potential biomarkers for breast cancer. However, how urinary VOCs change upon the course of tumor progression has never been studied. The aim of our study was to identify changes in VOC profiles corresponding to mammary tumor (triple negative cells) presence and progression in mice models of induced breast cancer. Urine samples were collected from mice prior to tumor injection and from days 2–19 after. VOC models constructed by linear discriminant analysis had high ability to distinguish tumor-bearing mice from control and determine the week of urine collection after tumor injection. Principal component regression analysis demonstrated that VOCs could predict the number of days since tumor injection. VOCs identified from these analyses correspond to metabolic pathways dysregulated by breast cancer and previous biomarker investigations. It is anticipated that these findings can be translated into human research for early detection of breast cancer recurrence. Abstract Previous studies have shown that volatile organic compounds (VOCs) are potential biomarkers of breast cancer. An unanswered question is how urinary VOCs change over time as tumors progress. To explore this, BALB/c mice were injected with 4T1.2 triple negative murine tumor cells in the tibia. This typically causes tumor progression and osteolysis in 1–2 weeks. Samples were collected prior to tumor injection and from days 2–19. Samples were analyzed by headspace solid phase microextraction coupled to gas chromatography–mass spectrometry. Univariate analysis identified VOCs that were biomarkers for breast cancer; some of these varied significantly over time and others did not. Principal component analysis was used to distinguish Cancer (all Weeks) from Control and Cancer Week 1 from Cancer Week 3 with over 90% accuracy. Forward feature selection and linear discriminant analysis identified a unique panel that could identify tumor presence with 94% accuracy and distinguish progression (Cancer Week 1 from Cancer Week 3) with 97% accuracy. Principal component regression analysis also demonstrated that a VOC panel could predict number of days since tumor injection (R2 = 0.71 and adjusted R2 = 0.63). VOC biomarkers identified by these analyses were associated with metabolic pathways relevant to breast cancer.",
+  "Disease_List": [
+    "breast cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'breast cancer' multiple times as the specific disease being studied. It discusses urinary volatile organic compounds as biomarkers for breast cancer and tumor progression in mice models of induced breast cancer. Therefore, the classification is Y with 'breast cancer' as the specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "breast cancer"
+  ],
+  "UMLS_search_results": {
+    "breast cancer": [
+      {
+        "ui": "C0006142",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006142",
+        "name": "Malignant neoplasm of breast",
+        "mesh_id": "D001943"
+      },
+      {
+        "ui": "C0678222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0678222",
+        "name": "Breast Carcinoma",
+        "mesh_id": "D001943"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

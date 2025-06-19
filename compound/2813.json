@@ -1,0 +1,43 @@
+{
+  "id": 2813,
+  "title": "Application of Volatilome Analysis to the Diagnosis of Mycobacteria Infection in Livestock",
+  "Abstract": "Volatile organic compounds (VOCs) are small molecular mass metabolites which compose the volatilome, whose analysis has been widely employed in different areas. This innovative approach has emerged in research as a diagnostic alternative to different diseases in human and veterinary medicine, which still present constraints regarding analytical and diagnostic sensitivity. Such is the case of the infection by mycobacteria responsible for tuberculosis and paratuberculosis in livestock. Although eradication and control programs have been partly managed with success in many countries worldwide, the often low sensitivity of the current diagnostic techniques against Mycobacterium bovis (as well as other mycobacteria from Mycobacterium tuberculosis complex) and Mycobacterium avium subsp. paratuberculosis together with other hurdles such as low mycobacteria loads in samples, a tedious process of microbiological culture, inhibition by many variables, or intermittent shedding of the mycobacteria highlight the importance of evaluating new techniques that open different options and complement the diagnostic paradigm. In this sense, volatilome analysis stands as a potential option because it fulfills part of the mycobacterial diagnosis requirements. The aim of the present review is to compile the information related to the diagnosis of tuberculosis and paratuberculosis in livestock through the analysis of VOCs by using different biological matrices. The analytical techniques used for the evaluation of VOCs are discussed focusing on the advantages and drawbacks offered compared with the routine diagnostic tools. In addition, the differences described in the literature among in vivo and in vitro assays, natural and experimental infections, and the use of specific VOCs (targeted analysis) and complete VOC pattern (non-targeted analysis) are highlighted. This review emphasizes how this methodology could be useful in the problematic diagnosis of tuberculosis and paratuberculosis in livestock and poses challenges to be addressed in future research.",
+  "Disease_List": [
+    "tuberculosis",
+    "paratuberculosis"
+  ],
+  "Reason": "The abstract explicitly mentions the diseases 'tuberculosis' and 'paratuberculosis' multiple times in the context of infection by mycobacteria in livestock. These are specific disease names rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "tuberculosis",
+    "paratuberculosis"
+  ],
+  "UMLS_search_results": {
+    "tuberculosis": [
+      {
+        "ui": "C0041296",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0041296",
+        "name": "Tuberculosis",
+        "mesh_id": "D014376"
+      }
+    ],
+    "paratuberculosis": [
+      {
+        "ui": "C0030524",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030524",
+        "name": "Paratuberculosis",
+        "mesh_id": "D010283"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) in general but does not specify any particular chemical compound names. Therefore, no specific chemical substances are identified."
+}

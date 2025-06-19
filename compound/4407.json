@@ -1,0 +1,111 @@
+{
+  "id": 4407,
+  "title": "Exhaled Breath Analysis System based on Electronic Nose Techniques Applicable to Lung Diseases",
+  "Abstract": "There are many respiratory diseases including lung cancer, chronic obstructive pulmonary disease (COPD), asthma, and so on. Among them, lung cancer and COPD are leading causes of death in the world. However, diagnosis of those diseases vary often late in the course of the diseases since available diagonostics methods are not sufficiently sensititive and specific. There is evidence to suggest that particular diseases can be detected by odor analysis of exhaled breath, because smell has been used to be a common diagnostic tool in medicine and physicians were trained to use their sense of smell from Hippocrates era. It was observed that patients with uncontrolled diabetes had the smell of rotten apples because of the acetone in their breath [1]. Human breath contains more than thousands of different compounds including large number of Volatile Organic Compounds (VOCs). Exhaled breath is produced by different biochemical processes including those that are released during disease cell metabolism. There are several lines of evidence showing that metabolic pathways in diseased cells produce different volatile compounds than non-diseased tissue. This imples that breath analysis can be used as a diagnostic tool because increased or decreased concentrations of some compounds are associated with various diseases or an altered metabolism. Hanyang Med Rev 2014;34:125-129 http://dx.doi.org/10.7599/hmr.2014.34.3.125",
+  "Disease_List": [
+    "lung cancer",
+    "chronic obstructive pulmonary disease (COPD)",
+    "asthma",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'lung cancer', 'chronic obstructive pulmonary disease (COPD)', 'asthma', and 'diabetes'. These are all well-defined diseases rather than general terms. Therefore, the classification is 'Y' with the listed diseases extracted directly from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "chronic obstructive pulmonary disease (COPD)",
+    "asthma",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of exhaled breath analysis to detect diseases including lung cancer by identifying volatile organic compounds (VOCs) produced by diseased cells. It specifically mentions acetone as a compound found in the breath of patients with uncontrolled diabetes, not lung cancer. There is no direct evidence or mention in the abstract linking acetone to lung cancer or indicating that acetone levels are associated with lung cancer diagnosis or metabolism. Therefore, based on this abstract, there is no clear relationship established between acetone and lung cancer."
+      },
+      "acetone_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses the potential of using exhaled breath analysis to detect various diseases, including COPD, by identifying volatile organic compounds (VOCs) produced by diseased cells. It specifically mentions acetone as a compound found in the breath of patients with uncontrolled diabetes, characterized by a rotten apple smell. However, the abstract does not provide any direct evidence or mention a relationship between acetone and chronic obstructive pulmonary disease (COPD). Therefore, based on the abstract, there is no clear relationship established between acetone and COPD."
+      },
+      "acetone_asthma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of exhaled breath analysis to detect various diseases by identifying volatile organic compounds (VOCs) produced by metabolic processes in diseased cells. It specifically mentions acetone as a compound found in the breath of patients with uncontrolled diabetes, characterized by a distinct smell. However, the abstract does not provide any evidence or mention a relationship between acetone and asthma. While asthma is listed among respiratory diseases, no direct association with acetone levels or diagnostic use of acetone for asthma is described."
+      },
+      "acetone_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract states that patients with uncontrolled diabetes have the smell of rotten apples due to the presence of acetone in their breath. This indicates that acetone is a volatile compound associated with diabetes, specifically reflecting altered metabolism in diabetic patients. Therefore, there is evidence of a relationship between acetone and diabetes as acetone levels in breath can serve as a diagnostic marker for the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetone as a chemical compound found in the breath of patients with uncontrolled diabetes, linking it to the characteristic smell of rotten apples. No other specific chemical compound names are mentioned."
+}

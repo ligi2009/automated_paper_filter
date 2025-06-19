@@ -1,0 +1,32 @@
+{
+  "id": 5631,
+  "title": "Addressing challenges in using breath chemical analysis in smartphone-based health diagnostics",
+  "Abstract": "Volatile organic compounds (VOCs) emitted by the human body (via e.g. breath, skin, urine, or saliva) offer unique and noninvasive insight into physiological and medical status of an individual. The analysis of this volatile chemical signature emerges as a promising and powerful approach for detecting and \n \ntracking infections, cancer development, metabolic disorders, progression of therapeutic intervention, as well as, individual’s \n \nexposure to environmental pollutants and/or toxins. Amongst different physiological fluids breath holds in this context a distinguished status as it is readily and \n \nnoninvasively obtainable and relatively non-complex. Moreover, its volatile and semi volatile constituents have already been \n \ndemonstrated to provide valuable information on various disease processes occurring in the human body. A number of sophisticated analytical techniques have been involved to recognize and define the disease-specific chemical fingerprints. Integrating chemical sensors or more sophisticated chemical instrumentation with mobile phones will lead to a number of potential personalized health applications. However, a number of challenges exist that need to be addressed; disease specific gases and/or VOCs in breath must be credible, repeatable and unambiguous. In this context, the characteristic VOCs in breath related to renal failure are presented in this work. There is also the challenge of developing faster, user friendly, cost/effective applications for mobile phones.",
+  "Disease_List": [
+    "renal failure"
+  ],
+  "Reason": "The abstract explicitly mentions 'renal failure' as a specific disease related to characteristic VOCs in breath. Although other general terms like infections, cancer, and metabolic disorders are mentioned, only 'renal failure' is named as a specific disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "renal failure"
+  ],
+  "UMLS_search_results": {
+    "renal failure": [
+      {
+        "ui": "C0035078",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035078",
+        "name": "Kidney Failure",
+        "mesh_id": "D051437"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) in general terms without mentioning any specific chemical compound names."
+}

@@ -1,0 +1,153 @@
+{
+  "id": 2377,
+  "title": "Antibacterial Activity of Volatile Organic Compounds Produced by the Octocoral-Associated Bacteria Bacillus sp. BO53 and Pseudoalteromonas sp. GA327",
+  "Abstract": "The present research aimed to evaluate the antibacterial activity of volatile organic compounds (VOCs) produced by octocoral-associated bacteria Bacillus sp. BO53 and Pseudoalteromonas sp. GA327. The volatilome bioactivity of both bacteria species was evaluated against human pathogenic antibiotic-resistant bacteria, methicillin-resistant Staphylococcus aureus, Acinetobacter baumanni, and Pseudomonas aeruginosa. In this regard, the in vitro tests showed that Bacillus sp. BO53 VOCs inhibited the growth of P. aeruginosa and reduced the growth of S. aureus and A. baumanni. Furthermore, Pseudoalteromonas sp. GA327 strongly inhibited the growth of A. baumanni, and P. aeruginosa. VOCs were analyzed by headspace solid-phase microextraction (HS-SPME) joined to gas chromatography-mass spectrometry (GC-MS) methodology. Nineteen VOCs were identified, where 5-acetyl-2-methylpyridine, 2-butanone, and 2-nonanone were the major compounds identified on Bacillus sp. BO53 VOCs; while 1-pentanol, 2-butanone, and butyl formate were the primary volatile compounds detected in Pseudoalteromonas sp. GA327. We proposed that the observed bioactivity is mainly due to the efficient inhibitory biochemical mechanisms of alcohols and ketones upon antibiotic-resistant bacteria. This is the first report which describes the antibacterial activity of VOCs emitted by octocoral-associated bacteria.",
+  "Disease_List": [
+    "methicillin-resistant Staphylococcus aureus",
+    "Acinetobacter baumanni",
+    "Pseudomonas aeruginosa"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease-causing bacteria: methicillin-resistant Staphylococcus aureus (MRSA), Acinetobacter baumanni, and Pseudomonas aeruginosa. These are well-known pathogens associated with human diseases, particularly antibiotic-resistant infections. Therefore, the classification is 'Y' because specific disease-related bacterial names are explicitly mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "methicillin-resistant Staphylococcus aureus",
+    "Acinetobacter baumanni",
+    "Pseudomonas aeruginosa"
+  ],
+  "UMLS_search_results": {
+    "methicillin-resistant Staphylococcus aureus": [
+      {
+        "ui": "C0343401",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0343401",
+        "name": "Methicillin resistant Staphylococcus aureus infection",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1265292",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1265292",
+        "name": "Methicillin-Resistant Staphylococcus aureus",
+        "mesh_id": "D055624"
+      }
+    ],
+    "Acinetobacter baumanni": [
+      {
+        "ui": "C0314787",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0314787",
+        "name": "Acinetobacter baumannii",
+        "mesh_id": "D040981"
+      }
+    ],
+    "Pseudomonas aeruginosa": [
+      {
+        "ui": "C0033809",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0033809",
+        "name": "Pseudomonas aeruginosa",
+        "mesh_id": "D011550"
+      },
+      {
+        "ui": "C0854135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0854135",
+        "name": "Pseudomonas aeruginosa infection",
+        "mesh_id": "D011552"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "5-acetyl-2-methylpyridine",
+    "2-butanone",
+    "2-nonanone",
+    "1-pentanol",
+    "butyl formate"
+  ],
+  "compound_CID": [
+    {
+      "5-acetyl-2-methylpyridine": 95292,
+      "2-butanone": 6569,
+      "2-nonanone": 13187,
+      "1-pentanol": 6276,
+      "butyl formate": 11614
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "5-acetyl-2-methylpyridine_methicillin-resistant_Staphylococcus_aureus": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, which include 5-acetyl-2-methylpyridine as a major compound, were tested for antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA). The VOCs from Bacillus sp. BO53 inhibited the growth of S. aureus, indicating antibacterial activity. Since 5-acetyl-2-methylpyridine is one of the major VOCs identified in this bacterial strain's emissions, it is implicated in the observed inhibitory effect against MRSA. Therefore, there is evidence of a relationship between 5-acetyl-2-methylpyridine and methicillin-resistant Staphylococcus aureus based on its presence in VOCs that inhibit MRSA growth."
+      },
+      "5-acetyl-2-methylpyridine_Acinetobacter_baumanni": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, which include 5-acetyl-2-methylpyridine as a major compound, showed inhibitory effects on the growth of Acinetobacter baumanni. This indicates a relationship between 5-acetyl-2-methylpyridine and antibacterial activity against Acinetobacter baumanni, suggesting that this compound contributes to the inhibition of this antibiotic-resistant bacterium."
+      },
+      "5-acetyl-2-methylpyridine_Pseudomonas_aeruginosa": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, which include 5-acetyl-2-methylpyridine as a major compound, inhibited the growth of Pseudomonas aeruginosa in vitro. This indicates a direct antibacterial activity of 5-acetyl-2-methylpyridine-containing VOCs against P. aeruginosa, establishing a relationship between the compound and the disease-causing bacterium."
+      }
+    },
+    {
+      "2-butanone_methicillin-resistant_Staphylococcus_aureus": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53 and Pseudoalteromonas sp. GA327, which include 2-butanone as a major compound, exhibited antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA). Specifically, Bacillus sp. BO53 VOCs reduced the growth of S. aureus, and 2-butanone was identified as one of the primary VOCs in both bacterial species. This suggests a relationship between 2-butanone and inhibitory effects on MRSA, indicating that 2-butanone is likely involved in the antibacterial activity against this antibiotic-resistant pathogen."
+      },
+      "2-butanone_Acinetobacter_baumanni": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by octocoral-associated bacteria Bacillus sp. BO53 and Pseudoalteromonas sp. GA327 exhibit antibacterial activity against antibiotic-resistant bacteria including Acinetobacter baumanni. Specifically, 2-butanone is identified as one of the major VOCs produced by both Bacillus sp. BO53 and Pseudoalteromonas sp. GA327. The VOCs, including 2-butanone, are implicated in inhibiting or reducing the growth of Acinetobacter baumanni in vitro. Therefore, there is evidence of a relationship between 2-butanone and antibacterial activity against Acinetobacter baumanni."
+      },
+      "2-butanone_Pseudomonas_aeruginosa": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by octocoral-associated bacteria, including 2-butanone, exhibited antibacterial activity against Pseudomonas aeruginosa. Specifically, 2-butanone was identified as a major compound in the VOCs from both Bacillus sp. BO53 and Pseudoalteromonas sp. GA327, both of which strongly inhibited the growth of P. aeruginosa in vitro. This suggests a clear relationship where 2-butanone contributes to the antibacterial effects against Pseudomonas aeruginosa."
+      }
+    },
+    {
+      "2-nonanone_methicillin-resistant_Staphylococcus_aureus": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, which include 2-nonanone as a major compound, were able to reduce the growth of methicillin-resistant Staphylococcus aureus (MRSA) in vitro. This indicates that 2-nonanone is associated with antibacterial activity against MRSA. Therefore, there is evidence of a relationship between 2-nonanone and methicillin-resistant Staphylococcus aureus based on the inhibitory effects observed in the study."
+      },
+      "2-nonanone_Acinetobacter_baumanni": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, which include 2-nonanone as a major compound, showed antibacterial activity by reducing the growth of Acinetobacter baumanni. This indicates a relationship between 2-nonanone and Acinetobacter baumanni, as 2-nonanone is part of the VOC mixture responsible for the observed inhibitory effect on this antibiotic-resistant bacterium."
+      },
+      "2-nonanone_Pseudomonas_aeruginosa": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Bacillus sp. BO53, including 2-nonanone as a major compound, inhibited the growth of Pseudomonas aeruginosa in vitro. This indicates a clear relationship where 2-nonanone is associated with antibacterial activity against P. aeruginosa."
+      }
+    },
+    {
+      "1-pentanol_methicillin-resistant_Staphylococcus_aureus": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Pseudoalteromonas sp. GA327, which include 1-pentanol as a primary compound, were tested for antibacterial activity against methicillin-resistant Staphylococcus aureus (MRSA). Although the VOCs from Bacillus sp. BO53 showed a reduction in S. aureus growth, the VOCs from Pseudoalteromonas sp. GA327, which contain 1-pentanol, were part of the tested compounds. The authors propose that alcohols, such as 1-pentanol, contribute to the inhibitory biochemical mechanisms against antibiotic-resistant bacteria including MRSA. Therefore, there is evidence suggesting a relationship between 1-pentanol and antibacterial activity against methicillin-resistant Staphylococcus aureus."
+      },
+      "1-pentanol_Acinetobacter_baumanni": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Pseudoalteromonas sp. GA327, which include 1-pentanol as a primary compound, strongly inhibited the growth of Acinetobacter baumanni. This indicates a clear antibacterial activity of 1-pentanol-containing VOCs against Acinetobacter baumanni, suggesting a relationship between the compound 1-pentanol and the disease caused by this bacterium."
+      },
+      "1-pentanol_Pseudomonas_aeruginosa": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Pseudoalteromonas sp. GA327, which include 1-pentanol as a primary compound, strongly inhibited the growth of Pseudomonas aeruginosa in vitro. This indicates a clear antibacterial activity of 1-pentanol-containing VOCs against P. aeruginosa, establishing a relationship between the compound 1-pentanol and the disease caused by Pseudomonas aeruginosa."
+      }
+    },
+    {
+      "butyl formate_methicillin-resistant_Staphylococcus_aureus": {
+        "relationship": "N",
+        "reason": "The abstract describes the antibacterial activity of volatile organic compounds (VOCs) produced by two bacteria species against methicillin-resistant Staphylococcus aureus (MRSA) among other pathogens. While butyl formate is identified as one of the primary VOCs produced by Pseudoalteromonas sp. GA327, the abstract does not provide direct evidence that butyl formate itself inhibits or affects MRSA. The inhibitory effects on MRSA growth are attributed generally to VOCs from Bacillus sp. BO53 and Pseudoalteromonas sp. GA327, with a proposed mechanism involving alcohols and ketones, but butyl formate is an ester, and no specific activity of butyl formate against MRSA is mentioned. Therefore, there is no clear relationship established between butyl formate and methicillin-resistant Staphylococcus aureus based on this abstract."
+      },
+      "butyl formate_Acinetobacter_baumanni": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by the bacterium Pseudoalteromonas sp. GA327, which include butyl formate as one of the primary volatile compounds, strongly inhibited the growth of Acinetobacter baumanni. This indicates a relationship where butyl formate is part of the VOC mixture associated with antibacterial activity against Acinetobacter baumanni. Although the abstract does not isolate butyl formate's effect alone, its presence among the primary compounds in VOCs that inhibit Acinetobacter baumanni supports a relationship between butyl formate and the disease caused by this bacterium."
+      },
+      "butyl formate_Pseudomonas_aeruginosa": {
+        "relationship": "Y",
+        "reason": "The abstract reports that volatile organic compounds (VOCs) produced by Pseudoalteromonas sp. GA327, which include butyl formate as one of the primary volatile compounds, strongly inhibited the growth of Pseudomonas aeruginosa. This indicates a relationship where butyl formate is part of the VOC mixture associated with antibacterial activity against P. aeruginosa. Although the abstract does not isolate butyl formate's individual effect, its presence in the active VOC profile suggests a contributory role in inhibiting P. aeruginosa."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically names several volatile organic compounds identified from the bacteria VOCs, including 5-acetyl-2-methylpyridine, 2-butanone, 2-nonanone, 1-pentanol, and butyl formate. These are distinct chemical compounds rather than general terms, and they are highlighted as major or primary compounds contributing to antibacterial activity."
+}

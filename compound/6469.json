@@ -1,0 +1,137 @@
+{
+  "id": 6469,
+  "title": "Indoor Air Pollution and the Health of Vulnerable Groups: A Systematic Review Focused on Particulate Matter (PM), Volatile Organic Compounds (VOCs) and Their Effects on Children and People with Pre-Existing Lung Disease",
+  "Abstract": "Air pollution affects health, but much of the focus to this point has been on outdoor air. Higher indoor pollution is anticipated due to increasingly energy-efficient and less leaky buildings together with more indoor activities. Studies of indoor air pollution focusing on children and people with respiratory disease from the database Web of Science (1991–2021) were systemically reviewed according to the PRISMA guidelines, with 69 studies included in the final selection. Emissions from building materials affected indoor air quality, and ventilation also had an influence. The main indoor air pollutants are Volatile Organic Compounds (VOCs) and Particulate Matter (PM). PM sources included smoking, cooking, heating, candles, and insecticides, whereas sources of coarse particles were pets, housework and human movements. VOC sources included household products, cleaning agents, glue, personal care products, building materials and vehicle emissions. Formaldehyde levels were particularly high in new houses. Personal exposure related to both indoor and outdoor pollutant levels, highlighting home characteristics and air exchange rates as important factors. Temperature, humidity, educational level, air purifiers and time near sources were also related to personal exposure. There was an association between PM and Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma and symptoms of chronic obstructive pulmonary disease (COPD) patients. High VOCs were associated with upper airways and asthma symptoms and cancer. Effective interventional studies for PM in the future might focus on human behavior together with air purifiers and increased ventilation, whereas VOC interventions might center more on building materials and household products, alongside purification and ventilation.",
+  "Disease_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease (COPD)",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'childhood asthma', 'chronic obstructive pulmonary disease (COPD)', and 'cancer' in relation to exposure to indoor air pollutants. These are clearly named diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "chronic obstructive pulmonary disease (COPD)",
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Volatile Organic Compounds",
+    "Particulate Matter",
+    "Formaldehyde",
+    "Nitric Oxide"
+  ],
+  "compound_CID": [
+    {
+      "Volatile Organic Compounds": "None",
+      "Particulate Matter": "None",
+      "Formaldehyde": 712,
+      "Nitric Oxide": 145068
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Volatile Organic Compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that high levels of Volatile Organic Compounds (VOCs) are associated with upper airway and asthma symptoms. This suggests a clear relationship between VOC exposure and asthma. The text specifically mentions that VOCs, which originate from household products, building materials, and other indoor sources, are linked to asthma symptoms, supporting the evidence of a relationship between the compound and the disease."
+      },
+      "Volatile Organic Compounds_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract indicates that particulate matter (PM) is associated with symptoms of chronic obstructive pulmonary disease (COPD) patients, but it does not explicitly link volatile organic compounds (VOCs) to COPD. Instead, high VOC levels are associated with upper airway and asthma symptoms and cancer. Therefore, based on the abstract, there is no clear evidence of a relationship between VOCs and COPD."
+      },
+      "Volatile Organic Compounds_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that high levels of Volatile Organic Compounds (VOCs) were associated with cancer, along with upper airways and asthma symptoms. This indicates a clear relationship between VOC exposure and cancer risk as reported in the reviewed studies."
+      }
+    },
+    {
+      "Particulate Matter_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates an association between particulate matter (PM) and childhood asthma, as well as symptoms of chronic obstructive pulmonary disease (COPD) patients. It specifically mentions that PM is linked to Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, and childhood asthma, suggesting a clear relationship between PM exposure and asthma. Therefore, there is evidence supporting a relationship between particulate matter and asthma."
+      },
+      "Particulate Matter_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that there is an association between particulate matter (PM) and symptoms of chronic obstructive pulmonary disease (COPD) patients. It specifically mentions that PM is linked to lung function and symptoms in COPD, suggesting a clear relationship between exposure to particulate matter and the disease. Therefore, based on the evidence presented, particulate matter is related to COPD."
+      },
+      "Particulate Matter_cancer": {
+        "relationship": "N",
+        "reason": "The abstract indicates an association between high levels of Volatile Organic Compounds (VOCs) and cancer, but it does not mention any direct association between Particulate Matter (PM) and cancer. Instead, PM is associated with respiratory outcomes such as Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma, and symptoms of chronic obstructive pulmonary disease (COPD). Therefore, based on the abstract, there is no clear evidence of a relationship between Particulate Matter and cancer."
+      }
+    },
+    {
+      "Formaldehyde_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that formaldehyde, a volatile organic compound (VOC), is present at particularly high levels in new houses and that high VOC levels are associated with asthma symptoms. Although the abstract does not explicitly single out formaldehyde as the sole cause, it groups formaldehyde within VOCs, which are linked to asthma symptoms. Therefore, there is evidence of a relationship between formaldehyde exposure and asthma based on its classification as a VOC and the reported association of VOCs with asthma symptoms."
+      },
+      "Formaldehyde_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "N",
+        "reason": "The abstract discusses indoor air pollution and mentions that formaldehyde levels are particularly high in new houses, identifying it as a volatile organic compound (VOC). However, the specific associations reported in the abstract link particulate matter (PM) with symptoms of chronic obstructive pulmonary disease (COPD) patients, while high VOCs are associated with upper airway and asthma symptoms and cancer. There is no direct evidence or mention of a relationship between formaldehyde exposure and COPD symptoms or disease in the abstract."
+      },
+      "Formaldehyde_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that high levels of Volatile Organic Compounds (VOCs), which include formaldehyde, were associated with cancer. Although formaldehyde is specifically mentioned as being present at particularly high levels in new houses, the broader category of VOCs, to which formaldehyde belongs, is linked to cancer in the reviewed studies. Therefore, there is evidence in the abstract supporting a relationship between formaldehyde exposure and cancer."
+      }
+    },
+    {
+      "Nitric Oxide_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates an association between particulate matter (PM) and Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma, and symptoms of COPD patients. FeNO is a biomarker related to Nitric Oxide levels in the respiratory system. The mention of an association between PM and FeNO, alongside childhood asthma, suggests a relationship between Nitric Oxide and asthma. Additionally, high VOCs were associated with asthma symptoms, further supporting the link between indoor air pollutants, Nitric Oxide markers, and asthma."
+      },
+      "Nitric Oxide_chronic_obstructive_pulmonary_disease_(COPD)": {
+        "relationship": "Y",
+        "reason": "The abstract indicates an association between particulate matter (PM) and Fractional exhaled Nitric Oxide (FeNO), lung function, oxygen saturation, childhood asthma, and symptoms of chronic obstructive pulmonary disease (COPD) patients. Since FeNO is a biomarker related to Nitric Oxide, this suggests a relationship between Nitric Oxide levels and COPD symptoms. Therefore, there is evidence of a relationship between Nitric Oxide and COPD based on the abstract."
+      },
+      "Nitric Oxide_cancer": {
+        "relationship": "N",
+        "reason": "The abstract mentions an association between high VOCs and cancer, and also notes an association between particulate matter (PM) and Fractional exhaled Nitric Oxide (FeNO), lung function, and respiratory diseases such as asthma and COPD. However, there is no direct evidence or mention of a relationship between Nitric Oxide itself and cancer in the abstract. The link to cancer is specifically made with VOCs, not Nitric Oxide."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions Volatile Organic Compounds (VOCs), Particulate Matter (PM), Formaldehyde, and Nitric Oxide (in the form of Fractional exhaled Nitric Oxide, FeNO) as chemical compounds relevant to indoor air pollution and health effects. These are specific chemical substances rather than general terms."
+}

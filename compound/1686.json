@@ -1,0 +1,32 @@
+{
+  "id": 1686,
+  "title": "Introduction--environmental air toxics: role in asthma occurrence?",
+  "Abstract": "Research Center is to develop and support research that will yield a better understanding of the potential risks posed to human health by exposure to air toxics. The Center's research program, developed col-laboratively by scientific experts from academia, industry and government , seeks to fill the gaps in scientific data that are required to make sound environmental health public policy decisions. In formulating its research program, the Leland Center has emphasized the importance of obtaining accurate personal exposure data for study populations in order to understand the relationship between exposure and health effects. Projects supported by the Center have collected individual measurements of exposure to a variety of air toxics, including volatile organic compounds, aldehydes, and metals on fine particulates. These data sets will contribute to our knowledge of population exposures to air toxics, an area in which data have been lacking. Three projects sponsored by the Center are described in this issue of Environmental Health Perspectives Supplements. outdoor, and personal air concentrations have been collected in urban areas. In the third study, the hypothesis of an association between particulate air toxic metals and adverse respiratory outcomes is being investigated at Washington State University, using data from an ongoing project in Spokane, Washington. One of the Center's early research topics was the possible association between urban air toxics and asthma incidence and exacerbation. The topic was addressed in 1993 by a rigorous literature survey on the subject sponsored by the Center, and a Workshop in 1994 at which researchers from a broad range of disciplines described the state of scientific knowledge about asthma and air toxics (1). The state of the science 7 years later was presented under sponsorship of the Center in 2001 at the symposium \" Environmental Air Toxics: Role in The goals of the symposium were to a) develop most recent conclusions on the relationship between air toxics and environmental asthma, b) identify gaps in information and understanding related to the potential roles of air toxics in asthma causation and/or exacerba-tion, c) recommend new research programs that would address the identified gaps in information and data, and d) publish the important outcomes of the symposium in a peer-reviewed journal. Topics covered during the symposium included lifestyle and biological influences on asthma pathogenesis, epidemiology of asthma, impact of air pollutants on asthma, occupational asthma and implications for the public at large; and the impact of air toxics on …",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' multiple times, including phrases like 'asthma incidence and exacerbation,' 'asthma and air toxics,' 'epidemiology of asthma,' and 'occupational asthma.' These are specific disease names, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories of chemical substances such as 'volatile organic compounds,' 'aldehydes,' and 'metals on fine particulates,' but does not specify any particular chemical compound names."
+}

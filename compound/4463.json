@@ -1,0 +1,146 @@
+{
+  "id": 4463,
+  "title": "Ozone Pollution: A Major Health Hazard Worldwide",
+  "Abstract": "Oxides of nitrogen (NOx) and volatile organic compounds (VOCs) released into the atmosphere can react in the presence of solar irradiation, leading to ozone formation in the troposphere. Historically, before clean air regulations were implemented to control NOx and VOCs, ozone concentrations were high enough to exert acute effects such as eye and nose irritation, respiratory disease emergencies, and lung function impairment. At or above current regulatory standards, day-to-day variations in ozone concentrations have been positively associated with asthma incidence and daily non-accidental mortality rate. Emerging evidence has shown that both short-term and long-term exposures to ozone, at concentrations below the current regulatory standards, were associated with increased mortality due to respiratory and cardiovascular diseases. The pathophysiology to support the epidemiologic associations between mortality and morbidity and ozone centers at the chemical and toxicological property of ozone as a strong oxidant, being able to induce oxidative damages to cells and the lining fluids of the airways, and immune-inflammatory responses within and beyond the lung. These new findings add substantially to the existing challenges in controlling ozone pollution. For example, in the United States in 2016, 90% of non-compliance to the national ambient air quality standards was due to ozone whereas only 10% was due to particulate matter and other regulated pollutants. Climate change, through creating atmospheric conditions favoring ozone formation, has been and will continue to increase ozone concentrations in many parts of world. Worldwide, ozone is responsible for several hundreds of thousands of premature deaths and tens of millions of asthma-related emergency room visits annually. To combat ozone pollution globally, more aggressive reductions in fossil fuel consumption are needed to cut NOx and VOCs as well as greenhouse gas emissions. Meanwhile, preventive and therapeutic strategies are needed to alleviate the detrimental effects of ozone especially in more susceptible individuals. Interventional trials in humans are needed to evaluate the efficacy of antioxidants and ozone-scavenging compounds that have shown promising results in animal studies.",
+  "Disease_List": [
+    "asthma",
+    "respiratory disease",
+    "cardiovascular diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'asthma', 'respiratory disease', and 'cardiovascular diseases'. These are named diseases rather than general terms. The mention of 'asthma incidence', 'respiratory disease emergencies', and 'mortality due to respiratory and cardiovascular diseases' clearly identifies these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "respiratory disease",
+    "cardiovascular diseases"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "respiratory disease": [
+      {
+        "ui": "C0035242",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035242",
+        "name": "Respiratory Tract Diseases",
+        "mesh_id": "D012140"
+      },
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      }
+    ],
+    "cardiovascular diseases": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Oxides of nitrogen",
+    "NOx",
+    "volatile organic compounds",
+    "VOCs",
+    "ozone"
+  ],
+  "compound_CID": [
+    {
+      "Oxides of nitrogen": 25352,
+      "NOx": "None",
+      "volatile organic compounds": "None",
+      "VOCs": "None",
+      "ozone": 24823
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Oxides of nitrogen_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that oxides of nitrogen (NOx) contribute to the formation of ozone in the troposphere. Ozone, in turn, is associated with increased asthma incidence and asthma-related emergency room visits. Although the direct relationship is between ozone and asthma, NOx is a precursor to ozone formation, making it indirectly related to asthma exacerbations. The abstract highlights that controlling NOx emissions is crucial to reducing ozone pollution and its harmful respiratory effects, including those on asthma. Therefore, there is evidence of a relationship between oxides of nitrogen and asthma through the mediation of ozone."
+      },
+      "Oxides of nitrogen_respiratory_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explains that oxides of nitrogen (NOx) contribute to the formation of ozone in the troposphere, which has been historically linked to acute respiratory effects including respiratory disease emergencies and lung function impairment. It further details that ozone exposure, which is directly related to NOx levels, is associated with increased mortality due to respiratory diseases. Therefore, there is clear evidence that oxides of nitrogen indirectly contribute to respiratory disease through their role in ozone formation and its subsequent harmful respiratory effects."
+      },
+      "Oxides of nitrogen_cardiovascular_diseases": {
+        "relationship": "N",
+        "reason": "The abstract describes oxides of nitrogen (NOx) as precursors to ozone formation, which is linked to respiratory and cardiovascular diseases. However, the direct relationship is between ozone exposure and cardiovascular diseases, not directly between oxides of nitrogen and cardiovascular diseases. The abstract emphasizes the health effects of ozone formed from NOx and VOCs, but does not provide direct evidence that oxides of nitrogen themselves cause cardiovascular diseases."
+      }
+    },
+    {
+      "NOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that NOx compounds contribute to the formation of ozone in the troposphere through reactions with VOCs under solar irradiation. Ozone, in turn, is directly associated with increased asthma incidence and asthma-related emergency room visits. Although the abstract does not state a direct effect of NOx on asthma, it clearly establishes that NOx is a precursor to ozone, which has a well-documented relationship with asthma exacerbations and respiratory morbidity. Therefore, there is an indirect but significant relationship between NOx and asthma mediated by ozone formation."
+      },
+      "NOx_respiratory_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explains that NOx (oxides of nitrogen) and VOCs contribute to the formation of ozone in the troposphere. Elevated ozone levels have been historically linked to acute respiratory effects, including respiratory disease emergencies and lung function impairment. Both short-term and long-term exposures to ozone, which is formed from NOx, are associated with increased mortality due to respiratory diseases. Therefore, although NOx itself is not directly stated to cause respiratory disease, it plays a critical role in ozone formation, which has a well-established relationship with respiratory disease. This indirect but causative link supports a relationship between NOx and respiratory disease."
+      },
+      "NOx_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explains that NOx contributes to the formation of ozone in the troposphere. It further details that both short-term and long-term exposures to ozone are associated with increased mortality due to respiratory and cardiovascular diseases. Since NOx is a precursor to ozone formation, there is an indirect but clear relationship between NOx and cardiovascular diseases through ozone exposure. The abstract emphasizes the need to reduce NOx emissions to combat ozone pollution and its health impacts, including cardiovascular disease mortality."
+      }
+    },
+    {
+      "volatile organic compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs), along with oxides of nitrogen (NOx), contribute to the formation of ozone in the troposphere. Ozone exposure, which results from the reaction of VOCs and NOx, has been positively associated with asthma incidence and asthma-related emergency room visits. Although the direct relationship is between ozone and asthma, VOCs are a key precursor to ozone formation, thereby indirectly linking VOCs to asthma exacerbations. The abstract highlights that controlling VOC emissions is necessary to reduce ozone pollution and its associated respiratory health impacts, including asthma."
+      },
+      "volatile organic compounds_respiratory_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs), along with oxides of nitrogen (NOx), contribute to the formation of ozone in the troposphere. Elevated ozone levels have been linked to acute respiratory effects, including respiratory disease emergencies and lung function impairment. Furthermore, both short-term and long-term exposure to ozone, which is formed from VOCs and NOx, is associated with increased mortality due to respiratory diseases. Therefore, VOCs indirectly contribute to respiratory disease by promoting ozone formation, which has well-documented harmful effects on respiratory health."
+      },
+      "volatile organic compounds_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs), along with oxides of nitrogen (NOx), contribute to the formation of ozone in the troposphere. Ozone exposure, both short-term and long-term, is associated with increased mortality due to respiratory and cardiovascular diseases. Although the direct relationship is between ozone and cardiovascular diseases, VOCs are precursors to ozone formation, thereby indirectly linking VOCs to cardiovascular diseases through their role in ozone generation. The abstract highlights the toxicological effects of ozone, including oxidative damage and immune-inflammatory responses, which support the epidemiologic associations with cardiovascular morbidity and mortality. Therefore, there is evidence of a relationship between VOCs and cardiovascular diseases mediated by ozone."
+      }
+    },
+    {
+      "VOCs_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract explains that VOCs, along with NOx, contribute to the formation of ozone in the troposphere. Ozone exposure, both short-term and long-term, is positively associated with increased asthma incidence and asthma-related emergency room visits. Although the direct relationship is between ozone and asthma, VOCs are a key precursor to ozone formation, thereby indirectly linking VOCs to asthma exacerbations and related respiratory effects. The abstract emphasizes the need to reduce VOCs to control ozone pollution and mitigate asthma-related health impacts."
+      },
+      "VOCs_respiratory_disease": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs), along with oxides of nitrogen (NOx), contribute to the formation of ozone in the troposphere. Elevated ozone levels have been historically linked to acute respiratory effects, including respiratory disease emergencies and lung function impairment. Furthermore, both short-term and long-term exposure to ozone, which is formed through reactions involving VOCs, is associated with increased mortality due to respiratory diseases. Therefore, VOCs indirectly contribute to respiratory disease by promoting ozone formation, which has documented adverse respiratory health effects."
+      },
+      "VOCs_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract explains that volatile organic compounds (VOCs), along with oxides of nitrogen (NOx), contribute to the formation of ozone in the troposphere. Ozone exposure, both short-term and long-term, is associated with increased mortality due to respiratory and cardiovascular diseases. Although the direct relationship is between ozone and cardiovascular diseases, VOCs are precursors to ozone formation, thereby indirectly linking VOCs to cardiovascular disease risk through their role in ozone generation. The abstract emphasizes the need to reduce VOCs to control ozone pollution and its health impacts, including cardiovascular diseases."
+      }
+    },
+    {
+      "ozone_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract provides clear evidence of a relationship between ozone and asthma. It states that day-to-day variations in ozone concentrations have been positively associated with asthma incidence and asthma-related emergency room visits. Ozone is described as a strong oxidant that induces oxidative damage and immune-inflammatory responses in the airways, which supports the epidemiologic associations with respiratory diseases including asthma. Additionally, ozone pollution is linked to tens of millions of asthma-related emergency visits annually worldwide, indicating a significant impact on asthma morbidity."
+      },
+      "ozone_respiratory_disease": {
+        "relationship": "Y",
+        "reason": "The abstract provides clear evidence of a relationship between ozone and respiratory disease. It states that ozone formation in the troposphere, resulting from reactions involving NOx and VOCs, has historically caused acute effects including respiratory disease emergencies and lung function impairment. Furthermore, both short-term and long-term exposures to ozone, even at concentrations below current regulatory standards, are associated with increased mortality due to respiratory diseases. The toxicological properties of ozone as a strong oxidant induce oxidative damage and immune-inflammatory responses in the airways, supporting the epidemiologic associations with respiratory morbidity and mortality. Additionally, ozone is linked to millions of asthma-related emergency visits annually, further confirming its impact on respiratory health."
+      },
+      "ozone_cardiovascular_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between ozone exposure and cardiovascular diseases. It states that both short-term and long-term exposures to ozone, even at concentrations below current regulatory standards, are associated with increased mortality due to respiratory and cardiovascular diseases. The pathophysiological basis includes ozone's strong oxidant properties, which induce oxidative damage and immune-inflammatory responses that can affect the cardiovascular system. Therefore, there is clear evidence supporting a link between ozone and cardiovascular diseases."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances including oxides of nitrogen (NOx), volatile organic compounds (VOCs), and ozone. These are specific chemical entities involved in atmospheric reactions and pollution, as opposed to general terms like 'chemicals' or 'compounds'."
+}

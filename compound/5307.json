@@ -1,0 +1,131 @@
+{
+  "id": 5307,
+  "title": "The sophisticated evolution of Trichoderma to control insect pests",
+  "Abstract": "Trichoderma (Ascomycota, teleomorph: Hypocrea) is comprised of species that are multipurpose, plant-beneficial fungi with importance in agriculture as a direct biological control agent (BCA). However, due to its interaction with plants, it has become recognized also as an indirect BCA and a biostimulant, permitting reduced applications of agrochemicals, thus promoting an ecosustainable agriculture (1). Phylogenomic analysis has shown that the genus shared a last common ancestor with entomoparasitic hypocrealean fungi (e.g., Cordyceps, Beauveria) and evolved from a predecessor with limited cellulolytic capability that fed on either fungi or arthropods (2). Trichoderma evolution was subsequently directed toward successive host shifts combining mycotrophy and phytophagy (3), and it is widely accepted that mycoparasitism is the ancestral lifestyle of the genus (4). However, direct activity against insects, together with indirect biocontrol via activation of plant defenses or attraction of insect pest enemies, either by Trichoderma-produced metabolites or induced phytocompound release from the plant by this fungus, are traits that the species of Trichoderma have retained and acquired during its evolutionary leaps (1). Di Lelio et al. (5), in PNAS, describe how a multitrophic fungus–plant–animal–bacteria interaction (Fig. 1) leads to a novel mechanism of Trichodermamediated insect pest biocontrol by modification of the bacterial microbiome in the phytophagous larvae feeding on leaves from a plant whose metabolome has been modified following Trichoderma colonization. The separation of the Trichoderma genus from the entomopathogenic fungi reveals the possession of hydrolytic enzymes, such as chitinases and proteases, as a starting arsenal for feeding on insects. During various evolutionary leaps, in the soil and rhizosphere, Trichoderma spp. developed the ability to uptake a plethora of genes encoding for other enzymes, and secondary metabolites, as evidenced in the genome sequences of existing fungal species (https://mycocosm.jgi. doe.gov/Trichoderma400_project), enabling them to mycoparasitize Ascomycota fungi and feeding on other soil-borne organisms, such as Basidiomycetes, Oomycetes, nematodes, and even insects (1, 3). Furthermore, Trichoderma can also reprogram plant immunological memory, generating faster and stronger, long-lasting and heritable, defense responses, by activating a mechanism known as priming (6). Trichoderma, as soil colonizers and producers of secreted enzymes have demonstrated direct biocontrol of insects, such as phytophagous Lepidoptera, by disrupting the structure and permeability of midgut peritrophic matrix (7). The insecticidal capacity of Trichoderma extends beyond agriculture, as crude extracts of secondary metabolites have shown inhibitory effects on larvae of the Anopheles mosquito, the vector of malaria (8), and enzymatic activity may inhibit cuticle formation of the mosquito Aedes aegypti that transmits human diseases such as yellow fever, dengue and Zika (9). As free-living soil microorganisms, Trichoderma can exert another form of biocontrol by releasing volatile organic compounds (VOCs), such as 1-octen-3-ol and 6-pentyl-2H-pyran2-one (6-PP), that can attract parasitoids and predators of insect pests (10) or have aboveground (11) or belowground (12) antifeedant effects that mitigate herbivore attack. The leap to colonizing the surface of and living endophytically in the roots, has permitted Trichoderma strains with this ability to “communicate” with plants to promote growth and induce priming. In relation to herbivores, this plant symbiont is interested in maintaining the health of its plant host, therefore the priming activated by the Trichoderma does not exclude effects on insects. To this end, Trichoderma has developed the capacity to activate plant responses (1): i) up-regulate genes involved in oxidative burst reactions, ii) produce changes in the metabolome that result in phytocompounds",
+  "Disease_List": [
+    "malaria",
+    "yellow fever",
+    "dengue",
+    "Zika"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases transmitted by mosquitoes, including malaria, yellow fever, dengue, and Zika. These are well-known specific diseases, not general terms, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "malaria",
+    "yellow fever",
+    "dengue",
+    "Zika"
+  ],
+  "UMLS_search_results": {
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "yellow fever": [
+      {
+        "ui": "C0043395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043395",
+        "name": "Yellow Fever",
+        "mesh_id": "D015004"
+      },
+      {
+        "ui": "C0301508",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0301508",
+        "name": "yellow fever vaccine",
+        "mesh_id": "D022341"
+      }
+    ],
+    "dengue": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      }
+    ],
+    "Zika": [
+      {
+        "ui": "C0318793",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0318793",
+        "name": "Zika Virus",
+        "mesh_id": "D000071244"
+      },
+      {
+        "ui": "C0276289",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276289",
+        "name": "Zika Virus Infection",
+        "mesh_id": "D000071243"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "1-octen-3-ol",
+    "6-pentyl-2H-pyran-2-one"
+  ],
+  "compound_CID": [
+    {
+      "1-octen-3-ol": 18827,
+      "6-pentyl-2H-pyran-2-one": 33960
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "1-octen-3-ol_malaria": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of Trichoderma fungi and their metabolites in biocontrol of insect pests, including effects on mosquitoes that are vectors of malaria. It mentions that crude extracts of secondary metabolites from Trichoderma have inhibitory effects on larvae of the Anopheles mosquito, the vector of malaria. However, the specific compound 1-octen-3-ol is described as a volatile organic compound released by Trichoderma that can attract parasitoids and predators of insect pests or have antifeedant effects on herbivores. There is no direct evidence or mention in the abstract linking 1-octen-3-ol specifically to malaria or to inhibition of the malaria vector. Therefore, based on the abstract, there is no clear relationship established between 1-octen-3-ol and malaria."
+      },
+      "1-octen-3-ol_yellow_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of Trichoderma fungi and their metabolites, including 1-octen-3-ol, in biocontrol of insect pests and modulation of plant defenses. It mentions that Trichoderma enzymatic activity may inhibit cuticle formation of Aedes aegypti mosquitoes, which are vectors of yellow fever, dengue, and Zika. However, the compound 1-octen-3-ol is described as a volatile organic compound released by Trichoderma that attracts parasitoids and predators of insect pests or has antifeedant effects on herbivores. There is no direct evidence or mention in the abstract linking 1-octen-3-ol specifically to yellow fever disease or its causative agent. The relationship described is indirect and pertains to insect vector control rather than a direct relationship between 1-octen-3-ol and yellow fever disease itself."
+      },
+      "1-octen-3-ol_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the role of Trichoderma fungi and their metabolites, including 1-octen-3-ol, in biocontrol of insect pests and modulation of plant defenses. It mentions that Trichoderma enzymatic activity may inhibit cuticle formation of Aedes aegypti mosquitoes, which are vectors of dengue, but does not provide any direct evidence linking 1-octen-3-ol specifically to dengue disease or its control. The compound 1-octen-3-ol is described as a volatile organic compound that attracts parasitoids and predators of insect pests or has antifeedant effects, but no direct relationship to dengue virus or disease is indicated. Therefore, based on the abstract, there is no clear evidence of a relationship between 1-octen-3-ol and dengue."
+      },
+      "1-octen-3-ol_Zika": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Trichoderma species produce volatile organic compounds (VOCs) including 1-octen-3-ol, which have insecticidal and biocontrol effects. It specifically mentions that enzymatic activity from Trichoderma may inhibit cuticle formation of the mosquito Aedes aegypti, which is a vector for human diseases such as yellow fever, dengue, and Zika. Although the abstract does not explicitly state that 1-octen-3-ol directly affects Zika virus or the disease itself, it establishes a relationship between 1-octen-3-ol (as a Trichoderma-produced VOC) and the vector of Zika, implying an indirect relationship through vector control. Therefore, there is evidence of a relationship between 1-octen-3-ol and Zika in the context of vector biocontrol."
+      }
+    },
+    {
+      "6-pentyl-2H-pyran-2-one_malaria": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Trichoderma species produce secondary metabolites, including volatile organic compounds such as 6-pentyl-2H-pyran-2-one (6-PP). It specifically mentions that crude extracts of secondary metabolites from Trichoderma have shown inhibitory effects on larvae of the Anopheles mosquito, which is the vector of malaria. Although the abstract does not explicitly isolate 6-PP as the sole active compound against malaria vectors, it includes 6-PP among the VOCs produced by Trichoderma that have biological activity related to insect pest control. Therefore, there is evidence suggesting a relationship between 6-pentyl-2H-pyran-2-one and malaria through its potential role in controlling the mosquito vector of the disease."
+      },
+      "6-pentyl-2H-pyran-2-one_yellow_fever": {
+        "relationship": "N",
+        "reason": "The abstract discusses the compound 6-pentyl-2H-pyran-2-one (6-PP) as a volatile organic compound produced by Trichoderma species that can attract parasitoids and predators of insect pests and has antifeedant effects on herbivores. It also mentions that Trichoderma enzymatic activity may inhibit cuticle formation of the mosquito Aedes aegypti, which transmits yellow fever, dengue, and Zika. However, there is no direct evidence or mention in the abstract that 6-pentyl-2H-pyran-2-one itself has any direct relationship or effect on yellow fever disease or its causative agent. The compound's role is related to insect pest control and plant defense, not to yellow fever virus or disease treatment. Therefore, based on the abstract, there is no clear relationship between 6-pentyl-2H-pyran-2-one and yellow fever."
+      },
+      "6-pentyl-2H-pyran-2-one_dengue": {
+        "relationship": "N",
+        "reason": "The abstract discusses the compound 6-pentyl-2H-pyran-2-one (6-PP) as a volatile organic compound produced by Trichoderma species that can attract parasitoids and predators of insect pests and has antifeedant effects mitigating herbivore attack. It also mentions that Trichoderma enzymatic activity may inhibit cuticle formation of the mosquito Aedes aegypti, which transmits dengue, but does not specifically link 6-PP to any direct effect on dengue virus or the disease itself. The relationship described is indirect and related to insect pest control rather than a direct relationship between 6-PP and dengue disease. Therefore, there is no clear evidence in the abstract of a direct relationship between 6-pentyl-2H-pyran-2-one and dengue."
+      },
+      "6-pentyl-2H-pyran-2-one_Zika": {
+        "relationship": "N",
+        "reason": "The abstract discusses the compound 6-pentyl-2H-pyran-2-one (6-PP) as a volatile organic compound produced by Trichoderma species that can attract parasitoids and predators of insect pests and have antifeedant effects on herbivores. It also mentions that Trichoderma enzymatic activity may inhibit cuticle formation of the mosquito Aedes aegypti, which transmits diseases including Zika. However, there is no direct evidence or mention in the abstract that 6-pentyl-2H-pyran-2-one itself has any direct relationship or effect on the Zika virus or the disease Zika. The compound's role is described in the context of insect pest control and plant defense, not in relation to Zika disease control or treatment."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds produced by Trichoderma, including volatile organic compounds such as 1-octen-3-ol and 6-pentyl-2H-pyran-2-one (6-PP). These are named chemical substances with defined structures, unlike general terms like enzymes or metabolites."
+}

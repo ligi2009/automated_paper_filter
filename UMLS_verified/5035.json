@@ -1,0 +1,41 @@
+{
+  "id": 5035,
+  "title": "Screening of Chorioamnionitis Using Volatile Organic Compound Detection in Exhaled Breath: A Pre-clinical Proof of Concept Study",
+  "Abstract": "Chorioamnionitis is a major risk factor for preterm birth and an independent risk factor for postnatal morbidity for which currently successful therapies are lacking. Emerging evidence indicates that the timing and duration of intra-amniotic infections are crucial determinants for the stage of developmental injury at birth. Insight into the dynamical changes of organ injury after the onset of chorioamnionitis revealed novel therapeutic windows of opportunity. Importantly, successful development and implementation of therapies in clinical care is currently impeded by a lack of diagnostic tools for early (prenatal) detection and surveillance of intra-amniotic infections. In the current study we questioned whether an intra-amniotic infection could be accurately diagnosed by a specific volatile organic compound (VOC) profile in exhaled breath of pregnant sheep. For this purpose pregnant Texel ewes were inoculated intra-amniotically with Ureaplasma parvum and serial collections of exhaled breath were performed for 6 days. Ureaplasma parvum infection induced a distinct VOC-signature in expired breath of pregnant sheep that was significantly different between day 0 and 1 vs. day 5 and 6. Based on a profile of only 15 discriminatory volatiles, animals could correctly be classified as either infected (day 5 and 6) or not (day 0 and 1) with a sensitivity of 83% and a specificity of 71% and an area under the curve of 0.93. Chemical identification of these distinct VOCs revealed the presence of a lipid peroxidation marker nonanal and various hydrocarbons including n-undecane and n-dodecane. These data indicate that intra-amniotic infections can be detected by VOC analyses of exhaled breath and might provide insight into temporal dynamics of intra-amniotic infection and its underlying pathways. In particular, several of these volatiles are associated with enhanced oxidative stress and undecane and dodecane have been reported as predictive biomarker of spontaneous preterm birth in humans. Applying VOC analysis for the early detection of intra-amniotic infections will lead to appropriate surveillance of these high-risk pregnancies, thereby facilitating appropriate clinical course of action including early treatment of preventative measures for pre-maturity-associated morbidities.",
+  "Disease_List": [
+    "Chorioamnionitis",
+    "preterm birth",
+    "intra-amniotic infections"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'Chorioamnionitis', which is described as a major risk factor for preterm birth. It also refers to 'preterm birth' itself as a condition and discusses 'intra-amniotic infections' as a specific infectious disease state. These are specific disease conditions rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chorioamnionitis",
+    "preterm birth"
+  ],
+  "UMLS_search_results": {
+    "Chorioamnionitis": [
+      {
+        "ui": "C0008495",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0008495",
+        "name": "Chorioamnionitis",
+        "mesh_id": "D002821"
+      }
+    ],
+    "preterm birth": [
+      {
+        "ui": "C0151526",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151526",
+        "name": "Premature Birth",
+        "mesh_id": "D047928"
+      }
+    ],
+    "intra-amniotic infections": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

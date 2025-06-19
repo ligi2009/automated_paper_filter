@@ -1,0 +1,68 @@
+{
+  "id": 793,
+  "title": "P321 Development of a breath-based diagnostic for valley fever, an endemic fungal pneumonia",
+  "Abstract": "Abstract Poster session 3, September 23, 2022, 12:30 PM - 1:30 PM Objectives Valley fever (coccidioidomycosis) is an endemic pneumonia of the North and South American deserts, and is responsible for up to 30% of community-acquired pneumonia in endemic and highly populated areas of the US desert southwest. The causative agents of Valley fever are the dimorphic fungi Coccidioides immitis and C. posadasii, which grow as mycelia in the environment and spherules within the lungs of vulnerable hosts. The current diagnostics for Valley fever are severely lacking due to poor sensitivity and invasiveness, contributing to a 23-day median time-to-diagnosis. There is a critical need for novel diagnostics for detecting and identifying Valley fever lung infections. Our long-term goal is to develop a breath-based diagnostic for coccidioidomycosis lung infections. Our current objective is to identify and validate volatile biomarkers of C. immitis and C. posadasii infections via metabolomics analyses of in vitro cultures, mouse model lung infections, and lung specimens from humans with Valley fever. Thus far we have characterized the volatile organic compounds (VOCs) produced by C. immitis and C. posadasii in vitro and evaluated the relationship of the volatile metabolomes to lifecycle, and we have investigated the VOC profiles of bronchoalveolar lavage fluid (BALF) samples from mouse model lung infections of Valley fever. Methods For in vitro analyses, six strains each of C. immitis and C. posadasii were cultured in triplicate to induce mycelial or spherule formation. For mouse model infections, female C57BL/6 mice were infected by intranasal inoculation with C. immitis RS (n = 6), C. posadasii Silveira (n = 6), or vehicle control (n = 4), and BALF fluid was collected 10 days post-infection. The in vitro spent media and BALF sample VOCs were analyzed by headspace solid-phase microextraction and comprehensive two-dimensional gas chromatography-time-of-flight mass spectrometry (SPME-GC × GC-TOFMS). The BALF samples were analyzed for cytokines using a mouse magnetic 26-Plex ProcartaPlexTM panel and the mouse spleen and brain were quantified for fungal dissemination. Data analysis: Hierarchical clustering analysis (HCA), principal component analysis (PCA), and Kendall correlation were performed on volatile and cytokine data. Results We detected a total of 353 VOCs that were at least two-fold more abundant in Coccidioides cultures versus medium controls and found the volatile metabolome of Coccidioides is more dependent on lifecycle (mycelia vs. spherule) than species (Fig. 1). The BALF samples indicate that lung infection VOCs are correlated to cytokine production (Fig. 2) and classify mice based on their individual level of infection. We did not observe any separation between the C. immitis and C. posadasii infected mice by their BALF VOCs via PCA; however, separation of these classes was observed by PCA of the cytokines. Conclusions Our pilot data indicate that Coccidioides spp. and the host produce volatile metabolites that may yield biomarkers for a Valley fever breath test. We have collected BALF and sputum from human patients with community-acquired pneumonia, and the next steps will be to determine which Valley fever biomarkers can differentiate between bacterial and fungal etiologies of disease.",
+  "Disease_List": [
+    "Valley fever",
+    "coccidioidomycosis",
+    "community-acquired pneumonia"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'Valley fever' and its scientific name 'coccidioidomycosis'. Additionally, 'community-acquired pneumonia' is mentioned as a specific type of pneumonia related to Valley fever. These are specific diseases rather than general terms, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Valley fever",
+    "coccidioidomycosis",
+    "community-acquired pneumonia"
+  ],
+  "UMLS_search_results": {
+    "Valley fever": [
+      {
+        "ui": "C0009186",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009186",
+        "name": "Coccidioidomycosis",
+        "mesh_id": "D003047"
+      },
+      {
+        "ui": "C0153257",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153257",
+        "name": "Primary pulmonary coccidioidomycosis",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3840167",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3840167",
+        "name": "Acute coccidioidomycosis",
+        "mesh_id": "None"
+      }
+    ],
+    "coccidioidomycosis": [
+      {
+        "ui": "C0009186",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009186",
+        "name": "Coccidioidomycosis",
+        "mesh_id": "D003047"
+      }
+    ],
+    "community-acquired pneumonia": [
+      {
+        "ui": "C0694549",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0694549",
+        "name": "Community-Acquired Pneumonia",
+        "mesh_id": "D000098968"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses volatile organic compounds (VOCs) produced by Coccidioides immitis and C. posadasii, but does not specify any particular chemical compound names. It refers generally to VOCs and cytokines without naming specific chemical substances."
+}

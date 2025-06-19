@@ -1,0 +1,110 @@
+{
+  "id": 5035,
+  "title": "Screening of Chorioamnionitis Using Volatile Organic Compound Detection in Exhaled Breath: A Pre-clinical Proof of Concept Study",
+  "Abstract": "Chorioamnionitis is a major risk factor for preterm birth and an independent risk factor for postnatal morbidity for which currently successful therapies are lacking. Emerging evidence indicates that the timing and duration of intra-amniotic infections are crucial determinants for the stage of developmental injury at birth. Insight into the dynamical changes of organ injury after the onset of chorioamnionitis revealed novel therapeutic windows of opportunity. Importantly, successful development and implementation of therapies in clinical care is currently impeded by a lack of diagnostic tools for early (prenatal) detection and surveillance of intra-amniotic infections. In the current study we questioned whether an intra-amniotic infection could be accurately diagnosed by a specific volatile organic compound (VOC) profile in exhaled breath of pregnant sheep. For this purpose pregnant Texel ewes were inoculated intra-amniotically with Ureaplasma parvum and serial collections of exhaled breath were performed for 6 days. Ureaplasma parvum infection induced a distinct VOC-signature in expired breath of pregnant sheep that was significantly different between day 0 and 1 vs. day 5 and 6. Based on a profile of only 15 discriminatory volatiles, animals could correctly be classified as either infected (day 5 and 6) or not (day 0 and 1) with a sensitivity of 83% and a specificity of 71% and an area under the curve of 0.93. Chemical identification of these distinct VOCs revealed the presence of a lipid peroxidation marker nonanal and various hydrocarbons including n-undecane and n-dodecane. These data indicate that intra-amniotic infections can be detected by VOC analyses of exhaled breath and might provide insight into temporal dynamics of intra-amniotic infection and its underlying pathways. In particular, several of these volatiles are associated with enhanced oxidative stress and undecane and dodecane have been reported as predictive biomarker of spontaneous preterm birth in humans. Applying VOC analysis for the early detection of intra-amniotic infections will lead to appropriate surveillance of these high-risk pregnancies, thereby facilitating appropriate clinical course of action including early treatment of preventative measures for pre-maturity-associated morbidities.",
+  "Disease_List": [
+    "Chorioamnionitis",
+    "preterm birth",
+    "intra-amniotic infections"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'Chorioamnionitis', which is described as a major risk factor for preterm birth. It also refers to 'preterm birth' itself as a condition and discusses 'intra-amniotic infections' as a specific infectious disease state. These are specific disease conditions rather than general terms like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chorioamnionitis",
+    "preterm birth"
+  ],
+  "UMLS_search_results": {
+    "Chorioamnionitis": [
+      {
+        "ui": "C0008495",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0008495",
+        "name": "Chorioamnionitis",
+        "mesh_id": "D002821"
+      }
+    ],
+    "preterm birth": [
+      {
+        "ui": "C0151526",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0151526",
+        "name": "Premature Birth",
+        "mesh_id": "D047928"
+      }
+    ],
+    "intra-amniotic infections": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nonanal",
+    "n-undecane",
+    "n-dodecane",
+    "undecane",
+    "dodecane"
+  ],
+  "compound_CID": [
+    {
+      "nonanal": 31289,
+      "n-undecane": 14257,
+      "n-dodecane": 8182,
+      "undecane": 14257,
+      "dodecane": 8182
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nonanal_Chorioamnionitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where intra-amniotic infection, a condition related to chorioamnionitis, was diagnosed using a specific volatile organic compound (VOC) profile in exhaled breath. Among the identified VOCs, nonanal, a lipid peroxidation marker, was detected as part of the distinct signature associated with infection. This indicates that nonanal is linked to the presence of intra-amniotic infection, which is directly related to chorioamnionitis. Therefore, there is evidence of a relationship between nonanal and chorioamnionitis through its role as a biomarker in detecting intra-amniotic infection."
+      },
+      "nonanal_preterm_birth": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where volatile organic compounds (VOCs) in exhaled breath were analyzed to detect intra-amniotic infections, which are a major risk factor for preterm birth. Among the identified VOCs, nonanal, a lipid peroxidation marker, was detected as part of the distinct VOC signature associated with infection. The study highlights that several VOCs, including hydrocarbons like undecane and dodecane, have been reported as predictive biomarkers of spontaneous preterm birth in humans. Although nonanal itself is not explicitly stated as a direct biomarker for preterm birth, its presence as a marker of oxidative stress in the context of intra-amniotic infection—a known cause of preterm birth—suggests a relationship. Therefore, there is evidence supporting a relationship between nonanal and preterm birth through its association with infection-induced oxidative stress and the pathophysiology leading to preterm birth."
+      }
+    },
+    {
+      "n-undecane_Chorioamnionitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where intra-amniotic infection, a condition related to chorioamnionitis, was diagnosed using a specific volatile organic compound (VOC) profile in exhaled breath. Among the identified VOCs were hydrocarbons including n-undecane. The presence of n-undecane was linked to the infection state and is associated with enhanced oxidative stress. Furthermore, n-undecane has been reported as a predictive biomarker of spontaneous preterm birth, a condition often resulting from chorioamnionitis. Therefore, there is evidence that n-undecane is related to chorioamnionitis through its role as a biomarker in the VOC profile indicative of intra-amniotic infection."
+      },
+      "n-undecane_preterm_birth": {
+        "relationship": "Y",
+        "reason": "The abstract describes that n-undecane is one of the volatile organic compounds (VOCs) identified in the exhaled breath of pregnant sheep with intra-amniotic infection, which is a major risk factor for preterm birth. It specifically states that undecane (n-undecane) has been reported as a predictive biomarker of spontaneous preterm birth in humans. This indicates a clear relationship between n-undecane and preterm birth, as its presence is associated with oxidative stress and infection-related pathways that contribute to preterm birth risk."
+      }
+    },
+    {
+      "n-dodecane_Chorioamnionitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where intra-amniotic infection, a cause of chorioamnionitis, was diagnosed using a specific volatile organic compound (VOC) profile in exhaled breath. Among the identified VOCs were hydrocarbons including n-dodecane. The presence of n-dodecane was linked to the infection and associated oxidative stress. Furthermore, n-dodecane has been reported as a predictive biomarker of spontaneous preterm birth, which is a major consequence of chorioamnionitis. Therefore, there is evidence that n-dodecane is related to chorioamnionitis through its role as a biomarker indicating intra-amniotic infection and related pathological processes."
+      },
+      "n-dodecane_preterm_birth": {
+        "relationship": "Y",
+        "reason": "The abstract describes that n-dodecane, a hydrocarbon volatile organic compound detected in exhaled breath, is associated with intra-amniotic infections which are a major risk factor for preterm birth. Specifically, n-dodecane has been reported as a predictive biomarker of spontaneous preterm birth in humans. This indicates a clear relationship between n-dodecane presence and the risk or occurrence of preterm birth, supporting its potential use in early detection and surveillance of high-risk pregnancies."
+      }
+    },
+    {
+      "undecane_Chorioamnionitis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between undecane and chorioamnionitis. It reports that undecane, a hydrocarbon volatile organic compound (VOC), was identified in the exhaled breath of pregnant sheep with intra-amniotic infection caused by Ureaplasma parvum, which is related to chorioamnionitis. The presence of undecane is part of a distinct VOC signature that differentiates infected from non-infected states. Furthermore, undecane is associated with enhanced oxidative stress and has been reported as a predictive biomarker of spontaneous preterm birth in humans, a condition linked to chorioamnionitis. Therefore, undecane is implicated as a biomarker related to the disease process of chorioamnionitis."
+      },
+      "undecane_preterm_birth": {
+        "relationship": "Y",
+        "reason": "The abstract describes that undecane, identified as one of the volatile organic compounds (VOCs) in exhaled breath, is associated with intra-amniotic infections which are a major risk factor for preterm birth. It specifically states that undecane has been reported as a predictive biomarker of spontaneous preterm birth in humans. This indicates a clear relationship between the compound undecane and the disease preterm birth, as undecane serves as a biomarker linked to the risk and detection of preterm birth."
+      }
+    },
+    {
+      "dodecane_Chorioamnionitis": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study where volatile organic compounds (VOCs) in exhaled breath were analyzed to detect intra-amniotic infections, which are related to chorioamnionitis. Among the identified VOCs, dodecane was found as one of the hydrocarbons present in the distinct VOC signature associated with infection. The presence of dodecane is linked to enhanced oxidative stress and has been reported as a predictive biomarker of spontaneous preterm birth, a condition closely related to chorioamnionitis. Therefore, there is evidence of a relationship between dodecane and chorioamnionitis through its role as a biomarker in the context of intra-amniotic infection detection."
+      },
+      "dodecane_preterm_birth": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that dodecane, identified as one of the volatile organic compounds (VOCs) in exhaled breath, is associated with intra-amniotic infections which are a major risk factor for preterm birth. Specifically, dodecane has been reported as a predictive biomarker of spontaneous preterm birth in humans. This suggests a relationship between the presence of dodecane and the risk or occurrence of preterm birth, supporting the use of VOC analysis including dodecane detection for early diagnosis and surveillance of high-risk pregnancies."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions the chemical compounds nonanal, n-undecane, and n-dodecane as part of the volatile organic compound (VOC) profile detected in exhaled breath. Additionally, undecane and dodecane are referenced as biomarkers. These are specific chemical names identified in the study related to intra-amniotic infection detection."
+}

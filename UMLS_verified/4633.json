@@ -1,0 +1,59 @@
+{
+  "id": 4633,
+  "title": "The Role of Oral Microbiota in Intra-Oral Halitosis",
+  "Abstract": "Halitosis is a common ailment concerning 15% to 60% of the human population. Halitosis can be divided into extra-oral halitosis (EOH) and intra-oral halitosis (IOH). The IOH is formed by volatile compounds, which are produced mainly by anaerobic bacteria. To these odorous substances belong volatile sulfur compounds (VSCs), aromatic compounds, amines, short-chain fatty or organic acids, alcohols, aliphatic compounds, aldehydes, and ketones. The most important VSCs are hydrogen sulfide, dimethyl sulfide, dimethyl disulfide, and methyl mercaptan. VSCs can be toxic for human cells even at low concentrations. The oral bacteria most related to halitosis are Actinomyces spp., Bacteroides spp., Dialister spp., Eubacterium spp., Fusobacterium spp., Leptotrichia spp., Peptostreptococcus spp., Porphyromonas spp., Prevotella spp., Selenomonas spp., Solobacterium spp., Tannerella forsythia, and Veillonella spp. Most bacteria that cause halitosis are responsible for periodontitis, but they can also affect the development of oral and digestive tract cancers. Malodorous agents responsible for carcinogenesis are hydrogen sulfide and acetaldehyde.",
+  "Disease_List": [
+    "halitosis",
+    "periodontitis",
+    "oral cancer",
+    "digestive tract cancers"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as halitosis and periodontitis. It also refers to oral and digestive tract cancers, which are specific disease categories. These mentions justify classifying the response as 'Y' for specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "halitosis",
+    "periodontitis",
+    "oral cancer"
+  ],
+  "UMLS_search_results": {
+    "halitosis": [
+      {
+        "ui": "C0018520",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018520",
+        "name": "Halitosis",
+        "mesh_id": "D006209"
+      }
+    ],
+    "periodontitis": [
+      {
+        "ui": "C0031099",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0031099",
+        "name": "Periodontitis",
+        "mesh_id": "D010518"
+      }
+    ],
+    "oral cancer": [
+      {
+        "ui": "C0153381",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153381",
+        "name": "Malignant neoplasm of mouth",
+        "mesh_id": "D009062"
+      },
+      {
+        "ui": "C0220641",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0220641",
+        "name": "Lip and Oral Cavity Carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "digestive tract cancers": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

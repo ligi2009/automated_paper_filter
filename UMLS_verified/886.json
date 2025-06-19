@@ -1,0 +1,28 @@
+{
+  "id": 886,
+  "title": "A novel VOC breath tracer method to evaluate indoor respiratory exposures in the near- and far-fields; implications for the spread of respiratory viruses",
+  "Abstract": "Several studies suggest that far-field transmission (>6 ft) explains a significant number of COVID-19 superspreading outbreaks. Therefore, quantifying the ratio of near- and far-field exposure to emissions from a source is key to better understanding human-to-human airborne infectious disease transmission and associated risks. In this study, we used an environmentally-controlled chamber to measure volatile organic compounds (VOCs) released from a healthy participant who consumed breath mints, which contained unique tracer compounds. Tracer measurements were made at 0.76 m (2.5 ft), 1.52 m (5 ft), 2.28 m (7.5 ft) from the participant, as well as in the exhaust plenum of the chamber. We observed that 0.76 m (2.5 ft) trials had ~36–44% higher concentrations than other distances during the first 20 minutes of experiments, highlighting the importance of the near-field exposure relative to the far-field before virus-laden respiratory aerosol plumes are continuously mixed into the far-field. However, for the conditions studied, the concentrations of human-sourced tracers after 20 minutes and approaching the end of the 60-minute trials at 0.76 m, 1.52 m, and 2.28 m were only ~18%, ~11%, and ~7.5% higher than volume-averaged concentrations, respectively. This study suggests that for rooms with similar airflow parameters disease transmission risk is dominated by near-field exposures for shorter event durations (e.g., initial 20–25-minutes of event) whereas far-field exposures are critical throughout the entire event and are increasingly more important for longer event durations. We offer a novel methodology for studying the fate and transport of airborne bioaerosols in indoor spaces using VOCs as unique proxies for bioaerosols. We provide evidence that real-time measurement of VOCs can be applied in settings with human subjects to estimate the concentration of bioaerosol at different distances from the emitter. We also improve upon the conventional assumption that a well-mixed room exhibits instantaneous and perfect mixing by addressing spatial distances and mixing over time. We quantitatively assessed the exposure levels to breath tracers at alternate distances and provided more insights into the changes on “near-field to far-field” ratios over time. This method can be used in future to estimate the benefits of alternate environmental conditions and occupant behaviors. We offer a novel methodology for studying the fate and transport of airborne bioaerosols in indoor spaces using VOCs as unique proxies for bioaerosols. We provide evidence that real-time measurement of VOCs can be applied in settings with human subjects to estimate the concentration of bioaerosol at different distances from the emitter. We also improve upon the conventional assumption that a well-mixed room exhibits instantaneous and perfect mixing by addressing spatial distances and mixing over time. We quantitatively assessed the exposure levels to breath tracers at alternate distances and provided more insights into the changes on “near-field to far-field” ratios over time. This method can be used in future to estimate the benefits of alternate environmental conditions and occupant behaviors.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19' as a specific disease name in the context of superspreading outbreaks and airborne infectious disease transmission. Although the study focuses on airborne bioaerosols and exposure measurements, COVID-19 is clearly identified as the disease of interest, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

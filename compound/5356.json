@@ -1,0 +1,67 @@
+{
+  "id": 5356,
+  "title": "Exploring the Gut Microbiome and Metabolome in Individuals with Alopecia Areata Disease",
+  "Abstract": "In recent years, heightened attention has been devoted to unravelling the intricate interplay between genetic and environmental factors shaping the gut microbiota and its significance for human health. This study delves into exploring the plausible connection between Alopecia Areata (AA), an autoimmune disease, and the dynamics of the gut microbiome. Examining a cohort of healthy adults and individuals with AA, both the gut microbiota composition and volatile organic compound (VOC) metabolites from faeces and urine were analysed. While overall microbiota composition showed no significant differences, intra-individual variability revealed distinctions related to age, gender, and pathology status, with AA individuals exhibiting reduced species richness and evenness. Differential abundance analysis identified microbial biomarkers for AA, notably Firmicutes, Lachnospirales, and Blautia, while Coprococcus stood out for healthy individuals. The Data Integration Analysis for Biomarker discovery using Latent Components (DIABLO) method further supported these findings including metabolite biomarkers, such as esters of branched chain fatty acids and branched chain amino acids as predictors for AA, suggesting potential links to oxidative stress. Despite certain limitations, the study highlights the complexity of the gut microbiome and its metabolites in the context of AA, while the biomarkers identified could be useful starting points for upcoming studies.",
+  "Disease_List": [
+    "Alopecia Areata"
+  ],
+  "Reason": "The abstract explicitly mentions 'Alopecia Areata (AA)', which is a specific autoimmune disease. The study focuses on the connection between AA and the gut microbiome, clearly identifying AA as a named disease rather than a general health condition.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Alopecia Areata"
+  ],
+  "UMLS_search_results": {
+    "Alopecia Areata": [
+      {
+        "ui": "C0002171",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002171",
+        "name": "Alopecia Areata",
+        "mesh_id": "D000506"
+      },
+      {
+        "ui": "C1862862",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1862862",
+        "name": "Patchy alopecia",
+        "mesh_id": "C531609"
+      },
+      {
+        "ui": "C0002170",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002170",
+        "name": "Alopecia",
+        "mesh_id": "D000505"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "esters of branched chain fatty acids",
+    "branched chain amino acids"
+  ],
+  "compound_CID": [
+    {
+      "esters of branched chain fatty acids": "None",
+      "branched chain amino acids": 9886134
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "esters of branched chain fatty acids_Alopecia_Areata": {
+        "relationship": "Y",
+        "reason": "The abstract reports that esters of branched chain fatty acids were identified as metabolite biomarkers and predictors for Alopecia Areata (AA) through the Data Integration Analysis for Biomarker discovery using Latent Components (DIABLO) method. This suggests a potential link between these compounds and AA, possibly related to oxidative stress mechanisms. Therefore, there is evidence of a relationship between esters of branched chain fatty acids and Alopecia Areata based on the metabolomic analysis presented."
+      }
+    },
+    {
+      "branched chain amino acids_Alopecia_Areata": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that branched chain amino acids (BCAAs) were identified as metabolite biomarkers and predictors for Alopecia Areata (AA) through the Data Integration Analysis for Biomarker discovery using Latent Components (DIABLO) method. This suggests a potential link between BCAAs and AA, possibly related to oxidative stress mechanisms. Therefore, there is evidence of a relationship between branched chain amino acids and Alopecia Areata based on the study's findings."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'esters of branched chain fatty acids' and 'branched chain amino acids' as metabolite biomarkers linked to Alopecia Areata, which are specific chemical compound classes relevant to the study. Other terms like 'Firmicutes' and 'Lachnospirales' refer to microbial taxa, not chemical compounds."
+}

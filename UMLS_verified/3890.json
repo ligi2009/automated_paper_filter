@@ -1,0 +1,30 @@
+{
+  "id": 3890,
+  "title": "Emission and Formation of Fine Particles from Hardcopy Devices: the Cause of Indoor Air Pollution",
+  "Abstract": "The last few decades have seen major changes in the home and work environments. The economies of the Indian and other industrialized nations have shifted from manufacturing towards services that engage information technologies. Advances in information technology have increased the quantity and transformed the nature of equipment used in proximity to office worker due to which electronic media used for entertainment, telecommunications and data processing have become widespread in daily life. Typical examples are television sets, video recorders, hi-fi systems, and computers with their peripherals such as monitors and printers, scanners and copiers. Tabletop printers serve individual users in their workspace or home, or clusters of users in an office suite. Scanning machines and photocopiers are prevalent in office environments (Newburger, 2001). In addition, the use of notebook computers spanning both work and non work environments is on the rise. These devices are predominantly made of polymeric components and materials which can contain not only additives, such as flame retardants and plasticizers (Wensing et al., 2005), but also chemical residues from production processing aids (Wensing et al., 2002). There is growing concern about the levels of potentially harmful pollutants that may be emitted from office equipment and for which either toxicological effects or potentially significant exposures have been described in the literature. Office equipment has been found to be a source of ozone, particulate matter, volatile organic compounds (VOCs) and semi volatile organic compounds (SVOCs). VOC, SVOC and particles can also be emitted by the paper processed during printing and copying (Wolkoff et al., 1993). Many studies have investigated the health effects of photocopier toner dust and concluded that siderosilicosis and sarcoidosis-like pulmonary diseases are associated with human exposure to photocopier toner dust (Armbruster et al., 1996). Black and Worthan (1999) have described the VOC/ TVOC, particle and ozone emissions of laser printers, dryprocess photocopiers and personal computers. Wolkoff (1999) study dealt with photocopiers and indoor air pollution. Later on Lee et al. (2001) characterized VOC, ozone and PM10 emissions from office equipment. Today discussion focuses in particular on particle release from hardcopy devices, printers and photocopiers and its impact on the health of office workers (Roller, 2006). Recent advances in measurement techniques have enabled researchers to measure the",
+  "Disease_List": [
+    "siderosilicosis",
+    "sarcoidosis-like pulmonary diseases"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names associated with exposure to photocopier toner dust: 'siderosilicosis' and 'sarcoidosis-like pulmonary diseases'. These are specific diseases rather than general terms like 'disease' or 'health conditions', which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "siderosilicosis"
+  ],
+  "UMLS_search_results": {
+    "siderosilicosis": [
+      {
+        "ui": "C0018929",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018929",
+        "name": "Silicosiderosis",
+        "mesh_id": "C537337"
+      }
+    ],
+    "sarcoidosis-like pulmonary diseases": []
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

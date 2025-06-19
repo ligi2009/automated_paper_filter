@@ -1,0 +1,61 @@
+{
+  "id": 3535,
+  "title": "Indoor air pollution and atopic diseases: a comprehensive framework",
+  "Abstract": "Indoor air pollution (IAP) is an important cause of concern for human health, leading to millions of deaths worldwide each year. Since people spend most of their time indoor the quality of the air inhaled during routine activities is of primary importance. IAP include particulate matter (PM), volatile organic compounds (VOCs), chemical gases, heavy metals, and biological contaminants. Unfortunately, their sources are various and widespread all over the household and other indoor environments, causing relevant health consequences. This narrative review aims to provide a comprehensive framework of the indoor pollutants effects on subjects affected by asthma, allergic rhinitis, and atopic dermatitis. As pivotal barriers against pollutants, in fact, respiratory and cutaneous districts can be particularly affected by IAP, especially in case of atopic diseases. On the other hand, the application of targeted adjustments, such as the avoidance of cigarette smoking, the use of hoods while cooking, the choice of adequate ventilation systems, and the use of low-emitting building materials and furniture may result in the improvement of indoor quality.",
+  "Disease_List": [
+    "asthma",
+    "allergic rhinitis",
+    "atopic dermatitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: asthma, allergic rhinitis, and atopic dermatitis. These are named conditions related to the effects of indoor air pollution on health, thus justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "allergic rhinitis",
+    "atopic dermatitis"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "allergic rhinitis": [
+      {
+        "ui": "C2607914",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2607914",
+        "name": "Allergic rhinitis (disorder)",
+        "mesh_id": "D065631"
+      },
+      {
+        "ui": "C1334103",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1334103",
+        "name": "IL13 gene",
+        "mesh_id": "None"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions general categories of indoor air pollutants such as particulate matter (PM), volatile organic compounds (VOCs), chemical gases, and heavy metals, but does not specify any particular chemical compound names."
+}

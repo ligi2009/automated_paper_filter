@@ -1,0 +1,62 @@
+{
+  "id": 1876,
+  "title": "Identifying risk factors for COPD and adult-onset asthma: an umbrella review",
+  "Abstract": "Background COPD and adult-onset asthma (AOA) are the most common noncommunicable respiratory diseases. To improve early identification and prevention, an overview of risk factors is needed. We therefore aimed to systematically summarise the nongenetic (exposome) risk factors for AOA and COPD. Additionally, we aimed to compare the risk factors for COPD and AOA. Methods In this umbrella review, we searched PubMed for articles from inception until 1 February 2023 and screened the references of relevant articles. We included systematic reviews and meta-analyses of observational epidemiological studies in humans that assessed a minimum of one lifestyle or environmental risk factor for AOA or COPD. Results In total, 75 reviews were included, of which 45 focused on risk factors for COPD, 28 on AOA and two examined both. For asthma, 43 different risk factors were identified while 45 were identified for COPD. For AOA, smoking, a high body mass index (BMI), wood dust exposure and residential chemical exposures, such as formaldehyde exposure or exposure to volatile organic compounds, were amongst the risk factors found. For COPD, smoking, ambient air pollution including nitrogen dioxide, a low BMI, indoor biomass burning, childhood asthma, occupational dust exposure and diet were amongst the risk factors found. Conclusions Many different factors for COPD and asthma have been found, highlighting the differences and similarities. The results of this systematic review can be used to target and identify people at high risk for COPD or AOA. This umbrella review provided an overview of nongenetic risk factors for both COPD and adult-onset asthma. Commonly found factors included smoking, BMI, air pollution, early life exposures and occupational exposures. https://bit.ly/3kyeWZL",
+  "Disease_List": [
+    "COPD",
+    "adult-onset asthma (AOA)",
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as COPD (Chronic Obstructive Pulmonary Disease), adult-onset asthma (AOA), and asthma. These are clearly identified as distinct respiratory diseases and are the focus of the study. Therefore, the classification is 'Y' for yes, with the diseases listed accordingly.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COPD",
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ],
+    "adult-onset asthma (AOA)": [],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

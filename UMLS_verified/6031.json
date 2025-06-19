@@ -1,0 +1,44 @@
+{
+  "id": 6031,
+  "title": "A Survey on Toxic Volatile Organic Compounds (VOCs): Toxicological Profiles, Health Exposure Risks, and Regulatory Strategies for Mitigating Emissions from Stationary Sources in Taiwan",
+  "Abstract": "With the revision of the Air Pollution Control Act in Taiwan announced on 1 August 2018, several provisions or regulations have been added to strengthen the control of hazardous air pollutants (HAPs) from stationary sources. Therefore, this paper conducted a survey of sixty toxic volatile organic compounds (VOCs) designated as HAPs in Taiwan and also performed a comparison between some developed countries (i.e., the USA, Japan, and Korea) using the latest databases issued by the relevant agencies/organizations. Furthermore, these designated HAPs were reviewed by their carcinogenic classifications and occupational exposure limits. Finally, the regulatory measures for controlling the emissions of toxic VOCs from stationary sources in Taiwan were addressed to echo the public concerns about their human health risk. Except for trichloroacetic acid, the designated toxic VOCs in Taiwan are included in the list of HAPs in the USA. By comparison, the number of designated HAPs is obviously higher than those in Japan and Korea. Based on the carcinogen classification by the International Agency for Research on Cancer (IARC), the toxic VOCs as confirmed human carcinogens (Group 1) include benzene, benzidine, 1,3-butadiene, 1,2-dichloroproane, ethylene oxide, formaldehyde, 4,4-methylene bis(2-chloroaniline), trichloroethylene, and vinyl chloride. To achieve the purpose of protecting public health, the follow-up control actions of HAPs from stationary sources in Taiwan involved regulatory countermeasures, including the establishment of emission limits, reporting systems, reduction plans for potential high-risk areas or plants, the incentive of an air pollution fee levy, as well as an ambient air concentration monitoring network.",
+  "Disease_List": [
+    "carcinogen-related diseases",
+    "cancer"
+  ],
+  "Reason": "The abstract explicitly mentions carcinogenic classifications of hazardous air pollutants (HAPs) and lists specific carcinogens such as benzene, benzidine, 1,3-butadiene, ethylene oxide, formaldehyde, and others, which are confirmed human carcinogens (Group 1) by IARC. While specific disease names like 'lung cancer' or 'leukemia' are not directly named, the mention of confirmed human carcinogens implies diseases related to cancer. Therefore, the classification is Y because carcinogen-related diseases (cancer) are explicitly implied through the mention of carcinogens.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "cancer"
+  ],
+  "UMLS_search_results": {
+    "carcinogen-related diseases": [],
+    "cancer": [
+      {
+        "ui": "C0006826",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0006826",
+        "name": "Malignant Neoplasms",
+        "mesh_id": "D009369"
+      },
+      {
+        "ui": "C0998265",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0998265",
+        "name": "Cancer <Cancridae>",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C1547140",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1547140",
+        "name": "Specialty Type - cancer",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

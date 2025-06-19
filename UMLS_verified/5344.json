@@ -1,0 +1,28 @@
+{
+  "id": 5344,
+  "title": "Estimation of the Concentrations of Some Pollutants Resulting from the Use of Arabian Bakhour and Their Effect in Patients with Asthma in the City of Baghdad",
+  "Abstract": "This research focus on studying 3 types of Bakhour in the markets of Baghdad city and assessing their impact on the quality of life for asthmatic whom used Bakhour at their houses through investigating particles physical properties, also estimating the levels of heavy metals (Cd, Cu, Mn, Pb and Zn), Particulate Matter PM2.5, PM10, Total Volatile Organic Compounds (TVOC) and formaldehyde (HCHO). The quality of life for asthmatic patients whom use Bakhour was assessing by Mini Asthma Quality of Life Questionnaire. The results indicated that shapes of Bakhour particles were irregular or spherical. Burning process generated the higher percent of PM ˂1μm. Type 2 Bakhour showed the highest percent of <1μm which was 73%.The amount of Cd, Cu and Pb found to have the highest concentrations in type 2 as compared to others. The mean of PM2.5, PM10, TVOC and HCHO in type 1, 2 and type 3 have recorded high as compared to the control (fresh air) values. The results of Mini Asthma Quality of Life Questionnaire AQLQ referred that Asthma patients whom consumed Bakhour recorded significantly the worse in all scores as compared with non-consumers, except Activity limitation. The regression test revealed that smoking habit and consumed Bakhour daily have more effects on asthmatic patients. This study concluded that Bakhour consuming resulted high levels of indoor air pollutants such as particles <1μm, Heavy metals, PM2.5, PM 10, TVOC and HCHO which considered harmful to human health and leads to the worse quality of life especially in asthmatic patients.",
+  "Disease_List": [
+    "Asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthmatic patients' and refers to the 'Mini Asthma Quality of Life Questionnaire,' indicating that the specific disease 'Asthma' is discussed. Therefore, the classification is Y, with 'Asthma' as the specific disease mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Asthma"
+  ],
+  "UMLS_search_results": {
+    "Asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

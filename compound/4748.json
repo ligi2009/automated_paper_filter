@@ -1,0 +1,133 @@
+{
+  "id": 4748,
+  "title": "Pet cats, the better sentinels for indoor organic pollutants",
+  "Abstract": "Pets are the most intimate companions of humans, as pets and people share most of their lives indoors. Based on the connections between pet animals, humans, and the environment, pet cats and dogs are often recommended as sentinels for the detection of environmental contaminants and for comorbidity tracking. However, their suitability as sentinels is yet to be established. Persistent organic pollutants and environmental hormones have replaced particulate matter (PM2.5) and volatile organic compounds (VOCs) in causing indoor air pollution. This review summarises the differences in the types and concentrations of indoor organic environmental pollutants detected in pet dogs and cats. This includes an analysis of the main exposure routes of different types of pollutants. To identify which of the two pet species are better sentinels, cats and dogs were compared based on their metabolic capacities of various indoor organic pollutants. In addition to PM2.5, a range of organic compounds including polychlorinated biphenyls, polybrominated diphenyl ethers (PBDEs), bromophenols, perfluoroalkyl substances, organochlorine pesticides, fungicides, polycyclic aromatic hydrocarbons, phthalic acid esters, organophosphate pesticides, organophosphorus flame retardants, and melamine have been detected in both dogs and cats. Pets often accumulate PBDEs from dust; however, traces of PBDEs are present in their diet. The indoor pollutant contamination levels in internal cats were generally higher than those in dogs. Cats accumulate organic pollutants associated with indoor environments, but they are sensitive to their toxicity because, unlike dogs, cats cannot metabolise most of the accumulated pollutants. Moreover, cats share similar clinical symptoms of thyroid diseases in humans. Based on the above observations of detection of indoor organic pollutants, it could be said that cats are better sentinels than dogs. Graphical Abstract",
+  "Disease_List": [
+    "thyroid diseases"
+  ],
+  "Reason": "The abstract explicitly mentions 'thyroid diseases' when discussing clinical symptoms shared between cats and humans. This is a specific disease name, which justifies a 'Y' classification. Other terms like 'disease' or 'health conditions' are not used generically but in the context of a named disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "thyroid diseases"
+  ],
+  "UMLS_search_results": {
+    "thyroid diseases": [
+      {
+        "ui": "C0040128",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0040128",
+        "name": "Thyroid Diseases",
+        "mesh_id": "D013959"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "polychlorinated biphenyls",
+    "polybro minated diphenyl ethers",
+    "PBDEs",
+    "bromophenols",
+    "perfluoroalkyl substances",
+    "organochlorine pesticides",
+    "fungicides",
+    "polycyclic aromatic hydrocarbons",
+    "phthalic acid esters",
+    "organophosphate pesticides",
+    "organophosphorus flame retardants",
+    "melamine"
+  ],
+  "compound_CID": [
+    {
+      "polychlorinated biphenyls": "None",
+      "polybro minated diphenyl ethers": "None",
+      "PBDEs": "None",
+      "bromophenols": "None",
+      "perfluoroalkyl substances": "None",
+      "organochlorine pesticides": "None",
+      "fungicides": "None",
+      "polycyclic aromatic hydrocarbons": "None",
+      "phthalic acid esters": "None",
+      "organophosphate pesticides": "None",
+      "organophosphorus flame retardants": "None",
+      "melamine": 7955
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "polychlorinated biphenyls_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the detection of various indoor organic pollutants, including polychlorinated biphenyls (PCBs), in pet cats and dogs. It highlights that cats accumulate organic pollutants and share similar clinical symptoms of thyroid diseases in humans. Although the abstract does not explicitly state a direct causal link between PCBs and thyroid diseases, the mention of cats accumulating these pollutants and exhibiting thyroid disease symptoms suggests an association between exposure to PCBs and thyroid diseases."
+      }
+    },
+    {
+      "polybro minated diphenyl ethers_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that polybrominated diphenyl ethers (PBDEs), a type of indoor organic pollutant, are accumulated by pets, particularly cats. It also notes that cats share similar clinical symptoms of thyroid diseases in humans and are sensitive to the toxicity of these pollutants due to their limited metabolic capacity to process them. This suggests a relationship between PBDE exposure and thyroid diseases, as the compound's accumulation is linked to symptoms resembling thyroid disease, supporting the evidence of a relationship."
+      }
+    },
+    {
+      "PBDEs_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that polybrominated diphenyl ethers (PBDEs), a type of indoor organic pollutant, are accumulated by pets, particularly cats. It also notes that cats share similar clinical symptoms of thyroid diseases as seen in humans and are sensitive to the toxicity of these pollutants due to their limited metabolic capacity to process them. This suggests a relationship between PBDE exposure and thyroid diseases, as the accumulation of PBDEs is linked to thyroid-related clinical symptoms in cats, which are used as sentinels for human health risks."
+      }
+    },
+    {
+      "bromophenols_thyroid_diseases": {
+        "relationship": "N",
+        "reason": "The abstract mentions bromophenols as one of the indoor organic pollutants detected in pet cats and dogs. It also notes that cats share similar clinical symptoms of thyroid diseases in humans and that cats accumulate organic pollutants associated with indoor environments. However, the abstract does not provide any direct evidence or specific information linking bromophenols to thyroid diseases. The relationship between bromophenols and thyroid diseases is not explicitly established or discussed in the abstract."
+      }
+    },
+    {
+      "perfluoroalkyl substances_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that perfluoroalkyl substances, among other indoor organic pollutants, have been detected in pet cats and dogs. It also notes that cats accumulate organic pollutants and share similar clinical symptoms of thyroid diseases with humans. This suggests a link between exposure to these pollutants, including perfluoroalkyl substances, and thyroid diseases, supporting the existence of a relationship."
+      }
+    },
+    {
+      "organochlorine pesticides_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that organochlorine pesticides, among other organic pollutants, have been detected in pet cats and dogs. It also notes that cats accumulate organic pollutants and share similar clinical symptoms of thyroid diseases in humans. This suggests a link between exposure to these pollutants, including organochlorine pesticides, and thyroid diseases, supporting the existence of a relationship."
+      }
+    },
+    {
+      "fungicides_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that fungicides, among other organic pollutants, have been detected in pet cats and dogs living indoors. It also notes that cats accumulate organic pollutants and exhibit clinical symptoms similar to human thyroid diseases. Although the abstract does not explicitly state a direct causal link between fungicides and thyroid diseases, the presence of fungicides as indoor pollutants and the association of pollutant accumulation with thyroid disease symptoms in cats suggest a potential relationship. Therefore, there is evidence supporting a relationship between fungicides and thyroid diseases based on pollutant exposure and related clinical symptoms."
+      }
+    },
+    {
+      "polycyclic aromatic hydrocarbons_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that polycyclic aromatic hydrocarbons (PAHs), among other indoor organic pollutants, have been detected in pet cats and dogs. It also notes that cats accumulate organic pollutants and share similar clinical symptoms of thyroid diseases in humans. This suggests a link between exposure to these pollutants, including PAHs, and thyroid diseases, supporting the idea of a relationship between polycyclic aromatic hydrocarbons and thyroid diseases."
+      }
+    },
+    {
+      "phthalic acid esters_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that phthalic acid esters, among other indoor organic pollutants, have been detected in pet cats and dogs. It also notes that cats accumulate organic pollutants and share similar clinical symptoms of thyroid diseases with humans. Although the abstract does not explicitly state a direct causal link, the co-occurrence of phthalic acid esters accumulation and thyroid disease symptoms in cats suggests a relationship between phthalic acid esters exposure and thyroid diseases."
+      }
+    },
+    {
+      "organophosphate pesticides_thyroid_diseases": {
+        "relationship": "N",
+        "reason": "The abstract mentions that organophosphate pesticides are among the indoor organic pollutants detected in pet cats and dogs. It also notes that cats share similar clinical symptoms of thyroid diseases in humans and that cats accumulate organic pollutants associated with indoor environments. However, the abstract does not provide direct evidence or a clear link between organophosphate pesticides specifically and thyroid diseases. The relationship between organophosphate pesticides and thyroid diseases is not explicitly established or discussed in the abstract."
+      }
+    },
+    {
+      "organophosphorus flame retardants_thyroid_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that organophosphorus flame retardants, among other indoor organic pollutants, have been detected in pet cats and dogs. It also notes that cats accumulate organic pollutants associated with indoor environments and share similar clinical symptoms of thyroid diseases in humans. This suggests a potential link between exposure to these pollutants, including organophosphorus flame retardants, and thyroid diseases, supporting the idea of a relationship between the compound and the disease."
+      }
+    },
+    {
+      "melamine_thyroid_diseases": {
+        "relationship": "N",
+        "reason": "The abstract mentions that melamine is one of the indoor organic pollutants detected in both dogs and cats. It also notes that cats share similar clinical symptoms of thyroid diseases in humans and that cats accumulate organic pollutants associated with indoor environments. However, the abstract does not provide any direct evidence or specific information linking melamine exposure to thyroid diseases. The relationship between melamine and thyroid diseases is not explicitly established or discussed in the abstract."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds and classes such as polychlorinated biphenyls, polybrominated diphenyl ethers (PBDEs), bromophenols, perfluoroalkyl substances, organochlorine pesticides, fungicides, polycyclic aromatic hydrocarbons, phthalic acid esters, organophosphate pesticides, organophosphorus flame retardants, and melamine as indoor organic pollutants detected in pet cats and dogs. These are specific named chemical substances rather than general terms."
+}

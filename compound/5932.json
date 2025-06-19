@@ -1,0 +1,76 @@
+{
+  "id": 5932,
+  "title": "A New Gas Analysis Method Based on Single-Beam Excitation Stimulated Raman Scattering in Hollow Core Photonic Crystal Fiber Enhanced Raman Spectroscopy",
+  "Abstract": "We previously developed a hollow-core photonic crystal fiber (HCPCF) based Raman scattering enhancement technique for gas/human breath analysis. It enhances photon–gas molecule interactions significantly but is still based on CW laser excitation spontaneous Raman scattering, which is a low-probability phenomenon. In this work, we explored nanosecond/sub-nanosecond pulsed laser excitation in HCPCF based fiber enhanced Raman spectroscopy (FERS) and successfully induced stimulated Raman scattering (SRS) enhancement. Raman measurements of simple and complex gases were performed using the new system to assess its feasibility for gas analysis. We studied the gas Raman scattering characteristics, the relationship between Raman intensities and pump energies, and the energy threshold for the transition from spontaneous Raman scattering to SRS. H2, CO2, and propene (C3H6) were used as test gases. Our results demonstrated that a single-beam pulsed pump combined with FERS provides an effective Raman enhancement technique for gas analysis. Furthermore, an energy threshold for SRS initiation was experimentally observed. The SRS-capable FERS system, utilizing a single-beam pulsed pump, shows great potential for analyzing complex gases such as propene, which is a volatile organic compound (VOC) gas, serving as a biomarker in human breath for lung cancer and other human diseases. This work contributes to the advancement of gas analysis and opens alternative avenues for exploring novel Raman enhancement techniques.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease when referring to propene as a biomarker in human breath for lung cancer and other human diseases. Therefore, it meets the criteria for 'Y' since a specific disease name is mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "H2",
+    "CO2",
+    "propene",
+    "C3H6"
+  ],
+  "compound_CID": [
+    {
+      "H2": 783,
+      "CO2": 280,
+      "propene": 8252,
+      "C3H6": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "H2_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of a Raman scattering enhancement technique for gas analysis, including gases such as H2, CO2, and propene. While propene is mentioned as a volatile organic compound serving as a biomarker in human breath for lung cancer and other diseases, there is no indication or evidence in the abstract that H2 (hydrogen) is related to lung cancer. The focus on H2 is limited to its role as a test gas for the Raman spectroscopy technique, without any mention of a connection to lung cancer."
+      }
+    },
+    {
+      "CO2_lung_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the development of a Raman scattering enhancement technique for gas analysis, including CO2 and propene. While propene is mentioned as a volatile organic compound serving as a biomarker in human breath for lung cancer and other diseases, there is no indication or evidence in the abstract that CO2 is related to lung cancer. The focus on CO2 is limited to its use as a test gas for Raman scattering characteristics, without any mention of a direct or indirect relationship to lung cancer."
+      }
+    },
+    {
+      "propene_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract states that propene, a volatile organic compound (VOC) gas, serves as a biomarker in human breath for lung cancer and other human diseases. This indicates that there is evidence of a relationship between propene and lung cancer, as the presence of propene in breath can be associated with the disease."
+      }
+    },
+    {
+      "C3H6_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that propene (C3H6), a volatile organic compound (VOC), can serve as a biomarker in human breath for lung cancer and other human diseases. This suggests a relationship between the compound C3H6 and lung cancer, as the presence of C3H6 in breath analysis may be indicative of the disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions hydrogen (H2), carbon dioxide (CO2), and propene (C3H6) as test gases used in the Raman scattering experiments. These are specific chemical compounds identified by their chemical formulas and names."
+}

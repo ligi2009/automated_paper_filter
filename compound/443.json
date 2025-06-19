@@ -1,0 +1,139 @@
+{
+  "id": 443,
+  "title": "Breath Analysis for the In Vivo Detection of Diabetic Ketoacidosis",
+  "Abstract": "Human breath analysis of volatile organic compounds has gained significant attention recently because of its rapid and noninvasive potential to detect various metabolic diseases. The detection of ketones in the breath and blood is key to diagnosing and managing diabetic ketoacidosis (DKA) in patients with type 1 diabetes. It may also be of increasing importance to detect euglycemic ketoacidosis in patients with type 1 or type 2 diabetes or heart failure, treated with sodium-glucose transporter-2 inhibitors (SGLT2-i). The present research evaluates the efficiency of colorimetry for detecting acetone and ethanol in exhaled human breath with the response time, pH effect, temperature effect, concentration effect, and selectivity of dyes. Using the proposed multidye system, we obtained a detection limit of 0.0217 ppm for acetone and 0.029 ppm for ethanol in the detection range of 0.05–50 ppm. A smartphone-assisted unit consisting of a portable colorimetric device was used to detect relative red/green/blue values within 60 s of the interface for practical and real-time application. The developed method could be used for rapid, low-cost detection of ketones in patients with type 1 diabetes and DKA and patients with type 1 or type 2 diabetes or heart failure treated with SGLT2-I and euglycemic ketoacidosis.",
+  "Disease_List": [
+    "diabetic ketoacidosis",
+    "type 1 diabetes",
+    "euglycemic ketoacidosis",
+    "type 2 diabetes",
+    "heart failure"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'diabetic ketoacidosis (DKA)', 'type 1 diabetes', 'euglycemic ketoacidosis', 'type 2 diabetes', and 'heart failure'. These are all named diseases or medical conditions, not general terms. Therefore, the classification is 'Y' with the listed diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetic ketoacidosis",
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "heart failure"
+  ],
+  "UMLS_search_results": {
+    "diabetic ketoacidosis": [
+      {
+        "ui": "C0011880",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011880",
+        "name": "Diabetic Ketoacidosis",
+        "mesh_id": "D016883"
+      }
+    ],
+    "type 1 diabetes": [
+      {
+        "ui": "C0011854",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011854",
+        "name": "Diabetes Mellitus, Insulin-Dependent",
+        "mesh_id": "D003922"
+      }
+    ],
+    "euglycemic ketoacidosis": [],
+    "type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ],
+    "heart failure": [
+      {
+        "ui": "C0018801",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018801",
+        "name": "Heart failure",
+        "mesh_id": "D006333"
+      },
+      {
+        "ui": "C0018802",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0018802",
+        "name": "Congestive heart failure",
+        "mesh_id": "D006333"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "ethanol",
+    "sodium-glucose transporter-2 inhibitors (SGLT2-i)"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "ethanol": 702,
+      "sodium-glucose transporter-2 inhibitors (SGLT2-i)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_diabetic_ketoacidosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the detection of ketones, including acetone, in human breath as a key factor in diagnosing and managing diabetic ketoacidosis (DKA) in patients with type 1 diabetes. It highlights the development of a colorimetric method for detecting acetone rapidly and noninvasively, which can be used for practical and real-time application in patients with DKA. This indicates a clear relationship between acetone and diabetic ketoacidosis, as acetone is a ketone whose presence is significant in the context of DKA diagnosis and management."
+      },
+      "acetone_type_1_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone, a ketone detected in human breath, is key to diagnosing and managing diabetic ketoacidosis (DKA) in patients with type 1 diabetes. The research focuses on detecting acetone as a biomarker for ketones in breath, which is relevant for type 1 diabetes and its complications such as DKA. Therefore, there is evidence of a relationship between acetone and type 1 diabetes in the context of disease monitoring and diagnosis."
+      },
+      "acetone_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the detection of ketones, including acetone, in human breath as a key factor in diagnosing and managing diabetic ketoacidosis (DKA) primarily in type 1 diabetes. It also highlights the importance of detecting euglycemic ketoacidosis in patients with type 1 or type 2 diabetes, especially those treated with sodium-glucose transporter-2 inhibitors (SGLT2-i). Since acetone is a ketone detected in breath and is relevant in the context of ketoacidosis associated with type 2 diabetes under certain treatments, there is evidence of a relationship between acetone and type 2 diabetes."
+      },
+      "acetone_heart_failure": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that acetone, a ketone detected in human breath, is relevant for diagnosing and managing metabolic conditions including euglycemic ketoacidosis in patients with heart failure treated with sodium-glucose transporter-2 inhibitors (SGLT2-i). This suggests a relationship between acetone levels and heart failure in the context of monitoring ketoacidosis, supporting the use of acetone detection as a diagnostic tool in heart failure patients undergoing specific treatment."
+      }
+    },
+    {
+      "ethanol_diabetic_ketoacidosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of acetone and ethanol in exhaled breath as part of a method to diagnose and manage diabetic ketoacidosis (DKA) and related conditions. However, it does not provide evidence that ethanol is causally or pathophysiologically related to DKA. Instead, ethanol is mentioned as one of the volatile organic compounds detected by the colorimetric method, likely as a marker or part of the breath analysis process. The focus is on ketones, particularly acetone, as key indicators of DKA. Therefore, there is no clear evidence from the abstract that ethanol has a direct relationship with diabetic ketoacidosis."
+      },
+      "ethanol_type_1_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of acetone and ethanol in human breath as part of a colorimetric method to monitor ketones related to diabetic ketoacidosis (DKA) in patients with type 1 diabetes. However, it does not provide evidence of a direct relationship between ethanol and type 1 diabetes itself. Ethanol is mentioned as a compound detected alongside acetone for diagnostic purposes, but there is no indication that ethanol causes, influences, or is otherwise related to the pathophysiology of type 1 diabetes. The focus is on ethanol as a detectable volatile organic compound in breath analysis, not as a factor in the disease."
+      },
+      "ethanol_type_2_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of ethanol and acetone in human breath as part of a method to diagnose and manage diabetic ketoacidosis (DKA) and euglycemic ketoacidosis in patients with type 1 or type 2 diabetes. However, it does not provide evidence of a direct relationship between ethanol itself and the development or presence of type 2 diabetes. Instead, ethanol is mentioned as a compound detected in breath analysis, not as a causative or associated factor in type 2 diabetes."
+      },
+      "ethanol_heart_failure": {
+        "relationship": "N",
+        "reason": "The abstract discusses the detection of ethanol in exhaled breath using a colorimetric method and mentions heart failure in the context of patients treated with SGLT2 inhibitors who may develop euglycemic ketoacidosis. However, it does not provide evidence of a direct relationship between ethanol and heart failure. Ethanol is mentioned as a compound detected in breath analysis, but no causal or associative link to heart failure is described."
+      }
+    },
+    {
+      "sodium-glucose transporter-2 inhibitors (SGLT2-i)_diabetic_ketoacidosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sodium-glucose transporter-2 inhibitors (SGLT2-i) are associated with euglycemic ketoacidosis in patients with type 1 or type 2 diabetes or heart failure. Euglycemic ketoacidosis is a form of diabetic ketoacidosis (DKA) characterized by ketoacidosis without significant hyperglycemia. The research focuses on detecting ketones in breath as a diagnostic tool for DKA and specifically mentions patients treated with SGLT2-i who may develop euglycemic ketoacidosis. This implies a relationship between SGLT2-i and a variant of diabetic ketoacidosis."
+      },
+      "sodium-glucose transporter-2 inhibitors (SGLT2-i)_type_1_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sodium-glucose transporter-2 inhibitors (SGLT2-i) are used in patients with type 1 diabetes, as well as type 2 diabetes and heart failure. It specifically mentions the importance of detecting euglycemic ketoacidosis in patients with type 1 diabetes treated with SGLT2-i. This implies a relationship between SGLT2-i and type 1 diabetes, particularly in the context of managing or monitoring complications such as ketoacidosis."
+      },
+      "sodium-glucose transporter-2 inhibitors (SGLT2-i)_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sodium-glucose transporter-2 inhibitors (SGLT2-i) are used in the treatment of patients with type 2 diabetes, as well as type 1 diabetes and heart failure. It specifically mentions the importance of detecting euglycemic ketoacidosis in patients with type 2 diabetes treated with SGLT2-i, implying a direct relationship between the compound and the disease. Therefore, there is clear evidence of a relationship between SGLT2-i and type 2 diabetes."
+      },
+      "sodium-glucose transporter-2 inhibitors (SGLT2-i)_heart_failure": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sodium-glucose transporter-2 inhibitors (SGLT2-i) are used in the treatment of patients with heart failure, as well as type 1 and type 2 diabetes. It specifically mentions the importance of detecting euglycemic ketoacidosis in patients with heart failure treated with SGLT2-i, implying a clinical relationship between the compound and the disease. Therefore, there is evidence of a relationship between SGLT2-i and heart failure based on their therapeutic use and associated metabolic monitoring."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetone and ethanol as volatile organic compounds detected in human breath. It also refers to sodium-glucose transporter-2 inhibitors (SGLT2-i), a class of chemical compounds used in treatment. General terms like 'ketones' or 'dyes' were excluded as they are not specific compound names."
+}

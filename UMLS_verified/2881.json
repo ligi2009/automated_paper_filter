@@ -1,0 +1,28 @@
+{
+  "id": 2881,
+  "title": "Policy-Related Gains in Urban Air Quality May Be Offset by Increased Emissions in a Warming Climate",
+  "Abstract": "Air quality policies have made substantial gains by reducing pollutant emissions from the transportation sector. In March 2020, New York City’s activities were severely curtailed in response to the COVID-19 pandemic, resulting in 60–90% reductions in human activity. We continuously measured major volatile organic compounds (VOCs) during January–April 2020 and 2021 in Manhattan. Concentrations of many VOCs decreased significantly during the shutdown with variations in daily patterns reflective of human activity perturbations, resulting in a temporary ∼28% reduction in chemical reactivity. However, the limited effect of these dramatic measures was outweighed by larger increases in VOC-related reactivity during the anomalously warm spring 2021. This emphasizes the diminishing returns from transportation-focused policies alone and the risk of increased temperature-dependent emissions undermining policy-related gains in a warming climate.",
+  "Disease_List": [
+    "COVID-19"
+  ],
+  "Reason": "The abstract explicitly mentions 'COVID-19 pandemic,' which is a specific disease name. Although the main focus is on air quality and VOC measurements, the mention of COVID-19 clearly identifies a specific disease, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "COVID-19"
+  ],
+  "UMLS_search_results": {
+    "COVID-19": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

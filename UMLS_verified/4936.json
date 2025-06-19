@@ -1,0 +1,180 @@
+{
+  "id": 4936,
+  "title": "The Impact of Global Warming and Air Pollution on Patient Visits in the Emergency Department",
+  "Abstract": "The California Journal of Emergency Medicine II:3, July 2001 p a g e 32 ScientiJic Review The Impact sf Global Warming and 1 Air pollution on Pdient visits in &be 1 Emergency Department Robert W Derlet, MD UC Davis Medical Center California faces both increasing air temperatures as well as air pollution. This conclusion is being drawn by many non- scientists who simply observe daily atmospheric conditions: more hot days exist in many areas of California and many of the days have increasing levels of air pollution People comment that record low temperatures occurred in the Central Valley region of California in the late 1800s and in the early 1930s. The record high temperatures have only occurred within the last ten years. And while personal observations may be considered anecdotal. a huge mounting body of scientific evidence also reaches the same conclusion: air pollution problems and global warming will effect the weather and health of all the inhabitants of this earth. Pollution is no longer limited to urban areas as recent reports show increasing air pollution in rural United States and deteriora- tion in air quality in many previously pristine areas such as Yosemite, Big Bend National Park. and the Grand Canyon.' In fact, air pollution from China adds additional poison to California air.' In addition to the obvious effects on their personal lives, the professional practice of emcrgency medicine has and will continue to be effected by changes in the earth.s air and atmosphere. Air Pollution Air pollution has been a major topic of western scientists since the 1950s. The original description of smog occurred as a result of thick smoke and fog in London combing to form toxic gases and substances that resulted in numerous acute deaths. in the United States most of the air pollution that we refer to is actually photochemical in nature. One of the most significant and serious components of air pollution are nitrogen oxide compounds. In California, most nitrogen oxides are emitted from gasoline powered autos and Diesel trucks. These com- pounds undergoing photochemical reaction to create ozone (0,).3 Conversion occurs in direct sunlight, and the process is acceler- ated by increasing air temperature. Ozone, as an unstable radical, human tissue. most obviously the lung and upper airways. In addition to ozone , numerous other toxic chemicals are formed including volatile organic compounds and photochemical oxidants. Many of the volatile organic compounds are highly toxic including peroxyacetyl nitrite, tetrachloroethene, and nitrofluoranthene. In addition to these free chemical compounds, particulate matter less than 10 micrometers in diameter known as PMlO also contribute significantly to health effects of pollution.' The particulate matter PMlO are a complex agglutination of carbon, sulfates, nitrites and other larger organic molecules. If you live in the Los Angeles area or Southern Bay Area or parts of the Central Valley of California, you are breathing these toxic substances and particles nearly everyday. Diesel trucks emit most of the toxic particulate matter. I The health effects of air pollution include increases in severity and incidence of asthma. exacerbation of COPD. increase in lung and other cancers. and an overall increase in mortality.' ' A recent study demonstrated that air pollution results in an increase of acute myocardial i n f a r c t i ~ n . Translated this would result in an increased number of patients presenting to the ED with respiratory complaints, an increased number of acute MIS and perhaps even an increased number of the patients who arrive under CPR. As the air quality will continue to get worse in the near future, the emergency department will see growing numbers of patients with these issues and problems. It has already been docu~nented that hospital admissions and emergency department visits have progressively increased as a result of increasing air p ~ l l u t i o n . Even elevated blood pressure found in ED patients may be exacerbated from air p ~ l l u t i o n . ' Less well-studied, but also concerning are changes in behavior and irrational thinking which might result in assault and trauma necessitating an ED visit. Continued exposure to high levels of air pollutants may over time accelerate atherosclerosis and cause organ darnage at multiple sites in the human body. Global Warming Global warming goes hand-in-hand with air pollution. Scientists agree that current global warming is a result of increasing burning of fossil fuels and biomass which in addition to creating the toxic chemicals in air pollution also results in increasing concentrations of C 0 2 which creates the greenhouse effect of earth. In the past 100 years the temperature has risen on average one degree Fahrenheit and is projected to rise 2 - 5 degrees over the next century. And while some might consider this insignificant, one cannot simply turn up the air conditioner for this will just compound the problem. Not only will general- ized warming result in increased ambient temperatures. it also effects the rain, wind, and clouds which will change the ecology of animals, insects, and bacteria. Furthermore, the oceans will be effected by the decrease in polar ice mass and rising sea levels resulting in high tide flooding of low lands. Probably the most significant effect will be that upon infectious diseases for emergency physicians. Vectors of infectious diseases, such as certain disease carrying species of mosquitoes, which carry malaria, dengue, yellow fever, Venezu- elan equine encephalitis, Eastern equine encephalitis, California encephalitis, West Nile Fever, and other diseases can expand and thus can expand the dissemination of disease. Furthermore, warmer pools of water, swamps, streams, and oceans will result in the migration of some bacteria currently known to be common only in the tropics to more temperament climates. In addition to an increase in infectious disease problems, potentially EDs could see more hot Saturday nights. Although not really described as a syndrome, most seasoned emergency physicians are familiar with the increased trauma range and outdoor injuries associated with alcohol on hot days.",
+  "Disease_List": [
+    "asthma",
+    "COPD",
+    "lung cancer",
+    "acute myocardial infarction",
+    "malaria",
+    "dengue",
+    "yellow fever",
+    "Venezuelan equine encephalitis",
+    "Eastern equine encephalitis",
+    "California encephalitis",
+    "West Nile Fever"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases related to the health effects of air pollution and global warming. It lists 'asthma', 'COPD', 'lung and other cancers', and 'acute myocardial infarction' as health effects of air pollution. It also names several infectious diseases linked to vector expansion due to global warming, including 'malaria', 'dengue', 'yellow fever', 'Venezuelan equine encephalitis', 'Eastern equine encephalitis', 'California encephalitis', and 'West Nile Fever'. These are all specific disease names, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma",
+    "COPD",
+    "lung cancer",
+    "acute myocardial infarction",
+    "malaria",
+    "dengue",
+    "yellow fever",
+    "Venezuelan equine encephalitis",
+    "Eastern equine encephalitis",
+    "California encephalitis",
+    "West Nile Fever"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "COPD": [
+      {
+        "ui": "C1412502",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1412502",
+        "name": "ARCN1 gene",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      },
+      {
+        "ui": "C1647218",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1647218",
+        "name": "COPD pharmacologic substance",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C3714496",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3714496",
+        "name": "Chronic obstructive pulmonary disease of horses",
+        "mesh_id": "None"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "acute myocardial infarction": [
+      {
+        "ui": "C0155626",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0155626",
+        "name": "Acute myocardial infarction",
+        "mesh_id": "None"
+      }
+    ],
+    "malaria": [
+      {
+        "ui": "C0024530",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024530",
+        "name": "Malaria",
+        "mesh_id": "D008288"
+      },
+      {
+        "ui": "C0206255",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0206255",
+        "name": "Malaria Vaccines",
+        "mesh_id": "D017780"
+      }
+    ],
+    "dengue": [
+      {
+        "ui": "C0011311",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011311",
+        "name": "Dengue Fever",
+        "mesh_id": "D003715"
+      }
+    ],
+    "yellow fever": [
+      {
+        "ui": "C0043395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043395",
+        "name": "Yellow Fever",
+        "mesh_id": "D015004"
+      },
+      {
+        "ui": "C0301508",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0301508",
+        "name": "yellow fever vaccine",
+        "mesh_id": "D022341"
+      }
+    ],
+    "Venezuelan equine encephalitis": [
+      {
+        "ui": "C0014078",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014078",
+        "name": "Venezuelan equine encephalomyelitis",
+        "mesh_id": "D004685"
+      }
+    ],
+    "Eastern equine encephalitis": [
+      {
+        "ui": "C0153065",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0153065",
+        "name": "Encephalomyelitis, Eastern Equine",
+        "mesh_id": "D020242"
+      }
+    ],
+    "California encephalitis": [
+      {
+        "ui": "C0014053",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0014053",
+        "name": "Encephalitis, California",
+        "mesh_id": "D004670"
+      }
+    ],
+    "West Nile Fever": [
+      {
+        "ui": "C0043124",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043124",
+        "name": "West Nile Fever",
+        "mesh_id": "D014901"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

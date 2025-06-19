@@ -1,0 +1,141 @@
+{
+  "id": 4484,
+  "title": "Differentiating cancer types using a urine test for volatile organic compounds",
+  "Abstract": "Background. In the human body, volatile organic compounds (VOCs) are produced by different tissues then secreted in different body fluids and subsequently excreted. Here we explore a non-invasive method for the detection of liver, prostate and bladder cancers. Methods. We recruited 140 cases. There were 31 hepatocellular carcinomas (HCC), 62 prostate carcinomas, 29 bladder carcinomas and 18 non-cancer cases. Male to female ratio was 5:1 and mean age was 72 years. Urinary VOCs were detected by applying solid-phase microextraction (SPME) technique. Results. The sensitivity for detection of HCC with normal alpha fetoprotein (AFP) was 68% (SE 0.06, 95% CI 0.54 to 0.81 and P < 0.005). The VOCs sensitivity in the detection of HCC cases with raised AFP was 83%. (SE 0.05, 95% CI 0.73 to 0.93 and P < 0.0001). The VOCs sensitivity for prostate cancer detection was 70% (SE 0.049, 95% CI 0.60 to 0.79 and P < 0.0002) and sensitivity for bladder cancer detection was 81% (SE 0.052, 95% CI 0.70 to 0.91 and P < 0.0001). Conclusions. SPME urinary VOCs analysis was able to differentiate between controls and each of hepatocellular, prostate and bladder cancers. This suggests that urinary VOCs are cancer specific and could potentially be used as a diagnostic method.",
+  "Disease_List": [
+    "hepatocellular carcinoma",
+    "prostate carcinoma",
+    "bladder carcinoma",
+    "hepatocellular cancer",
+    "prostate cancer",
+    "bladder cancer"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases including hepatocellular carcinoma (HCC), prostate carcinoma, and bladder carcinoma multiple times. These are specific types of cancers, which are diseases. The terms 'hepatocellular cancer', 'prostate cancer', and 'bladder cancer' are also used, confirming the presence of specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "hepatocellular carcinoma",
+    "prostate carcinoma",
+    "bladder carcinoma",
+    "hepatocellular cancer",
+    "prostate cancer",
+    "bladder cancer"
+  ],
+  "UMLS_search_results": {
+    "hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ],
+    "prostate carcinoma": [
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder carcinoma": [
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ],
+    "hepatocellular cancer": [
+      {
+        "ui": "C0345904",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0345904",
+        "name": "Malignant neoplasm of liver",
+        "mesh_id": "D008113"
+      }
+    ],
+    "prostate cancer": [
+      {
+        "ui": "C0376358",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0376358",
+        "name": "Malignant neoplasm of prostate",
+        "mesh_id": "D011471"
+      },
+      {
+        "ui": "C0600139",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600139",
+        "name": "Prostate carcinoma",
+        "mesh_id": "None"
+      }
+    ],
+    "bladder cancer": [
+      {
+        "ui": "C0005684",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005684",
+        "name": "Malignant neoplasm of urinary bladder",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0005695",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0005695",
+        "name": "Bladder Neoplasm",
+        "mesh_id": "D001749"
+      },
+      {
+        "ui": "C0699885",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0699885",
+        "name": "Carcinoma of bladder",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "alpha fetoprotein (AFP)"
+  ],
+  "compound_CID": [
+    {
+      "alpha fetoprotein (AFP)": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "alpha fetoprotein (AFP)_hepatocellular_carcinoma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alpha fetoprotein (AFP) levels are associated with hepatocellular carcinoma (HCC). Specifically, the sensitivity of detecting HCC using urinary volatile organic compounds (VOCs) was higher in cases with raised AFP (83%) compared to those with normal AFP (68%). This suggests that AFP is related to HCC, as raised AFP levels correlate with improved detection sensitivity of the disease, implying a relationship between AFP and hepatocellular carcinoma."
+      },
+      "alpha fetoprotein (AFP)_prostate_carcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of urinary volatile organic compounds (VOCs) for detecting liver, prostate, and bladder cancers. It mentions alpha fetoprotein (AFP) levels in relation to hepatocellular carcinoma (HCC), showing different sensitivities for detection based on AFP levels. However, there is no mention or evidence of a relationship between AFP and prostate carcinoma in the abstract. The sensitivity for prostate cancer detection is reported independently of AFP levels, indicating no clear relationship between AFP and prostate carcinoma in this study."
+      },
+      "alpha fetoprotein (AFP)_bladder_carcinoma": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of urinary volatile organic compounds (VOCs) detected by solid-phase microextraction (SPME) to differentiate between controls and various cancers including hepatocellular carcinoma (HCC), prostate carcinoma, and bladder carcinoma. It specifically mentions alpha fetoprotein (AFP) in relation to HCC, noting different sensitivities of VOC detection depending on AFP levels in HCC cases. However, there is no mention or evidence of a relationship between AFP and bladder carcinoma in the abstract. The sensitivity data for bladder cancer detection by VOCs is provided independently of AFP status, indicating no clear relationship between AFP and bladder carcinoma based on this abstract."
+      },
+      "alpha fetoprotein (AFP)_hepatocellular_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that alpha fetoprotein (AFP) levels are associated with hepatocellular carcinoma (HCC). Specifically, the sensitivity of detecting HCC using urinary volatile organic compounds (VOCs) was higher in cases with raised AFP (83%) compared to those with normal AFP (68%). This suggests that AFP is related to hepatocellular cancer, as its elevated levels correlate with improved detection sensitivity of the disease."
+      },
+      "alpha fetoprotein (AFP)_prostate_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of urinary volatile organic compounds (VOCs) detected by solid-phase microextraction (SPME) for the diagnosis of liver, prostate, and bladder cancers. It mentions alpha fetoprotein (AFP) levels in relation to hepatocellular carcinoma (HCC), showing different sensitivities of VOC detection depending on AFP levels. However, there is no mention or evidence linking AFP levels or AFP as a compound to prostate cancer detection or pathology. The sensitivity for prostate cancer detection is reported independently of AFP, indicating no clear relationship between AFP and prostate cancer in this study."
+      },
+      "alpha fetoprotein (AFP)_bladder_cancer": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of urinary volatile organic compounds (VOCs) for detecting liver, prostate, and bladder cancers. It mentions alpha fetoprotein (AFP) in the context of hepatocellular carcinoma (HCC), noting different sensitivities of VOC detection depending on AFP levels in HCC cases. However, there is no mention or evidence linking AFP to bladder cancer detection or pathology. The sensitivity for bladder cancer detection is reported based on VOCs analysis alone, without reference to AFP. Therefore, based on this abstract, there is no clear relationship between alpha fetoprotein (AFP) and bladder cancer."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions alpha fetoprotein (AFP), a well-known biomarker protein used in the context of hepatocellular carcinoma detection. No other specific chemical compound names are mentioned; volatile organic compounds (VOCs) are referred to generally without naming specific chemicals."
+}

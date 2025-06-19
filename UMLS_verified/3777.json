@@ -1,0 +1,68 @@
+{
+  "id": 3777,
+  "title": "The power of the smallest: The inhibitory activity of microbial volatile organic compounds against phytopathogens",
+  "Abstract": "Plant diseases caused by phytopathogens result in huge economic losses in agriculture. In addition, the use of chemical products to control such diseases causes many problems to the environment and to human health. However, some bacteria and fungi have a mutualistic relationship with plants in nature, mainly exchanging nutrients and protection. Thus, exploring those beneficial microorganisms has been an interesting and promising alternative for mitigating the use of agrochemicals and, consequently, achieving a more sustainable agriculture. Microorganisms are able to produce and excrete several metabolites, but volatile organic compounds (VOCs) have huge biotechnology potential. Microbial VOCs are small molecules from different chemical classes, such as alkenes, alcohols, ketones, organic acids, terpenes, benzenoids and pyrazines. Interestingly, volatilomes are species-specific and also change according to microbial growth conditions. The interaction of VOCs with other organisms, such as plants, insects, and other bacteria and fungi, can cause a wide range of effects. In this review, we show that a large variety of plant pathogens are inhibited by microbial VOCs with a focus on the in vitro and in vivo inhibition of phytopathogens of greater scientific and economic importance in agriculture, such as Ralstonia solanacearum, Botrytis cinerea, Xanthomonas and Fusarium species. In this scenario, some genera of VOC-producing microorganisms stand out as antagonists, including Bacillus, Pseudomonas, Serratia and Streptomyces. We also highlight the known molecular and physiological mechanisms by which VOCs inhibit the growth of phytopathogens. Microbial VOCs can provoke many changes in these microorganisms, such as vacuolization, fungal hyphal rupture, loss of intracellular components, regulation of metabolism and pathogenicity genes, plus the expression of proteins important in the host response. Furthermore, we demonstrate that there are aspects to investigate by discussing questions that are still not very clear in this research area, especially those that are essential for the future use of such beneficial microorganisms as biocontrol products in field crops. Therefore, we bring to light the great biotechnological potential of VOCs to help make agriculture more sustainable.",
+  "Disease_List": [
+    "Ralstonia solanacearum",
+    "Botrytis cinerea",
+    "Xanthomonas",
+    "Fusarium species"
+  ],
+  "Reason": "The abstract explicitly mentions specific phytopathogens that cause plant diseases, including Ralstonia solanacearum, Botrytis cinerea, Xanthomonas, and Fusarium species. These are well-known pathogens responsible for particular plant diseases, thus qualifying as specific disease names related to plant diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Ralstonia solanacearum",
+    "Botrytis cinerea",
+    "Xanthomonas",
+    "Fusarium species"
+  ],
+  "UMLS_search_results": {
+    "Ralstonia solanacearum": [
+      {
+        "ui": "C0317975",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0317975",
+        "name": "Ralstonia solanacearum",
+        "mesh_id": "D043368"
+      }
+    ],
+    "Botrytis cinerea": [
+      {
+        "ui": "C0579190",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0579190",
+        "name": "Botrytis cinerea",
+        "mesh_id": "C000664092"
+      },
+      {
+        "ui": "C1445424",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1445424",
+        "name": "Botrytis cinerea allergenic extract",
+        "mesh_id": "None"
+      }
+    ],
+    "Xanthomonas": [
+      {
+        "ui": "C0043327",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0043327",
+        "name": "Xanthomonas",
+        "mesh_id": "D014974"
+      }
+    ],
+    "Fusarium species": [
+      {
+        "ui": "C0016871",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0016871",
+        "name": "Fusarium",
+        "mesh_id": "D005670"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

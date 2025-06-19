@@ -1,0 +1,50 @@
+{
+  "id": 2502,
+  "title": "Processing and Prospect of Electronic Nose",
+  "Abstract": "Recently, a Novel Coronavirus Pneumonia (NCP) swept the globe. This kind of new virus has extremely high infection efficiency, which has brought great disaster to human's production and daily life. However, it is reported that lung cancer and other diseases with a high incidence will lead to a very high mortality rate if they are not diagnosed and treated in time. Therefore, it is urgent to design an accurate and convenient new diagnostic equipment. Due to the increasing innovation of sensor module in the field of Information and Communication Technology (ICT), electronic nose emerges as the times require. The device can use sensors to analyze Volatile Organic Compounds exhaled by people with certain diseases and identify chemical components of various odor and flavor. In addition, many other types of sensors and classification methods such as machine learning (ML) algorithms are also mentioned in this paper. At the end of the paper, the author attached a related experiment and some shortcomings and prospects of electronic nose as well.",
+  "Disease_List": [
+    "Novel Coronavirus Pneumonia",
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'Novel Coronavirus Pneumonia (NCP)' and 'lung cancer' as specific diseases. These are named diseases rather than general terms, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Novel Coronavirus Pneumonia",
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "Novel Coronavirus Pneumonia": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ],
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract does not mention any specific chemical compound names. It only refers to general terms like 'Volatile Organic Compounds' without specifying particular chemicals."
+}

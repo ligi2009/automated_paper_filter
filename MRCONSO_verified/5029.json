@@ -1,0 +1,38 @@
+{
+  "id": 5029,
+  "title": "Chloroform release from ageing cells and Drosophila DJ-1 mutants",
+  "Abstract": "Volatile Organic Compounds (VOCs) offer potential for non-invasive diagnosis as biomarkers of disease and metabolism. In complex biological matrices, such as breath however, identifying useful biomarkers from hundreds, or even thousands of VOCs can be challenging. Models of disease, such as cellular or animal models, offer a means to elucidate VOC metabolisms, for accurate targeted studies in patient samples. Neurodegenerative conditions, such as parkinsons have been associated with changed VOCs, offering a potential for early diagnostics and interventions improving treatments and outcomes for patients. Here, three separate models including; human HEK-293t cells, isolated primary rat glial cells, Drosophila flies (wild type and a mutant of the parkinson’s associated gene, DJ-1) were grown for an extended period and levels of the VOC chloroform (CHCl3) investigated using custom static headspace sampling chambers. Samples were analysed using targeted gas chromatography mass spectroscopy over time to generate metabolic flux values and chloroform shown to dramatically increase in all models as they aged. HEK-293t cells revealed a 60-fold increase after 10 weeks, glial cells revealed a 10-fold increase after 3 to 4 weeks and DJ-1 mutant flies revealed significant increases compared to control flies at 4 weeks. These results, taken together, indicate that chloroform release is related to ageing in these models and may provide a target for neurodegenerative studies moving forward. We present here the first evidence of chloroform being actively produced by human and rat cells and the first observation of volatile metabolisms in Drosophila.",
+  "Disease_List": [
+    "parkinsons"
+  ],
+  "Reason": "The abstract explicitly mentions 'parkinsons' as a specific disease name associated with changed VOCs and neurodegenerative conditions. This is a clear reference to a specific disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "parkinsons"
+  ],
+  "UMLS_search_results": {
+    "parkinsons": []
+  },
+  "MRCONSO_search_results": {
+    "parkinsons": [
+      "Bromocriptine [parkinsons]",
+      "Bromocriptine [parkinsons] (product)",
+      "Bromocriptine [parkinsons] (substance)",
+      "Parkinsons ziekte",
+      "Parkinsons Disease"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "parkinsons_via_Parkinsons Disease": [
+      {
+        "ui": "C0030567",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030567",
+        "name": "Parkinson Disease",
+        "mesh_id": "D010300"
+      }
+    ]
+  }
+}

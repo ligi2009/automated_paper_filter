@@ -1,0 +1,42 @@
+{
+  "id": 2304,
+  "title": "Use of trained scent dogs for detection of COVID-19 and evidence of cost-saving",
+  "Abstract": "Background One of the lessons learned from the coronavirus disease 2019 (COVID-19) pandemic is the importance of early, flexible, and rapidly deployable disease detection methods. Currently, diagnosis of COVID-19 requires the collection of oro/nasopharyngal swabs, nasal turbinate, anterior nares and saliva but as the pandemic continues, disease detection methods that can identify infected individuals earlier and more quickly will be crucial for slowing the spread of the virus. Previous studies have indicated that dogs can be trained to identify volatile organic compounds (VOCs) produced during respiratory infections. We sought to determine whether this approach could be applied for detection of COVID-19 in Rwanda and measured its cost-saving. Methods Over a period of 5 months, four dogs were trained to detect VOCs in sweat samples collected from human subjects confirmed positive or negative for COVID-19 by reverse transcription polymerase chain reaction (RT-PCR) testing. Dogs were trained using a detection dog training system (DDTS) and in vivo diagnosis. Samples were collected from 5,253 participants using a cotton pad swiped in the underarm to collect sweat samples. Statistical analysis was conducted using R statistical software. Findings From August to September 2021 during the Delta wave, the sensitivity of the dogs’ COVID-19 detection ranged from 75.0 to 89.9% for the lowest- and highest-performing dogs, respectively. Specificity ranged from 96.1 to 98.4%, respectively. In the second phase coinciding with the Omicron wave (January–March 2022), the sensitivity decreased substantially from 36.6 to 41.5%, while specificity remained above 95% for all four dogs. The sensitivity and specificity by any positive sample detected by at least one dog was 83.9, 95% CI: 75.8–90.2 and 94.9%; 95% CI: 93.9–95.8, respectively. The use of scent detection dogs was also found to be cost-saving compared to antigen rapid diagnostic tests, based on a marginal cost of approximately $14,000 USD for testing of the 5,253 samples which makes 2.67 USD per sample. Testing turnaround time was also faster with the scent detection dogs, at 3 h compared to 11 h with routine diagnostic testing. Conclusion The findings from this study indicate that trained dogs can accurately identify respiratory secretion samples from asymptomatic and symptomatic COVID-19 patients timely and cost-effectively. Our findings recommend further uptake of this approach for COVID-19 detection.",
+  "Disease_List": [
+    "coronavirus disease 2019 (COVID-19)"
+  ],
+  "Reason": "The abstract explicitly mentions the specific disease name 'coronavirus disease 2019 (COVID-19)' multiple times, describing detection methods and study results related to this disease. Therefore, it qualifies as 'Y' for specific disease names mentioned.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "coronavirus disease 2019 (COVID-19)"
+  ],
+  "UMLS_search_results": {
+    "coronavirus disease 2019 (COVID-19)": []
+  },
+  "MRCONSO_search_results": {
+    "coronavirus disease 2019 (COVID-19)": [
+      "Coronavirus Disease 2019",
+      "Coronavirus disease 2019",
+      "COVID-19 (Coronavirus Disease 2019)",
+      "Coronavirus Disease 2019 Virus",
+      "Coronavirus Disease 2019 Testing"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "coronavirus disease 2019 (COVID-19)_via_Coronavirus Disease 2019": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract does not mention any specific chemical compound names. It refers generally to volatile organic compounds (VOCs) but does not specify any particular chemical substances by name."
+}

@@ -1,0 +1,267 @@
+{
+  "id": 6165,
+  "title": "Air pollution exposure and inflammatory bowel disease: a systematic literature review of epidemiological and mechanistic studies",
+  "Abstract": "This systematic literature review investigates the relationship between air pollution exposure and inflammatory bowel disease (IBD), encompassing Crohn's disease (CD) and ulcerative colitis (UC). Despite the growing concern over air pollution's impact on various health outcomes, studies specifically addressing effects on the digestive system, particularly IBD, are relatively rare. This review aims to synthesize the current knowledge on this topic, focusing on the mechanisms underlying these associations and the role of different air pollutants. Following PRISMA guidelines, a systematic literature search of PubMed and Web of Science databases was conducted, yielding 13 epidemiological studies and six mechanistic (toxicological) studies meeting the inclusion criteria. The epidemiological studies examined associations between IBD and various air pollutants, including PM2.5 (particles with an aerodynamic diameter smaller than, or equal to, 2.5 µm), PM10 (particles with an aerodynamic diameter smaller than, or equal to, 10 µm), PM2.5–10 (coarse particles with an aerodynamic diameter in the range of 2.5–10 µm), BC (black carbon), NO2 (nitrogen dioxide), NO (nitrogen monoxide), NOx (nitrogen oxides), N2O (nitrous oxide), CO (carbon monoxide), SO2 (sulfur dioxide), VOC (volatile organic compounds), O3 (ozone), Ox (oxidant capacity), and traffic load. Study methodologies varied among these 13 epidemiological studies, including four cohort studies, two ecological studies, three case-control studies, two studies using two-sample Mendelian randomization, and two longitudinal time-series studies. Eight studies investigated associations with Crohn's disease and ulcerative colitis separately, while five studies analyzed IBD as a whole without distinguishing between CD and UC. Eleven studies found statistically significant associations between air pollution exposure and IBD, although inconsistent results were found in several of these studies. A total number of six mechanistic (toxicological) studies were retrieved. Among these six studies, five were using particulate matter as exposure metric, and one was based on NO2 and O3 as exposure metrics. With a combination of animal, human, and in vitro studies, the results in terms of biological mechanisms indicate that air pollution exposure influences the composition of the gut microbiome, altering metabolic functions within the gut, and creates immunological reactions with inflammation contributing to the development of IBD. Consequently, the results suggest a link between air pollution exposure and both the onset and exacerbation of IBD. However, differences in study design, exposure assessment, and pollutant types make it challenging to draw any firm conclusions. Moreover, the lack of multi-pollutant models in most epidemiological studies makes it difficult to estimate the individual effect of specific air pollutants. This review highlights the need for further research utilizing robust study designs and standardized exposure assessment methods to better understand the impact of air pollution on IBD. By elucidating these associations, policymakers and healthcare professionals can develop effective strategies to mitigate the adverse effects of air pollution on digestive health.",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "ulcerative colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names including 'inflammatory bowel disease (IBD)', 'Crohn's disease (CD)', and 'ulcerative colitis (UC)'. These are well-defined diseases rather than general terms like 'disease' or 'illness'. Therefore, the classification is 'Y' with the listed diseases identified.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "Crohn's disease",
+    "ulcerative colitis"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "Crohn's disease": [
+      {
+        "ui": "C0010346",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0010346",
+        "name": "Crohn Disease",
+        "mesh_id": "D003424"
+      }
+    ],
+    "ulcerative colitis": [
+      {
+        "ui": "C0009324",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009324",
+        "name": "Ulcerative Colitis",
+        "mesh_id": "D003093"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "PM2.5",
+    "PM10",
+    "PM2.5–10",
+    "BC",
+    "NO2",
+    "NO",
+    "NOx",
+    "N2O",
+    "CO",
+    "SO2",
+    "VOC",
+    "O3",
+    "Ox"
+  ],
+  "compound_CID": [
+    {
+      "PM2.5": "None",
+      "PM10": "None",
+      "PM2.5–10": "None",
+      "BC": "None",
+      "NO2": "None",
+      "NO": 24822,
+      "NOx": "None",
+      "N2O": 948,
+      "CO": 104730,
+      "SO2": 1119,
+      "VOC": 169449334,
+      "O3": 24823,
+      "Ox": 4616
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "PM2.5_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The systematic literature review summarized in the abstract indicates that multiple epidemiological studies found statistically significant associations between air pollution exposure, including PM2.5, and inflammatory bowel disease (IBD). Additionally, mechanistic studies using particulate matter as an exposure metric demonstrated biological mechanisms such as alterations in gut microbiome composition, metabolic function changes, and immunological inflammation that contribute to IBD development. Although there are inconsistencies and challenges in isolating the effects of specific pollutants due to study design variability and lack of multi-pollutant models, the overall evidence suggests a link between PM2.5 exposure and both the onset and exacerbation of IBD."
+      },
+      "PM2.5_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, several investigated associations between PM2.5 exposure and inflammatory bowel disease (IBD), including Crohn's disease (CD). Eight studies specifically analyzed CD and ulcerative colitis separately, with eleven studies overall finding statistically significant associations between air pollution exposure and IBD, although results were sometimes inconsistent. Mechanistic studies also support biological plausibility, showing that particulate matter exposure influences gut microbiome composition and immune responses contributing to IBD development. Despite challenges in study design and exposure assessment, the evidence suggests a link between PM2.5 exposure and the onset and exacerbation of Crohn's disease."
+      },
+      "PM2.5_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract presents evidence from a systematic literature review indicating associations between air pollution exposure, including PM2.5, and inflammatory bowel disease (IBD), which encompasses ulcerative colitis (UC). Among the 13 epidemiological studies reviewed, several found statistically significant associations between air pollution and IBD, with some studies investigating UC separately. Mechanistic studies also support biological plausibility, showing that particulate matter exposure influences gut microbiome composition and immune responses that contribute to IBD development. Although results are somewhat inconsistent and confounded by study design differences and lack of multi-pollutant models, the overall evidence suggests a link between PM2.5 exposure and ulcerative colitis."
+      }
+    },
+    {
+      "PM10_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, PM10 was one of the air pollutants examined for associations with inflammatory bowel disease (IBD). Eleven studies found statistically significant associations between air pollution exposure and IBD, indicating evidence of a relationship. Additionally, mechanistic studies suggest that particulate matter exposure, which includes PM10, influences gut microbiome composition and triggers immunological inflammation contributing to IBD development. However, the abstract also notes inconsistencies among studies and challenges in isolating the effects of specific pollutants due to study design differences and lack of multi-pollutant models. Despite these limitations, the overall evidence supports a link between PM10 exposure and IBD onset and exacerbation."
+      },
+      "PM10_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, several investigated associations between PM10 exposure and inflammatory bowel disease (IBD), including Crohn's disease (CD). Eight studies specifically analyzed CD and ulcerative colitis separately, and eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. Mechanistic studies also support that particulate matter exposure, which includes PM10, influences gut microbiome composition and immune responses contributing to IBD development. Despite challenges in isolating the effect of individual pollutants like PM10 due to study design variability and lack of multi-pollutant models, the overall evidence suggests a link between PM10 exposure and Crohn's disease onset and exacerbation."
+      },
+      "PM10_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, PM10 was one of the air pollutants examined for associations with inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). Eleven studies found statistically significant associations between air pollution exposure and IBD, with some studies investigating UC separately. Mechanistic studies also support that particulate matter exposure, including PM10, influences gut microbiome composition and immune responses contributing to IBD development. Although results are somewhat inconsistent and confounded by study design and pollutant mixtures, the evidence suggests a link between PM10 exposure and ulcerative colitis."
+      }
+    },
+    {
+      "PM2.5–10_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, PM2.5–10 (coarse particulate matter) was included in the epidemiological studies examining associations with inflammatory bowel disease (IBD). Eleven out of thirteen epidemiological studies found statistically significant associations between air pollution exposure and IBD, although results were somewhat inconsistent. Mechanistic studies also support that particulate matter exposure influences gut microbiome composition and immune responses leading to inflammation relevant to IBD development. While the review notes challenges in isolating effects of individual pollutants due to study design limitations and lack of multi-pollutant models, the inclusion of PM2.5–10 in these studies and the overall evidence linking particulate matter to IBD supports a relationship between PM2.5–10 exposure and inflammatory bowel disease."
+      },
+      "PM2.5–10_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, eight investigated associations with Crohn's disease (CD) and ulcerative colitis separately, and eleven studies found statistically significant associations between air pollution exposure and inflammatory bowel disease (IBD), which includes Crohn's disease. PM2.5–10, defined as coarse particulate matter with aerodynamic diameter between 2.5 and 10 µm, was one of the air pollutants examined in these studies. Although the results were somewhat inconsistent and complicated by differences in study design and exposure assessment, the overall evidence suggests a link between exposure to air pollutants including PM2.5–10 and the onset or exacerbation of Crohn's disease. The mechanistic studies further support this by showing that particulate matter exposure influences gut microbiome composition and immune responses contributing to IBD development. However, the abstract also notes challenges in isolating the individual effect of PM2.5–10 due to lack of multi-pollutant models. Despite these limitations, the evidence supports a relationship between PM2.5–10 exposure and Crohn's disease."
+      },
+      "PM2.5–10_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, several investigated associations between various air pollutants, including PM2.5–10 (coarse particulate matter), and inflammatory bowel diseases such as ulcerative colitis (UC). Although results were somewhat inconsistent and study designs varied, eleven studies found statistically significant associations between air pollution exposure and IBD, with eight studies analyzing Crohn's disease and ulcerative colitis separately. Mechanistic studies also support biological plausibility, showing that particulate matter exposure influences gut microbiome composition and immune responses contributing to IBD development. While the review notes challenges in isolating effects of specific pollutants due to lack of multi-pollutant models, the evidence suggests a link between PM2.5–10 exposure and ulcerative colitis onset and exacerbation."
+      }
+    },
+    {
+      "BC_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, BC (black carbon) was included in the epidemiological studies examining associations with inflammatory bowel disease (IBD). Eleven out of thirteen epidemiological studies found statistically significant associations between air pollution exposure, including BC, and IBD, although results were somewhat inconsistent. Mechanistic studies also support that air pollution exposure influences gut microbiome composition and immune responses leading to inflammation relevant to IBD development. However, the abstract notes challenges in isolating the individual effects of specific pollutants like BC due to study design limitations and lack of multi-pollutant models. Despite these limitations, the evidence suggests a link between BC exposure and IBD onset and exacerbation."
+      },
+      "BC_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, various air pollutants including BC (black carbon) were examined for associations with inflammatory bowel disease (IBD), which includes Crohn's disease (CD). Eight studies investigated associations with Crohn's disease separately, and eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. The mechanistic studies support that air pollution exposure, including particulate matter such as BC, influences gut microbiome composition and immune responses contributing to IBD development. However, the abstract also notes challenges in isolating the individual effects of specific pollutants like BC due to study design differences and lack of multi-pollutant models. Despite these limitations, the evidence suggests a link between BC exposure and Crohn's disease."
+      },
+      "BC_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, BC (black carbon) was one of the air pollutants examined for associations with inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). Eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. Eight studies investigated Crohn's disease and ulcerative colitis separately, indicating that some data specifically relate to UC. The mechanistic studies support that air pollution, including particulate matter like BC, influences gut microbiome composition and immune responses leading to inflammation relevant to IBD pathogenesis. However, the abstract also notes challenges in isolating the individual effects of specific pollutants like BC due to study design differences and lack of multi-pollutant models. Despite these limitations, the evidence suggests a link between BC exposure and ulcerative colitis, warranting further research."
+      }
+    },
+    {
+      "NO2_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, NO2 (nitrogen dioxide) was one of the air pollutants examined for associations with inflammatory bowel disease (IBD). Eleven studies found statistically significant associations between air pollution exposure and IBD, including those involving NO2. Additionally, one of the six mechanistic studies specifically used NO2 as an exposure metric and indicated biological mechanisms whereby air pollution, including NO2, influences gut microbiome composition and triggers immunological inflammation contributing to IBD development. Although the review notes inconsistencies and challenges in isolating the effects of individual pollutants due to study design and lack of multi-pollutant models, the evidence presented supports a relationship between NO2 exposure and IBD onset and exacerbation."
+      },
+      "NO2_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, NO2 (nitrogen dioxide) was one of the air pollutants examined for associations with inflammatory bowel disease (IBD), which includes Crohn's disease (CD). Eleven studies found statistically significant associations between air pollution exposure and IBD, and eight studies investigated Crohn's disease separately. Additionally, one of the six mechanistic studies specifically used NO2 as an exposure metric, indicating biological plausibility through mechanisms such as alterations in gut microbiome composition and immunological inflammation contributing to IBD development. Although the results are somewhat inconsistent and complicated by study design differences and lack of multi-pollutant models, the evidence suggests a link between NO2 exposure and Crohn's disease onset and exacerbation."
+      },
+      "NO2_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, NO2 (nitrogen dioxide) was one of the air pollutants examined for associations with inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). Eleven studies found statistically significant associations between air pollution exposure and IBD, with some studies investigating UC separately. Additionally, one of the six mechanistic studies specifically used NO2 as an exposure metric and indicated biological mechanisms by which air pollution, including NO2, influences gut microbiome composition and immune responses leading to inflammation relevant to IBD development. Although the results are somewhat inconsistent and confounded by study design and pollutant mixtures, the evidence suggests a link between NO2 exposure and ulcerative colitis."
+      }
+    },
+    {
+      "NO_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied in relation to inflammatory bowel disease (IBD), nitrogen monoxide (NO) was included as one of the pollutants examined in 13 epidemiological studies. Eleven of these studies found statistically significant associations between air pollution exposure and IBD, suggesting a link. Although the results are somewhat inconsistent and the individual effect of specific pollutants like NO is difficult to isolate due to lack of multi-pollutant models, the overall evidence indicates that exposure to air pollutants including NO is associated with the onset and exacerbation of IBD. Mechanistic studies also support that air pollution influences gut microbiome composition and immune responses leading to inflammation relevant to IBD. Therefore, there is evidence of a relationship between NO and inflammatory bowel disease based on the reviewed literature."
+      },
+      "NO_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, NO (nitrogen monoxide) was included in the epidemiological studies examining associations with inflammatory bowel disease (IBD), which encompasses Crohn's disease (CD). Eight studies investigated Crohn's disease separately, and eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. Mechanistic studies indicate that air pollution, including nitrogen oxides, influences gut microbiome composition and immune responses leading to inflammation relevant to IBD development. However, the abstract also notes challenges in isolating the individual effects of specific pollutants like NO due to study design limitations and lack of multi-pollutant models. Despite these limitations, the evidence suggests a link between NO exposure and Crohn's disease, warranting further research."
+      },
+      "NO_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, NO (nitrogen monoxide) was included in the epidemiological studies examining associations with inflammatory bowel disease (IBD), which encompasses ulcerative colitis (UC). Eleven of the thirteen epidemiological studies found statistically significant associations between air pollution exposure and IBD, including UC, although results were somewhat inconsistent. The mechanistic studies indicate that air pollution exposure, including nitrogen oxides, influences gut microbiome composition and triggers immunological inflammation contributing to IBD development. While the lack of multi-pollutant models limits the ability to isolate the effect of NO specifically, the inclusion of NO in the studied pollutants and the overall evidence linking air pollution to UC supports a relationship between NO exposure and ulcerative colitis."
+      }
+    },
+    {
+      "NOx_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, various air pollutants including NOx (nitrogen oxides) were examined for associations with inflammatory bowel disease (IBD). Eleven studies found statistically significant associations between air pollution exposure and IBD, suggesting a link. Although the results were somewhat inconsistent and the lack of multi-pollutant models complicates isolating the effect of NOx specifically, the overall evidence indicates that exposure to air pollutants including NOx influences biological mechanisms such as gut microbiome composition and immunological inflammation contributing to IBD development and exacerbation. Therefore, there is evidence supporting a relationship between NOx exposure and inflammatory bowel disease."
+      },
+      "NOx_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the 13 epidemiological studies reviewed, various air pollutants including NOx (nitrogen oxides) were examined for associations with inflammatory bowel disease (IBD), which includes Crohn's disease (CD). Eight studies investigated Crohn's disease separately, and eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. The mechanistic studies suggest that air pollution exposure, including nitrogen oxides, influences gut microbiome composition and immune responses contributing to IBD development. While the review notes challenges in isolating effects of individual pollutants due to study design and lack of multi-pollutant models, the overall evidence indicates a link between NOx exposure and Crohn's disease onset and exacerbation."
+      },
+      "NOx_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on air pollution and inflammatory bowel disease (IBD), including ulcerative colitis (UC), and mentions NOx among various pollutants studied. While 11 studies found significant associations between air pollution and IBD overall, the results were inconsistent, and the studies often did not distinguish effects of individual pollutants like NOx on UC specifically. Additionally, mechanistic studies focused mainly on particulate matter and NO2/O3, with no direct evidence linking NOx to UC. The lack of multi-pollutant models and variability in study designs further limit conclusions about NOx's specific role. Therefore, there is no clear evidence from this abstract to establish a direct relationship between NOx and ulcerative colitis."
+      }
+    },
+    {
+      "N2O_inflammatory_bowel_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple air pollutants in relation to inflammatory bowel disease (IBD), including N2O (nitrous oxide). While it mentions that 11 out of 13 epidemiological studies found statistically significant associations between air pollution and IBD, it does not specify any direct or clear association between N2O and IBD. Furthermore, the mechanistic studies focus mainly on particulate matter and NO2/O3, with no mention of N2O. The abstract also highlights challenges in isolating effects of individual pollutants due to study design limitations and lack of multi-pollutant models. Therefore, based on the abstract, there is no clear evidence supporting a specific relationship between N2O and inflammatory bowel disease."
+      },
+      "N2O_Crohn's_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple air pollutants including N2O (nitrous oxide) in relation to inflammatory bowel disease (IBD) and Crohn's disease (CD). While it mentions that 11 studies found statistically significant associations between air pollution and IBD, the evidence is inconsistent and does not isolate the effect of individual pollutants such as N2O. The mechanistic studies focus mainly on particulate matter and NO2/O3, with no specific mechanistic evidence presented for N2O. Additionally, the lack of multi-pollutant models and variability in study designs make it difficult to attribute any clear relationship between N2O exposure and Crohn's disease. Therefore, based on the abstract, there is no clear evidence supporting a direct relationship between N2O and Crohn's disease."
+      },
+      "N2O_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple air pollutants including N2O (nitrous oxide) in relation to inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). While 11 epidemiological studies found statistically significant associations between air pollution and IBD overall, the results were inconsistent and the studies often did not distinguish effects of individual pollutants. Specifically, mechanistic studies focused on particulate matter, NO2, and O3, but not on N2O. The lack of multi-pollutant models and variability in study designs prevent firm conclusions about the individual effect of N2O on UC. Therefore, there is no clear evidence from this review to support a direct relationship between N2O and ulcerative colitis."
+      }
+    },
+    {
+      "CO_inflammatory_bowel_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple air pollutants including CO (carbon monoxide) in relation to inflammatory bowel disease (IBD). While 11 epidemiological studies found statistically significant associations between air pollution exposure and IBD, the results were inconsistent and the studies often did not isolate the effects of individual pollutants such as CO. The mechanistic studies focused mainly on particulate matter, NO2, and O3, with no specific mechanistic evidence presented for CO. Additionally, the lack of multi-pollutant models in most studies makes it difficult to determine the individual impact of CO on IBD. Therefore, based on the abstract, there is no clear evidence establishing a direct relationship between CO exposure and inflammatory bowel disease."
+      },
+      "CO_Crohn's_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on air pollution and inflammatory bowel disease (IBD), including Crohn's disease (CD). While CO (carbon monoxide) is listed among the air pollutants studied, the abstract does not provide specific evidence or statistically significant associations between CO exposure and Crohn's disease. Most mechanistic studies focus on particulate matter, NO2, and O3, with no direct mechanistic evidence involving CO. Additionally, the review highlights inconsistent results and difficulty in isolating effects of individual pollutants due to lack of multi-pollutant models. Therefore, based on the abstract, there is no clear or direct evidence supporting a relationship between CO and Crohn's disease."
+      },
+      "CO_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on the relationship between various air pollutants, including carbon monoxide (CO), and inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). While 11 studies found statistically significant associations between air pollution and IBD overall, the results were inconsistent and the studies often did not distinguish the effects of individual pollutants. Specifically, the mechanistic studies focused mainly on particulate matter, NO2, and O3, with no direct mechanistic evidence presented for CO. Additionally, the lack of multi-pollutant models and variability in study designs make it difficult to isolate the effect of CO on UC. Therefore, based on the abstract, there is no clear evidence establishing a direct relationship between CO exposure and ulcerative colitis."
+      }
+    },
+    {
+      "SO2_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied in relation to inflammatory bowel disease (IBD), sulfur dioxide (SO2) was included in the epidemiological studies. Eleven out of thirteen epidemiological studies found statistically significant associations between air pollution exposure and IBD, suggesting a link. Although the results are somewhat inconsistent and the lack of multi-pollutant models complicates isolating the effect of SO2 specifically, the overall evidence indicates that air pollution, including SO2, influences gut microbiome composition and immune responses leading to inflammation associated with IBD. Therefore, there is evidence supporting a relationship between SO2 exposure and inflammatory bowel disease."
+      },
+      "SO2_Crohn's_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on air pollution and inflammatory bowel disease (IBD), including Crohn's disease (CD). While SO2 (sulfur dioxide) is listed among the air pollutants examined in epidemiological studies, the abstract does not provide specific evidence linking SO2 exposure directly to Crohn's disease. The mechanistic studies focus mainly on particulate matter and some on NO2 and O3, with no mention of SO2. Additionally, the abstract notes inconsistent results across studies and difficulty in isolating effects of individual pollutants due to lack of multi-pollutant models. Therefore, based on the abstract, there is no clear or direct evidence establishing a relationship between SO2 and Crohn's disease."
+      },
+      "SO2_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on air pollution and inflammatory bowel disease (IBD), including ulcerative colitis (UC), and lists SO2 (sulfur dioxide) among the pollutants examined. While 11 epidemiological studies found statistically significant associations between air pollution and IBD overall, the results were inconsistent and the studies often did not distinguish the effects of individual pollutants like SO2. Furthermore, mechanistic studies focused mainly on particulate matter and NO2/O3, with no specific mechanistic evidence presented for SO2. The review also notes challenges in isolating the effects of specific pollutants due to lack of multi-pollutant models and variability in study designs. Therefore, based on the abstract, there is no clear or direct evidence establishing a relationship between SO2 exposure and ulcerative colitis."
+      }
+    },
+    {
+      "VOC_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among various air pollutants studied, including VOC (volatile organic compounds), there are statistically significant associations between air pollution exposure and inflammatory bowel disease (IBD). Although the results are somewhat inconsistent and the individual effects of specific pollutants like VOC are difficult to isolate due to lack of multi-pollutant models, the overall evidence from epidemiological and mechanistic studies suggests that air pollution, which includes VOCs, influences gut microbiome composition and immune responses contributing to IBD development and exacerbation. Therefore, there is evidence supporting a relationship between VOC exposure and IBD."
+      },
+      "VOC_Crohn's_disease": {
+        "relationship": "N",
+        "reason": "The abstract reviews multiple studies on air pollution and inflammatory bowel disease (IBD), including Crohn's disease (CD). While VOC (volatile organic compounds) is listed among the air pollutants studied, the abstract does not provide specific evidence or statistically significant associations directly linking VOC exposure to Crohn's disease. Most significant associations were found between air pollution in general and IBD, but results were inconsistent and the lack of multi-pollutant models makes it difficult to isolate the effect of VOC specifically. Therefore, based on the abstract, there is no clear evidence of a direct relationship between VOC and Crohn's disease."
+      },
+      "VOC_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among various air pollutants studied, including VOC (volatile organic compounds), there are statistically significant associations between air pollution exposure and inflammatory bowel disease (IBD), which includes ulcerative colitis (UC). Eight studies investigated Crohn's disease and ulcerative colitis separately, and overall, eleven studies found significant associations between air pollution and IBD. Although the results are somewhat inconsistent and the lack of multi-pollutant models complicates isolating the effect of individual pollutants like VOC, the evidence suggests a link between air pollution exposure, including VOC, and the onset and exacerbation of ulcerative colitis. The mechanistic studies also support that air pollution influences gut microbiome and immune responses contributing to IBD development. Therefore, there is evidence of a relationship between VOC exposure and ulcerative colitis."
+      }
+    },
+    {
+      "O3_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, O3 (ozone) was included as an exposure metric in both epidemiological and mechanistic studies investigating the relationship with inflammatory bowel disease (IBD). Specifically, one mechanistic study used NO2 and O3 as exposure metrics and found biological mechanisms indicating that air pollution exposure, including O3, influences gut microbiome composition, metabolic functions, and immunological reactions leading to inflammation contributing to IBD development. Although the results across studies are somewhat inconsistent and it is difficult to isolate the effect of O3 alone due to lack of multi-pollutant models, the evidence suggests a link between O3 exposure and both the onset and exacerbation of IBD. Therefore, there is evidence of a relationship between O3 and inflammatory bowel disease based on the reviewed literature."
+      },
+      "O3_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, O3 (ozone) was included as an exposure metric in both epidemiological and mechanistic studies investigating inflammatory bowel disease (IBD), which encompasses Crohn's disease (CD). Several epidemiological studies found statistically significant associations between air pollution exposure and IBD, and mechanistic studies involving O3 suggest biological mechanisms such as alterations in gut microbiome composition and immunological inflammation that contribute to IBD development. Although the results are somewhat inconsistent and complicated by study design differences and lack of multi-pollutant models, the evidence indicates a link between O3 exposure and Crohn's disease onset and exacerbation."
+      },
+      "O3_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among the air pollutants studied, O3 (ozone) was included as an exposure metric in both epidemiological and mechanistic studies investigating inflammatory bowel disease (IBD), which encompasses ulcerative colitis (UC). Eleven epidemiological studies found statistically significant associations between air pollution exposure and IBD, with some studies analyzing UC separately. Additionally, one mechanistic study specifically included O3 and NO2 as exposure metrics, demonstrating biological mechanisms such as alterations in gut microbiome composition and immunological inflammation that contribute to IBD development. Although the results are somewhat inconsistent and complicated by study design differences and lack of multi-pollutant models, the evidence suggests a link between O3 exposure and the onset or exacerbation of ulcerative colitis."
+      }
+    },
+    {
+      "Ox_inflammatory_bowel_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Ox (oxidant capacity) is among the air pollutants studied in relation to inflammatory bowel disease (IBD). Eleven epidemiological studies found statistically significant associations between air pollution exposure, including Ox, and IBD, although results were sometimes inconsistent. Mechanistic studies also support that air pollution exposure influences gut microbiome composition and immune responses leading to inflammation, which contributes to IBD development. Despite challenges in isolating the effect of individual pollutants like Ox due to study design limitations and lack of multi-pollutant models, the overall evidence suggests a link between Ox exposure and both onset and exacerbation of IBD."
+      },
+      "Ox_Crohn's_disease": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among various air pollutants studied, Ox (oxidant capacity) was included as an exposure metric in epidemiological studies investigating inflammatory bowel disease (IBD), which encompasses Crohn's disease (CD). Eight studies specifically examined associations with Crohn's disease and ulcerative colitis separately, and eleven studies found statistically significant associations between air pollution exposure and IBD, although results were inconsistent. The mechanistic studies indicate that air pollution, including oxidants like Ox, influences gut microbiome composition and immune responses leading to inflammation contributing to IBD development. While the evidence is not definitive due to study design variability and lack of multi-pollutant models, the review suggests a link between Ox exposure and Crohn's disease onset and exacerbation."
+      },
+      "Ox_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that among various air pollutants studied, Ox (oxidant capacity) was included as an exposure metric in epidemiological studies investigating inflammatory bowel disease (IBD), which encompasses ulcerative colitis (UC). Eleven studies found statistically significant associations between air pollution exposure and IBD, with some studies analyzing UC separately. Although results were inconsistent and it is difficult to isolate the effect of individual pollutants due to lack of multi-pollutant models, the overall evidence suggests a link between air pollution exposure, including Ox, and the onset and exacerbation of IBD, which includes ulcerative colitis. Therefore, there is evidence supporting a relationship between Ox and ulcerative colitis, albeit with some uncertainty due to study design limitations."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions various air pollutants by their chemical names or abbreviations, including particulate matter fractions (PM2.5, PM10, PM2.5–10), black carbon (BC), nitrogen oxides (NO2, NO, NOx, N2O), carbon monoxide (CO), sulfur dioxide (SO2), volatile organic compounds (VOC), ozone (O3), and oxidant capacity (Ox). These are all specific chemical substances relevant to the study of air pollution and its effects on inflammatory bowel disease."
+}

@@ -1,0 +1,164 @@
+{
+  "id": 3233,
+  "title": "The microbiome in non-alcoholic fatty liver disease: associations and implications",
+  "Abstract": "Nonalcoholic fatty liver disease (NAFLD) is an increasingly significant public health problem as the risk factors for NAFLD such as obesity, insulin resistance and type II diabetes have also become more prevalent [1]. The composition of the intestinal microbiota (IM) has been previously implicated in the pathogenesis of obesity in clinical and animal studies, suggesting that obese humans exhibit a reduction in microbial diversity coupled with an increase in the ratios of Firmicutes to Bacteroidetes compared to lean humans [2,3]. Colonic bacteria may also have effects on the human host through intestinal absorption and delivery to the liver via the portal vein [4]. Therefore two recent papers examining the potential role of IM in NAFLD, by Mouzaki et al [5] and Raman et al [6] respectively, are both timely and relevant. \n \nIn the first of these, Mouzaki et al performed a prospective, cross-sectional study to determine whether differences in IM composition could contribute to the development of NAFLD [5]. Fifty total subjects constituted three groups of varying \n \nNAFLD disease progression: 11 simple steatosis (SS), 22 nonalcoholic steatoheaptitis (NASH), and 17 living liver donors as healthy controls (HC). Subjects in the SS group represent the mildest form of NAFLD, while the NASH group represents the most severe form and can lead to cirrhosis. Liver biopsy confirmed NASH, SS, or healthy liver in controls, and subjects in the NAFLD spectrum underwent extensive assessment to rule out other liver diseases. All subjects completed 7-day food and activity records, and provided stool samples for analysis. Quantitative real-time polymerase chain reaction measured microbial levels in stool samples from each subject. Levels of Bacteroides/Precotella (Bacteriodetes), Clostridium leptum, C. coccoides, bifidobacteria, Escherichia coli, total bacteria and Archaea were determined. Subjects in the NASH group had a lower ratio of Bacteriodetes to total bacterial counts in comparison to the SS or HC groups (P=0.006) and higher C. coccoides compared to the SS group (P=0.04). Interestingly, the authors were only able to detect Archaea in five HC, two SS and two NASH subjects, which limited the statistical power for any comparisons. After accounting for BMI and fat intake, no statistical difference remained in C. coccoides levels between groups, but there was still an independent significant association between subjects with NASH and a lower relative abundance of Bacteriodetes. \n \nThe authors concluded that these data provide evidence that the composition of the IM may play a role in the development of NAFLD. As microbes have established inflammatory roles, the authors also proposed that future studies may further elucidate the effects of the IM on the liver and the mechanisms underlying the development and progression of SS and NASH [5]. \n \nIn the second study, Raman et al performed an observational case-control study that investigated the colonic microbiome and other volatile organic compounds (VOC) in obese NAFLD patients and healthy controls [6]. Thirty obese NAFLD subjects and thirty healthy controls participated in the study. Neither group was subject to dietary restrictions, and the obese NAFLD participants had not undertaken any lifestyle modifications [6]. All provided stool samples for characterization of IM by multitag pyrosequencing and of VOC profiles by gas chromatography-mass spectrometry. In contrast to the results of Mouzaki et al [5], no discernable differences were found between the relative abundance of Bacteroidetes in obese NAFLD subjects vs. healthy controls. The researchers also did not find a correlation between BMI and the proportion of Firmicutes to Bacteroidetes as previously described by Ley et al [7], although the authors did note that the subjects in their study mainly had class I obesity, whereas the subjects in Ley et al had class III and class IV obesity. The authors did find small but significant differences between obese NAFLD patients and controls at the family and genus levels, including an over-representation of Lactobacillus and selected members of phylum Firmicutes in NAFLD subjects, while members of Ruminococcaceae (genus: Oscillibacter) were significantly under-represented. However, it is possible that these differences were due to obesity rather than NAFLD, as the controls were not obese. The authors concluded that there is a shift in the fecal microbiome and a significantly altered fecal VOC profile in obese NAFLD subjects, and propose that, as hepatotropic or hepatotoxic factors, these microbial VOC metabolites may be related to NAFLD [6].",
+  "Disease_List": [
+    "Nonalcoholic fatty liver disease (NAFLD)",
+    "simple steatosis (SS)",
+    "nonalcoholic steatohepatitis (NASH)",
+    "cirrhosis",
+    "obesity",
+    "insulin resistance",
+    "type II diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions several specific diseases by name, including Nonalcoholic fatty liver disease (NAFLD), simple steatosis (SS), nonalcoholic steatohepatitis (NASH), cirrhosis, obesity, insulin resistance, and type II diabetes. These are all specific disease names rather than general terms. The discussion centers on NAFLD and its progression stages (SS and NASH), as well as related metabolic conditions such as obesity, insulin resistance, and type II diabetes, which are clearly identified as diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Nonalcoholic fatty liver disease (NAFLD)",
+    "nonalcoholic steatohepatitis (NASH)",
+    "cirrhosis",
+    "obesity",
+    "insulin resistance",
+    "type II diabetes"
+  ],
+  "UMLS_search_results": {
+    "Nonalcoholic fatty liver disease (NAFLD)": [
+      {
+        "ui": "C0400966",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0400966",
+        "name": "Non-alcoholic Fatty Liver Disease",
+        "mesh_id": "D065626"
+      }
+    ],
+    "simple steatosis (SS)": [],
+    "nonalcoholic steatohepatitis (NASH)": [
+      {
+        "ui": "C3241937",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3241937",
+        "name": "Nonalcoholic Steatohepatitis",
+        "mesh_id": "D065626"
+      }
+    ],
+    "cirrhosis": [
+      {
+        "ui": "C0023890",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023890",
+        "name": "Liver Cirrhosis",
+        "mesh_id": "D008103"
+      },
+      {
+        "ui": "C1623038",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1623038",
+        "name": "Cirrhosis",
+        "mesh_id": "D005355"
+      }
+    ],
+    "obesity": [
+      {
+        "ui": "C4759928",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4759928",
+        "name": "BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 20",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0028754",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0028754",
+        "name": "Obesity",
+        "mesh_id": "D009765"
+      }
+    ],
+    "insulin resistance": [
+      {
+        "ui": "C0021655",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021655",
+        "name": "Insulin Resistance",
+        "mesh_id": "D007333"
+      }
+    ],
+    "type II diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "volatile organic compounds",
+    "gas chromatography-mass spectrometry"
+  ],
+  "compound_CID": [
+    {
+      "volatile organic compounds": "None",
+      "gas chromatography-mass spectrometry": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "volatile organic compounds_Nonalcoholic_fatty_liver_disease_(NAFLD)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study by Raman et al that investigated volatile organic compounds (VOC) in obese NAFLD patients compared to healthy controls. The study found a significantly altered fecal VOC profile in obese NAFLD subjects and proposed that these microbial VOC metabolites may act as hepatotropic or hepatotoxic factors related to NAFLD. This suggests evidence of a relationship between volatile organic compounds and NAFLD, as the altered VOC profile may contribute to the disease's pathogenesis."
+      },
+      "volatile organic compounds_nonalcoholic_steatohepatitis_(NASH)": {
+        "relationship": "N",
+        "reason": "The abstract discusses two studies related to the intestinal microbiota and volatile organic compounds (VOC) in the context of nonalcoholic fatty liver disease (NAFLD) and its spectrum, including nonalcoholic steatohepatitis (NASH). The first study by Mouzaki et al focuses on microbial composition differences in NASH but does not mention VOC. The second study by Raman et al examines VOC profiles in obese NAFLD patients but does not specifically differentiate or provide evidence linking VOC to NASH alone; rather, it addresses NAFLD broadly and includes obese patients without isolating NASH cases. Therefore, while there is evidence of altered VOC profiles in obese NAFLD patients, there is no clear or direct evidence in the abstract establishing a relationship between volatile organic compounds and NASH specifically."
+      },
+      "volatile organic compounds_cirrhosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between volatile organic compounds (VOCs) and nonalcoholic fatty liver disease (NAFLD), including its progression to nonalcoholic steatohepatitis (NASH), which can lead to cirrhosis. However, the studies cited focus on the association of VOCs with NAFLD and NASH, not directly with cirrhosis. While NASH can progress to cirrhosis, the abstract does not provide direct evidence linking VOCs to cirrhosis itself. Therefore, based on the abstract, there is no clear direct relationship established between volatile organic compounds and cirrhosis."
+      },
+      "volatile organic compounds_obesity": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study by Raman et al that investigated volatile organic compounds (VOC) in obese NAFLD patients compared to healthy controls. The study found a significantly altered fecal VOC profile in obese NAFLD subjects, suggesting that microbial VOC metabolites may be related to NAFLD. Although the primary focus is on NAFLD, the altered VOC profile is observed specifically in obese individuals, indicating a relationship between VOC and obesity. The authors also note that some microbiome differences may be due to obesity rather than NAFLD, further supporting a link between VOC and obesity."
+      },
+      "volatile organic compounds_insulin_resistance": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between volatile organic compounds (VOC) and nonalcoholic fatty liver disease (NAFLD), particularly in obese patients. It highlights altered fecal VOC profiles in obese NAFLD subjects and suggests these microbial VOC metabolites may be related to NAFLD. However, the abstract does not provide any direct evidence or discussion linking volatile organic compounds to insulin resistance. While insulin resistance is mentioned as a risk factor for NAFLD, no specific relationship between VOC and insulin resistance is described or implied in the studies summarized."
+      },
+      "volatile organic compounds_type_II_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between volatile organic compounds (VOC) and nonalcoholic fatty liver disease (NAFLD), particularly in obese patients, but does not mention any direct or indirect association between VOC and type II diabetes. While type II diabetes is mentioned as a risk factor for NAFLD, the studies summarized focus on the intestinal microbiota and VOC in the context of NAFLD, not type II diabetes. Therefore, based on the content of this abstract, there is no clear evidence of a relationship between volatile organic compounds and type II diabetes."
+      }
+    },
+    {
+      "gas chromatography-mass spectrometry_Nonalcoholic_fatty_liver_disease_(NAFLD)": {
+        "relationship": "Y",
+        "reason": "The abstract describes a study by Raman et al that used gas chromatography-mass spectrometry (GC-MS) to analyze volatile organic compounds (VOC) in stool samples from obese NAFLD patients and healthy controls. The study found a significantly altered fecal VOC profile in obese NAFLD subjects compared to controls, suggesting that microbial VOC metabolites detected by GC-MS may be related to NAFLD. Therefore, there is evidence of a relationship between the use of gas chromatography-mass spectrometry and the disease NAFLD in the context of studying microbial metabolites associated with the disease."
+      },
+      "gas chromatography-mass spectrometry_nonalcoholic_steatohepatitis_(NASH)": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of gas chromatography-mass spectrometry (GC-MS) in the study by Raman et al to analyze volatile organic compounds (VOC) in obese NAFLD patients, but it does not specifically link GC-MS to nonalcoholic steatohepatitis (NASH). The study involving GC-MS focused on obese NAFLD patients generally, without distinguishing or providing specific findings related to NASH. The other study discussed NASH in detail but did not mention GC-MS. Therefore, there is no clear evidence in the abstract that directly associates the compound 'gas chromatography-mass spectrometry' with the disease 'nonalcoholic steatohepatitis (NASH)'."
+      },
+      "gas chromatography-mass spectrometry_cirrhosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of gas chromatography-mass spectrometry (GC-MS) to analyze volatile organic compounds (VOC) in stool samples from obese NAFLD patients and healthy controls. While the study investigates the fecal microbiome and VOC profiles in relation to nonalcoholic fatty liver disease (NAFLD) and its progression, including nonalcoholic steatohepatitis (NASH) which can lead to cirrhosis, there is no direct evidence or mention of a relationship between GC-MS as a compound and cirrhosis. GC-MS is used here as an analytical technique rather than a chemical compound causing or related to the disease. Therefore, no clear relationship between the compound 'gas chromatography-mass spectrometry' and the disease 'cirrhosis' is established in the abstract."
+      },
+      "gas chromatography-mass spectrometry_obesity": {
+        "relationship": "N",
+        "reason": "The abstract describes the use of gas chromatography-mass spectrometry (GC-MS) as a method to analyze volatile organic compounds (VOC) in stool samples from obese NAFLD patients and healthy controls. GC-MS is presented as an analytical technique rather than a chemical compound with biological effects. The studies focus on the relationship between intestinal microbiota composition, VOC profiles, and NAFLD in the context of obesity. While obesity is a key factor in the study populations, there is no evidence in the abstract that gas chromatography-mass spectrometry itself has a direct relationship with obesity as a disease. Instead, GC-MS is used as a tool to detect metabolites potentially related to NAFLD and obesity. Therefore, no clear relationship exists between the compound 'gas chromatography-mass spectrometry' and the disease 'obesity' based on this abstract."
+      },
+      "gas chromatography-mass spectrometry_insulin_resistance": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of gas chromatography-mass spectrometry (GC-MS) to analyze volatile organic compounds (VOC) in stool samples from obese NAFLD patients and healthy controls. The focus is on the relationship between intestinal microbiota, VOC profiles, and nonalcoholic fatty liver disease (NAFLD). Although insulin resistance is mentioned as a risk factor for NAFLD, the abstract does not provide any direct evidence or discussion linking GC-MS itself to insulin resistance. GC-MS is described as an analytical method used to characterize VOC profiles, not as a compound or agent causing or influencing insulin resistance. Therefore, there is no clear relationship between the compound 'gas chromatography-mass spectrometry' and the disease 'insulin resistance' based on the abstract."
+      },
+      "gas chromatography-mass spectrometry_type_II_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of gas chromatography-mass spectrometry (GC-MS) to analyze volatile organic compounds (VOC) in stool samples from obese NAFLD patients and healthy controls. The focus is on the relationship between intestinal microbiota, VOC profiles, and nonalcoholic fatty liver disease (NAFLD). Although type II diabetes is mentioned as a risk factor for NAFLD, the abstract does not provide any direct evidence or discussion linking GC-MS to type II diabetes specifically. The use of GC-MS is described only in the context of studying NAFLD-related microbiome and VOC changes, not type II diabetes."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions 'volatile organic compounds (VOC)' as specific chemical substances analyzed in the study by Raman et al. Although 'gas chromatography-mass spectrometry' is an analytical technique rather than a compound, it is mentioned in the context of analyzing VOCs. No other specific chemical compound names are identified in the abstract; most terms refer to bacterial taxa or general chemical classes."
+}

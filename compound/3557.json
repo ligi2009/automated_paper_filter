@@ -1,0 +1,192 @@
+{
+  "id": 3557,
+  "title": "In Vitro Evidence for the Efficacy of Manuka Honey and Its Components Against the Major Human Pathogenic Sporothrix Species",
+  "Abstract": "Background/Objectives: While various clinical manifestations occur in sporotrichosis, cutaneous forms predominate. The recommended sporotrichosis treatment is itraconazole, an antifungal with certain restrictions. In recent years, the observation of reduced treatment effectiveness in some patients has arisen, possibly due to Sporothrix spp. resistance mechanisms. Consequently, there is a growing need for alternative therapeutic approaches. This study investigates the antifungal activity of manuka honey (MH) against pathogenic species of the genus Sporothrix. Methods: In this study, we assessed MH antifungal efficacy across concentrations ranging from 5% to 40% against 26 Sporothrix spp. isolates. In addition, its components were evaluated through chromatography and other in vitro techniques. Results: Minimum inhibitory concentrations of MH were found to be 15–40%, 10–15%, and 5–10% for Sporothrix brasiliensis, Sporothrix schenckii, and Sporothrix globosa, respectively. Purified methylglyoxal did not hinder Sporothrix growth. The MH antifungal potential was compromised through treatment with catalase or filtration through a 0.22 µm cellulose membrane. Chromatographic analysis of the volatile organic compounds (VOCs) present in MH identified 40 VOCs, including carbonyl compounds, alcohols, esters, aromatic hydrocarbons, heterocyclic compounds, terpenoids, and carboxylic acids. Additionally, two phenolic compounds were identified as potential markers for the authentication of MH, along with a disaccharide that may contribute to its antifungal activity. Conclusions: MH has demonstrated biological activity against the most significant Sporothrix species with pathogenic impact on humans. This suggests its consideration in future research endeavors focused on novel topical treatments for cutaneous sporotrichosis in both human and animal subjects.",
+  "Disease_List": [
+    "sporotrichosis",
+    "cutaneous sporotrichosis"
+  ],
+  "Reason": "The abstract explicitly mentions 'sporotrichosis' and 'cutaneous sporotrichosis' as specific diseases. Sporotrichosis is a fungal infection caused by Sporothrix species, and the text discusses clinical manifestations, treatment, and antifungal activity against this disease, clearly identifying it as a specific disease name.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "sporotrichosis",
+    "cutaneous sporotrichosis"
+  ],
+  "UMLS_search_results": {
+    "sporotrichosis": [
+      {
+        "ui": "C0038034",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0038034",
+        "name": "Sporotrichosis",
+        "mesh_id": "D013174"
+      }
+    ],
+    "cutaneous sporotrichosis": [
+      {
+        "ui": "C0276726",
+        "rootSource": "SNOMEDCT_US",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0276726",
+        "name": "Cutaneous sporotrichosis",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "itraconazole",
+    "manuka honey",
+    "methylglyoxal",
+    "carbonyl compounds",
+    "alcohols",
+    "esters",
+    "aromatic hydrocarbons",
+    "heterocyclic compounds",
+    "terpenoids",
+    "carboxylic acids",
+    "phenolic compounds",
+    "disaccharide"
+  ],
+  "compound_CID": [
+    {
+      "itraconazole": 55283,
+      "manuka honey": "None",
+      "methylglyoxal": 880,
+      "carbonyl compounds": "None",
+      "alcohols": "None",
+      "esters": "None",
+      "aromatic hydrocarbons": "None",
+      "heterocyclic compounds": "None",
+      "terpenoids": "None",
+      "carboxylic acids": "None",
+      "phenolic compounds": "None",
+      "disaccharide": 439557
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "itraconazole_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that itraconazole is the recommended treatment for sporotrichosis, indicating a clear therapeutic relationship between the compound itraconazole and the disease sporotrichosis. Although the study focuses on manuka honey as a potential alternative due to emerging resistance to itraconazole, the established use of itraconazole for treating sporotrichosis confirms a direct relationship."
+      },
+      "itraconazole_cutaneous_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that itraconazole is the recommended treatment for sporotrichosis, which predominantly presents in cutaneous forms. This indicates a clear relationship between itraconazole and cutaneous sporotrichosis as an antifungal therapy. Although the study focuses on manuka honey as a potential alternative due to emerging resistance to itraconazole, the established use of itraconazole for treating cutaneous sporotrichosis is evident."
+      }
+    },
+    {
+      "manuka honey_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between manuka honey (MH) and sporotrichosis by demonstrating MH's antifungal activity against pathogenic Sporothrix species, which cause sporotrichosis. The study shows that MH inhibits the growth of various Sporothrix species at specific concentrations and identifies components potentially responsible for this antifungal effect. The findings suggest MH could be considered for developing novel topical treatments for cutaneous sporotrichosis, indicating a clear therapeutic relationship."
+      },
+      "manuka honey_cutaneous_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence that manuka honey (MH) exhibits antifungal activity against pathogenic Sporothrix species, which are responsible for cutaneous sporotrichosis. The study demonstrated that MH inhibited the growth of various Sporothrix isolates at specific concentrations, indicating its potential as an alternative therapeutic agent. Furthermore, the conclusion explicitly suggests considering MH in future research for novel topical treatments for cutaneous sporotrichosis, supporting a clear relationship between manuka honey and the disease."
+      }
+    },
+    {
+      "methylglyoxal_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract investigates the antifungal activity of manuka honey (MH) against Sporothrix species, which cause sporotrichosis. Although methylglyoxal is a component of MH, the study specifically reports that purified methylglyoxal did not inhibit Sporothrix growth. Therefore, there is no evidence from this abstract that methylglyoxal itself has a direct relationship with sporotrichosis, either as a treatment or causative factor."
+      },
+      "methylglyoxal_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract investigates the antifungal activity of manuka honey (MH) against Sporothrix species causing cutaneous sporotrichosis. It specifically states that purified methylglyoxal, a component of MH, did not inhibit Sporothrix growth. Therefore, there is no evidence from this study that methylglyoxal has a direct antifungal effect or relationship with cutaneous sporotrichosis treatment or pathology."
+      }
+    },
+    {
+      "carbonyl compounds_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, which cause sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including carbonyl compounds, but does not provide evidence that carbonyl compounds themselves have a direct relationship with sporotrichosis. Instead, the antifungal effect is attributed to the overall composition of MH, and purified methylglyoxal (a carbonyl compound) did not inhibit Sporothrix growth. Therefore, there is no clear evidence from the abstract that carbonyl compounds are related to sporotrichosis in terms of causation, treatment, or pathology."
+      },
+      "carbonyl compounds_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including carbonyl compounds, but does not provide evidence that carbonyl compounds themselves have a direct relationship with cutaneous sporotrichosis. Instead, the antifungal effect is attributed to the overall composition of MH, and purified methylglyoxal (a carbonyl compound) did not inhibit Sporothrix growth. Therefore, there is no clear evidence from the abstract that carbonyl compounds alone are related to the disease."
+      }
+    },
+    {
+      "alcohols_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, the causative agents of sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including alcohols, but does not provide evidence that alcohols themselves have a direct relationship with sporotrichosis, either as a cause, treatment, or risk factor. The antifungal effect is attributed to MH as a whole and possibly to other components, but alcohols are only mentioned as part of the VOC profile without specific functional relevance. Therefore, there is no clear evidence of a direct relationship between alcohols and sporotrichosis based on this abstract."
+      },
+      "alcohols_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including alcohols, but does not provide evidence that alcohols alone have a direct relationship with cutaneous sporotrichosis. The antifungal effect is attributed to the overall composition of MH rather than specifically to alcohols. Therefore, there is no clear evidence from the abstract that alcohols themselves have a relationship with cutaneous sporotrichosis."
+      }
+    },
+    {
+      "esters_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, which cause sporotrichosis. It identifies esters as one of the volatile organic compounds present in MH. However, there is no direct evidence or specific mention that esters themselves have a relationship with sporotrichosis, either as a cause, treatment, or factor influencing the disease. The antifungal effect is attributed to MH as a whole and possibly other components, but esters are only listed as part of the chemical composition without a clear role in the disease context."
+      },
+      "esters_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. It identifies esters as one of the volatile organic compounds present in MH through chromatographic analysis. However, there is no direct evidence or specific mention of esters themselves having a therapeutic or pathogenic relationship with cutaneous sporotrichosis. The antifungal effect is attributed to MH as a whole and possibly other components, but esters are not singled out as active agents or related to the disease mechanism or treatment."
+      }
+    },
+    {
+      "aromatic hydrocarbons_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, the causative agents of sporotrichosis. Aromatic hydrocarbons are mentioned only as one of many volatile organic compounds (VOCs) identified in MH through chromatographic analysis. However, there is no direct evidence or indication that aromatic hydrocarbons themselves have a relationship with sporotrichosis, either as a cause, treatment, or risk factor. The focus is on MH's overall antifungal properties, not on aromatic hydrocarbons specifically. Therefore, no clear relationship between aromatic hydrocarbons and sporotrichosis is established in the abstract."
+      },
+      "aromatic hydrocarbons_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, which cause cutaneous sporotrichosis. While aromatic hydrocarbons are mentioned as one of the volatile organic compounds present in MH, there is no direct evidence or indication in the abstract that aromatic hydrocarbons themselves have a relationship with cutaneous sporotrichosis, either as a cause, risk factor, or treatment. The focus is on MH as a whole and its antifungal properties, not on aromatic hydrocarbons specifically."
+      }
+    },
+    {
+      "heterocyclic compounds_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, the causative agents of sporotrichosis. It identifies heterocyclic compounds as one of the volatile organic compounds present in MH. However, there is no direct evidence or specific mention that heterocyclic compounds themselves have an antifungal effect or a therapeutic relationship with sporotrichosis. The antifungal activity is attributed to MH as a whole and possibly other components, but not specifically to heterocyclic compounds. Therefore, based on the abstract, there is no clear relationship established between heterocyclic compounds and sporotrichosis."
+      },
+      "heterocyclic compounds_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. While heterocyclic compounds are mentioned as one of the volatile organic compounds present in MH, there is no direct evidence or specific mention of heterocyclic compounds alone having a relationship with cutaneous sporotrichosis. The focus is on MH as a whole and its potential antifungal effects, not on heterocyclic compounds independently. Therefore, no clear relationship between heterocyclic compounds and cutaneous sporotrichosis is established in the abstract."
+      }
+    },
+    {
+      "terpenoids_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that manuka honey (MH) exhibits antifungal activity against pathogenic Sporothrix species, which cause sporotrichosis. Chromatographic analysis of MH identified various volatile organic compounds (VOCs), including terpenoids. Although the study does not explicitly isolate the antifungal effect of terpenoids alone, their presence among the VOCs in MH, which demonstrated antifungal activity against Sporothrix spp., suggests a potential relationship between terpenoids and sporotrichosis treatment. Therefore, there is evidence supporting a relationship between terpenoids and sporotrichosis in the context of MH's antifungal properties."
+      },
+      "terpenoids_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. While chromatographic analysis identified terpenoids among the volatile organic compounds present in MH, the study does not provide direct evidence linking terpenoids themselves to antifungal activity or therapeutic effects against cutaneous sporotrichosis. The antifungal potential of MH is highlighted, but specific contributions of terpenoids are not established or discussed. Therefore, there is no clear relationship demonstrated between terpenoids and cutaneous sporotrichosis based on this abstract."
+      }
+    },
+    {
+      "carboxylic acids_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, which cause sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including carboxylic acids, but does not provide evidence that carboxylic acids themselves have a direct relationship with sporotrichosis. The antifungal effect is attributed to MH as a whole and possibly to other components, but no specific role or effect of carboxylic acids on sporotrichosis or its causative agents is described. Therefore, there is no clear evidence of a direct relationship between carboxylic acids and sporotrichosis based on this abstract."
+      },
+      "carboxylic acids_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. It identifies various volatile organic compounds (VOCs) in MH, including carboxylic acids, but does not provide evidence that carboxylic acids themselves have a direct relationship with cutaneous sporotrichosis. Instead, carboxylic acids are listed as one of many components present in MH, without specific attribution of antifungal activity or therapeutic effect to them. Therefore, there is no clear evidence from the abstract that carboxylic acids are related to the disease cutaneous sporotrichosis."
+      }
+    },
+    {
+      "phenolic compounds_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract reports that manuka honey (MH) exhibits antifungal activity against Sporothrix species, which cause sporotrichosis. Chromatographic analysis identified two phenolic compounds in MH as potential markers, suggesting their presence in the antifungal mixture. Although the abstract does not explicitly state that phenolic compounds alone have antifungal effects, their identification as components of MH, which demonstrated biological activity against Sporothrix spp., implies a relationship between phenolic compounds and sporotrichosis treatment potential."
+      },
+      "phenolic compounds_cutaneous_sporotrichosis": {
+        "relationship": "N",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species responsible for cutaneous sporotrichosis. While it identifies two phenolic compounds as markers for MH authentication, it does not provide evidence that these phenolic compounds themselves have antifungal activity or a direct relationship with cutaneous sporotrichosis. The antifungal effect is attributed to MH as a whole, with no clear link established between phenolic compounds specifically and the disease."
+      }
+    },
+    {
+      "disaccharide_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that manuka honey (MH) exhibits antifungal activity against Sporothrix species, which cause sporotrichosis. Among the components identified in MH, a disaccharide is mentioned as potentially contributing to its antifungal activity. This suggests a relationship between the compound disaccharide and the disease sporotrichosis, as the disaccharide may play a role in inhibiting the growth of the causative fungi."
+      },
+      "disaccharide_cutaneous_sporotrichosis": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the antifungal activity of manuka honey (MH) against Sporothrix species, which cause cutaneous sporotrichosis. Chromatographic analysis identified a disaccharide among the volatile organic compounds in MH, which may contribute to its antifungal activity. This suggests a potential relationship between the disaccharide compound and the treatment or inhibition of cutaneous sporotrichosis, indicating evidence of a relationship."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions itraconazole as a known antifungal drug. Manuka honey is studied for its antifungal activity and contains various chemical components identified by chromatography, including methylglyoxal, carbonyl compounds, alcohols, esters, aromatic hydrocarbons, heterocyclic compounds, terpenoids, carboxylic acids, phenolic compounds, and a disaccharide. These are all specific chemical substances or classes identified as part of the honey's composition relevant to its antifungal properties."
+}

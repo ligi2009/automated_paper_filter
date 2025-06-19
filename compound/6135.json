@@ -1,0 +1,108 @@
+{
+  "id": 6135,
+  "title": "Cosmetic Functional Ingredients from Botanical Sources for Anti-Pollution Skincare Products",
+  "Abstract": "Air pollution is a rising problem in many metropolitan areas around the world. Airborne contaminants are predominantly derived from anthropogenic activities, and include carbon monoxide, sulfur dioxide, nitrogen oxides, volatile organic compounds, ozone and particulate matter (PM; a mixture of solid and liquid particles of variable size and composition, able to absorb and delivery a large number of pollutants). The exposure to these air pollutants is associated to detrimental effects on human skin, such as premature aging, pigment spot formation, skin rashes and eczema, and can worsen some skin conditions, such as atopic dermatitis. A cosmetic approach to this problem involves the topical application of skincare products containing functional ingredients able to counteract pollution-induced skin damage. Considering that the demand for natural actives is growing in all segments of global cosmetic market, the aim of this review is to describe some commercial cosmetic ingredients obtained from botanical sources able to reduce the impact of air pollutants on human skin with different mechanisms, providing a scientific rationale for their use.",
+  "Disease_List": [
+    "eczema",
+    "atopic dermatitis"
+  ],
+  "Reason": "The abstract explicitly mentions 'eczema' and 'atopic dermatitis' as specific skin conditions affected by air pollution. These are recognized diseases, thus the classification is Y.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "eczema",
+    "atopic dermatitis"
+  ],
+  "UMLS_search_results": {
+    "eczema": [
+      {
+        "ui": "C0013595",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0013595",
+        "name": "Eczema",
+        "mesh_id": "D004485"
+      }
+    ],
+    "atopic dermatitis": [
+      {
+        "ui": "C0011615",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011615",
+        "name": "Dermatitis, Atopic",
+        "mesh_id": "D003876"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "carbon monoxide",
+    "sulfur dioxide",
+    "nitrogen oxides",
+    "ozone",
+    "particulate matter"
+  ],
+  "compound_CID": [
+    {
+      "carbon monoxide": 281,
+      "sulfur dioxide": 1119,
+      "nitrogen oxides": "None",
+      "ozone": 24823,
+      "particulate matter": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "carbon monoxide_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including carbon monoxide, is associated with detrimental effects on human skin such as skin rashes and eczema. This indicates a relationship between carbon monoxide as an air pollutant and the occurrence or worsening of eczema."
+      },
+      "carbon monoxide_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including carbon monoxide, is associated with detrimental effects on human skin and can worsen some skin conditions such as atopic dermatitis. This indicates a relationship between carbon monoxide exposure and the exacerbation of atopic dermatitis."
+      }
+    },
+    {
+      "sulfur dioxide_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including sulfur dioxide, is associated with detrimental effects on human skin such as skin rashes and eczema. This indicates a relationship between sulfur dioxide exposure and the occurrence or worsening of eczema."
+      },
+      "sulfur dioxide_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including sulfur dioxide, is associated with detrimental effects on human skin and can worsen some skin conditions such as atopic dermatitis. This indicates a relationship between sulfur dioxide exposure and the exacerbation of atopic dermatitis."
+      }
+    },
+    {
+      "nitrogen oxides_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including nitrogen oxides, is associated with detrimental effects on human skin such as skin rashes and eczema. This indicates a clear relationship between nitrogen oxides as a component of air pollution and the occurrence or worsening of eczema."
+      },
+      "nitrogen oxides_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including nitrogen oxides, is associated with detrimental effects on human skin and can worsen some skin conditions such as atopic dermatitis. This indicates a relationship between nitrogen oxides and atopic dermatitis, as nitrogen oxides are listed among the air pollutants contributing to skin condition exacerbation."
+      }
+    },
+    {
+      "ozone_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including ozone, is associated with detrimental effects on human skin such as skin rashes and eczema. This indicates a relationship between ozone exposure and the occurrence or worsening of eczema."
+      },
+      "ozone_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including ozone, is associated with detrimental effects on human skin and can worsen some skin conditions such as atopic dermatitis. This indicates a relationship between ozone exposure and the exacerbation of atopic dermatitis."
+      }
+    },
+    {
+      "particulate matter_eczema": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that exposure to air pollutants, including particulate matter (PM), is associated with detrimental effects on human skin such as skin rashes and eczema. This indicates a clear relationship between particulate matter exposure and the occurrence or worsening of eczema."
+      },
+      "particulate matter_atopic_dermatitis": {
+        "relationship": "Y",
+        "reason": "The abstract states that exposure to air pollutants, including particulate matter (PM), is associated with detrimental effects on human skin and can worsen some skin conditions such as atopic dermatitis. This indicates a clear relationship between particulate matter and atopic dermatitis, as PM is part of the air pollutants that exacerbate this disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds related to air pollution, including carbon monoxide, sulfur dioxide, nitrogen oxides, ozone, and particulate matter. These are specific named chemical substances known to be airborne contaminants affecting human skin. General terms like 'volatile organic compounds' were excluded as they are broad categories rather than specific compounds."
+}

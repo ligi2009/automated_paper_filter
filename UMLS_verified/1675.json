@@ -1,0 +1,28 @@
+{
+  "id": 1675,
+  "title": "Fast detection of volatile organic compounds from Staphylococcal blood cultures by CDI-MS",
+  "Abstract": "Rapid recognition of Staphylococcal bacteremia in humans is a serious challenge in clinical research. Here we report on direct analysis of molecular volatile organic compounds (VOCs) of blood cultures emitted by 35 patients with a suspicion of Staphylococcal bacteremia and 31 patients positively diagnosed with Staphylococcal bacteremia were fingerprinted by atmospheric corona discharge ionization mass spectrometry (CDI-MS) for the presence of four common Staphylococci (Staphylococcus aureus, S. hominis, S. haemolyticus, and S. epidermidis) which statistically account for ca. 90% of cases of Staphylococcal bacteremia in humans. All the infected blood cultures revealed characteristic and clearly distinct MS patterns specific to the presence of one of the four Staphylococci after an incubation time of 3–16 h. Technical replicates were incubated over 2–3 days for reference diagnosis using current conventional bacteremia detection. The results of our 6 month hospital study confirm peaks at m/z 87 (isobutyric acid) and m/z 101 (isovaleric acid) signals were specifically present in Staphylococci, and indicate that high suitability of CDI-MS for rapid, reliable and cost-efficient diagnosis of Staphylococcal bacteremia in humans.",
+  "Disease_List": [
+    "Staphylococcal bacteremia"
+  ],
+  "Reason": "The abstract explicitly mentions 'Staphylococcal bacteremia' multiple times as a specific disease condition being studied. It also refers to infections caused by specific Staphylococcus species, which are related to this disease. Therefore, the classification is Y with 'Staphylococcal bacteremia' listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Staphylococcal bacteremia"
+  ],
+  "UMLS_search_results": {
+    "Staphylococcal bacteremia": [
+      {
+        "ui": "C0152965",
+        "rootSource": "MDR",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0152965",
+        "name": "Staphylococcal sepsis",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

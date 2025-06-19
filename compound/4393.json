@@ -1,0 +1,64 @@
+{
+  "id": 4393,
+  "title": "Diagnostic performance of volatile organic compounds analysis and electronic noses for detecting colorectal cancer: a systematic review and meta-analysis",
+  "Abstract": "Introduction The detection of Volatile Organic Compounds (VOCs) could provide a potential diagnostic modality for the early detection and surveillance of colorectal cancers. However, the overall diagnostic accuracy of the proposed tests remains uncertain. Objective This systematic review is to ascertain the diagnostic accuracy of using VOC analysis techniques and electronic noses (e-noses) as noninvasive diagnostic methods for colorectal cancer within the realm of clinical practice. Methods A systematic search was undertaken on PubMed, EMBASE, Web of Science, and the Cochrane Library to scrutinize pertinent studies published from their inception to September 1, 2023. Only studies conducted on human subjects were included. Meta-analysis was performed using a bivariate model to obtain summary estimates of sensitivity, specificity, and positive and negative likelihood ratios. The Quality Assessment of Diagnostic Accuracy Studies 2 tool was deployed for quality assessment. The protocol for this systematic review was registered in PROSPERO, and PRISMA guidelines were used for the identification, screening, eligibility, and selection process. Results This review encompassed 32 studies, 22 studies for VOC analysis and 9 studies for e-nose, one for both, with a total of 4688 subjects in the analysis. The pooled sensitivity and specificity of VOC analysis for CRC detection were 0.88 (95% CI, 0.83-0.92) and 0.85 (95% CI, 0.78-0.90), respectively. In the case of e-nose, the pooled sensitivity was 0.87 (95% CI, 0.83-0.90), and the pooled specificity was 0.78 (95% CI, 0.62-0.88). The area under the receiver operating characteristic analysis (ROC) curve for VOC analysis and e-noses were 0.93 (95% CI, 0.90-0.95) and 0.90 (95% CI, 0.87-0.92), respectively. Conclusion The outcomes of this review substantiate the commendable accuracy of VOC analysis and e-nose technology in detecting CRC. VOC analysis has a higher specificity than e-nose for the diagnosis of CRC and a sensitivity comparable to that of e-nose. However, numerous limitations, including a modest sample size, absence of standardized collection methods, lack of external validation, and a notable risk of bias, were identified. Consequently, there exists an imperative need for expansive, multi-center clinical studies to elucidate the applicability and reproducibility of VOC analysis or e-nose in the noninvasive diagnosis of colorectal cancer. Systematic review registration https://www.crd.york.ac.uk/prospero/#recordDetails, identifier CRD42023398465.",
+  "Disease_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "Reason": "The abstract explicitly mentions 'colorectal cancer' and its abbreviation 'CRC' multiple times as the specific disease being diagnosed using VOC analysis and e-nose technology. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "colorectal cancer",
+    "CRC"
+  ],
+  "UMLS_search_results": {
+    "colorectal cancer": [
+      {
+        "ui": "C5848476",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5848476",
+        "name": "Malignant neoplasm of cecum and/or colon and/or rectum (disorder)",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ],
+    "CRC": [
+      {
+        "ui": "C4050364",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C4050364",
+        "name": "Cytogenetic Complete Response",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C5401389",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5401389",
+        "name": "Conditionally Reprogrammed Cells",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0009402",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009402",
+        "name": "Colorectal Carcinoma",
+        "mesh_id": "D015179"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses Volatile Organic Compounds (VOCs) in general terms without specifying any particular chemical compound names. Therefore, no specific chemical compounds are identified."
+}

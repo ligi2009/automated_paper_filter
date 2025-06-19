@@ -1,0 +1,35 @@
+{
+  "id": 361,
+  "title": "Ab initio investigation of functionalization of titanium carbide Ti3C2 MXenes to tune the selective detection of lung cancer biomarkers",
+  "Abstract": "Selected volatile organic compounds (VOCs), such as benzene (C6H6), cyclohexane (C6H12), isoprene (C5H8), cyclopropanone (C3H4O), propanol (C3H8O), and butyraldehyde butanal (C4H8O), in exhaled human breath can act as indicators or biomarkers of lung cancer diseases. Detection of such VOCs with low density would pave the way for an early diagnosis of the disease and thus early treatment and cure. In the present investigation, the density-functional theory (DFT) is applied to study the detection of the mentioned VOCs on Ti3C2TX MXenes, saturated with the functional groups Tx = O, F, S, and OH. For selectivity, comparative sensing of other interfering air molecules from exhaled breath, such as O2, N2, CO2, and H2O is further undertaken. Three functionalization (Tx = O, F, and S) are found promising for the selective detection of the studied VOCs, in particular Ti3C2O2 MXenes has shown distinct sensor response toward the C5H8, C6H6, C6H12, and C3H4O. The relatively strong physisorption (\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${E}_{ads}\\cong -0.45 to-0.65 {\\text{eV}}$$\\end{document}Eads≅-0.45to-0.65eV), triggered between VOC and MXene due to an enhancement of van der Waals interaction, is found responsible to affect the near Fermi level states, which in turn controls the conductivity and consequently the sensor response. Meanwhile, such intermediate-strength interactions remain moderate to yield small desorption recovery time (of order \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\tau \\cong \\mu {\\text{s}}-{\\text{ms}})$$\\end{document}τ≅μs-ms) using visible light at room temperature. Thus, Ti3C2O2 MXenes are found promising candidate material for reusable biosensor for the early diagnosis of lung cancer diseases through the VOC detection in exhaled breath.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer diseases' as the specific disease related to the detection of volatile organic compounds (VOCs) in exhaled human breath. This is a clear and specific disease name, not a general term, which justifies the classification as 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

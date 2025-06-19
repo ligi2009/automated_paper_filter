@@ -1,0 +1,69 @@
+{
+  "id": 6098,
+  "title": "Theoretical Study of Adsorption Behavior of Dimethylamine and Ammonia on Al- and Ga-Doped BN Monolayer Surfaces Based on DFT",
+  "Abstract": "Endogenous volatile organic compounds (VOCs) can reflect human health status and be used for clinical diagnosis and health monitoring. Dimethylamine and ammonia are the signature VOC gases of nephropathy. In order to find a potential gas sensitivity material for the detection of both signature VOC gases of nephropathy, this paper investigated the adsorption properties of dimethylamine and ammonia on Al- and Ga-doped BN monolayers based on density functional theory. Through analyzing the adsorption energy, adsorption distance, charge transfer, density of states, and HOMO/LUMO, the results indicated that the adsorption effect of Al- and Ga-doped BN monolayers to dimethylamine and ammonia is probably good, and these nanomaterials have the potential to be applied for nephropathy monitoring and clinical diagnosis.",
+  "Disease_List": [
+    "nephropathy"
+  ],
+  "Reason": "The abstract explicitly mentions 'nephropathy' as a specific disease. It refers to dimethylamine and ammonia as signature VOC gases of nephropathy and discusses potential materials for detecting these gases for nephropathy monitoring and clinical diagnosis.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "nephropathy"
+  ],
+  "UMLS_search_results": {
+    "nephropathy": [
+      {
+        "ui": "C0022658",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022658",
+        "name": "Kidney Diseases",
+        "mesh_id": "D007674"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "Dimethylamine",
+    "Ammonia",
+    "Al-doped BN monolayers",
+    "Ga-doped BN monolayers"
+  ],
+  "compound_CID": [
+    {
+      "Dimethylamine": 674,
+      "Ammonia": 222,
+      "Al-doped BN monolayers": "None",
+      "Ga-doped BN monolayers": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "Dimethylamine_nephropathy": {
+        "relationship": "Y",
+        "reason": "The abstract identifies dimethylamine as one of the signature volatile organic compounds (VOCs) associated with nephropathy, indicating a direct relationship. It further discusses the potential use of materials to detect dimethylamine for nephropathy monitoring and clinical diagnosis, supporting the evidence that dimethylamine is linked to nephropathy."
+      }
+    },
+    {
+      "Ammonia_nephropathy": {
+        "relationship": "Y",
+        "reason": "The abstract states that ammonia is one of the signature volatile organic compound (VOC) gases associated with nephropathy. It highlights that ammonia, along with dimethylamine, can be used for clinical diagnosis and health monitoring of nephropathy. This indicates a clear relationship between ammonia and nephropathy as a biomarker or indicator of the disease."
+      }
+    },
+    {
+      "Al-doped BN monolayers_nephropathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Al-doped BN monolayers have good adsorption properties for dimethylamine and ammonia, which are signature volatile organic compounds (VOCs) associated with nephropathy. This suggests that Al-doped BN monolayers can be used as sensitive materials for detecting these VOCs, thereby having potential applications in monitoring and clinical diagnosis of nephropathy. Therefore, there is evidence of a relationship between Al-doped BN monolayers and nephropathy in the context of disease detection and monitoring."
+      }
+    },
+    {
+      "Ga-doped BN monolayers_nephropathy": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Ga-doped BN monolayers have good adsorption properties for dimethylamine and ammonia, which are signature volatile organic compounds (VOCs) associated with nephropathy. This suggests that Ga-doped BN monolayers can potentially be used as gas sensitivity materials for detecting these VOCs, thereby aiding in the monitoring and clinical diagnosis of nephropathy. Therefore, there is evidence of a relationship between Ga-doped BN monolayers and nephropathy in the context of disease detection and monitoring."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions Dimethylamine and Ammonia as signature VOC gases related to nephropathy. Additionally, Al-doped BN monolayers and Ga-doped BN monolayers are identified as materials studied for adsorption properties of these gases, indicating their relevance as specific chemical compounds in the context."
+}

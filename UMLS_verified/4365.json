@@ -1,0 +1,46 @@
+{
+  "id": 4365,
+  "title": "Phytochemical Constituents and Biological Properties of Finger Lime (Citrus australasica F. Muell.) Peel, Pulp and Seeds",
+  "Abstract": "In this work, for the first time, different parts of the Finger Lime (Citrus australasica F. Muell.), such as pulp, peel and seeds, were analyzed by HS-SPME-GC/MS, and NMR techniques in order to describe its volatile and non-volatile chemical profile. The results highlighted the presence of a high number of terpenes with limonene as principal component in all investigated parts (ranging from 40.4% to 62.6%) and molecules belonging to the classes of amino acids, organic acids, carbohydrates, fatty acids, phenols and miscellaneous compounds that followed a different trend between the investigated different parts. In this study, the inhibition of ChEs (AChE and BChE) was evaluated using the spectrophotometric method of Ellman. The results showed that only peel extract weakly inhibited AChE (14%). Based on these data, this extract was further investigated by GC/MS after derivatization. Furthermore, peel extract was chosen to evaluate the in vitro effects on two human glioblastoma cells lines (U87 and LN18). Flow cytometry results showed that citrus extract was more effective in down-regulating the expression of the adhesion molecule CD44. In fact, after 72 h with 400 µg/mL of citrus extract, CD44 expression levels were reduced in both U87 and LN18 glioblastoma cell lines. This was confirmed by immunofluorescence analysis, which also showed a modification of CD44 antigen localization in both U87 and LN18 cell lines. Moreover, wound assay data supported its ability to reduce glioblastoma cell’s motility. The migration ability of U87 cells decreased (85% control vs. 50% at 400 μg/mL), while it was even more pronounced in resistant LN18 cells (93% control vs. 15% at 400 μg/mL). The findings highlighted that citrus peel extract could have an anti-invasive activity for glioma management.",
+  "Disease_List": [
+    "glioblastoma",
+    "glioma"
+  ],
+  "Reason": "The abstract explicitly mentions 'glioblastoma' and 'glioma', which are specific disease names related to brain tumors. The study evaluates the effects of citrus peel extract on human glioblastoma cell lines (U87 and LN18) and discusses its potential anti-invasive activity for glioma management, clearly indicating the focus on these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "glioblastoma",
+    "glioma"
+  ],
+  "UMLS_search_results": {
+    "glioblastoma": [
+      {
+        "ui": "C1621958",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1621958",
+        "name": "Glioblastoma Multiforme",
+        "mesh_id": "D005909"
+      },
+      {
+        "ui": "C0017636",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017636",
+        "name": "Glioblastoma",
+        "mesh_id": "D005909"
+      }
+    ],
+    "glioma": [
+      {
+        "ui": "C0017638",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0017638",
+        "name": "Glioma",
+        "mesh_id": "D005910"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

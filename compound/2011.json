@@ -1,0 +1,101 @@
+{
+  "id": 2011,
+  "title": "Evaluation of a possible association of urban air toxics and asthma.",
+  "Abstract": "The prevalence of asthma, measured either as the frequency of hospital admissions or number of deaths attributed to asthma, has increased over the last 15 to 20 years. Rapid increases in disease prevalence are more likely to be attributable to environmental than genetic factors. Inferring from past associations between air pollution and asthma, it is feasible that changes in the ambient environment could contribute to this increase in morbidity and mortality. Scientific evaluation of the links between air pollution and the exacerbation of asthma is incomplete, however. Currently, criteria pollutants [SOx, NOx, O3, CO, Pb, particulate matter (PM10)] and other risk factors (exposure to environmental tobacco smoke, volatile organic compounds, etc.) are constantly being evaluated as to their possible contributions to this situation. Data from these studies suggest that increases in respiratory disease are associated with exposures to ambient concentrations of particulate and gaseous pollutants. Similarly, exposure to environmental tobacco smoke, also a mixture of particulate and gaseous air toxics, has been associated with an increase in asthma among children. In addition, current associations of adverse health effects with existing pollution measurements are often noted at concentrations below those that produce effects in controlled animal and human exposures to each pollutant alone. These findings imply that adverse responses are augmented when persons are exposed to irritant mixtures of particles and gases and that current measurements of air pollution are, in part, indirect in that the concentrations of criteria pollutants are acting as surrogates of our exposure to a complex mixture. Other irritant air pollutants, including certain urban air toxics, are associated with asthma in occupational settings and may interact with criteria pollutants in ambient air to exacerbate asthma. An evaluation of dose-response information for urban air toxics and biological feasibility as possible contributors to asthma is therefore needed. However, this evaluation is compounded by a lack of information on the concentrations of these compounds in the ambient air and their effects on asthma morbidity and mortality. Through an initial review of the current toxicological literature, we propose a tentative list of 30 compounds that could have the highest impact on asthma and respiratory health. These compounds were selected based on their ability to induce or exacerbate asthma in occupational and nonoccupational settings, their allergic potential and ability to react with biological macromolecules, and lastly, their ability to irritate the respiratory passages. We recommend better documentation of exposure to these compounds through routine air sampling and evaluation of total exposure and further evaluation of biological mechanisms through laboratory and epidemiological studies directed specifically at the role these substances play in the induction and exacerbation of asthma.",
+  "Disease_List": [
+    "asthma"
+  ],
+  "Reason": "The abstract explicitly mentions 'asthma' multiple times as a specific disease. It discusses the prevalence, morbidity, mortality, exacerbation, and induction of asthma in relation to environmental factors and air pollution. No other specific diseases are named, but asthma is clearly identified as a distinct disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "asthma"
+  ],
+  "UMLS_search_results": {
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "SOx",
+    "NOx",
+    "O3",
+    "CO",
+    "Pb",
+    "particulate matter (PM10)",
+    "volatile organic compounds",
+    "environmental tobacco smoke"
+  ],
+  "compound_CID": [
+    {
+      "SOx": 24261,
+      "NOx": "None",
+      "O3": 24823,
+      "CO": 104730,
+      "Pb": 5352425,
+      "particulate matter (PM10)": "None",
+      "volatile organic compounds": "None",
+      "environmental tobacco smoke": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "SOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that SOx (sulfur oxides) is listed among the criteria pollutants being evaluated for their possible contributions to the increase in asthma prevalence and exacerbation. It mentions that data suggest increases in respiratory disease, including asthma, are associated with exposures to ambient concentrations of particulate and gaseous pollutants such as SOx. Although the scientific evaluation is incomplete and complicated by exposure to mixtures of pollutants, there is evidence that SOx is implicated as a contributing factor to asthma morbidity and mortality."
+      }
+    },
+    {
+      "NOx_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that NOx is one of the criteria pollutants being evaluated for its possible contribution to the increase in asthma prevalence and morbidity. It mentions that data suggest increases in respiratory disease, including asthma, are associated with exposures to ambient concentrations of gaseous pollutants such as NOx. Although the scientific evaluation is incomplete, the abstract supports a relationship between NOx exposure and asthma exacerbation, highlighting the need for further study and better documentation of exposure."
+      }
+    },
+    {
+      "O3_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract discusses the increase in asthma prevalence and suggests that environmental factors, particularly air pollution, contribute to this trend. O3 (ozone) is listed among the criteria pollutants evaluated for their possible contributions to asthma exacerbation. Data from studies indicate that respiratory diseases, including asthma, are associated with exposure to ambient concentrations of gaseous pollutants such as O3. Although the evaluation is ongoing and complicated by mixtures of pollutants, there is evidence supporting a relationship between O3 exposure and asthma exacerbation."
+      }
+    },
+    {
+      "CO_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that CO (carbon monoxide) is listed among the criteria pollutants being evaluated for their possible contributions to the increase in asthma prevalence and morbidity. It mentions that data suggest increases in respiratory disease, including asthma, are associated with exposures to ambient concentrations of particulate and gaseous pollutants, which include CO. Although the scientific evaluation is described as incomplete, the abstract supports a relationship between CO exposure and asthma exacerbation, especially as part of complex mixtures of air pollutants that irritate the respiratory system and potentially worsen asthma symptoms."
+      }
+    },
+    {
+      "Pb_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that Pb (lead) is listed among the criteria pollutants being evaluated for their possible contributions to the increase in asthma prevalence and exacerbation. It mentions that data suggest increases in respiratory disease, including asthma, are associated with exposures to ambient concentrations of particulate and gaseous pollutants, including Pb. Although the scientific evaluation is incomplete and complicated by exposure to mixtures of pollutants, Pb is considered a potential contributor to asthma morbidity and mortality based on its inclusion in the list of pollutants under study and its possible role in respiratory irritation and exacerbation."
+      }
+    },
+    {
+      "particulate matter (PM10)_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that increases in respiratory disease, including asthma, are associated with exposures to ambient concentrations of particulate and gaseous pollutants, explicitly mentioning particulate matter (PM10) as one of the criteria pollutants under evaluation. It also notes that exposure to mixtures of particles and gases, including PM10, can augment adverse respiratory responses and exacerbate asthma. Although the scientific evaluation is described as incomplete and further studies are recommended, the current data suggest a relationship between PM10 exposure and asthma morbidity and mortality."
+      }
+    },
+    {
+      "volatile organic compounds_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs), as part of environmental air toxics, are being evaluated for their possible contributions to the increase in asthma prevalence and morbidity. It notes that exposure to VOCs and other irritant air pollutants is associated with asthma exacerbation, particularly in occupational settings, and may interact with other pollutants to worsen asthma. Although the evaluation is complicated by limited data on ambient concentrations and effects, the abstract supports a relationship between VOC exposure and asthma induction or exacerbation, recommending further study and better exposure documentation."
+      }
+    },
+    {
+      "environmental tobacco smoke_asthma": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to environmental tobacco smoke, which is a mixture of particulate and gaseous air toxics, has been associated with an increase in asthma among children. It is mentioned alongside other air pollutants that contribute to respiratory disease and asthma exacerbation. Although the evaluation of links between air pollution and asthma is incomplete, the data suggest a relationship between environmental tobacco smoke exposure and increased asthma prevalence and morbidity."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions several chemical compounds and groups by name, including sulfur oxides (SOx), nitrogen oxides (NOx), ozone (O3), carbon monoxide (CO), lead (Pb), particulate matter (PM10), volatile organic compounds, and environmental tobacco smoke. These are identified as criteria pollutants or specific chemical substances linked to asthma exacerbation and respiratory health effects. General terms like 'chemicals' or 'compounds' were excluded, focusing only on named chemical substances."
+}

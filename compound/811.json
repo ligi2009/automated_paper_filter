@@ -1,0 +1,60 @@
+{
+  "id": 811,
+  "title": "Identification of volatile lung cancer markers by gas chromatography–mass spectrometry: comparison with discrimination by canines",
+  "Abstract": "In this work, a chromatographic method for identification of volatile organic compounds was compared with canine recognition. Gas chromatography and mass spectrometry (GC–TOF MS) were used for determination of concentrations of trace gases present in human breath. The technique enables rapid determination of compounds in human breath, at the parts per billion level. Linear correlations were from 0.83–234.05 ppb, the limit of detection was the range 0.31–0.75 ppb, and precision, expressed as relative standard deviation (RSD), was less than 10.00 %. Moreover, trained dogs are able to discriminate breath samples of patients with diagnosed cancer. We found a positive correlation between dog indications and the ethyl acetate and 2-pentanone content of breath (r = 0.85 and r = 0.97, respectively). The methods presented for detection of lung cancer markers in exhaled air could be used as a potential non-invasive tool for screening. In addition, the canine method is relatively simple and inexpensive in comparison with chromatography.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' as a specific disease. It discusses detection of lung cancer markers in exhaled air and the use of trained dogs to discriminate breath samples of patients with diagnosed cancer, specifically lung cancer. Therefore, the classification is Y with 'lung cancer' listed as the disease.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "ethyl acetate",
+    "2-pentanone"
+  ],
+  "compound_CID": [
+    {
+      "ethyl acetate": 8857,
+      "2-pentanone": 7895
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "ethyl acetate_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation (r = 0.85) between the presence of ethyl acetate in breath samples and indications of lung cancer as detected by trained dogs. This suggests that ethyl acetate is a marker associated with lung cancer in exhaled air, supporting a relationship between ethyl acetate and lung cancer. The study highlights the potential use of ethyl acetate as a non-invasive biomarker for lung cancer screening."
+      }
+    },
+    {
+      "2-pentanone_lung_cancer": {
+        "relationship": "Y",
+        "reason": "The abstract reports a positive correlation between the presence of 2-pentanone in human breath and the indication of lung cancer by trained dogs, with a high correlation coefficient (r = 0.97). This suggests that 2-pentanone is a marker associated with lung cancer in exhaled air, supporting a relationship between 2-pentanone and lung cancer. The study highlights the potential use of 2-pentanone as a non-invasive biomarker for lung cancer screening."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'ethyl acetate' and '2-pentanone' as chemical compounds found in human breath that correlate with canine detection of lung cancer, making them the specific chemical substances identified."
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1391,
+  "title": "Potential role of fecal volatile organic compounds as biomarkers of chemically induced intestinal inflammation in mice",
+  "Abstract": "Metabolomics studies have the potential to discover biomarkers. Fecal volatile organic compounds (VOCs) have been found to differ in patients with inflammatory bowel disease and irritable bowel syndrome. Murine models of colitis offer an alternative to human studies in which diet can be controlled. We aimed to investigate fecal VOCs from mice in which acute and chronic colitis was induced. Groups of adult C57BL/6 mice underwent treatment with oral dextran sulfate sodium to induce colitis. Control mice received no treatment or had acute osmotic diarrhea induced with magnesium sulfate. Colitis was assessed clinically and by histology. Samples of feces and/or colon contents were collected and volatile compounds determined by solid phase microextraction–GC‐MS. Statistics were performed using metabolomics tools. Acute colitis was associated with an increase in aldehydes and chronic colitis with one specific ketone. Osmotic diarrhea was associated with a significant reduction in VOCs, especially alcohols. We provide evidence that the identification of disease‐associated VOC concentration ranges, combined with specific marker compounds, would potentially increase the likelihood of finding an inflammatory bowel disease–specific fecal VOC marker profile.—Reade, S., Williams, J. M., Aggio, R., Duckworth, C. A., Mahalhal, A., Hough, R., Pritchard, D. M., Probert, C. S., Potential role of fecal volatile organic compounds as biomarkers of chemically induced intestinal inflammation in mice. FASEB J. 33, 3129–3136 (2019). www.fasebj.org",
+  "Disease_List": [
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'inflammatory bowel disease', 'irritable bowel syndrome', and 'colitis'. These are well-defined medical conditions rather than general terms like 'disease' or 'illness'. The study focuses on fecal volatile organic compounds in patients with these diseases and in murine models of colitis, confirming the presence of specific disease names.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "inflammatory bowel disease",
+    "irritable bowel syndrome",
+    "colitis"
+  ],
+  "UMLS_search_results": {
+    "inflammatory bowel disease": [
+      {
+        "ui": "C0021390",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0021390",
+        "name": "Inflammatory Bowel Diseases",
+        "mesh_id": "D015212"
+      }
+    ],
+    "irritable bowel syndrome": [
+      {
+        "ui": "C0022104",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022104",
+        "name": "Irritable Bowel Syndrome",
+        "mesh_id": "D043183"
+      }
+    ],
+    "colitis": [
+      {
+        "ui": "C0009319",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009319",
+        "name": "Colitis",
+        "mesh_id": "D003092"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

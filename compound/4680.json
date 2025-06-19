@@ -1,0 +1,107 @@
+{
+  "id": 4680,
+  "title": "Blood Ketone Bodies and Breath Acetone Analysis and Their Correlations in Type 2 Diabetes Mellitus",
+  "Abstract": "Analysis of volatile organic compounds in the breath for disease detection and monitoring has gained momentum and clinical significance due to its rapid test results and non-invasiveness, especially for diabetes mellitus (DM). Studies have suggested that breath gases, including acetone, may be related to simultaneous blood glucose (BG) and blood ketone levels in adults with types 2 and 1 diabetes. Detecting altered concentrations of ketones in the breath, blood and urine may be crucial for the diagnosis and monitoring of diabetes mellitus. This study assesses the efficacy of a simple breath test as a non-invasive means of diabetes monitoring in adults with type 2 diabetes mellitus. Human breath samples were collected in Tedlar™ bags and analyzed by headspace solid-phase microextraction and gas chromatography-mass spectrometry (HS-SPME/GC-MS). The measurements were compared with capillary BG and blood ketone levels (β-hydroxybutyrate and acetoacetate) taken at the same time on a single visit to a routine hospital clinic in 30 subjects with type 2 diabetes and 28 control volunteers. Ketone bodies of diabetic subjects showed a significant increase when compared to the control subjects; however, the ketone levels were was controlled in both diabetic and non-diabetic volunteers. Worthy of note, a statistically significant relationship was found between breath acetone and blood acetoacetate (R = 0.89) and between breath acetone and β-hydroxybutyrate (R = 0.82).",
+  "Disease_List": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'diabetes mellitus', 'type 1 diabetes', and 'type 2 diabetes'. These are clearly named diseases rather than general terms like 'disease' or 'illness'. The study focuses on monitoring and diagnosis related to these specific diseases.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus",
+    "type 1 diabetes",
+    "type 2 diabetes"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "type 1 diabetes": [
+      {
+        "ui": "C0011854",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011854",
+        "name": "Diabetes Mellitus, Insulin-Dependent",
+        "mesh_id": "D003922"
+      }
+    ],
+    "type 2 diabetes": [
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "acetone",
+    "β-hydroxybutyrate",
+    "acetoacetate"
+  ],
+  "compound_CID": [
+    {
+      "acetone": 180,
+      "β-hydroxybutyrate": "None",
+      "acetoacetate": 6971017
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "acetone_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between acetone and diabetes mellitus. It highlights that breath acetone levels correlate significantly with blood ketone bodies (acetoacetate and β-hydroxybutyrate) in adults with type 2 diabetes. Since ketone bodies are important markers for diabetes diagnosis and monitoring, the significant correlations (R = 0.89 and R = 0.82) indicate that acetone in breath is related to the metabolic changes occurring in diabetes mellitus, supporting its potential use as a non-invasive biomarker for the disease."
+      },
+      "acetone_type_1_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that breath acetone levels are related to blood ketone levels in adults with both type 1 and type 2 diabetes. Specifically, it mentions studies suggesting a relationship between breath acetone and simultaneous blood glucose and blood ketone levels in individuals with type 1 diabetes. Additionally, a statistically significant correlation was found between breath acetone and blood ketone bodies (acetoacetate and β-hydroxybutyrate), which are relevant markers in diabetes monitoring. Although the study primarily assessed type 2 diabetes patients, the mention of type 1 diabetes in the context of acetone and ketone levels supports a relationship between acetone and type 1 diabetes."
+      },
+      "acetone_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between acetone and type 2 diabetes by highlighting that breath acetone levels correlate significantly with blood ketone bodies (acetoacetate and β-hydroxybutyrate) in adults with type 2 diabetes. The study demonstrates that measuring acetone in breath can serve as a non-invasive method for monitoring diabetes, indicating that acetone is linked to metabolic changes associated with type 2 diabetes."
+      }
+    },
+    {
+      "β-hydroxybutyrate_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a significant relationship between β-hydroxybutyrate, a ketone body measured in blood, and diabetes mellitus. Specifically, it reports that ketone bodies, including β-hydroxybutyrate, showed a significant increase in diabetic subjects compared to controls. Additionally, a statistically significant correlation was found between breath acetone and blood β-hydroxybutyrate levels, suggesting that β-hydroxybutyrate is relevant in the context of diabetes monitoring and diagnosis."
+      },
+      "β-hydroxybutyrate_type_1_diabetes": {
+        "relationship": "N",
+        "reason": "The abstract discusses the relationship between breath ketones and diabetes mellitus, including both type 1 and type 2 diabetes. However, the study specifically involved adults with type 2 diabetes and control volunteers, with no direct data or analysis presented for type 1 diabetes patients. While β-hydroxybutyrate levels were measured and correlated with breath acetone in the context of type 2 diabetes, there is no explicit evidence or mention of β-hydroxybutyrate's relationship with type 1 diabetes in the abstract. Therefore, based on this abstract alone, there is no clear relationship established between β-hydroxybutyrate and type 1 diabetes."
+      },
+      "β-hydroxybutyrate_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a significant relationship between β-hydroxybutyrate, a ketone body measured in blood, and type 2 diabetes. Specifically, it reports that ketone bodies, including β-hydroxybutyrate, showed a significant increase in subjects with type 2 diabetes compared to controls. Additionally, a strong statistical correlation was found between breath acetone and blood β-hydroxybutyrate levels in diabetic subjects, supporting the relevance of β-hydroxybutyrate in the context of type 2 diabetes diagnosis and monitoring."
+      }
+    },
+    {
+      "acetoacetate_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates a significant relationship between blood acetoacetate levels and diabetes mellitus. Specifically, it reports that ketone bodies, including acetoacetate, showed a significant increase in diabetic subjects compared to controls. Additionally, a strong statistical correlation was found between breath acetone and blood acetoacetate levels in subjects with type 2 diabetes. These findings suggest that acetoacetate is related to diabetes mellitus, particularly in the context of monitoring ketone levels for diagnosis and disease management."
+      },
+      "acetoacetate_type_1_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that blood ketone levels, including acetoacetate, were measured in subjects with diabetes, and a significant relationship was found between breath acetone and blood acetoacetate. Although the study primarily involved type 2 diabetes subjects, it mentions that breath gases, including acetone, may be related to blood ketone levels in adults with both types 1 and 2 diabetes. This suggests that acetoacetate is relevant in the context of type 1 diabetes as well, supporting a relationship between acetoacetate and type 1 diabetes."
+      },
+      "acetoacetate_type_2_diabetes": {
+        "relationship": "Y",
+        "reason": "The abstract provides evidence of a relationship between acetoacetate and type 2 diabetes. It reports that ketone bodies, including acetoacetate, showed a significant increase in subjects with type 2 diabetes compared to controls. Additionally, a statistically significant correlation was found between breath acetone and blood acetoacetate levels in diabetic subjects, indicating that acetoacetate levels are altered in type 2 diabetes and can be monitored as part of disease assessment."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions acetone as a breath gas related to diabetes monitoring, and β-hydroxybutyrate and acetoacetate as blood ketone bodies measured in the study. These are specific chemical compounds relevant to the analysis."
+}

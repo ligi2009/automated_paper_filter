@@ -1,0 +1,82 @@
+{
+  "id": 4407,
+  "title": "Exhaled Breath Analysis System based on Electronic Nose Techniques Applicable to Lung Diseases",
+  "Abstract": "There are many respiratory diseases including lung cancer, chronic obstructive pulmonary disease (COPD), asthma, and so on. Among them, lung cancer and COPD are leading causes of death in the world. However, diagnosis of those diseases vary often late in the course of the diseases since available diagonostics methods are not sufficiently sensititive and specific. There is evidence to suggest that particular diseases can be detected by odor analysis of exhaled breath, because smell has been used to be a common diagnostic tool in medicine and physicians were trained to use their sense of smell from Hippocrates era. It was observed that patients with uncontrolled diabetes had the smell of rotten apples because of the acetone in their breath [1]. Human breath contains more than thousands of different compounds including large number of Volatile Organic Compounds (VOCs). Exhaled breath is produced by different biochemical processes including those that are released during disease cell metabolism. There are several lines of evidence showing that metabolic pathways in diseased cells produce different volatile compounds than non-diseased tissue. This imples that breath analysis can be used as a diagnostic tool because increased or decreased concentrations of some compounds are associated with various diseases or an altered metabolism. Hanyang Med Rev 2014;34:125-129 http://dx.doi.org/10.7599/hmr.2014.34.3.125",
+  "Disease_List": [
+    "lung cancer",
+    "chronic obstructive pulmonary disease (COPD)",
+    "asthma",
+    "diabetes"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names such as 'lung cancer', 'chronic obstructive pulmonary disease (COPD)', 'asthma', and 'diabetes'. These are all well-defined diseases rather than general terms. Therefore, the classification is 'Y' with the listed diseases extracted directly from the text.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer",
+    "chronic obstructive pulmonary disease (COPD)",
+    "asthma",
+    "diabetes"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ],
+    "chronic obstructive pulmonary disease (COPD)": [
+      {
+        "ui": "C0024117",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0024117",
+        "name": "Chronic Obstructive Airway Disease",
+        "mesh_id": "D029424"
+      }
+    ],
+    "asthma": [
+      {
+        "ui": "C0004096",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004096",
+        "name": "Asthma",
+        "mesh_id": "D001249"
+      }
+    ],
+    "diabetes": [
+      {
+        "ui": "C0011847",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011847",
+        "name": "Diabetes",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      },
+      {
+        "ui": "C0011860",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011860",
+        "name": "Diabetes Mellitus, Non-Insulin-Dependent",
+        "mesh_id": "D003924"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

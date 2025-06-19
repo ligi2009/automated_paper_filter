@@ -1,0 +1,28 @@
+{
+  "id": 4266,
+  "title": "Detection of presymptomatic Alzheimer's disease through breath biomarkers",
+  "Abstract": "Abstract Introduction Novel sensors were developed to detect exhaled volatile organic compounds to aid in the diagnosis of mild cognitive impairment associated with early stage Alzheimer's disease (AD). The sensors were sensitive to a rat model that combined the human apolipoprotein E (APOE)4 gene with aging and the Western diet. Methods Gas sensors fabricated from molecularly imprinted polymer‐graphene were engineered to react with alkanes and small fatty acids associated with lipid peroxidation. With a detection sensitivity in parts per trillion the sensors were tested against the breath of wild‐type and APOE4 male rats. Resting state BOLD functional connectivity was used to assess hippocampal function. Results Only APOE4 rats, and not wild‐type controls, tested positive to several small hydrocarbons and presented with reduced functional coupling in hippocampal circuitry. Discussion These results are proof‐of‐concept toward the development of sensors that can be used as breath detectors in the diagnosis, prognosis, and treatment of presymptomatic AD.",
+  "Disease_List": [
+    "Alzheimer's disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'Alzheimer's disease (AD)' as a specific disease name. It discusses the development of sensors to aid in the diagnosis of mild cognitive impairment associated with early stage Alzheimer's disease, making it clear that a specific disease is being addressed.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Alzheimer's disease"
+  ],
+  "UMLS_search_results": {
+    "Alzheimer's disease": [
+      {
+        "ui": "C0002395",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0002395",
+        "name": "Alzheimer's Disease",
+        "mesh_id": "D000544"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

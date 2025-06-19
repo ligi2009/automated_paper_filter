@@ -1,0 +1,35 @@
+{
+  "id": 3854,
+  "title": "ZEUS (ZIF-based electrochemical ultrasensitive screening) device for isopentane analytics with focus on lung cancer diagnosis",
+  "Abstract": "Breath analytics is currently being explored for the development of point-of-care devices in non-invasive disease detection. It is based on the measurement of volatile organic compounds (VOCs) and gases that are produced by the body because of the metabolic pathways. The levels of these metabolites vary due to alteration in the endogenous oxidative stress-related metabolic pathways and can be correlated to understand the underlying disease condition. The levels of exhaled hydrocarbons in human breath can be used to design a rapid, easy to use method for lung cancer detection. This work outlines the development of an electrochemical sensing platform that can be used for the non-invasive diagnosis of lung cancer by monitoring isopentane levels in breath. This electrochemical sensor platform involves the use of [BMIM]BF4@ZIF-8 for sensing the target analyte. This synthesized nanocomposite offers advantages for gas sensing applications as it possesses unique properties such as an electrochemically active Room Temperature Ionic Liquid (RTIL) and a crosslinking Metal Organic Framework (MOF) that provides increased surface area for gas absorption. This is the first report of a hydrocarbon-based sensor platform developed for lung cancer diagnosis. The developed sensor platform displays sensitivity and specificity for the detection of isopentane up to 600 parts-per-billion. We performed structural and morphological characterization of the synthesized nanocomposite using various analytical techniques such as PXRD, FESEM, FTIR, and DLS. We further analyzed the electrochemical activity of the synthesized nanocomposite using a standard glassy carbon electrode. The application of the nanocomposite for isopentane sensing was done using a commercially available carbon screen printed electrode. The results so obtained helped in strengthening our hypothesis and serve as a proof-of-concept for the development of a breathomics-enabled electrochemical strategy. We illustrated the specificity of the developed nanocomposite by cross-reactivity studies. We envision that the detection platform will allow sensitive and specific sensing of isopentane levels such that it can used for point of care applications in noninvasive and early diagnosis of lung cancer, thereby leading to its early treatment and decrease in mortality rate.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease targeted for detection using the developed breath analytics and electrochemical sensing platform. This is a clearly named disease rather than a general term like 'disease' or 'illness'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

@@ -1,0 +1,42 @@
+{
+  "id": 4928,
+  "title": "Dual activity of Serratia marcescens Pt-3 in phosphate-solubilizing and production of antifungal volatiles",
+  "Abstract": "Soil fertility decline and pathogen infection are severe issues for crop production all over the world. Microbes as inherent factors in soil were effective in alleviating fertility decrease, promoting plant growth and controlling plant pathogens et al. Thus, screening microbes with fertility improving and pathogen controlling properties is of great importance to humans. Bacteria Pt-3 isolated from tea rhizosphere showed multiple functions in solubilizing insoluble phosphate, promoting plant growth, producing abundant volatile organic compounds (VOCs) and inhibiting the growth of important fungal pathogens in vitro. According to the 16S rRNA phylogenetic and biochemical analysis, Pt-3 was identified to be Serratia marcescens. The solubilizing zone of Pt-3 in the medium of lecithin and Ca3(PO4)2 was 2.1 cm and 1.8 cm respectively. In liquid medium and soil, the concentration of soluble phosphorus reached 343.9 mg.L− 1, and 3.98 mg.kg− 1, and significantly promoted the growth of maize seedling, respectively. Moreover, Pt-3 produced abundant volatiles and greatly inhibited the growth of seven important phytopathogens. The inhibition rate ranged from 75.51 to 100% respectively. Solid phase micro-extraction coupled with gas chromatography tandem mass spectrometry proved that the antifungal volatile was dimethyl disulfide. Dimethyl disulfide can inhibit the germination of Aspergillus flavus, and severely destroy the cell structures under scanning electron microscopy. S. marcescens Pt-3 with multiple functions will provide novel agent for the production of bioactive fertilizer with P-solubilizing and fungal pathogens control activity.",
+  "Disease_List": [
+    "Aspergillus flavus"
+  ],
+  "Reason": "The abstract explicitly mentions 'Aspergillus flavus,' which is a specific fungal pathogen known to cause diseases such as aflatoxin contamination in crops. This qualifies as a specific disease-related organism mentioned, thus the classification is 'Y'.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Aspergillus flavus"
+  ],
+  "UMLS_search_results": {
+    "Aspergillus flavus": [
+      {
+        "ui": "C0004036",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0004036",
+        "name": "Aspergillus flavus",
+        "mesh_id": "D001231"
+      },
+      {
+        "ui": "C1443131",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1443131",
+        "name": "Aspergillus flavus antigen",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C2726135",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2726135",
+        "name": "Aspergillus flavus allergenic extract",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

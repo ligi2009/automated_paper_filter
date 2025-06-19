@@ -1,0 +1,35 @@
+{
+  "id": 736,
+  "title": "Exploring Volatile Organic Compounds in Breath for High-Accuracy Prediction of Lung Cancer",
+  "Abstract": "Simple Summary Human-exhaled volatile organic compounds (VOCs) can be altered by lung cancer and become identifiable biomarkers. We used selected ion flow tube mass spectrometry (SIFT-MS) to quantitatively analyze 116 kinds of VOCs, which were exhaled by 148 lung cancer patients and 168 healthy individuals and collected from the environment to obtain a group of comprehensive data. A predictive model yielding 0.92 accuracy, 0.96 sensitivity, 0.88 specificity, and 0.98 area under the curve (AUC) was established using an advanced machine learning eXtreme Gradient Boosting (XGBoost) algorithm that considered the influences of exhaled and environmental VOCs. Abstract (1) Background: Lung cancer is silent in its early stages and fatal in its advanced stages. The current examinations for lung cancer are usually based on imaging. Conventional chest X-rays lack accuracy, and chest computed tomography (CT) is associated with radiation exposure and cost, limiting screening effectiveness. Breathomics, a noninvasive strategy, has recently been studied extensively. Volatile organic compounds (VOCs) derived from human breath can reflect metabolic changes caused by diseases and possibly serve as biomarkers of lung cancer. (2) Methods: The selected ion flow tube mass spectrometry (SIFT-MS) technique was used to quantitatively analyze 116 VOCs in breath samples from 148 patients with histologically confirmed lung cancers and 168 healthy volunteers. We used eXtreme Gradient Boosting (XGBoost), a machine learning method, to build a model for predicting lung cancer occurrence based on quantitative VOC measurements. (3) Results: The proposed prediction model achieved better performance than other previous approaches, with an accuracy, sensitivity, specificity, and area under the curve (AUC) of 0.89, 0.82, 0.94, and 0.95, respectively. When we further adjusted the confounding effect of environmental VOCs on the relationship between participants’ exhaled VOCs and lung cancer occurrence, our model was improved to reach 0.92 accuracy, 0.96 sensitivity, 0.88 specificity, and 0.98 AUC. (4) Conclusion: A quantitative VOCs databank integrated with the application of an XGBoost classifier provides a persuasive platform for lung cancer prediction.",
+  "Disease_List": [
+    "lung cancer"
+  ],
+  "Reason": "The abstract explicitly mentions 'lung cancer' multiple times as the specific disease under study. It discusses the use of volatile organic compounds (VOCs) in breath to detect lung cancer, describes patient groups with histologically confirmed lung cancers, and focuses on predictive modeling for lung cancer occurrence. Therefore, the classification is Y with 'lung cancer' as the specific disease mentioned.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "lung cancer"
+  ],
+  "UMLS_search_results": {
+    "lung cancer": [
+      {
+        "ui": "C0242379",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0242379",
+        "name": "Malignant neoplasm of lung",
+        "mesh_id": "D008175"
+      },
+      {
+        "ui": "C0684249",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0684249",
+        "name": "Carcinoma of lung",
+        "mesh_id": "None"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

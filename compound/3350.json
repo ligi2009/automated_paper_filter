@@ -1,0 +1,42 @@
+{
+  "id": 3350,
+  "title": "Evaluation of canine detection of COVID‐19 infected individuals under controlled settings",
+  "Abstract": "Abstract Reverse transcription polymerase chain reaction (RT‐PCR) is currently the standard diagnostic method to detect symptomatic and asymptomatic individuals infected with Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2). However, RT‐PCR results are not immediate and may falsely be negative before an infected individual sheds viral particles in the upper airways where swabs are collected. Infected individuals emit volatile organic compounds in their breath and sweat that are detectable by trained dogs. Here, we evaluate the diagnostic accuracy of dog detection against SARS‐CoV‐2 infection. Fifteen dogs previously trained at two centres in Australia were presented to axillary sweat specimens collected from known SARS‐CoV‐2 human cases (n = 100) and non‐cases (n = 414). The true infection status of the cases and non‐cases were confirmed based on RT‐PCR results as well as clinical presentation. Across dogs, the overall diagnostic sensitivity (DSe) was 95.3% (95%CI: 93.1–97.6%) and diagnostic specificity (DSp) was 97.1% (95%CI: 90.7–100.0%). The DSp decreased significantly when non‐case specimens were collected over 1 min rather than 20 min (p value = .004). The location of evaluation did not impact the detection performances. The accuracy of detection varied across dogs and experienced dogs revealed a marginally better DSp (p value = .016). The potential and limitations of this alternative detection tool are discussed.",
+  "Disease_List": [
+    "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)"
+  ],
+  "Reason": "The abstract explicitly mentions 'Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)', which is the specific virus responsible for the disease COVID-19. This is a specific disease-causing agent and is directly related to a disease condition, thus classified as Y.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "Y",
+  "Verification_Method": "MRCONSO",
+  "Verified_List": [
+    "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)"
+  ],
+  "UMLS_search_results": {
+    "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)": []
+  },
+  "MRCONSO_search_results": {
+    "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)": [
+      "Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)",
+      "Disease caused by Severe acute respiratory syndrome coronavirus 2 (disorder)",
+      "Disease caused by severe acute respiratory syndrome coronavirus 2",
+      "Disease caused by Severe acute respiratory syndrome coronavirus 2",
+      "Severe Acute Respiratory Syndrome Coronavirus 2 Infection"
+    ]
+  },
+  "MRCONSO_UMLS_results": {
+    "Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)_via_Disease caused by severe acute respiratory syndrome coronavirus 2 (disorder)": [
+      {
+        "ui": "C5203670",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C5203670",
+        "name": "COVID-19 Virus Disease",
+        "mesh_id": "D000086382"
+      }
+    ]
+  },
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract discusses diagnostic methods for SARS-CoV-2 infection and mentions volatile organic compounds in breath and sweat, but does not specify any particular chemical compound names."
+}

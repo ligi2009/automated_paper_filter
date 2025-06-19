@@ -1,0 +1,35 @@
+{
+  "id": 2748,
+  "title": "Response of the ozone-related health burden in Europe to changes in local anthropogenic emissions of ozone precursors",
+  "Abstract": "Exposure to ozone (O3) is associated with many human health problems, resulting in tens of thousands of premature deaths annually in Europe. This study quantifies the impact of changes in anthropogenic emissions of O3 precursors on premature deaths from long-term O3 exposure in Europe and the impact of emissions changes during 2005–2015 using the nested-grid chemical transport model Goddard Earth Observing System (GEOS)-Chem and its adjoint. In 2015, it is estimated that a 20% decrease in total anthropogenic emissions in our modeled European domain could prevent 1576 (467–3252) premature deaths from respiratory disease ( ⩾ 30 years of age), 70% of which is owing to the decrease in nitrogen oxides (NO x ) emissions. Underlying this aggregate effect is substantial spatial variation. In most of Europe, O3 formation is NO x -limited so that NO x emission reductions help to decrease premature deaths. Yet where O3 formation is NO x -saturated (as in parts of the United Kingdom, Benelux and Germany) emission reductions cause more premature deaths through increased ozone exposure. Despite the overall decreases in anthropogenic emissions, the marginal benefit, expressed as the avoided premature deaths per 1 kg km−2 yr−1 reduction in NO x emissions, is found to generally increase during 2005–2015, with a mean value more than doubling over Europe. This highlights the general trend that O3 formation becomes less sensitive to volatile organic compound emissions and more limited by NO x emissions. An important policy implication of increasing marginal benefits is that more costly regulations of NO x emissions are economically justified even as total anthropogenic emission are declining. NO x contributions from road transport, industry, energy, and residential sectors are most affected by the change in the O3 production regime. Consequently, European regulations of NO x emissions targeted at those sectors will yield the highest health benefits per unit NO x emission of all sources.",
+  "Disease_List": [
+    "respiratory disease"
+  ],
+  "Reason": "The abstract explicitly mentions 'respiratory disease' as a specific category of disease associated with premature deaths due to ozone exposure. Although it does not specify particular respiratory diseases by name, 'respiratory disease' is a recognized disease category and thus counts as a specific disease name mentioned in the context of health impacts.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "respiratory disease"
+  ],
+  "UMLS_search_results": {
+    "respiratory disease": [
+      {
+        "ui": "C0035242",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035242",
+        "name": "Respiratory Tract Diseases",
+        "mesh_id": "D012140"
+      },
+      {
+        "ui": "C0035204",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0035204",
+        "name": "Respiration Disorders",
+        "mesh_id": "D012120"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {}
+}

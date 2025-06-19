@@ -1,0 +1,97 @@
+{
+  "id": 359,
+  "title": "Xenobiotics Delivered by Electronic Nicotine Delivery Systems: Potential Cellular and Molecular Mechanisms on the Pathogenesis of Chronic Kidney Disease",
+  "Abstract": "Chronic kidney disease (CKD) is characterized as sustained damage to the renal parenchyma, leading to impaired renal functions and gradually progressing to end-stage renal disease (ESRD). Diabetes mellitus (DM) and arterial hypertension (AH) are underlying diseases of CKD. Genetic background, lifestyle, and xenobiotic exposures can favor CKD onset and trigger its underlying diseases. Cigarette smoking (CS) is a known modified risk factor for CKD. Compounds from tobacco combustion act through multi-mediated mechanisms that impair renal function. Electronic nicotine delivery systems (ENDS) consumption, such as e-cigarettes and heated tobacco devices, is growing worldwide. ENDS release mainly nicotine, humectants, and flavorings, which generate several byproducts when heated, including volatile organic compounds and ultrafine particles. The toxicity assessment of these products is emerging in human and experimental studies, but data are yet incipient to achieve truthful conclusions about their safety. To build up the knowledge about the effect of currently employed ENDS on the pathogenesis of CKD, cellular and molecular mechanisms of ENDS xenobiotic on DM, AH, and kidney functions were reviewed. Unraveling the toxic mechanisms of action and endpoints of ENDS exposures will contribute to the risk assessment and implementation of proper health and regulatory interventions.",
+  "Disease_List": [
+    "Chronic kidney disease",
+    "end-stage renal disease",
+    "Diabetes mellitus",
+    "arterial hypertension"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'Chronic kidney disease (CKD)', 'end-stage renal disease (ESRD)', 'Diabetes mellitus (DM)', and 'arterial hypertension (AH)'. These are all named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Chronic kidney disease",
+    "end-stage renal disease",
+    "Diabetes mellitus",
+    "arterial hypertension"
+  ],
+  "UMLS_search_results": {
+    "Chronic kidney disease": [
+      {
+        "ui": "C1561643",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1561643",
+        "name": "Chronic Kidney Diseases",
+        "mesh_id": "D051436"
+      }
+    ],
+    "end-stage renal disease": [
+      {
+        "ui": "C2316810",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2316810",
+        "name": "Chronic kidney disease stage 5",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0022661",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0022661",
+        "name": "Kidney Failure, Chronic",
+        "mesh_id": "D007676"
+      }
+    ],
+    "Diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "arterial hypertension": [
+      {
+        "ui": "C0020538",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0020538",
+        "name": "Hypertensive disease",
+        "mesh_id": "D006973"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nicotine"
+  ],
+  "compound_CID": [
+    {
+      "nicotine": 89594
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nicotine_Chronic_kidney_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking, which involves exposure to nicotine among other compounds, is a known risk factor for chronic kidney disease (CKD). It also discusses electronic nicotine delivery systems (ENDS) that release mainly nicotine and other substances, which have emerging evidence of toxicity affecting kidney function. Although data are still incipient, the abstract suggests that nicotine, as a major component of tobacco and ENDS, is involved in mechanisms that impair renal function and contribute to the pathogenesis of CKD. Therefore, there is evidence of a relationship between nicotine and chronic kidney disease."
+      },
+      "nicotine_end-stage_renal_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking, which involves exposure to nicotine among other compounds, is a known risk factor for chronic kidney disease (CKD), which can progress to end-stage renal disease (ESRD). It also discusses electronic nicotine delivery systems (ENDS) that release mainly nicotine and other byproducts, suggesting potential toxic effects on kidney function and related diseases such as diabetes mellitus and arterial hypertension, which are underlying causes of CKD. Although the data on ENDS and nicotine toxicity are still emerging and not conclusive, the abstract supports a relationship between nicotine exposure and the progression of kidney disease to ESRD through multiple mechanisms."
+      },
+      "nicotine_Diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking, which involves exposure to nicotine, is a known risk factor for chronic kidney disease (CKD), and that diabetes mellitus (DM) is an underlying disease of CKD. It discusses electronic nicotine delivery systems (ENDS) that release mainly nicotine and their potential toxic effects on DM, arterial hypertension, and kidney functions. Although the data are still emerging and not conclusive, the abstract suggests that nicotine exposure through ENDS may influence the pathogenesis of DM, implying a relationship between nicotine and diabetes mellitus."
+      },
+      "nicotine_arterial_hypertension": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking, which involves exposure to nicotine, is a known risk factor for chronic kidney disease (CKD) and that arterial hypertension (AH) is an underlying disease of CKD. It also discusses electronic nicotine delivery systems (ENDS) that release mainly nicotine and their potential toxic effects on arterial hypertension and kidney functions. Although the data are still emerging and not conclusive, the abstract suggests a relationship between nicotine exposure and arterial hypertension through mechanisms related to tobacco and ENDS use."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions 'nicotine' as a chemical compound released by electronic nicotine delivery systems (ENDS). Other terms like 'humectants' and 'flavorings' are general categories rather than specific chemical names, and 'volatile organic compounds' is a broad class, not a specific compound."
+}

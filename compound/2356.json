@@ -1,0 +1,141 @@
+{
+  "id": 2356,
+  "title": "Toxicokinetics of Major Anthropogenic Indoor Air Pollutants and Their Effects on Human Health: A Review of Literature",
+  "Abstract": "Research studies have shown that about 90% of the time is spent in indoor environments (homes, hospitals, schools, offices, restaurants and subways). During the past decade, many studies have been conducted to assess indoor air quality in school environments. A large number of indoor air pollutants have been measured including volatile organic compounds, nitrogen oxides, sulphur dioxide, carbon dioxide, carbon monoxide, bioaerosols and particulate matters. In most low and medium-income countries, biomass fuel-based cooking and heating is considered to be a significant source of the household as well as ambient air pollution formaldehyde from clipboard and hydrocarbons from paints, cleaners and furnishings (anthropogenic sources). A wide range of acute and chronic diseases are now associated with exposure to air pollution, starting from diabetes mellitus, declining cognitive functions, and obstructive pulmonary diseases, haematopoietic diseases, to cardiovascular disease.",
+  "Disease_List": [
+    "diabetes mellitus",
+    "obstructive pulmonary diseases",
+    "haematopoietic diseases",
+    "cardiovascular disease"
+  ],
+  "Reason": "The abstract explicitly mentions specific disease names associated with exposure to air pollution, including 'diabetes mellitus', 'obstructive pulmonary diseases', 'haematopoietic diseases', and 'cardiovascular disease'. Therefore, the classification is 'Y' for yes.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "diabetes mellitus",
+    "obstructive pulmonary diseases",
+    "cardiovascular disease"
+  ],
+  "UMLS_search_results": {
+    "diabetes mellitus": [
+      {
+        "ui": "C0011849",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0011849",
+        "name": "Diabetes Mellitus",
+        "mesh_id": "D003920"
+      }
+    ],
+    "obstructive pulmonary diseases": [
+      {
+        "ui": "C0600260",
+        "rootSource": "MSH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0600260",
+        "name": "Lung Diseases, Obstructive",
+        "mesh_id": "D008173"
+      }
+    ],
+    "haematopoietic diseases": [],
+    "cardiovascular disease": [
+      {
+        "ui": "C0007222",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0007222",
+        "name": "Cardiovascular Diseases",
+        "mesh_id": "D002318"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nitrogen oxides",
+    "sulphur dioxide",
+    "carbon dioxide",
+    "carbon monoxide",
+    "formaldehyde"
+  ],
+  "compound_CID": [
+    {
+      "nitrogen oxides": "None",
+      "sulphur dioxide": 1119,
+      "carbon dioxide": 280,
+      "carbon monoxide": 281,
+      "formaldehyde": 712
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nitrogen oxides_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that a wide range of acute and chronic diseases, including diabetes mellitus, are associated with exposure to air pollution. Nitrogen oxides are listed among the indoor air pollutants measured in school environments, indicating that exposure to nitrogen oxides, as a component of air pollution, is linked to diabetes mellitus according to the research studies referenced."
+      },
+      "nitrogen oxides_obstructive_pulmonary_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitrogen oxides are among the indoor air pollutants measured in various environments. It further states that a wide range of acute and chronic diseases, including obstructive pulmonary diseases, are associated with exposure to air pollution. Since nitrogen oxides are explicitly mentioned as a pollutant and obstructive pulmonary diseases are listed among diseases linked to air pollution exposure, there is evidence of a relationship between nitrogen oxides and obstructive pulmonary diseases."
+      },
+      "nitrogen oxides_cardiovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that nitrogen oxides are among the indoor air pollutants measured in various environments. It further states that a wide range of acute and chronic diseases, including cardiovascular disease, are associated with exposure to air pollution. Since nitrogen oxides are a component of air pollution mentioned, there is evidence of a relationship between nitrogen oxides and cardiovascular disease based on the abstract."
+      }
+    },
+    {
+      "sulphur dioxide_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that a wide range of acute and chronic diseases, including diabetes mellitus, are associated with exposure to air pollution. Sulphur dioxide is listed among the indoor air pollutants measured in school environments, implying it is a component of air pollution. Therefore, there is evidence suggesting a relationship between sulphur dioxide exposure and diabetes mellitus as part of the broader association between air pollution and this disease."
+      },
+      "sulphur dioxide_obstructive_pulmonary_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that a wide range of acute and chronic diseases, including obstructive pulmonary diseases, are associated with exposure to air pollution. Sulphur dioxide is listed among the indoor air pollutants measured in environments such as schools. Given that sulphur dioxide is a component of air pollution and obstructive pulmonary diseases are linked to air pollution exposure, there is evidence of a relationship between sulphur dioxide and obstructive pulmonary diseases."
+      },
+      "sulphur dioxide_cardiovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that sulphur dioxide is one of the indoor air pollutants measured in various environments. It further states that a wide range of acute and chronic diseases, including cardiovascular disease, are associated with exposure to air pollution. Since sulphur dioxide is explicitly mentioned as a component of air pollution and cardiovascular disease is listed among the diseases linked to air pollution exposure, there is evidence of a relationship between sulphur dioxide and cardiovascular disease."
+      }
+    },
+    {
+      "carbon dioxide_diabetes_mellitus": {
+        "relationship": "N",
+        "reason": "The abstract mentions that a wide range of acute and chronic diseases, including diabetes mellitus, are associated with exposure to air pollution in general. However, it does not specify a direct relationship between carbon dioxide specifically and diabetes mellitus. Carbon dioxide is listed among many indoor air pollutants measured, but no explicit link or evidence is provided connecting carbon dioxide exposure to the development or exacerbation of diabetes mellitus."
+      },
+      "carbon dioxide_obstructive_pulmonary_diseases": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon dioxide as one of the indoor air pollutants measured in various environments but does not provide specific evidence linking carbon dioxide exposure to obstructive pulmonary diseases. While obstructive pulmonary diseases are associated with exposure to air pollution in general, the abstract does not establish a direct or clear relationship between carbon dioxide specifically and these diseases."
+      },
+      "carbon dioxide_cardiovascular_disease": {
+        "relationship": "N",
+        "reason": "The abstract mentions carbon dioxide as one of the indoor air pollutants measured but does not provide any specific evidence or direct association between carbon dioxide exposure and cardiovascular disease. While cardiovascular disease is listed among diseases associated with air pollution exposure in general, the abstract does not link carbon dioxide specifically to cardiovascular disease."
+      }
+    },
+    {
+      "carbon monoxide_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to indoor air pollutants, including carbon monoxide, is associated with a wide range of acute and chronic diseases, explicitly mentioning diabetes mellitus among these diseases. This suggests there is evidence of a relationship between carbon monoxide exposure and diabetes mellitus."
+      },
+      "carbon monoxide_obstructive_pulmonary_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract lists carbon monoxide as one of the indoor air pollutants measured in various environments. It also states that a wide range of acute and chronic diseases, including obstructive pulmonary diseases, are associated with exposure to air pollution. Since carbon monoxide is identified as a component of air pollution and obstructive pulmonary diseases are linked to air pollution exposure, there is evidence of a relationship between carbon monoxide and obstructive pulmonary diseases."
+      },
+      "carbon monoxide_cardiovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that carbon monoxide is one of the indoor air pollutants measured in various environments. It further states that a wide range of acute and chronic diseases, including cardiovascular disease, are associated with exposure to air pollution. Since carbon monoxide is explicitly mentioned as a component of air pollution and cardiovascular disease is listed among the diseases linked to air pollution exposure, there is evidence of a relationship between carbon monoxide and cardiovascular disease."
+      }
+    },
+    {
+      "formaldehyde_diabetes_mellitus": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that exposure to indoor air pollutants, including formaldehyde, is associated with a wide range of acute and chronic diseases, explicitly mentioning diabetes mellitus among these diseases. This suggests there is evidence of a relationship between formaldehyde exposure and diabetes mellitus."
+      },
+      "formaldehyde_obstructive_pulmonary_diseases": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that formaldehyde is one of the indoor air pollutants originating from anthropogenic sources such as paints, cleaners, and furnishings. It also states that a wide range of acute and chronic diseases, including obstructive pulmonary diseases, are associated with exposure to air pollution. Since formaldehyde is explicitly mentioned as a component of indoor air pollution and obstructive pulmonary diseases are listed among the diseases linked to air pollution exposure, there is evidence of a relationship between formaldehyde and obstructive pulmonary diseases."
+      },
+      "formaldehyde_cardiovascular_disease": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that formaldehyde is one of the indoor air pollutants originating from anthropogenic sources such as clipboard materials and furnishings. It further states that exposure to air pollution, which includes formaldehyde among other pollutants, is associated with a wide range of acute and chronic diseases, explicitly listing cardiovascular disease as one of these conditions. Therefore, there is evidence in the abstract suggesting a relationship between formaldehyde exposure and cardiovascular disease."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical compounds such as nitrogen oxides, sulphur dioxide, carbon dioxide, carbon monoxide, and formaldehyde as indoor air pollutants measured in school environments. These are distinct chemical substances, unlike general terms like volatile organic compounds or bioaerosols."
+}

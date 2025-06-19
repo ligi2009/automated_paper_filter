@@ -1,0 +1,134 @@
+{
+  "id": 1185,
+  "title": "Novel design of optical sensor based on two-dimensional photonic crystals for the detection of volatile organic compounds that can infect human health",
+  "Abstract": "Background: In recent research, optical sensors gained a growing interest motivated by the increasing need for specific sensors that allow for routine and effective measurements in several fields and analysis such as, safety, environment, and human health. Among optical sensors are photonic crystal sensors, which are characterized by high sensitivity and biocompatibility. The variations inside and around the photonic crystal can give important information by measuring the wavelength, the band gap, the output power…etc. Through defects created in photonic crystals such as missing rows of holes or rods, light is guided through and the goal is to achieve a very high sensitivity and spatial selectivity to changing superior bulk devices. In this study, we model a new structure of an optical channel drop filter (CDF) based on 2-dimensional photonic crystals to detect volatile organic compounds that can infect human health. \nObjective: Detect the variation of the refractive index by fixing the radius (r) at 99.37nm and the lattice constant (a) at 523nm for various volatile organic compounds such as H2CO, CH2Cl2, and C2Cl4 with refractive indexes that are: 1.3746, 1.421 and 1.503 respectively in the optical sensor based on photonic crystals for reasons related to the protection of human health. \nMethods: The structure is made of square lattice silicon rods immersed in air. The dielectric constant of silicon and air is 11.9716 and 1 respectively. First, we created a cross shape resonator and designed an optical channel drop filter in the heart of the structure; our method is based on plane wave expansion method (PWE) by using MATLAB software and the finite element method (F.E.M) with COMSOL software. \nResults: Three volatile compounds have been studied, such as Dichloromethane used as synthesis intermediate by the chemical industry or solvent used in the pharmaceutical or medical industry. Acute inhalation exposure may cause severe optic neuropathy and liver attack (Hepatitis). Then, the Methanal is used to dry or kill the skin taking as an example, the medical treatment of warts. And perchlorethylene is used for the dry cleaning of tissues and for degreasing metals because it is in category 3 carcinogens, toxic to the nervous system and the kidney. These three volatile compounds where introduced and studied in the proposed structure. The results obtained through this study are as follows: \n \ndiagram of the TM and TE bands of the photonic crystal in a square array of silicon rods embedded in the air, \nschematic diagram of the filter, \ndistribution of the refractive index along the structure, \nstructure meshing, \npropagation and transmission for different refractive indices such as methanal (H2CO), dichloromethane (CH2Cl2) and perchlorethylene (C2Cl4). \n \nConclusion: In this article, we have been able to simulate, analyze and control our proposed structure with MATLAB and COMSOL software based on the finite element method. The results show that for the three volatile organic compounds, the variation of the signal is due to the wavelength of the resonance which is related to the refractive index (n). This can be seen by the small Δλ between three volatile organic compounds, which is 0.4nm between (H2CO, C2Cl4) and 2.9 nm between (CH2Cl2, H2CO). Thanks to this change, this structure can be used as sensor for the detection of toxic organic pollutants that can infect human health (16).",
+  "Disease_List": [
+    "optic neuropathy",
+    "hepatitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'optic neuropathy' caused by acute inhalation exposure to dichloromethane, and 'hepatitis' (liver attack) also linked to dichloromethane exposure. These are specific disease names rather than general health conditions, justifying a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "optic neuropathy",
+    "hepatitis"
+  ],
+  "UMLS_search_results": {
+    "optic neuropathy": [
+      {
+        "ui": "C3887709",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3887709",
+        "name": "Optic Neuropathy",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0029132",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0029132",
+        "name": "Disorder of optic nerve",
+        "mesh_id": "D009901"
+      }
+    ],
+    "hepatitis": [
+      {
+        "ui": "C0019158",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019158",
+        "name": "Hepatitis",
+        "mesh_id": "D006505"
+      },
+      {
+        "ui": "C0019159",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0019159",
+        "name": "Hepatitis A",
+        "mesh_id": "D006506"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "H2CO",
+    "CH2Cl2",
+    "C2Cl4",
+    "Dichloromethane",
+    "Methanal",
+    "Perchlorethylene"
+  ],
+  "compound_CID": [
+    {
+      "H2CO": 712,
+      "CH2Cl2": 6344,
+      "C2Cl4": 31373,
+      "Dichloromethane": 6344,
+      "Methanal": 712,
+      "Perchlorethylene": 31373
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "H2CO_optic_neuropathy": {
+        "relationship": "N",
+        "reason": "The abstract discusses the use of an optical sensor based on photonic crystals to detect volatile organic compounds including H2CO (methanal). It mentions that dichloromethane (CH2Cl2) exposure may cause severe optic neuropathy, but does not attribute optic neuropathy or any similar adverse health effects to H2CO. Instead, H2CO is described as being used medically to dry or kill skin in wart treatment, with no mention of it causing optic neuropathy. Therefore, there is no clear evidence in the abstract of a relationship between H2CO and optic neuropathy."
+      },
+      "H2CO_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that among the three volatile organic compounds studied, dichloromethane (CH2Cl2) exposure may cause severe optic neuropathy and liver attack (hepatitis). Although H2CO (methanal) is discussed in the context of its use and detection, the abstract does not explicitly link H2CO to hepatitis. However, since the study focuses on detecting volatile organic compounds that can infect human health and includes H2CO as one of these compounds, and given that hepatitis is specifically mentioned in relation to a similar compound (CH2Cl2), there is an implied concern about volatile organic compounds including H2CO potentially affecting liver health. Therefore, there is some evidence suggesting a relationship between H2CO and hepatitis, primarily by association with toxic effects on the liver from related compounds."
+      }
+    },
+    {
+      "CH2Cl2_optic_neuropathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acute inhalation exposure to Dichloromethane (CH2Cl2) may cause severe optic neuropathy. This indicates a clear relationship between the compound CH2Cl2 and the disease optic neuropathy. The study also discusses the detection of CH2Cl2 as a volatile organic compound that can affect human health, further supporting the connection."
+      },
+      "CH2Cl2_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acute inhalation exposure to Dichloromethane (CH2Cl2) may cause severe optic neuropathy and liver attack (hepatitis). This indicates a direct relationship between CH2Cl2 exposure and hepatitis as a liver condition. Therefore, there is evidence of a relationship between the compound CH2Cl2 and the disease hepatitis based on the information provided."
+      }
+    },
+    {
+      "C2Cl4_optic_neuropathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that one of the studied volatile compounds, dichloromethane (CH2Cl2), can cause severe optic neuropathy upon acute inhalation exposure. The compound C2Cl4 mentioned in the abstract corresponds to perchlorethylene, which is described as toxic to the nervous system and kidney but optic neuropathy is specifically linked to dichloromethane, not C2Cl4. However, since the question asks about C2Cl4 and optic neuropathy, the abstract does not provide direct evidence linking C2Cl4 to optic neuropathy. Therefore, there is no clear relationship between C2Cl4 and optic neuropathy based on this abstract."
+      },
+      "C2Cl4_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly mentions that among the three volatile organic compounds studied, dichloromethane (CH2Cl2) can cause liver attack (hepatitis) upon acute inhalation exposure. The compound C2Cl4 (perchlorethylene) is also studied but is described as toxic to the nervous system and kidney, with no direct mention of causing hepatitis. However, since the question is about C2Cl4 specifically, the abstract does not provide direct evidence linking C2Cl4 to hepatitis. The only compound linked to hepatitis in the abstract is CH2Cl2, not C2Cl4. Therefore, there is no clear relationship between C2Cl4 and hepatitis based on this abstract."
+      }
+    },
+    {
+      "Dichloromethane_optic_neuropathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acute inhalation exposure to Dichloromethane (CH2Cl2) may cause severe optic neuropathy and liver attack (Hepatitis). This indicates a clear relationship between Dichloromethane exposure and the disease optic neuropathy. The study focuses on detecting volatile organic compounds including Dichloromethane due to their potential health effects, confirming the toxicological link."
+      },
+      "Dichloromethane_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acute inhalation exposure to Dichloromethane (CH2Cl2) may cause severe optic neuropathy and liver attack (Hepatitis). This indicates a direct relationship between Dichloromethane exposure and hepatitis as a liver condition. Therefore, there is evidence in the abstract supporting a relationship between Dichloromethane and hepatitis."
+      }
+    },
+    {
+      "Methanal_optic_neuropathy": {
+        "relationship": "N",
+        "reason": "The abstract mentions that acute inhalation exposure to dichloromethane may cause severe optic neuropathy, but it does not attribute optic neuropathy to methanal. Methanal is described as being used to dry or kill the skin, for example in medical treatment of warts, without any mention of causing optic neuropathy. Therefore, there is no clear evidence in the abstract linking methanal to optic neuropathy."
+      },
+      "Methanal_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract mentions that among the three volatile organic compounds studied, dichloromethane exposure may cause severe optic neuropathy and liver attack (hepatitis). Methanal (formaldehyde) is described as being used medically to dry or kill skin, but there is no direct mention of methanal causing hepatitis. However, since the abstract groups these compounds as toxic organic pollutants that can infect human health and specifically notes liver attack (hepatitis) in relation to dichloromethane, there is indirect evidence that volatile organic compounds including methanal may be related to liver toxicity. The explicit link to hepatitis is made only for dichloromethane, not methanal, but the context suggests a potential relationship between methanal exposure and liver health effects. Therefore, there is some evidence of a relationship between methanal and hepatitis, though it is not as direct or strong as for dichloromethane."
+      }
+    },
+    {
+      "Perchlorethylene_optic_neuropathy": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that acute inhalation exposure to Dichloromethane may cause severe optic neuropathy. While Perchlorethylene is described as toxic to the nervous system and kidney and classified as a category 3 carcinogen, there is no direct mention of Perchlorethylene causing optic neuropathy. However, since Perchlorethylene is toxic to the nervous system, and optic neuropathy is a neurological condition affecting the optic nerve, there is an implied relationship between Perchlorethylene exposure and potential optic neuropathy. Therefore, based on the abstract, there is evidence suggesting a relationship between Perchlorethylene and optic neuropathy, although it is less direct than for Dichloromethane."
+      },
+      "Perchlorethylene_hepatitis": {
+        "relationship": "Y",
+        "reason": "The abstract explicitly states that dichloromethane exposure may cause liver attack (hepatitis). While perchlorethylene is described as toxic to the nervous system and kidney and classified as a category 3 carcinogen, there is no direct mention of perchlorethylene causing hepatitis. However, since the abstract discusses volatile organic compounds that can infect human health and includes perchlorethylene among them, and given the known hepatotoxic potential of related compounds, there is an implied relationship between perchlorethylene and liver toxicity including hepatitis. Therefore, based on the abstract, there is evidence suggesting a relationship between perchlorethylene and hepatitis."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract specifically mentions three volatile organic compounds by their chemical formulas and common names: H2CO (Methanal), CH2Cl2 (Dichloromethane), and C2Cl4 (Perchlorethylene). These are the specific chemical compounds studied in the optical sensor research for detecting toxic organic pollutants."
+}

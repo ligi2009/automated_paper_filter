@@ -1,0 +1,122 @@
+{
+  "id": 4205,
+  "title": "Effect of Cigarette Smoke on Gut Microbiota: State of Knowledge",
+  "Abstract": "Cigarette smoke is a representative source of toxic chemical exposures to humans, and the adverse consequences of cigarette smoking are mediated by its effect on both neuronal and immune–inflammatory systems. Cigarette smoking also is a major risk factor for intestinal disorders, such as Crohn’s disease and peptic ulcer. On the other hand, cigarette smoking is protective against developing ulcerative colitis. The effects of cigarette smoking on intestinal disorders include changes in intestinal irrigation and microbiome, increases in permeability of the mucosa, and impaired mucosal immune responses. However, the underlying mechanism linking cigarette smoking with intestinal microbiota dysbiosis is largely unknown. In this communication, we first review the current knowledge about the mechanistic interaction between cigarette smoke and intestinal microbiota dysbiosis, which include the likely actions of nicotine, aldehydes, polycyclic aromatic hydrocarbons, heavy metals, volatile organic compounds and toxic gases, and then reveal the potential mechanisms of the lung–gut cross talk and skin-gut cross talk in regulating the balance of intestinal microbiota and the interrelation of intestinal microbiota dysbiosis and systemic disorders.",
+  "Disease_List": [
+    "Crohn’s disease",
+    "peptic ulcer",
+    "ulcerative colitis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases such as 'Crohn’s disease', 'peptic ulcer', and 'ulcerative colitis' when discussing the effects of cigarette smoking on intestinal disorders. These are named diseases rather than general terms, which justifies a 'Y' classification.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "peptic ulcer",
+    "ulcerative colitis"
+  ],
+  "UMLS_search_results": {
+    "Crohn’s disease": [],
+    "peptic ulcer": [
+      {
+        "ui": "C0030920",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0030920",
+        "name": "Peptic Ulcer",
+        "mesh_id": "D010437"
+      }
+    ],
+    "ulcerative colitis": [
+      {
+        "ui": "C0009324",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0009324",
+        "name": "Ulcerative Colitis",
+        "mesh_id": "D003093"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [
+    "nicotine",
+    "aldehydes",
+    "polycyclic aromatic hydrocarbons",
+    "heavy metals",
+    "volatile organic compounds",
+    "toxic gases"
+  ],
+  "compound_CID": [
+    {
+      "nicotine": 89594,
+      "aldehydes": 712,
+      "polycyclic aromatic hydrocarbons": "None",
+      "heavy metals": "None",
+      "volatile organic compounds": "None",
+      "toxic gases": "None"
+    }
+  ],
+  "compound_disease_relation": [
+    {
+      "nicotine_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking is a major risk factor for peptic ulcer and mentions nicotine as one of the likely active compounds in cigarette smoke affecting intestinal disorders. Although the exact mechanisms are not fully detailed, nicotine is implicated as a component contributing to the effects of cigarette smoke on intestinal microbiota dysbiosis and mucosal immune responses, which are relevant to peptic ulcer development. Therefore, there is evidence of a relationship between nicotine and peptic ulcer based on the abstract."
+      },
+      "nicotine_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking, which includes exposure to nicotine among other compounds, is protective against developing ulcerative colitis. It specifically mentions the likely actions of nicotine as part of the mechanistic interaction between cigarette smoke and intestinal microbiota dysbiosis, which is relevant to ulcerative colitis. Therefore, there is evidence of a relationship between nicotine and ulcerative colitis, with nicotine potentially contributing to the protective effect observed."
+      }
+    },
+    {
+      "aldehydes_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking is a major risk factor for peptic ulcer and that aldehydes, as components of cigarette smoke, are involved in the mechanistic interactions affecting intestinal microbiota dysbiosis. Since aldehydes are specifically mentioned among the toxic compounds from cigarette smoke that influence intestinal health, there is evidence suggesting a relationship between aldehydes and peptic ulcer through their role in cigarette smoke-induced intestinal disorders."
+      },
+      "aldehydes_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that aldehydes, as components of cigarette smoke, are involved in the mechanistic interaction between cigarette smoke and intestinal microbiota dysbiosis. Since cigarette smoking is noted to be protective against developing ulcerative colitis, and aldehydes are among the chemicals mediating cigarette smoke's effects on the intestinal environment, there is evidence suggesting a relationship between aldehydes and ulcerative colitis through their influence on intestinal microbiota and immune responses."
+      }
+    },
+    {
+      "polycyclic aromatic hydrocarbons_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking is a major risk factor for peptic ulcer and that polycyclic aromatic hydrocarbons (PAHs) are among the toxic chemical components of cigarette smoke. It discusses the mechanistic interactions between cigarette smoke constituents, including PAHs, and intestinal microbiota dysbiosis, which is linked to intestinal disorders such as peptic ulcer. Therefore, there is evidence suggesting a relationship between polycyclic aromatic hydrocarbons and peptic ulcer through their role as harmful components in cigarette smoke contributing to intestinal pathology."
+      },
+      "polycyclic aromatic hydrocarbons_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract indicates that cigarette smoking, which contains polycyclic aromatic hydrocarbons (PAHs) among other toxic compounds, is protective against developing ulcerative colitis. While PAHs are mentioned as one of the components of cigarette smoke that may affect intestinal microbiota dysbiosis, there is no direct evidence or clear relationship established between PAHs specifically and ulcerative colitis in the abstract. The protective effect is attributed to cigarette smoking as a whole, and the mechanisms involving PAHs are not detailed in relation to ulcerative colitis."
+      }
+    },
+    {
+      "heavy metals_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoke contains heavy metals among other toxic compounds, and cigarette smoking is identified as a major risk factor for peptic ulcer. It also discusses the mechanistic interactions between cigarette smoke components, including heavy metals, and intestinal microbiota dysbiosis, which is related to intestinal disorders such as peptic ulcer. Therefore, there is evidence suggesting a relationship between heavy metals (as components of cigarette smoke) and peptic ulcer."
+      },
+      "heavy metals_ulcerative_colitis": {
+        "relationship": "N",
+        "reason": "The abstract discusses heavy metals as one of the components of cigarette smoke that may affect intestinal microbiota dysbiosis. However, it does not provide direct evidence or a clear link between heavy metals and ulcerative colitis. Instead, it mentions that cigarette smoking overall is protective against developing ulcerative colitis, but the specific role of heavy metals in this context is not clarified. Therefore, based on the abstract, there is no clear relationship established between heavy metals and ulcerative colitis."
+      }
+    },
+    {
+      "volatile organic compounds_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoking is a major risk factor for peptic ulcer and that volatile organic compounds (VOCs) are among the toxic chemicals present in cigarette smoke. It discusses the mechanistic interactions between cigarette smoke components, including VOCs, and intestinal microbiota dysbiosis, which is linked to intestinal disorders such as peptic ulcer. Therefore, there is evidence suggesting a relationship between volatile organic compounds and peptic ulcer through their role in cigarette smoke-induced intestinal damage and microbiota imbalance."
+      },
+      "volatile organic compounds_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that volatile organic compounds (VOCs), as components of cigarette smoke, are involved in the mechanistic interaction between cigarette smoke and intestinal microbiota dysbiosis. Since cigarette smoking is described as protective against developing ulcerative colitis, and VOCs are part of the chemical exposures from cigarette smoke affecting intestinal microbiota and immune responses, there is evidence suggesting a relationship between VOCs and ulcerative colitis through their role in modulating intestinal microbiota and immune function."
+      }
+    },
+    {
+      "toxic gases_peptic_ulcer": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that cigarette smoke, which contains toxic gases among other compounds, is a major risk factor for peptic ulcer. It discusses the mechanistic interactions between cigarette smoke components, including toxic gases, and intestinal microbiota dysbiosis, which is linked to intestinal disorders such as peptic ulcer. Therefore, there is evidence suggesting a relationship between toxic gases and peptic ulcer through the effects of cigarette smoke exposure."
+      },
+      "toxic gases_ulcerative_colitis": {
+        "relationship": "Y",
+        "reason": "The abstract indicates that toxic gases, as components of cigarette smoke, are involved in the mechanistic interaction with intestinal microbiota dysbiosis. Cigarette smoking, which includes exposure to toxic gases, is noted to be protective against developing ulcerative colitis. Therefore, there is evidence of a relationship between toxic gases and ulcerative colitis mediated through cigarette smoke's effects on intestinal microbiota and immune responses."
+      }
+    }
+  ],
+  "compound_extraction_reason": "The abstract mentions specific chemical substances found in cigarette smoke that affect intestinal microbiota dysbiosis, including nicotine, aldehydes, polycyclic aromatic hydrocarbons, heavy metals, volatile organic compounds, and toxic gases. These are specific chemical classes or named compounds relevant to the study."
+}

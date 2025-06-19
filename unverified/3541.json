@@ -1,0 +1,20 @@
+{
+  "id": 3541,
+  "title": "Colony Age of Trichoderma azevedoi Alters the Profile of Volatile Organic Compounds and Ability to Suppress Sclerotinia sclerotiorum in Bean Plants",
+  "Abstract": "Common bean (Phaseolus vulgaris L.) is one of the most important crops in human food production. The occurrence of diseases, such as white mold, caused by Sclerotinia sclerotiorum can limit the production of this legume. The use of Trichoderma has become an important strategy in the suppression of this disease. The aim of the present study was to evaluate the effect of volatile organic compounds (VOCs) emitted by Trichoderma azevedoi CEN1241 in five different growth periods on the severity of white mold in common bean. The in vitro assays were carried out in double-plate and split-plate, and the in vivo assays, through the exposure of the mycelia of S. sclerotiorum to the VOCs of T. azevedoi CEN1241 and subsequent inoculation in bean plants. Chemical analysis by gas chromatography coupled to mass spectrometry detected 37 VOCs produced by T. azevedoi CEN1241, covering six major chemical classes. The profile of VOCs produced by T. azevedoi CEN1241 varied according to colony age and was shown to be related to the ability of the biocontrol agent to suppress S. sclerotiorum. T. azevedoi CEN1241 VOCs reduced the size of S. sclerotiorum lesions on bean fragments in vitro and reduced disease severity in a greenhouse. This study demonstrated in a more applied way that the mechanism of antibiosis through the production of volatile compounds exerted by Trichoderma can complement other mechanisms, such as parasitism and competition, thus contributing to a better efficiency in the control of white mold in bean plants.",
+  "Disease_List": [
+    "white mold"
+  ],
+  "Reason": "The abstract explicitly mentions 'white mold' as a disease affecting common bean plants caused by Sclerotinia sclerotiorum. This is a specific plant disease name, not just a general term like 'disease' or 'illness'. Therefore, the classification is Y.",
+  "UMLS_Verified": "N",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "None",
+  "Verified_List": [],
+  "UMLS_search_results": {
+    "white mold": []
+  },
+  "MRCONSO_search_results": {
+    "white mold": []
+  },
+  "MRCONSO_UMLS_results": {}
+}

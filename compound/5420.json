@@ -1,0 +1,82 @@
+{
+  "id": 5420,
+  "title": "Novel breath biomarkers identification for early detection of hepatocellular carcinoma and cirrhosis using ML tools and GCMS",
+  "Abstract": "According to WHO 2019, Hepatocellular carcinoma (HCC) is the fourth highest cause of cancer death worldwide. More precise diagnostic models are needed to enhance early HCC and cirrhosis quick diagnosis, treatment, and survival. Breath biomarkers known as volatile organic compounds (VOCs) in exhaled air can be used to make rapid, precise, and painless diagnoses. Gas chromatography and mass spectrometry (GCMS) are utilized to diagnose HCC and cirrhosis VOCs. In this investigation, metabolically generated VOCs in breath samples (n = 35) of HCC, (n = 35) cirrhotic, and (n = 30) controls were detected via GCMS and SPME. Moreover, this study also aims to identify diagnostic VOCs for distinction among HCC and cirrhosis liver conditions, which are most closely related, and cause misleading during diagnosis. However, using gas chromatography-mass spectrometry (GC-MS) to quantify volatile organic compounds (VOCs) is time-consuming and error-prone since it requires an expert. To verify GC-MS data analysis, we present an in-house R-based array of machine learning models that applies deep learning pattern recognition to automatically discover VOCs from raw data, without human intervention. All-machine learning diagnostic model offers 80% sensitivity, 90% specificity, and 95% accuracy, with an AUC of 0.9586. Our results demonstrated the validity and utility of GCMS-SMPE in combination with innovative ML models for early detection of HCC and cirrhosis-specific VOCs considered as potential diagnostic breath biomarkers and showed differentiation among HCC and cirrhosis. With these useful insights, we can build handheld e-nose sensors to detect HCC and cirrhosis through breath analysis and this unique approach can help in diagnosis by reducing integration time and costs without compromising accuracy or consistency.",
+  "Disease_List": [
+    "Hepatocellular carcinoma",
+    "HCC",
+    "cirrhosis"
+  ],
+  "Reason": "The abstract explicitly mentions specific diseases: 'Hepatocellular carcinoma (HCC)' and 'cirrhosis'. These are named diseases rather than general terms. The text discusses diagnostic models and biomarkers specifically for HCC and cirrhosis, confirming their explicit mention.",
+  "UMLS_Verified": "Y",
+  "MRCONSO_Verified": "N",
+  "Verification_Method": "UMLS",
+  "Verified_List": [
+    "Hepatocellular carcinoma",
+    "HCC",
+    "cirrhosis"
+  ],
+  "UMLS_search_results": {
+    "Hepatocellular carcinoma": [
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      }
+    ],
+    "HCC": [
+      {
+        "ui": "C3539633",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C3539633",
+        "name": "Hollings Cancer Center",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C0280604",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0280604",
+        "name": "altretamine/cisplatin/cyclophosphamide protocol",
+        "mesh_id": "None"
+      },
+      {
+        "ui": "C2239176",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C2239176",
+        "name": "Liver carcinoma",
+        "mesh_id": "D006528"
+      },
+      {
+        "ui": "C1825268",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1825268",
+        "name": "HYCC1 gene",
+        "mesh_id": "None"
+      }
+    ],
+    "cirrhosis": [
+      {
+        "ui": "C0023890",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C0023890",
+        "name": "Liver Cirrhosis",
+        "mesh_id": "D008103"
+      },
+      {
+        "ui": "C1623038",
+        "rootSource": "MTH",
+        "uri": "https://uts-ws.nlm.nih.gov/rest/content/2025AA/CUI/C1623038",
+        "name": "Cirrhosis",
+        "mesh_id": "D005355"
+      }
+    ]
+  },
+  "MRCONSO_search_results": {},
+  "MRCONSO_UMLS_results": {},
+  "gpt_extract_compound": [],
+  "compound_CID": [],
+  "compound_disease_relation": [],
+  "compound_extraction_reason": "The abstract mentions volatile organic compounds (VOCs) as a class of substances detected in breath samples, but does not specify any particular chemical compound names."
+}
