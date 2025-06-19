@@ -14,6 +14,10 @@ Install necessary package
 ```bash
 pip insall -r requirements.txt
 ```
+##Download UMLS Database
+Download MRCONSO.RRF and place it in the same folder
+Download Link:
+https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
 
 ## Set API KEY
 ```bash
